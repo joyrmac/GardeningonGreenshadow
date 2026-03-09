@@ -222,38 +222,51 @@ Old drafts, superseded files, and original ChatGPT conversation dumps in `archiv
 
 ## File Structure
 
+**Start here:** [QUICK_START.md](QUICK_START.md) (5 min) or [../README.md](../README.md) (full navigation)
+
 ```
-gardening/
-  Garden_Overview.md              ← START HERE
-  beds/                           ← One file per garden (7 files)
-    Bloomveil.md                  5-zone flower garden
-    Edgeworth_Corner.md           Grid pollinator garden + shade bed
-    Fernwood.md                   Shade garden (ferns, hostas, foxglove)
-    Swingnook.md                  Pergola retreat, bonfire pit, fern groundcover
-    Wayward_Meadow.md             Prairie wildflower meadow
-    Wildwood.md                   Veggie beds, herbs, corn, melons, pumpkins, Gourd Gate
-    Small_Gardens.md              Cat Garden, Berry Bed, Porch Planters, Front Yard/Mailbox
-  guides/                         ← How-to reference (6 files)
-    Garden_Todo_List.md           Master todo organized by garden
-    March_Schedule.md             Day-by-day March plan
-    Planting_How_To.md            Seed starting, sowing, transplanting
-    Garden_Care_and_Troubleshooting.md  Maintenance, pests, seed saving
-    Planting_Calendar_NC.md       Zone 7b/8a crop dates
-    Soil_Notes.md                 Amendments, pH, mulch
-  inventory/                      ← What you own (5 files)
-    Master_Seed_and_Plant_List.md 228 items, all sources
-    Inventory_Audit_March_2026.md Unassigned items, gaps, next steps
-    Bloomveil_Grid.csv            Planting grid with spacing/heights
-    Edgeworth_Grid.csv            Planting grid with seed sources
-    Nest_Supply_Store_List.md     Wildlife station project
-  reference/                      ← Look up occasionally (4 files)
-    Previous_Owner_Notes.md
-    Garden_Signs.md
-    NC_Native_Recommendations.md
-    Catnip_Crafts_Guide.md
-  archive/                        ← Old files (don't look here)
+GardeningonGreenshadow/
+├── README.md                     ← Start here for navigation
+└── gardening/
+    ├── Garden_Overview.md        ← You are here (philosophy, maps, details)
+    ├── QUICK_START.md            ← Fast onboarding (5 minutes)
+    ├── Joy_Garden_2026.ics       ← iCal calendar (subscribe to your phone)
+    │
+    ├── beds/                     ← One file per major garden (7 files)
+    │   ├── Bloomveil.md
+    │   ├── Wildwood.md
+    │   ├── Edgeworth_Corner.md
+    │   ├── Fernwood.md
+    │   ├── Swingnook.md
+    │   ├── Wayward_Meadow.md
+    │   └── Small_Gardens.md
+    │
+    ├── guides/                   ← How-to reference (8 files)
+    │   ├── Garden_Todo_List.md
+    │   ├── March_Schedule.md
+    │   ├── Planting_How_To.md
+    │   ├── Planting_Calendar_NC.md
+    │   ├── Garden_Care_and_Troubleshooting.md
+    │   ├── Medicinal_Herb_Kit_Guide.md
+    │   ├── Soil_Notes.md
+    │   └── Smudging_and_Scent_Burning_Guide.md
+    │
+    ├── inventory/                ← What you own (5 files)
+    │   ├── Master_Seed_and_Plant_List.md
+    │   ├── Inventory_Audit_March_2026.md
+    │   ├── Bloomveil_Grid.csv
+    │   ├── Edgeworth_Grid.csv
+    │   └── Nest_Supply_Store_List.md
+    │
+    ├── reference/                ← Quick lookups (4 files)
+    │   ├── Previous_Owner_Notes.md
+    │   ├── Garden_Signs.md
+    │   ├── NC_Native_Recommendations.md
+    │   └── Catnip_Crafts_Guide.md
+    │
+    └── archive/                  ← Old explorations & drafts (53 files)
 ```
 
 ---
 
-*Last updated: March 8, 2026*
+*Last updated: March 9, 2026*
