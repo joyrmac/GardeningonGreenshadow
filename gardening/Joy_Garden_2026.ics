@@ -1,0 +1,789 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Joy's Garden//2026 Season//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Garden 2026
+X-WR-TIMEZONE:America/New_York
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:🌱 Direct Sow Day — Carrots, Peas, Spinach, Dill, Chives
+DESCRIPTION:MORNING — Direct sow (windows close Mar 16):\n• Carrots (Danvers, Parisienne, Purple Dragon, Rainbow, Tendersweet) — Wildwood, 1/4" deep, rows 12" apart\n• Peas (Sugar Daddy) — Wildwood near trellis, 1" deep, 2" apart\n• Spinach (Bloomsdale) — Wildwood, 1/2" deep, 3" apart\n• Dill — herb spiral, surface sow, press lightly\n• Chives — herb spiral, 1/4" deep\n\nAFTERNOON:\n• Scatter poppy seeds on Bloomveil (Frosted Salmon, Purple Peony, Lilac PomPom, Jelly Beans). Press in, don't cover.\n• Start cantaloupe (Sierra Gold) indoors\n• Start cucumber (Mexican Sour Gherkin) indoors\n• Start watermelon (Bush Sugar Baby, Garden Leader Monster) indoors
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Garden: Direct Sow Day!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+DTEND;VALUE=DATE:20260311
+SUMMARY:🌱 Check indoor seed trays (5 min)
+DESCRIPTION:Mist if dry, keep 65-75°F
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Check seed trays
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260311
+DTEND;VALUE=DATE:20260312
+SUMMARY:🌱 Sow parsley + check trays (15 min)
+DESCRIPTION:Direct sow parsley (Italian Flat Leaf) — herb spiral or veggie bed edge. Window: Mar 8–23.\nCheck indoor trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Sow parsley today
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260312
+DTEND;VALUE=DATE:20260313
+SUMMARY:🌳 Magnolia care — hose off mealyworms (20 min)
+DESCRIPTION:Hose off mealyworm clusters on tulip magnolia. Prune any sticky/damaged twigs.\nCheck indoor trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Magnolia care today
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260313
+DTEND;VALUE=DATE:20260314
+SUMMARY:🌳 Magnolia — neem oil + mulch ring (15 min)
+DESCRIPTION:Spray neem oil on magnolia trunk and lower branches. Add mulch ring around base.\nCheck indoor trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Magnolia neem oil
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+DTEND;VALUE=DATE:20260315
+SUMMARY:🌱 Sow onions + check trays (15 min)
+DESCRIPTION:Direct sow onions (Evergreen White Nebuka + Yellow Sweet Spanish) — Wildwood beds, 1/2" deep. Window: Mar 8–30.\nCheck trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Sow onions today
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260315
+DTEND;VALUE=DATE:20260316
+SUMMARY:🌿 Bee Balm Division + Raspberry Transplant (half day)
+DESCRIPTION:BEE BALM DIVISION:\n1. Find overgrown clumps (square stems, runners)\n2. Water night before\n3. Spade through root mass — divide 3-5 sections each\n4. Toss woody centers\n5. Plant: 2-3 clumps → Wayward Meadow (18-24" apart), 1-2 → Alchemist's Pond (buried container), extras → pots\n6. Water deeply, mulch\n\nRASPBERRY TRANSPLANT:\n• Dig 4 Red Latham canes, keep root balls intact\n• Mark row 3-4 ft south of blueberries\n• Mix planting soil + compost + peat moss\n• 4 holes, 4-5 ft apart, 18" wide x 12" deep\n• Set trellis posts, run wire at 2 ft and 4 ft\n• Sink root barrier 12" on south edge\n• Mulch 4-6" (keep 6" from stems)\n• Scatter chive seeds along edges\n• Water deeply\n\nIF TIME: sow turnips (window Mar 8–30)
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Bee Balm + Raspberry day!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:🌱 Indoor Starts + Bed Prep (full day)
+DESCRIPTION:INDOOR STARTS:\n• Pumpkins (Jack O'Lantern, Small Sugar) — large pots. Window: Mar 16–30\n• Zucchini (Summer Melody Blend) — window closes Mar 23\n• Squash (Winter Vegetable Spaghetti) — window closes Mar 23\n\nBED PREP — BLOOMVEIL:\n• Turn soil, add compost, edge with bricks/stones\n• Mark zones with stakes or flags\n\nBED PREP — WILDWOOD:\n• Outline veggie bed boundaries with twine/chalk/sticks\n• Move bricks to edge beds or spiral
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Indoor starts + bed prep day
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260316
+DTEND;VALUE=DATE:20260317
+SUMMARY:⚠️ DEADLINE: Carrots, Peas, Spinach, Dill, Chives direct sow
+DESCRIPTION:Last day to direct sow carrots, peas, spinach, dill, and chives.\nAlso last day to start cantaloupe, cucumber, and watermelon indoors.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Sowing deadline today!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260317
+DTEND;VALUE=DATE:20260318
+SUMMARY:🌱 Check all indoor trays (5 min)
+DESCRIPTION:Check melons, cukes, pumpkins, zucchini trays
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Check trays
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260318
+DTEND;VALUE=DATE:20260319
+SUMMARY:🌱 Begin hardening off seedlings (10 min)
+DESCRIPTION:If you started snapdragons/coneflowers/marigolds in Feb: set outside 2-3 hours in shade, sheltered from wind.\nCheck trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Start hardening off
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260319
+DTEND;VALUE=DATE:20260320
+SUMMARY:🌱 Hardening off Day 2 + check trays (10 min)
+DESCRIPTION:Continue hardening off — same as yesterday.\nCheck trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Hardening off day 2
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260321
+SUMMARY:🌱 Hardening off Day 3 + sketch Wildwood beds (20 min)
+DESCRIPTION:Hardening off: 4-5 hours, some direct sun now.\nSketch Wildwood bed assignments on paper — which crops go where? (47 vegetables need homes)\nCheck trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Hardening off + Wildwood planning
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260321
+DTEND;VALUE=DATE:20260322
+SUMMARY:🌱 Hardening off Day 4 (10 min)
+DESCRIPTION:Hardening off: 6+ hours direct sun.\nCheck trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Hardening off day 4
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260322
+DTEND;VALUE=DATE:20260323
+SUMMARY:🥬 Transplant lettuce + weeding (half day)
+DESCRIPTION:• Transplant lettuce seedlings outdoors if you have starts. Window: Mar 23–Apr 20\n• Prep a lettuce/greens row in Wildwood\n• Weed pass — sunflower bed, blueberry patch, herb spiral area\n• Lightly weed under Tulip Magnolia
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Lettuce transplant + weeding day
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:⚠️ DEADLINE: Zucchini/squash indoor start window closes
+DESCRIPTION:Last day to start zucchini and winter squash indoors.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Zucchini/squash deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+DTEND;VALUE=DATE:20260324
+SUMMARY:🐸 Pond Day — Dig Alchemist's Pond (full day)
+DESCRIPTION:ALCHEMIST'S POND:\n• Deepen center to 18–24"\n• Shape shallow shelf (3–6") on N/NE side for marginal plants\n• Mark zones with stones or branches\n• Rest often — heaviest physical work of the month\n\nALSO: Direct sow arugula — Wildwood beds. Window: Mar 23–Apr 6
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Pond Day!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260325
+DTEND;VALUE=DATE:20260326
+SUMMARY:🌱 Milkweed cold stratification — START NOW (15 min)
+DESCRIPTION:Put milkweed seeds in damp paper towel → ziplock → fridge.\nNeeds 30 days before April planting.\nSet phone reminder for April 24.\nCheck trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Start milkweed stratification!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260327
+SUMMARY:🌱 Germination check — carrots & peas (10 min)
+DESCRIPTION:Check carrot and pea beds from Mar 9. Should be seeing sprouts (7-14 day germination). Note anything that needs reseeding.\nCheck trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Check for sprouts
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260327
+DTEND;VALUE=DATE:20260328
+SUMMARY:🌱 Thin carrot seedlings (15 min)
+DESCRIPTION:If carrots are up, snip to 2" apart (don't pull — disturbs neighbors).\nContinue hardening off remaining indoor starts.\nCheck trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Thin carrots
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260328
+DTEND;VALUE=DATE:20260329
+SUMMARY:🌱 Plan Edgeworthia placement + walkthrough (20 min)
+DESCRIPTION:Sketch where Edgeworthia goes in Edgeworth Corner (Plant Delights order).\nQuick walk-through: note pest issues, wilting, bare spots.\nCheck trays.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Edgeworthia planning
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260329
+DTEND;VALUE=DATE:20260330
+SUMMARY:🥦 Transplant broccoli/cauliflower/kale + property walk (half day)
+DESCRIPTION:• Transplant broccoli/cauliflower/kale outdoors if started in Feb. Window closes Mar 30\n• Walk property — assess germination, reseeding needs\n• Clean up tomato obelisk circle area\n• Last call: pumpkin indoor start if not done (window closes tomorrow)
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Transplant day + property walk
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:⚠️ DEADLINE: Pumpkin indoor start + broccoli/cauli/kale transplant
+DESCRIPTION:Last day for:\n• Indoor pumpkin start\n• Transplanting broccoli, cauliflower, kale outdoors\n• Onion direct sow\n• Turnip direct sow
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Multiple deadlines today!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260330
+DTEND;VALUE=DATE:20260331
+SUMMARY:📋 Month-End Review + Home Depot Run (full day)
+DESCRIPTION:ASSESS:\n• Which seeds germinated? Reseeding needed?\n• Indoor starts big enough for hardening off?\n• Bloomveil beds fully prepped?\n• Wildwood layout decided?\n\nHOME DEPOT:\n• Garden Soil x5 (Aisle 49, Bay 014)\n• Weed barrier for walkways\n• Flagstone\n• Confirm soil delivery scheduled\n\nAPRIL PLANNING:\n• Review 30 American Meadows native perennials — Wayward Meadow placements\n• Review Gourd Gate trellis plan (cattle panel + raised beds — build before May)\n• Look at sunflower bed — ready for late April direct sow?
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Month-end review day
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+SUMMARY:🌱 Final March tray check + April priorities (10 min)
+DESCRIPTION:Last day to start pumpkins if missed.\nJot down April top 5 priorities.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Last March check
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:❄️ Average Last Frost Date
+DESCRIPTION:Average last spring frost for Fuquay-Varina/Apex area.\nNO tender plants outside yet — wait until April 15 (previous owner's safe date).\n\nOK to direct sow now:\n• Corn (Apr 6–20)\n• Cilantro (Apr 6–20)\n\nOK to transplant now:\n• Basil seedlings (Apr 6–27)\n• Sage seedlings (Apr 6–20)\n• Thyme seedlings (Apr 6–27)\n• Oregano seedlings (Apr 6–27)
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Average last frost date
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260406
+DTEND;VALUE=DATE:20260407
+SUMMARY:🌱 Direct sow corn + cilantro (window opens)
+DESCRIPTION:Corn — direct sow in corn circle (Three Sisters). Window: Apr 6–20.\nPlant beans and squash 2 weeks after corn.\n\nCilantro — direct sow. Window: Apr 6–20.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Corn + cilantro sowing window open
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260413
+DTEND;VALUE=DATE:20260414
+SUMMARY:🌱 Transplant window: Tomatoes, Peppers, Rosemary
+DESCRIPTION:Transplant window opens:\n• Tomatoes (Apr 13–May 4)\n• Bell Peppers (Apr 13–27)\n• Rosemary (Apr 13–May 4)\n\nDirect sow window opens:\n• Green Beans (Apr 13–May 4)
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Tomato/pepper transplant window opens
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:🌸 SAFE TO PLANT — Bloomveil Annuals Go In!
+DESCRIPTION:Previous owner's "don't plant before this date." All tender annuals can go outside now.\n\nBLOOMVEIL PLANTING DAY:\n• All 5 zones — Sunrise Cloud, Berry Patch, Spice Drift, Moonlit Meadow, Twilight Hollow\n• Use Bloomveil_Grid.csv for exact placements\n• Zinnias, cosmos, dahlias (already in ground), snapdragons, calendula, marigolds, etc.\n\nAlso: transplant wagon seedlings to their assigned beds
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Safe to plant! Bloomveil day!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:🌱 Transplant melons, cukes, eggplant + sow okra
+DESCRIPTION:Transplant window opens (Apr 20–May 4):\n• Cantaloupes\n• Cucumbers\n• Watermelons\n• Eggplants\n• Pumpkins\n\nDirect sow:\n• Okra (Apr 20–May 4)\n\nAlso: beans + squash in corn circle (2 weeks after corn)
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Melon/cuke transplant window
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260420
+DTEND;VALUE=DATE:20260421
+SUMMARY:⚠️ DEADLINE: Corn + cilantro direct sow window closes
+DESCRIPTION:Last day to direct sow corn and cilantro for spring.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Corn/cilantro deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+DTEND;VALUE=DATE:20260425
+SUMMARY:🌱 Milkweed out of fridge — plant now
+DESCRIPTION:30 days since cold stratification started (Mar 25).\nPlant milkweed seeds in Edgeworth Corner and Wayward Meadow.\nDirect sow into prepared soil, barely cover.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Plant milkweed!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260425
+DTEND;VALUE=DATE:20260426
+SUMMARY:🌻 Direct sow sunflowers
+DESCRIPTION:Soil should be warm enough now. Direct sow sunflowers in Wildwood sunflower bed.\nAlso a good time for late-April Wayward Meadow wildflower broadcasting.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Sunflower sowing day
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260427
+DTEND;VALUE=DATE:20260428
+SUMMARY:⚠️ DEADLINE: Bell pepper transplant window closes
+DESCRIPTION:Last day to transplant bell pepper seedlings outdoors.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Pepper deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:🏗️ May — Build Gourd Gate + infrastructure month
+DESCRIPTION:May priorities:\n• Build Gourd Gate — cattle panel trellis arch + raised beds\n• Finish Fernwood setup (stepping stones, seat, ferns, hostas)\n• Plant remaining Wayward Meadow natives\n• All warm-season transplants should be outside by May 4\n• Start weekly maintenance rhythm (water, weed, feed)
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:May garden priorities
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260505
+SUMMARY:⚠️ DEADLINE: All warm-season transplants outside
+DESCRIPTION:Final day for transplanting:\n• Tomatoes, eggplants, cantaloupes, cucumbers, watermelons, pumpkins, rosemary\n• Green beans and okra direct sow window closes\n\nEverything should be in the ground now.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Final transplant deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260516
+SUMMARY:🌿 Mid-May check — thin, stake, mulch
+DESCRIPTION:Garden should be filling in. Time to:\n• Thin crowded seedlings\n• Stake tomatoes on obelisks if not done\n• Add mulch around all beds (conserve moisture for summer)\n• Check dahlia growth in Bloomveil\n• First weeding pass of the season
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Mid-May garden check
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260601
+DTEND;VALUE=DATE:20260602
+SUMMARY:☀️ June — Summer maintenance begins
+DESCRIPTION:June priorities:\n• Deep watering schedule (1" per week, early morning)\n• Watch for Japanese beetles, aphids, hornworms\n• Deadhead Bloomveil annuals to keep blooming (except self-seeders)\n• First harvest: lettuce, spinach, peas, radishes should be done\n• Succession plant: sow more beans, lettuce for fall\n• Paint garden signs if not done
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:June garden priorities
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260614
+DTEND;VALUE=DATE:20260615
+SUMMARY:⚠️ DEADLINE: Pumpkin direct sow for fall harvest
+DESCRIPTION:Last day to direct sow pumpkins outdoors for fall harvest (fall planting calendar).
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Pumpkin fall sowing deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:🌻 July — Peak garden + fall planning starts
+DESCRIPTION:July priorities:\n• Garden at peak production — harvest regularly\n• Keep up with watering (hottest month)\n• Deadhead + cut flowers for arrangements\n• Compost spent cool-season crops\n• START FALL PLANNING:\n  - Jul 4: last day to direct sow cantaloupes/watermelons for fall\n  - Jul 11: start cabbage indoors for fall\n  - Jul 21: start broccoli/cauliflower indoors for fall\n  - Jul 24: last corn/okra direct sow for fall
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:July garden priorities
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260704
+DTEND;VALUE=DATE:20260705
+SUMMARY:⚠️ DEADLINE: Fall cantaloupe/watermelon direct sow
+DESCRIPTION:Last day to direct sow cantaloupes and watermelons for fall harvest.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall melon deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260721
+DTEND;VALUE=DATE:20260722
+SUMMARY:🌱 Start broccoli + cauliflower indoors for fall
+DESCRIPTION:Start broccoli and cauliflower seeds indoors for fall transplanting (Aug 18).
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Start fall brassicas indoors
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260725
+SUMMARY:⚠️ DEADLINE: Fall corn + okra direct sow
+DESCRIPTION:Last day to direct sow corn and okra for fall harvest.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall corn/okra deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260729
+DTEND;VALUE=DATE:20260730
+SUMMARY:⚠️ DEADLINE: Fall cucumbers, green beans, parsnips direct sow
+DESCRIPTION:Last day to direct sow cucumbers, green beans, and parsnips for fall harvest.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall cucumber/bean/parsnip deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260803
+DTEND;VALUE=DATE:20260804
+SUMMARY:⚠️ DEADLINE: Fall zucchini direct sow
+DESCRIPTION:Last day to direct sow zucchini for fall harvest.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall zucchini deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:🌱 Start kale indoors for fall
+DESCRIPTION:Start kale seeds indoors for fall transplanting (Sep 7).
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Start fall kale indoors
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:🍂 August — Seed saving + fall prep
+DESCRIPTION:August priorities:\n• LET SEED HEADS DRY on: cosmos, zinnias, poppies, coneflowers, bachelor buttons, borage, dill, chamomile\n• Collect seeds when heads are papery/brown — store in labeled envelopes\n• Transplant broccoli/cauliflower outdoors (by Aug 18)\n• Direct sow fall peas (by Aug 28)\n• Direct sow fall potatoes (by Aug 18)\n• Dahlia check — feeding, staking, deadheading\n• Plan: dig or mulch dahlias this fall?
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:August priorities + seed saving
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:⚠️ DEADLINE: Fall broccoli/cauliflower transplant + potato sow
+DESCRIPTION:Last day to:\n• Transplant broccoli and cauliflower outdoors for fall\n• Direct sow potatoes for fall
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall brassica/potato deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:⚠️ DEADLINE: Fall peas direct sow
+DESCRIPTION:Last day to direct sow peas for fall harvest.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall pea deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:🍂 September — Fall sowing + garden wind-down begins
+DESCRIPTION:September priorities:\n• Direct sow by Sep 7: kale transplants out\n• Direct sow by Sep 12: carrots, kohlrabi\n• Direct sow by Sep 17: beets\n• Direct sow by Sep 22: lettuce, swiss chard, turnips\n• Direct sow by Sep 27: arugula, radishes\n• Collect remaining seeds before frost\n• Pull spent summer annuals, compost\n• Mulch perennial beds for winter
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:September garden priorities
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:⚠️ DEADLINE: Transplant fall kale outdoors
+DESCRIPTION:Last day to transplant kale seedlings outdoors for fall.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall kale transplant deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:⚠️ DEADLINE: Fall carrots + kohlrabi direct sow
+DESCRIPTION:Last day to direct sow carrots and kohlrabi for fall.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall carrot/kohlrabi deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:⚠️ DEADLINE: Fall beets direct sow
+DESCRIPTION:Last day to direct sow beets for fall harvest.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall beet deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260922
+DTEND;VALUE=DATE:20260923
+SUMMARY:⚠️ DEADLINE: Fall lettuce, chard, turnips direct sow
+DESCRIPTION:Last day to direct sow lettuce, swiss chard, and turnips for fall.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall lettuce/chard/turnip deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:⚠️ DEADLINE: Fall arugula + radishes direct sow
+DESCRIPTION:Last day to direct sow arugula and radishes for fall harvest.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall arugula/radish deadline
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+SUMMARY:🍂 October — Harvest, winterize, dahlia decision
+DESCRIPTION:October priorities:\n• Harvest pumpkins, winter squash, sweet potatoes before frost\n• DAHLIA DECISION: dig tubers after first frost blackens foliage, OR mulch heavily in place (Zone 7b can go either way)\n• Cut back perennials that are done (leave seed heads for birds where possible)\n• Spread fallen leaves as mulch (don't bag!)\n• Last spinach sow (by Oct 7)\n• Clean and store tools\n• Note what worked and what didn't for next year
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:October garden priorities
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261007
+DTEND;VALUE=DATE:20261008
+SUMMARY:⚠️ DEADLINE: Last fall spinach direct sow
+DESCRIPTION:Last day to direct sow spinach for fall harvest.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Last spinach sowing
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:❄️ Average First Fall Frost
+DESCRIPTION:Average first frost for Fuquay-Varina/Apex area: November 1.\n\n• Cover any remaining tender crops or harvest now\n• Dig dahlia tubers if you chose that method (after foliage blackens)\n• Garlic planting window — check soil temp (plant when soil is 60°F at 4" depth)\n• Mulch everything\n• Garden is winding down — good work this year!
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:First frost expected
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:🌶️ Start Tomatoes + Peppers Indoors (late but doable!)
+DESCRIPTION:Start seeds indoors TODAY:\n\nTOMATOES (6-8 weeks to transplant size):\n• Use seed starting mix in small pots/cells\n• 1/4" deep, keep moist\n• 70-80°F for germination (heat mat helps)\n• Transplant outdoors late April/early May\n\nBELL PEPPERS (8-10 weeks to transplant):\n• Same as tomatoes but slower to germinate\n• Keep extra warm (80°F ideal)\n• Be patient — peppers can take 2-3 weeks to sprout\n\nYou're ~2-3 weeks behind schedule but Zone 7b's long season gives you plenty of buffer. Worst case: buy nursery backup transplants in April.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Start tomato + pepper seeds indoors!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260410
+DTEND;VALUE=DATE:20260411
+SUMMARY:🌶️ Backup Plan — Buy tomato + pepper transplants?
+DESCRIPTION:Check your indoor tomato and pepper starts:\n• Are they at least 6" tall with true leaves?\n• Sturdy stems?\n\nIF YES: Great! Start hardening off this week, transplant Apr 15-20.\n\nIF NO (leggy, weak, or didn't germinate): Head to a nursery this weekend.\nGood local options: Logan's, Garden Supply Co, big box stores.\n\nLook for:\n• Tomato varieties you want (check your seed list)\n• Bell pepper starts\n• Stocky plants with dark green leaves, no flowers yet
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Check tomato/pepper starts — need nursery backup?
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260310
+SUMMARY:🌿 Start Medicinal Herbs Indoors — Phase 1
+DESCRIPTION:Start these from the SeedTherapy kit indoors alongside your tomatoes/peppers:\n\n• ASHWAGANDHA (30 seeds) — needs long warm season\n  Barely cover, keep 70-75°F, 14-21 day germination\n\n• HOLY BASIL / TULSI (100 seeds) — start like regular basil\n  1/4" deep, 70-75°F, 7-14 days\n\n• CAYENNE PEPPER (30 seeds) — start with your other peppers\n  1/4" deep, 80°F ideal, 14-21 days\n\n• TOOTHACHE PLANT (50 seeds) — frost tender\n  Surface sow, press in, don't cover. 70-75°F, 10-14 days\n\nAll 4 go on the same heat mat / windowsill as your tomatoes and peppers.
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Start medicinal herb seeds indoors!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+DTEND;VALUE=DATE:20260416
+SUMMARY:🌿 Medicinal Herbs Phase 2 — Direct Sow Motherwort + More
+DESCRIPTION:Direct sow these in The Gloam / apothecary garden:\n\n• MOTHERWORT — press onto soil surface, DO NOT COVER (needs light). Keep moist. For your tincture!\n• FEVERFEW — surface sow, don't cover\n• FENUGREEK — 1/4" deep, easy\n• CHAMOMILE (extra from kit) — scatter on prepared soil\n• CALENDULA (extra from kit) — 1/4" deep\n\nAlso transplant Phase 1 indoor starts (ashwagandha, tulsi, cayenne, toothache plant) — harden off first!
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Sow motherwort + Phase 2 medicinals!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260501
+DTEND;VALUE=DATE:20260502
+SUMMARY:🌿 Medicinal Herbs Phase 3 — Main Apothecary Planting
+DESCRIPTION:Direct sow the bigger medicinals in The Gloam:\n\nTALL BACKS:\n• Mullein — scatter on bare/disturbed soil, loves poor soil\n• Marshmallow — 1/4" deep\n• Angelica — direct sow, give part shade\n• Burdock — direct sow (taproot, don't transplant)\n• Hollyhock — 1/4" deep\n• Chicory — scatter, press in\n\nWORKING MIDDLE:\n• St. John's Wort — surface sow, needs light\n• Skullcap — surface sow\n• Horehound — 1/4" deep\n\nCONTAINED (buried pots!):\n• Mugwort — buried 5-gal pot ONLY\n• Stinging Nettle — buried pot, back corner, WEAR GLOVES\n• Wild Licorice — buried 3-gal pot\n\nAlso: Plant elderberry seeds in pots (or buy a live plant for faster fruit)
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Main apothecary garden planting day!
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260701
+DTEND;VALUE=DATE:20260702
+SUMMARY:🌿 Motherwort Harvest Check — Tincture Time?
+DESCRIPTION:If your motherwort is flowering (likely year 2, but check anyway):\n\n• Harvest when in FULL BLOOM\n• Cut top 1/3 of flowering stems\n• Morning after dew, before peak heat\n• Don't take more than 1/3 of any plant\n\nTINCTURE:\n1. Chop coarsely, fill mason jar 2/3 full\n2. Cover completely with 100 proof vodka\n3. Stir out air bubbles\n4. Cap, label with date\n5. Shake daily for 6 weeks\n6. Strain → amber dropper bottles\n\nAlso check: St. John's Wort flowers (solar oil), chamomile (tea harvest), calendula (salve harvest)
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Check motherwort — ready for tincture?
+END:VALARM
+END:VEVENT
+
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🌿 Fall Root Harvest — Apothecary Garden
+DESCRIPTION:DIG ROOTS (medicine is in the roots for these):\n\n• ASHWAGANDHA — dig entire root, wash, chop, dry or tincture\n• BURDOCK — dig taproot end of year 1 (or wait to spring year 2)\n• VALERIAN — dig roots fall of year 2+ (smells awful, works amazing)\n• ECHINACEA — dig some roots year 3+ (leave most to keep growing)\n\nALSO:\n• Collect elderberries if fruiting (cook before eating — never raw!)\n• Dry remaining herb harvests for winter tea blends\n• Collect seeds from motherwort, feverfew, mullein for next year\n• Pull annual medicinals (tulsi, ashwagandha, toothache plant, fenugreek)
+BEGIN:VALARM
+TRIGGER:-PT0H
+ACTION:DISPLAY
+DESCRIPTION:Fall root harvest — apothecary garden
+END:VALARM
+END:VEVENT
+
+END:VCALENDAR
