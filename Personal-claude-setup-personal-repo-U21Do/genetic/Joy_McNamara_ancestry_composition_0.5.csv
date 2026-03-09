@@ -1,0 +1,273 @@
+Ancestry,Copy,Chromosome,Start Point,End Point
+British & Irish,1,chr1,62896530,70367723
+British & Irish,1,chr2,173815967,222330122
+British & Irish,2,chr3,168717618,197840413
+British & Irish,1,chr4,14769762,82062931
+British & Irish,2,chr5,28295497,67825930
+British & Irish,2,chr5,171056865,175166059
+British & Irish,1,chr6,79304510,87090015
+British & Irish,1,chr8,2909992,146292681
+British & Irish,1,chr12,124798811,133801770
+British & Irish,2,chr12,190980,26656487
+British & Irish,2,chr14,84075300,97102479
+British & Irish,1,chr16,89659,90153346
+British & Irish,1,chr18,19029515,27008650
+British & Irish,1,chr19,247265,46754533
+British & Irish,1,chr20,37908821,62960292
+British & Irish,2,chr21,41662855,48099610
+British & Irish,1,chr22,17901683,51214796
+British & Irish,1,chrX,2700157,26777432
+Broadly European,1,chr4,95931529,101871325
+Broadly European,2,chr20,13143562,17148809
+Broadly Northwestern European,1,chr1,60232192,62896530
+Broadly Northwestern European,1,chr1,70367723,95273964
+Broadly Northwestern European,1,chr1,167422189,168575163
+Broadly Northwestern European,2,chr1,43299235,51553100
+Broadly Northwestern European,1,chr2,172143963,173815967
+Broadly Northwestern European,1,chr2,222330122,229133568
+Broadly Northwestern European,2,chr2,104058510,122174284
+Broadly Northwestern European,2,chr2,130306785,145411183
+Broadly Northwestern European,2,chr2,180863084,182581492
+Broadly Northwestern European,1,chr3,11082494,12499913
+Broadly Northwestern European,2,chr3,16408534,23793622
+Broadly Northwestern European,2,chr3,166748148,168717618
+Broadly Northwestern European,1,chr4,73071,14769762
+Broadly Northwestern European,1,chr4,82062931,95931529
+Broadly Northwestern European,1,chr4,101871325,107502839
+Broadly Northwestern European,2,chr4,184472549,190915650
+Broadly Northwestern European,1,chr5,117006071,126489560
+Broadly Northwestern European,1,chr5,140503661,155565063
+Broadly Northwestern European,1,chr5,156943285,163312175
+Broadly Northwestern European,2,chr5,24671833,28295497
+Broadly Northwestern European,2,chr5,67825930,92443100
+Broadly Northwestern European,2,chr5,112601878,121839572
+Broadly Northwestern European,2,chr5,163312175,171056865
+Broadly Northwestern European,2,chr5,175166059,180696860
+Broadly Northwestern European,1,chr6,174798,79304510
+Broadly Northwestern European,1,chr6,87090015,93456038
+Broadly Northwestern European,1,chr8,170692,2909992
+Broadly Northwestern European,1,chr9,116723488,129369399
+Broadly Northwestern European,1,chr11,63911878,77837761
+Broadly Northwestern European,1,chr11,113022744,134945120
+Broadly Northwestern European,1,chr12,118107916,124798811
+Broadly Northwestern European,1,chr13,36432186,42349482
+Broadly Northwestern European,1,chr13,66927507,68559368
+Broadly Northwestern European,2,chr13,42349482,47816507
+Broadly Northwestern European,2,chr13,73213912,75825210
+Broadly Northwestern European,2,chr14,19108923,34684903
+Broadly Northwestern European,2,chr14,69138425,84075300
+Broadly Northwestern European,2,chr14,97102479,107282024
+Broadly Northwestern European,2,chr15,39833326,63666420
+Broadly Northwestern European,2,chr15,71313603,93759321
+Broadly Northwestern European,2,chr15,94616430,95674002
+Broadly Northwestern European,2,chr15,96784258,97956064
+Broadly Northwestern European,2,chr16,12724625,13895574
+Broadly Northwestern European,2,chr16,86016694,90153346
+Broadly Northwestern European,1,chr18,10992466,19029515
+Broadly Northwestern European,1,chr18,27008650,34023778
+Broadly Northwestern European,2,chr18,32307850,47196232
+Broadly Northwestern European,2,chr18,53824882,58962191
+Broadly Northwestern European,1,chr19,46754533,59097933
+Broadly Northwestern European,2,chr19,247265,18878300
+Broadly Northwestern European,1,chr20,34087238,37908821
+Broadly Northwestern European,2,chr20,9488643,13143562
+Broadly Northwestern European,2,chr20,50124671,52792346
+Broadly Northwestern European,2,chr21,28860822,41662855
+Broadly Northwestern European,2,chr22,19197949,26175283
+Broadly Northwestern European,1,chrX,26777432,37858476
+Broadly Northwestern European,1,chrX,69561780,133331313
+Eastern European,2,chr2,182581492,243041411
+Eastern European,1,chr5,126489560,140503661
+Eastern European,1,chr11,77837761,113022744
+Eastern European,1,chr12,109508248,118107916
+Eastern European,2,chr13,47816507,73213912
+Eastern European,2,chr13,109461648,115106996
+Eastern European,2,chr15,63666420,71313603
+Eastern European,2,chr16,13895574,86016694
+Eastern European,2,chr18,58962191,78010620
+Eastern European,2,chr20,17148809,50124671
+European,1,chr1,752721,249222527
+European,2,chr1,752721,249222527
+European,1,chr2,11944,243041411
+European,2,chr2,11944,18744082
+European,2,chr2,20027681,243041411
+European,1,chr3,66206,197840413
+European,2,chr3,66206,100613996
+European,2,chr3,102861463,197840413
+European,1,chr4,73071,190915650
+European,2,chr4,73071,190915650
+European,1,chr5,14782,155565063
+European,1,chr5,156943285,180696860
+European,2,chr5,14782,180696860
+European,1,chr6,174798,170919470
+European,2,chr6,174798,170919470
+European,1,chr7,43748,159124173
+European,2,chr7,43748,159124173
+European,1,chr8,170692,146292681
+European,2,chr8,170692,146292681
+European,1,chr9,126903,141068637
+European,2,chr9,126903,141068637
+European,1,chr10,131716,135434303
+European,2,chr10,131716,135434303
+European,1,chr11,198986,134945120
+European,2,chr11,198986,134945120
+European,1,chr12,190980,133801770
+European,2,chr12,190980,26656487
+European,2,chr12,28238899,133801770
+European,1,chr13,19503422,115106996
+European,2,chr13,19503422,115106996
+European,1,chr14,19108923,107282024
+European,2,chr14,19108923,107282024
+European,1,chr15,20878067,102398631
+European,2,chr15,20878067,102398631
+European,1,chr16,89659,90153346
+European,2,chr16,89659,90153346
+European,1,chr17,2220,81151539
+European,2,chr17,2220,81151539
+European,1,chr18,134177,78010620
+European,2,chr18,134177,78010620
+European,1,chr19,247265,59097933
+European,2,chr19,247265,59097933
+European,1,chr20,61098,62960292
+European,2,chr20,61098,62960292
+European,1,chr21,14359894,48099610
+European,2,chr21,14359894,48099610
+European,1,chr22,17901683,51214796
+European,2,chr22,17901683,51214796
+European,1,chrX,2700157,154854338
+European,2,chrX,2700157,154854338
+French & German,1,chr1,752721,60232192
+French & German,1,chr1,168575163,249222527
+French & German,2,chr1,752721,43299235
+French & German,2,chr1,51553100,249222527
+French & German,1,chr2,11944,172143963
+French & German,1,chr2,229133568,243041411
+French & German,2,chr2,11944,18744082
+French & German,2,chr2,20027681,104058510
+French & German,2,chr2,122174284,130306785
+French & German,1,chr3,66206,11082494
+French & German,1,chr3,12499913,197840413
+French & German,2,chr3,66206,16408534
+French & German,2,chr3,23793622,100613996
+French & German,2,chr3,102861463,166748148
+French & German,1,chr4,107502839,190915650
+French & German,2,chr4,73071,184472549
+French & German,1,chr5,14782,117006071
+French & German,1,chr5,163312175,180696860
+French & German,2,chr5,14782,24671833
+French & German,2,chr5,92443100,112601878
+French & German,1,chr6,93456038,170919470
+French & German,2,chr6,174798,170919470
+French & German,1,chr7,43748,159124173
+French & German,2,chr7,43748,159124173
+French & German,2,chr8,170692,146292681
+French & German,1,chr9,126903,116723488
+French & German,1,chr9,129369399,141068637
+French & German,2,chr9,126903,141068637
+French & German,1,chr10,131716,135434303
+French & German,2,chr10,131716,135434303
+French & German,1,chr11,198986,63911878
+French & German,2,chr11,198986,134945120
+French & German,1,chr12,190980,109508248
+French & German,2,chr12,28238899,133801770
+French & German,1,chr13,19503422,36432186
+French & German,1,chr13,68559368,115106996
+French & German,2,chr13,19503422,42349482
+French & German,2,chr13,75825210,109461648
+French & German,1,chr14,19108923,107282024
+French & German,1,chr15,20878067,102398631
+French & German,2,chr15,20878067,39833326
+French & German,2,chr15,93759321,94616430
+French & German,2,chr15,95674002,96784258
+French & German,2,chr15,97956064,102398631
+French & German,2,chr16,89659,12724625
+French & German,1,chr17,2220,81151539
+French & German,2,chr17,2220,81151539
+French & German,1,chr18,134177,10992466
+French & German,1,chr18,34023778,78010620
+French & German,2,chr18,134177,32307850
+French & German,2,chr18,47196232,53824882
+French & German,2,chr19,18878300,59097933
+French & German,1,chr20,61098,34087238
+French & German,2,chr20,61098,9488643
+French & German,2,chr20,52792346,62960292
+French & German,1,chr21,14359894,48099610
+French & German,2,chr21,14359894,28860822
+French & German,2,chr22,17901683,19197949
+French & German,2,chr22,26175283,51214796
+French & German,1,chrX,37858476,69561780
+French & German,1,chrX,133331313,154854338
+French & German,2,chrX,2700157,154854338
+Greek & Balkan,1,chr13,42349482,66927507
+Indigenous American,2,chr2,18744082,20027681
+Indigenous American,2,chr2,18744082,20027681
+Indigenous American,2,chr3,100613996,102861463
+Indigenous American,2,chr3,100613996,102861463
+Indigenous American,1,chr5,155565063,156943285
+Indigenous American,1,chr5,155565063,156943285
+Indigenous American,2,chr12,26656487,28238899
+Indigenous American,2,chr12,26656487,28238899
+Northwestern European,1,chr1,752721,249222527
+Northwestern European,2,chr1,752721,249222527
+Northwestern European,1,chr2,11944,243041411
+Northwestern European,2,chr2,11944,18744082
+Northwestern European,2,chr2,20027681,182581492
+Northwestern European,1,chr3,66206,197840413
+Northwestern European,2,chr3,66206,100613996
+Northwestern European,2,chr3,102861463,197840413
+Northwestern European,1,chr4,73071,95931529
+Northwestern European,1,chr4,101871325,190915650
+Northwestern European,2,chr4,73071,190915650
+Northwestern European,1,chr5,14782,126489560
+Northwestern European,1,chr5,140503661,155565063
+Northwestern European,1,chr5,156943285,180696860
+Northwestern European,2,chr5,14782,180696860
+Northwestern European,1,chr6,174798,170919470
+Northwestern European,2,chr6,174798,170919470
+Northwestern European,1,chr7,43748,159124173
+Northwestern European,2,chr7,43748,159124173
+Northwestern European,1,chr8,170692,146292681
+Northwestern European,2,chr8,170692,146292681
+Northwestern European,1,chr9,126903,141068637
+Northwestern European,2,chr9,126903,141068637
+Northwestern European,1,chr10,131716,135434303
+Northwestern European,2,chr10,131716,135434303
+Northwestern European,1,chr11,198986,77837761
+Northwestern European,1,chr11,113022744,134945120
+Northwestern European,2,chr11,198986,134945120
+Northwestern European,1,chr12,190980,109508248
+Northwestern European,1,chr12,118107916,133801770
+Northwestern European,2,chr12,190980,26656487
+Northwestern European,2,chr12,28238899,133801770
+Northwestern European,1,chr13,19503422,42349482
+Northwestern European,1,chr13,66927507,115106996
+Northwestern European,2,chr13,19503422,47816507
+Northwestern European,2,chr13,73213912,109461648
+Northwestern European,1,chr14,19108923,107282024
+Northwestern European,2,chr14,19108923,107282024
+Northwestern European,1,chr15,20878067,102398631
+Northwestern European,2,chr15,20878067,63666420
+Northwestern European,2,chr15,71313603,102398631
+Northwestern European,1,chr16,89659,90153346
+Northwestern European,2,chr16,89659,13895574
+Northwestern European,2,chr16,86016694,90153346
+Northwestern European,1,chr17,2220,81151539
+Northwestern European,2,chr17,2220,81151539
+Northwestern European,1,chr18,134177,78010620
+Northwestern European,2,chr18,134177,58962191
+Northwestern European,1,chr19,247265,59097933
+Northwestern European,2,chr19,247265,59097933
+Northwestern European,1,chr20,61098,62960292
+Northwestern European,2,chr20,61098,13143562
+Northwestern European,2,chr20,50124671,62960292
+Northwestern European,1,chr21,14359894,48099610
+Northwestern European,2,chr21,14359894,48099610
+Northwestern European,1,chr22,17901683,51214796
+Northwestern European,2,chr22,17901683,51214796
+Northwestern European,1,chrX,2700157,154854338
+Northwestern European,2,chrX,2700157,154854338
+Scandinavian,1,chr1,95273964,167422189
+Scandinavian,2,chr2,145411183,180863084
+Scandinavian,2,chr5,121839572,163312175
+Scandinavian,2,chr14,34684903,69138425
+Southern European,1,chr13,42349482,66927507

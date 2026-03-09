@@ -1,0 +1,326 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//McNamara Family//Family Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:McNamara Family Master Calendar
+X-WR-TIMEZONE:America/New_York
+BEGIN:VTIMEZONE
+TZID:America/New_York
+BEGIN:STANDARD
+DTSTART:20251102T020000
+TZOFFSETFROM:-0400
+TZOFFSETTO:-0500
+RRULE:FREQ=YEARLY;BYMONTH=11;BYDAY=1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20260309T020000
+TZOFFSETFROM:-0500
+TZOFFSETTO:-0400
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=2SU
+END:DAYLIGHT
+END:VTIMEZONE
+
+BEGIN:VEVENT
+UID:yoga-tuesday@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260303T183000
+DTEND;TZID=America/New_York:20260303T190000
+RRULE:FREQ=WEEKLY;BYDAY=TU
+SUMMARY:Your Yoga Time
+DESCRIPTION:20-30 min yoga\nCan be solo or with Murphy/Birdie doing gentle stretches
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:yoga-thursday@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260305T183000
+DTEND;TZID=America/New_York:20260305T190000
+RRULE:FREQ=WEEKLY;BYDAY=TH
+SUMMARY:Your Yoga Time
+DESCRIPTION:20-30 min yoga\nCan be solo or with Murphy/Birdie doing gentle stretches
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ballet-monday@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260303T173000
+DTEND;TZID=America/New_York:20260303T193000
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:Birdie's Ballet (Monday) - Drive & Class
+DESCRIPTION:LEAVE: 5:45 PM (30 min drive)\nBirdie's ballet: 6:30-7:30 PM\nReturn home: ~8:00 PM\n\nYou: Solo time (read, podcast, tea, errands)
+LOCATION:Ballet Studio - 30 min away
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ballet-saturday@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260307T083000
+DTEND;TZID=America/New_York:20260307T110000
+RRULE:FREQ=WEEKLY;BYDAY=SA
+SUMMARY:Birdie's Ballet (Saturday) - Drive & Class
+DESCRIPTION:LEAVE: 8:45 AM (30 min drive)\nBirdie's ballet: 9:30-10:30 AM\nReturn home: ~11:00 AM\n\nYou: Solo time (coffee shop, walk, errands, quiet time)
+LOCATION:Ballet Studio - 30 min away
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sunday-house-prep@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260301T090000
+DTEND;TZID=America/New_York:20260301T103000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:HOUSE PREP BLOCK
+DESCRIPTION:With family helping:\n- Laundry (sort, start)\n- Tidy living spaces\n- Prep lunches for week\n- Stock fridge with snacks\n- Kids help (age-appropriate)\n- Chad does heavy lifting/organization
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sunday-outdoor@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260301T103000
+DTEND;TZID=America/New_York:20260301T120000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:OUTSIDE TIME
+DESCRIPTION:30 min to 2 hours - whatever resets you:\n- Park walk\n- Yard work\n- Gardening\n- Outside activity\n\nThis time is SACRED. Protect it.
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sunday-rest@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260301T130000
+DTEND;TZID=America/New_York:20260301T150000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:REST TIME - YOUR TIME
+DESCRIPTION:This is for YOU (2 hours):\n- Read\n- Yoga\n- Journaling\n- Nap\n- Spiritual practice\n- Whatever fills you up\n\nKids do quiet time (reading, puzzles, low-key activities)
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:monday-quick-dinner@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260303T173000
+DTEND;TZID=America/New_York:20260303T174500
+RRULE:FREQ=WEEKLY;BYDAY=MO
+SUMMARY:QUICK DINNER - Ballet Night
+DESCRIPTION:5:30-5:45 PM\n\nPrepped Sunday - tacos, pasta, sheet pan meal\nEat quickly, leave for ballet at 5:45
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:after-school-decompression@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260303T161000
+DTEND;TZID=America/New_York:20260303T173000
+RRULE:FREQ=WEEKLY;BYDAY=MO,TU,WE,TH,FR
+SUMMARY:After School Decompression
+DESCRIPTION:4:10-5:30 PM (daily Mon-Fri)\n\n4:10-4:30: Snack and decompression\n4:30-5:00: Connection time with kids\n5:00-5:30: Homework help and activities prep
+LOCATION:Home
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week1-mon@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260303T200000
+DTEND;TZID=America/New_York:20260303T204500
+SUMMARY:WEEK 1 - Murphy Bedtime (Mon) - 45 min timer
+DESCRIPTION:8:00-8:45 PM: YOU IN HER ROOM (45-min visible timer)\n\n8:00-8:05: Pajamas and teeth\n8:05-8:10: Pick tomorrow outfit\n8:10-8:20: One book\n8:20-8:25: Gratitude list\n8:25-8:27: Hug and kiss\n8:27-8:45: Quiet time in bed, you present\n\nWhen timer goes off: Leave and check in 5 min if she calls
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week1-tue@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260304T200000
+DTEND;TZID=America/New_York:20260304T204500
+SUMMARY:WEEK 1 - Murphy Bedtime (Tue) - 45 min timer
+DESCRIPTION:Same as Monday - 45 min timer in room
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week1-wed@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260305T200000
+DTEND;TZID=America/New_York:20260305T204500
+SUMMARY:WEEK 1 - Murphy Bedtime (Wed) - 45 min timer
+DESCRIPTION:Same as Monday - 45 min timer in room
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week1-thu@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260306T200000
+DTEND;TZID=America/New_York:20260306T204500
+SUMMARY:WEEK 1 - Murphy Bedtime (Thu) - 45 min timer
+DESCRIPTION:Same as Monday - 45 min timer in room
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week1-fri@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260307T200000
+DTEND;TZID=America/New_York:20260307T204500
+SUMMARY:WEEK 1 - Murphy Bedtime (Fri) - 45 min timer
+DESCRIPTION:Same as Monday - 45 min timer in room
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week2-mon@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260310T200000
+DTEND;TZID=America/New_York:20260310T204000
+SUMMARY:WEEK 2 (Mon-Wed) - Murphy Bedtime - 40 min timer
+DESCRIPTION:8:00-8:40 PM: YOU IN HER ROOM (40-min visible timer)\n\nReducing from 45 to 40 min\n8:40-9:00: Check-ins as needed
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week2-tue@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260311T200000
+DTEND;TZID=America/New_York:20260311T204000
+SUMMARY:WEEK 2 (Tue) - Murphy Bedtime - 40 min timer
+DESCRIPTION:40 min timer - same as Monday
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week2-wed@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260312T200000
+DTEND;TZID=America/New_York:20260312T204000
+SUMMARY:WEEK 2 (Wed) - Murphy Bedtime - 40 min timer
+DESCRIPTION:40 min timer - same as Monday
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week2-thu@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260313T200000
+DTEND;TZID=America/New_York:20260313T203500
+SUMMARY:WEEK 2 (Thu-Sun) - Murphy Bedtime - 35 min timer
+DESCRIPTION:Reducing from 40 to 35 min\n8:00-8:35: Timer in room\n8:35-9:00: Check-ins as needed
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week2-fri@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260314T200000
+DTEND;TZID=America/New_York:20260314T203500
+SUMMARY:WEEK 2 (Fri) - Murphy Bedtime - 35 min timer
+DESCRIPTION:35 min timer - same as Thursday
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week3-start@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260317T200000
+DTEND;TZID=America/New_York:20260317T203500
+SUMMARY:WEEK 3 - Position Changes Begin
+DESCRIPTION:WEEK 3 PROGRESSION - Change position every few nights:\n\nNights 1-2: Sitting on bed (not lying down)\nNights 3-4: Chair next to bed\nNights 5-6: Chair in middle of room\nNights 7-8: Chair at doorway\nNights 9-10: Hallway (you listening, not visible)\n\nStay at each position 3-5 nights. If big protest: stay extra 2 nights
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week4-start@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260324T200000
+DTEND;TZID=America/New_York:20260324T203000
+SUMMARY:WEEK 4 - Exit Before Sleep (THE BIG SHIFT)
+DESCRIPTION:She learns to fall asleep WITHOUT you in room\n\n8:00-8:25: Routine (pajamas, outfit, book, gratitude, hug)\n8:25-8:30: Quiet time in doorway\n8:30: YOU EXIT (she is drowsy but not asleep)\n\n8:35: First check-in (5 min after you left)\n8:40: Second check-in if needed\n8:45: Usually asleep\n\nDays 4-7: Extend intervals to 8 min between checks
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week5-start@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260331T200000
+DTEND;TZID=America/New_York:20260331T203000
+SUMMARY:WEEK 5 - Extend Check-In Intervals
+DESCRIPTION:Continue extending check-in intervals:\n\n5 min to 8 min to 10 min to 15 min\n\nBy mid-week: She asleep before first check-in\nBy end of week: One check-in is enough\n\nProgress:\nMon-Tue: 5 and 8 min\nWed-Thu: 8 and 10 min\nFri-Sun: 10 and 15 min
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:murphy-week6-start@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260407T200000
+DTEND;TZID=America/New_York:20260407T201500
+SUMMARY:WEEK 6 - INDEPENDENT SLEEP
+DESCRIPTION:FINAL PHASE - Bedtime routine only. She sleeps alone.\n\n8:00-8:05: Pajamas and teeth\n8:05-8:10: Pick outfit\n8:10-8:20: One book\n8:20-8:25: Gratitude list\n8:25-8:27: Hug and kiss\n8:28: YOU LEAVE - Lights off, door mostly closed\n\n8:30: Check-in if you hear noise\nBy 9:00: She is asleep independently\n\nSUCCESS - You get your evening back
+LOCATION:Home - Murphy's room
+CATEGORIES:BEDTIME
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:sunday-meal-plan@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260301T100000
+DTEND;TZID=America/New_York:20260301T103000
+RRULE:FREQ=WEEKLY;BYDAY=SU
+SUMMARY:Sunday Meal Planning (15 min)
+DESCRIPTION:Plan 5-6 dinners for the week\n- List ingredients\n- Note prep that can happen Sunday\n- Post on fridge\n\nSunday Prep (30 min):\n- Cook ground meat if doing tacos Monday\n- Chop veggies for the week\n- Cook rice if using multiple nights\n- Setup slow cooker if needed
+LOCATION:Home - Kitchen
+CATEGORIES:MEAL-PLANNING
+STATUS:CONFIRMED
+END:VEVENT
+
+BEGIN:VEVENT
+UID:friday-allowance@mcnamara-family.local
+DTSTAMP:20260304T000000Z
+DTSTART;TZID=America/New_York:20260307T183000
+DTEND;TZID=America/New_York:20260307T190000
+RRULE:FREQ=WEEKLY;BYDAY=FR
+SUMMARY:Friday - Allowance and Job Payments
+DESCRIPTION:Weekly Payment Time:\n\nChad: 50 dollars per week base plus paid jobs\nBirdie: 15 dollars per week base plus paid jobs\nMurphy: 10 dollars per week base plus paid jobs\n\nPay with cash\nDock allowance if chores consistently not done\nPay for completed paid jobs immediately or at payment time
+LOCATION:Home
+CATEGORIES:CHORES
+STATUS:CONFIRMED
+END:VEVENT
+
+END:VCALENDAR
