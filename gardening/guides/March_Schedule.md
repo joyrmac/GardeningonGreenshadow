@@ -130,11 +130,12 @@ Urgent sowing windows are behind you. Now it's indoor starts, bed prep, and plan
 - [ ] Check trays
 - [ ] Continue hardening off (6+ hours direct sun)
 
-### Saturday, March 22 — Lettuce + Weeding (half day)
+### Saturday, March 22 — Lettuce + Weeding + Butterfly Puddler (half day)
 - [ ] **Transplant lettuce seedlings** outdoors if you have starts. *Window: Mar 23–Apr 20*
 - [ ] Prep a lettuce/greens row in Wildwood for transplants
 - [ ] **Weed pass** — sunflower bed, blueberry patch, herb spiral area
 - [ ] Lightly weed under Tulip Magnolia (March checklist)
+- [ ] **Build/install butterfly puddler** near Bloomveil — shallow dish with sand, pebbles, and water for butterfly hydration
 
 ---
 
