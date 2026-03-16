@@ -136,6 +136,13 @@ Urgent sowing windows are behind you. Now it's indoor starts, bed prep, and plan
 - [ ] **Weed pass** — sunflower bed, blueberry patch, herb spiral area
 - [ ] Lightly weed under Tulip Magnolia (March checklist)
 - [ ] **Build/install butterfly puddler** near Bloomveil — shallow dish with sand, pebbles, and water for butterfly hydration
+  - **Cute + witchy styling:**
+    - Use a vintage stone dish, ceramic bowl, or shallow brass vessel
+    - Layer bottom: sand + pebbles (river stones, mica flakes for shimmer)
+    - Add 2-3 raw crystals (amethyst, clear quartz, citrine) nestled in sand for magic
+    - Border with moss, thyme, or creeping sedums
+  - **Plant companions nearby:** butterflyweed, coneflowers, zinnias, lavender, bee balm
+  - **Optional enchantments:** moss-covered stepping stone, small hanging bell, mirror to catch light, ring of low-growing herbs
 
 ---
 
