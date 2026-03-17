@@ -130,11 +130,30 @@ Urgent sowing windows are behind you. Now it's indoor starts, bed prep, and plan
 - [ ] Check trays
 - [ ] Continue hardening off (6+ hours direct sun)
 
-### Saturday, March 22 — Lettuce + Weeding (half day)
+### Saturday, March 22 — Lettuce + Weeding + Butterfly Puddler (half day)
 - [ ] **Transplant lettuce seedlings** outdoors if you have starts. *Window: Mar 23–Apr 20*
 - [ ] Prep a lettuce/greens row in Wildwood for transplants
 - [ ] **Weed pass** — sunflower bed, blueberry patch, herb spiral area
 - [ ] Lightly weed under Tulip Magnolia (March checklist)
+- [ ] **Build/install butterfly puddler** near Bloomveil (see *Butterfly_Puddler_Styling_Guide.md* for full details)
+
+  **Quick build (1–2 hours):**
+  - Vintage ceramic bowl or stone dish (12-18" diameter) as vessel
+  - Layer: 1" damp sand + 1" pea gravel + pebbles mixed with river stones
+  - Scatter mica flakes for shimmer
+  - Nestle 2-4 raw crystals (clear quartz, amethyst, citrine) in the sand
+  - Fill with water (saturate sand layer)
+  - Ring with creeping thyme, sedum, or moss
+
+  **Styling touches:**
+  - Place near Bloomveil southern edge (dappled afternoon shade)
+  - Surround with low herbs: thyme, lavender, sedum
+  - Plant companions nearby (south-side): butterflyweed (2-3), coneflowers (2-3)
+  - Optional: solar lantern nearby (add in May), small hanging bell on shepherd's crook
+
+  **Maintenance:** Refill water every 2-3 days. Butterflies will visit once nearby flowers bloom (late April onward).
+
+  **Shopping list:** See *Bloomveil_Witchy_Decor_Shopping_List.md* for crystals, vessels, plants, decor budget.
 
 ---
 
