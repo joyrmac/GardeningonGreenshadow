@@ -180,4 +180,77 @@ After first frost blackens foliage, cut stems to 4". Mound 6-8" of mulch (straw,
 
 ---
 
+## Witchy Garden Styling & Decor
+
+### Overall Theme
+Bloomveil is designed as a **cosmic flower garden** with witchy, mystical touches. Each zone has intentional crystal placements, painted signage, and companion plantings that enhance the magical aesthetic.
+
+### Crystal Placement by Zone
+
+| Zone | Primary Crystal | Secondary Stones | Placement |
+|------|-----------------|------------------|-----------|
+| **Sunrise Cloud** | Clear Quartz (amplifies energy) | Carnelian, Citrine | Center of zone — nestled in soil or on stepping stone |
+| **Berry Patch** | Rose Quartz (heart chakra, love) | Pink tourmaline | Embedded near the back dahlia cluster |
+| **Spice Drift** | Tiger's Eye or Carnelian (grounding, fire) | Red jasper | Corner placement, partially buried |
+| **Moonlit Meadow** | Moonstone (intuition, dreams) | Selenite, pearl quartz | Among white flowers or on solar lantern base |
+| **Twilight Hollow** | Amethyst (spiritual clarity, magic) | Lepidolite, fluorite | Nestled in the purple cosmos or poppy area |
+
+**Crystal care:** Rinse moonstone and selenite in spring rainwater. Bury quartzes 2-3" deep in soil to avoid foot traffic. Replace any that crack from frost.
+
+### Painted Signs & Mystical Markers
+
+Each zone has a small hand-painted sign (4"x6" wood or slate):
+
+1. **Sunrise Cloud:** "The First Breath" or "Awakening Light"
+2. **Berry Patch:** "The Heart's Fire" or "Abundance Blooms"
+3. **Spice Drift:** "Transformation & Warmth" or "Solar Flame"
+4. **Moonlit Meadow:** "Moonlit Dreams" or "Peace & Reflection"
+5. **Twilight Hollow:** "Dusk Magic" or "Mystery Unfolds"
+
+**Design idea:** Cream or white paint with gold/silver leaf accents. Mount on 12" stakes at the front of each zone or on a decorative standing frame.
+
+### Companion Plantings & Decor Companions
+
+**Beyond the Bloomveil zones — plants that enhance witchy vibes:**
+
+- **Butterfly weed** (orange) — attracts monarchs, plant near Spice Drift
+- **Joe Pye Weed** (already in Twilight Hollow) — tall, majestic, perfect for dark magic aesthetic
+- **Borage** (already in Moonlit Meadow) — edible flowers, mystical silver undertones
+- **Lavender, hyssop, sage** — plant clusters at Bloomveil edges for scent and magical association
+- **Bee balm** (if relocating divisions) — plant a small cluster near pond for harmony with water element
+- **Calendula & yarrow** — already scattered; these are classic witchy herbs
+
+### Decor Elements Throughout Bloomveil
+
+| Element | Placement | Purpose |
+|---------|-----------|---------|
+| **Stepping stones** (slate, natural) | Winding path connecting zones | Grounding, easy access for photos |
+| **Wind chimes** (small, vintage brass or copper) | Sunrise Cloud edge or Twilight Hollow | Sound magic, catching morning light |
+| **Solar lanterns** (frosted glass, warm white) | Moonlit Meadow corner + Twilight Hollow back | Soft nighttime glow, enchanted garden feel |
+| **Vintage watering can** (decorative, not functional) | Spice Drift front corner | Witchy cottage garden touch |
+| **Small mirrors** (garden-safe, round or hexagonal) | Moonlit Meadow center | Reflect light, symbolize reflection |
+| **Bells** (hung from shepherd's crooks) | Edges of zones or near Butterfly Puddler | Call energy, gentle notification |
+| **Moss-covered stones/branches** | Collected from shade areas, placed in clusters | Create shadowy, mystical focal points |
+| **Feathers** (collected seasonally) | Tucked among tall flowers or on stakes | Air element, bird magic |
+| **Driftwood or twisted branches** | Natural vertical elements mixed with plant stakes | Witchy, naturalistic framing |
+
+### Butterfly Puddler — The Heart of Garden Magic
+
+**See:** *Butterfly_Puddler_Styling_Guide.md* for full details on building, styling, and maintaining.
+
+**Quick placement:** Near Bloomveil southern edge, visible from main paths but not blocking flower beds. A shallow ceramic or stone dish (12-18" diameter) filled with sand, pebbles, and water. Surrounded by 2-3 raw crystals and low-growing herbs (thyme, creeping sedums, moss).
+
+---
+
+### Monthly Styling Maintenance
+
+- **April-May:** Place winter-stored crystals, set signs, arrange stepping stones before annuals fill in
+- **June:** Refresh mulch around crystals, tidy herb borders, clean mirrors
+- **July-August:** Replace any weather-beaten signs, deadhead flowers around crystals (don't move them)
+- **September:** Begin collecting feathers and moss for fall arrangement
+- **October:** Add fall foliage clusters, refresh lighting for dusk photos
+- **November:** Protect crystals with mulch, remove delicate decor before frost
+
+---
+
 *Data files: `inventory/Bloomveil_Plant_List.csv`, `inventory/Bloomveil_Detailed_Planting.csv`*

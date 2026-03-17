@@ -135,14 +135,25 @@ Urgent sowing windows are behind you. Now it's indoor starts, bed prep, and plan
 - [ ] Prep a lettuce/greens row in Wildwood for transplants
 - [ ] **Weed pass** — sunflower bed, blueberry patch, herb spiral area
 - [ ] Lightly weed under Tulip Magnolia (March checklist)
-- [ ] **Build/install butterfly puddler** near Bloomveil — shallow dish with sand, pebbles, and water for butterfly hydration
-  - **Cute + witchy styling:**
-    - Use a vintage stone dish, ceramic bowl, or shallow brass vessel
-    - Layer bottom: sand + pebbles (river stones, mica flakes for shimmer)
-    - Add 2-3 raw crystals (amethyst, clear quartz, citrine) nestled in sand for magic
-    - Border with moss, thyme, or creeping sedums
-  - **Plant companions nearby:** butterflyweed, coneflowers, zinnias, lavender, bee balm
-  - **Optional enchantments:** moss-covered stepping stone, small hanging bell, mirror to catch light, ring of low-growing herbs
+- [ ] **Build/install butterfly puddler** near Bloomveil (see *Butterfly_Puddler_Styling_Guide.md* for full details)
+
+  **Quick build (1–2 hours):**
+  - Vintage ceramic bowl or stone dish (12-18" diameter) as vessel
+  - Layer: 1" damp sand + 1" pea gravel + pebbles mixed with river stones
+  - Scatter mica flakes for shimmer
+  - Nestle 2-4 raw crystals (clear quartz, amethyst, citrine) in the sand
+  - Fill with water (saturate sand layer)
+  - Ring with creeping thyme, sedum, or moss
+
+  **Styling touches:**
+  - Place near Bloomveil southern edge (dappled afternoon shade)
+  - Surround with low herbs: thyme, lavender, sedum
+  - Plant companions nearby (south-side): butterflyweed (2-3), coneflowers (2-3)
+  - Optional: solar lantern nearby (add in May), small hanging bell on shepherd's crook
+
+  **Maintenance:** Refill water every 2-3 days. Butterflies will visit once nearby flowers bloom (late April onward).
+
+  **Shopping list:** See *Bloomveil_Witchy_Decor_Shopping_List.md* for crystals, vessels, plants, decor budget.
 
 ---
 
