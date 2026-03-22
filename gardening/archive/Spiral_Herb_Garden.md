@@ -8,7 +8,40 @@ Sunny Southwest, a great home for your sun lvoers (ie: sage, lavender, basil)
 Delicate east: exposed to gentle mroning sun ideal for delicate plants (ie: parsley and chives)  
 low north, for shade and moisture preferring plants, a great opportunity to flow your psital into a pond (ie: cilantro and dill)  
   
-cloth planter bag: lemon balm, mint  
+## ✨ CURRENT HERB SPIRAL LAYOUT (March 2026)
+
+**Top Circle (Full Sun):**
+- 4 Lavenders (surrounding)
+- Russian Sage (center)
+- 🆕 Lemon Thyme (cascading near lavender)
+- 🆕 Regular Thyme (next to lemon thyme)
+
+**South Step (Sunny):**
+- Rosemary
+- Italian Parsley
+- 🆕 Sage (culinary)
+- 🆕 Marjoram or Oregano
+
+**Upper North/West (Winding around, partial sun):**
+- Mustard
+- Yarrow
+- Dill (past season)
+- 🆕 Chives
+- 🆕 Winter Savory
+
+**North Side (Shaded):**
+- Arugula (thrives in shade)
+
+**West Step (Lower, shaded/moist):**
+- Mint varieties: Spearmint, Mojito Mint, Anise Hyssop (licorice-scented, purple centers)
+- Lemon Balm (needs regular pruning)
+- Catnip
+- Catmint
+- 🆕 Lemon Verbena (complements lemon mints)
+- 🆕 Chamomile (medicinal, cascading)
+
+---
+
 ![Image](Attachments/2B948AB6-227B-44E9-A049-D0E1E4ADFD44.jpeg)  
   
 ![Image](Attachments/2B898E2B-A34D-4A65-B037-5730D13F9873.jpeg)  
