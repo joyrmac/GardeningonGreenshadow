@@ -1,5 +1,7 @@
 # The Gloam — Medicinal Garden Layout
-## 12 ft × 12 ft Apothecary Garden with Herb Spiral & Medicinal Bed
+## 12 ft × 12 ft Medicinal Bed (The "Weird Ones")
+
+**NOTE:** Cooking herbs (Lavender, Sage, Rosemary, Mints) are in **Wildwood's Spiral Herb Garden**
 
 **IMPORTANT:** North side = Front/Entry (visible from property entrance)
 
@@ -11,40 +13,31 @@
                    +—————————————————————————————+
               0    | [SIGN: THE GLOAM]           |
               1    | Dusty Purple + Silver Text  |
-              2    |   HERB CIRCLE               |
-              3    | Lav   Sage              Ros |
-              4    | (1)   (1)               (1) |
-              5    | Spiral: Mints, Lemonbalm   |
+              2    |                             |
+              3    | MEDICINAL BED               |
+              4    | Ech   Val   Ech         Ech |
+              5    | (tall back — Echinacea 3)  |
               6    |                             |
-              6    | MEDICINAL BED               |
-              7    | Ech   Cal   Ech         Val |
-              8    | (3)   (tons)(2)    Chamo   |
-              9    |   St. Johns Wort            |
-             10    | Borage scattered throughout |
+              7    | Cal   Chamo  STJ    Borage |
+              8    | (tons)(fill)(fill)  (scat) |
+              9    |                             |
+             10    | Valerian (tall back)        |
              11    |                             |
              12    +—————————————————————————————+
 ```
 
 ---
 
-## Zone Organization Overview
+## Medicinal Bed Organization
 
-### **HERB CIRCLE (ZONE 1)** — The Culinary/Daily Use Spiral
-**Contains:** Lavender, Sage, Rosemary + All Mints in Buried Pot Circle + Lemon Balm
-- **Purpose:** Easy access to frequently-used herbs
-- **Layout:** Compact spiral with sign at front (north edge)
-- **Borage:** Scattered throughout for pollinator support
+### **THE GLOAM MEDICINAL BED** — The "Weird Ones"
+**Contains:** Echinacea, Valerian, Chamomile, St. John's Wort, Calendula, Borage + any other medicinal herbs you have seeds for
 
-### **MEDICINAL BED (ZONE 2)** — The "Weird Ones"
-**Contains:** Echinacea, Valerian, Chamomile, St. John's Wort, Calendula + "other medicinal herbs you have seeds for"
-- **Purpose:** Dedicated space for medicinal & unusual herbs
+- **Purpose:** Dedicated space for medicinal & unusual herbs (specialty/backup medicinal collection)
+- **Cooking herbs** (Lavender, Sage, Rosemary, Mints) live in **Wildwood's Spiral Herb Garden**
 - **Layout:** Taller plants (Valerian, Echinacea) in back; shorter (Chamomile, Calendula) in front
 - **Borage:** Scattered throughout for pollinator support & medicinal use
-
-### **Key Note**
-- **Borage goes EVERYWHERE** — both zones
-- Overlap between zones is fine
-- North side = Front/Entry (where sign goes)
+- **North side** = Front/Entry (where sign goes)
 
 ---
 
@@ -57,22 +50,20 @@
      ┌─────────────────────────────────────────┐
      │  ★ SIGN: "THE GLOAM"                    │
      │     (Dusty Purple + Silver Text)        │
-     │                                         │
-     │  ⊙ LAV        ⊙ SAG        ⊙ ROS        │  HERB CIRCLE
-     │ (Lavender)  (Sage)     (Rosemary)      │  ZONE 1
-     │  18" apart   18" apart   24" space      │  (Phase 1)
-     │                                         │
-     │  🔵 BURIED POT CIRCLE 🔵                │  (All Mints)
-     │  (Mint Spiral + Spreaders)              │  (Lemon Balm, etc.)
+     │       Medicinal Garden                  │
      │                                         │
      │                                         │
-     │  ⊙ ECH    ⊙ ECH    ⊙ ECH   ✿ VAL      │  MEDICINAL BED
-     │ (1)       (2)      (3)     (Valerian)  │  ZONE 2
-     │ Echinacea 12" apart       (tall back)  │  (Phase 1 & 3)
+     │  ⊙ ECH    ⊙ ECH    ⊙ ECH                │
+     │ (1)       (2)      (3)                  │  BACK (Tall)
+     │ Echinacea 12" apart                    │
      │                                         │
-     │  ✿ CAL    ✿ CAM    ✿ STJ              │  All "Weird Ones"
-     │ (Calendula)(Chamomile) (St.John's)    │  Borage scattered
-     │ (tons—fill space)                      │  throughout
+     │  ✿ VAL   ✿ CAM    ✿ STJ               │
+     │(Valerian)(Chamomile)(St.John's Wort)  │  MID (Med height)
+     │ (tall)   (fill)    (fill)              │
+     │                                         │
+     │  ✿ CAL    ✿ CAL   ✿ BOA               │  FRONT (Short)
+     │(Calendula - use generously!)           │
+     │ (tons)    (tons)   (Borage scattered)  │
      │                                         │
      │  [WATER SOURCE NEARBY] ←→ [SHADE EDGE] │
      │                                         │
@@ -84,24 +75,18 @@
 
 ## Planting Map (Phase 1 — NOW)
 
-### **HERB CIRCLE — Perennial Positions (Buy & Plant This Week)**
-
-| Plant | Qty | Position | Spacing Notes |
-|-------|-----|----------|---------------|
-| **Lavender (Vera)** | 2 | NW corner + NE corner | 18" apart, front edge |
-| **Sage (Broadleaf)** | 2 | W side (1), W-center (1) | 18" apart vertically |
-| **Rosemary** | 1 | NE corner deep | Largest space (24") |
-
 ### **MEDICINAL BED — Perennial Positions (Buy & Plant This Week)**
 
 | Plant | Qty | Position | Spacing Notes |
 |-------|-----|----------|---------------|
-| **Echinacea (Coneflower)** | 3 | Center line, staggered | 12" apart in row |
+| **Echinacea (Coneflower)** | 3 | Back center line, staggered | 12" apart in row |
 | **Valerian** | 1 | Back (tall plant) | Center-back, 18" space |
 | **Chamomile** | 2-3 | Mid-bed | 12" apart |
 | **St. John's Wort** | 2 | Mid-bed | 12" apart |
-| **Calendula** | Tons | Fill edges & gaps | Scatter generously, 10" apart |
-| **Borage** | Multiple | Throughout both zones | Scatter in herb circle AND medicinal bed |
+| **Calendula** | Tons | Fill edges & gaps generously | 10" apart, fill edges |
+| **Borage** | Multiple | Scattered throughout | Intersperse throughout bed |
+
+**NOTE:** Cooking herbs (Lavender, Sage, Rosemary, Mints) are planted in **Wildwood's Spiral Herb Garden** -- they are NOT part of The Gloam.
 
 ### **Visual Spacing**
 
@@ -124,27 +109,9 @@ CENTER & EAST:
 
 ## Planting Map (Phase 2 — APRIL)
 
-### **HERB CIRCLE — Buried Pot Circle (Mint Spiral)**
+**NO PHASE 2 FOR THE GLOAM**
 
-Create a circle arrangement in middle of herb circle:
-- 4 pots arranged in square or circle formation
-- Each pot 18-24" apart (centers)
-- Cut bottoms out, sink into ground
-- Mulch around rim to hide plastic
-- **These contain all the spreading mints & lemon balm**
-
-**Pot Contents:**
-```
-        POT 1               POT 2
-      PEPPERMINT         LEMON BALM
-        (North)            (South)
-
-        POT 3               POT 4
-        CATNIP          COMMON MINT
-        (West)            (East)
-
-        (+ any other mint varieties)
-```
+The Gloam is medicinal-bed-only. All mints and spreaders are in **Wildwood's Spiral Herb Garden** with their buried pot containment system.
 
 ---
 
@@ -152,60 +119,51 @@ Create a circle arrangement in middle of herb circle:
 
 ### **MEDICINAL BED — Additional Seeding/Transplanting**
 
-After perennials established in medicinal bed, fill remaining space with:
+After perennials established in medicinal bed, fill remaining space with additional medicinal/interesting herbs from your seed collection:
 
-**Direct Sow or Transplant:**
+**Direct Sow or Transplant (whatever you have seeds for):**
 ```
-MEDICINAL BED FILL-IN PLANTS:
-  • Holy Basil (Tulsi) — cluster of 3-5 plants (if not in Phase 1)
+MEDICINAL BED FILL-IN PLANTS (by availability):
+  • Holy Basil (Tulsi) — cluster of 3-5 plants
   • Motherwort — in buried pot or contained area (self-seeder control)
   • Feverfew — in buried pot or contained area (self-seeder control)
-  • Fenugreek — front edge, 6" apart (if available)
-  • Toothache Plant — curiosity cluster (if available)
-  • Ashwagandha — transplant from indoor start (if available)
+  • Fenugreek — front edge, 6" apart
+  • Toothache Plant — curiosity cluster
+  • Ashwagandha — transplant from indoor start
+  • Any other medicinal/weird ones from your seed stash
 
-Note: You have TONS of Calendula — plant generously throughout medicinal bed
-Note: Borage already scattered in Phase 1 (both zones)
+Note: You have TONS of Calendula — use generously to fill gaps!
+Note: Borage already scattered in Phase 1
 
-Stagger heights: taller in back (Valerian, St. John's Wort), shorter in front
+Stagger heights: taller in back (Valerian, Echinacea, St. John's Wort),
+                shorter in front (Chamomile, Calendula)
 ```
 
 ---
 
 ## Planting Schedule & Checklist
 
-### **THIS WEEK (Late March)**
+### **THIS WEEK (Late March) — MEDICINAL BED SETUP**
 - [ ] Clear The Gloam of weeds/grass
 - [ ] Spread compost/worm castings 3-4" deep, till in
 - [ ] Rake smooth, level
-- [ ] **BUY HERB CIRCLE PLANTS:**
-  - Lavender (Vera) x2
-  - Sage (Broadleaf) x2
-  - Rosemary x1
-- [ ] **BUY MEDICINAL BED PLANTS:**
-  - Echinacea x3
+- [ ] **BUY MEDICINAL PLANTS:**
+  - Echinacea (Coneflower) x3
   - Valerian x1
   - Chamomile x2-3
   - St. John's Wort x2
-  - Calendula (tons!)
+  - Calendula (tons on hand — use generously!)
   - Borage (multiple)
 - [ ] Plant all perennials in positions shown above
 - [ ] Mulch around each (2-3" depth, 1" from stems)
 - [ ] **Install sign: "THE GLOAM" (Dusty Purple + Silver) at north edge**
 - [ ] Water deeply
 
-### **APRIL (Before April 15) — HERB CIRCLE MINT CIRCLE**
-- [ ] Get 4 large plastic pots (for mint spiral)
-- [ ] Cut bottoms out, arrange in circle in center of herb circle
-- [ ] Sink into ground, mulch around rims
-- [ ] **BUY MINT STARTS:**
-  - Peppermint start x1
-  - Lemon Balm start x1
-  - Catnip start x1
-  - Common Mint start x1
-  - (+ any other mint varieties you want)
-- [ ] Plant one in each pot (or multiple in larger pots)
-- [ ] Water well
+**REMINDER:** Cooking herbs (Lavender, Sage, Rosemary, Mints) are in **Wildwood's Spiral Herb Garden**
+
+### **APRIL — NO ACTION NEEDED FOR THE GLOAM**
+
+Mint pot containment happens in **Wildwood's Spiral Herb Garden** (see Wildwood.md for details).
 
 ### **MAY-JUNE — MEDICINAL BED FILL-IN**
 - [ ] Direct sow/transplant remaining seeds in medicinal bed:
@@ -225,22 +183,19 @@ Stagger heights: taller in back (Valerian, St. John's Wort), shorter in front
 ## Quick Reference: Spacing Cheat Sheet
 
 ```
-HERB CIRCLE:
-  LAVENDER:     18" apart
-  SAGE:         18" apart
-  ROSEMARY:     24" space (largest)
-  POTS (Mints): 18-24" apart (pot centers)
-
-MEDICINAL BED:
-  ECHINACEA:    12" apart
-  VALERIAN:     18-24" space (tall, back)
-  CHAMOMILE:    12" apart
+MEDICINAL BED — THE GLOAM:
+  ECHINACEA:      12" apart
+  VALERIAN:       18-24" space (tall, back)
+  CHAMOMILE:      12" apart
   ST. JOHN'S WORT: 12" apart
-  CALENDULA:    10" apart (use generously!)
-  BORAGE:       12-18" apart (both zones)
-  FENUGREEK:    6" apart
-  MOTHERWORT:   12" apart
-  FEVERFEW:     12" apart
+  CALENDULA:      10" apart (use TONS generously!)
+  BORAGE:         12-18" apart
+  MOTHERWORT:     12" apart (in buried pot for control)
+  FEVERFEW:       12" apart (in buried pot for control)
+  FENUGREEK:      6" apart
+  HOLY BASIL:     12" apart
+
+Note: Cooking herbs spacing is in Wildwood's Spiral Herb Garden file
 ```
 
 ---
