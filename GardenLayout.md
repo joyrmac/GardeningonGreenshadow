@@ -1,10 +1,18 @@
 # The Gloam - Medicinal Garden Layout
 
 ## Overview
+- **Size**: 12 ft × 12 ft (144 sq ft)
 - **North Side**: Front/Entry (Visible from main approach)
 - **Sign Placement**: North edge, dusty purple + silver text
 - **Type**: Medicinal Bed (the "weird ones")
+- **Approach**: Realistic 3-phase planting (not all at once!)
 - **Cooking Herbs Location**: Wildwood's Spiral Herb Garden
+
+## Phased Approach Summary
+- **Phase 1 (Late March):** Plant 4-6 keystone perennials for structure
+- **Phase 2 (April):** Set up 4 buried pots for aggressive spreaders
+- **Phase 3 (May-June):** Direct sow 15+ varieties in blocks, thin seedlings
+- **Phase 4 (Jun-Aug+):** Weekly deadheading to prevent self-seeding chaos
 
 ---
 

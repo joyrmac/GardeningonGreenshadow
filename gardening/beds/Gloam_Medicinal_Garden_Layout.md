@@ -1,6 +1,8 @@
 # The Gloam — Medicinal Garden Layout
 ## 12 ft × 12 ft Medicinal Bed (The "Weird Ones")
 
+**DESIGN PHILOSOPHY:** Realistic, manageable 3-phase approach using your 30+ medicinal seed varieties. Focuses on structure first, then fill, with built-in maintenance for aggressive spreaders.
+
 **NOTE:** Cooking herbs (Lavender, Sage, Rosemary, Mints) are in **Wildwood's Spiral Herb Garden**
 
 **IMPORTANT:** North side = Front/Entry (visible from property entrance)
@@ -28,83 +30,113 @@
 
 ---
 
-## Medicinal Bed Organization
+## Design Overview: Three-Phase Approach
 
-### **THE GLOAM MEDICINAL BED** — The "Weird Ones"
-**Contains:** Medicinal & unusual herbs from your seed collection (excluding cooking herbs already in Wildwood spiral)
+### **Why Phased?**
+You have 30+ medicinal varieties with thousands of seeds. A 12x12 ft bed (144 sq ft) can't sustainably hold all of them planted densely. The 3-phase approach:
+- **Phase 1:** Creates structure with keystone perennials
+- **Phase 2:** Manages aggressive spreaders in contained pots
+- **Phase 3:** Fills remaining space with direct-sown annuals & managed perennials
+- **Result:** A beautiful, maintainable medicinal garden (not an overgrown jungle)
 
-- **Purpose:** Dedicated space for medicinal & unusual herbs (specialty/backup medicinal collection)
-- **Cooking herbs in Wildwood spiral:** Lavender, Sage, Rosemary, Mints, Basil, Dill, Catnip
-- **Layout:** Taller plants in back; shorter in front
-- **North side** = Front/Entry (where sign goes)
+### **Seed Collection Organization:**
 
-### **From Your Seed Collection:**
-**EXCLUDE (already in Wildwood):**
-- Lavender, Vera
-- Rosemary
-- Sage, Broadleaf
-- Basil, Holy Kapoor Tulsi
-- Lemon Balm
-- Mint, Common
-- Peppermint
-- Dill
-- Catnip
+**EXCLUDE (already in Wildwood Spiral Herb Garden):**
+- Lavender, Vera | Rosemary | Sage, Broadleaf | Basil, Holy Kapoor Tulsi
+- Lemon Balm | Mint, Common | Peppermint | Dill | Catnip
 
-**USE FOR GLOAM (30 medicinal varieties):**
-Anise, Angelica, Ashwagandha, Astragalus, Bee Balm/Wild Bergamot, Borage, Burdock, Calendula, Chamomile, Chicory, Echinacea, Dandelion, Elderberry, Fenugreek, Feverfew, Hollyhock, Horehound, Hyssop, Licorice/Wild, Marigold/French Petite, Marshmallow, Motherwort, Mullein, Mugwort, Pepper/Cayenne, Plantain, Skullcap, St. John's Wort, Stinging Nettle, Toothache Plant, Valerian, Yarrow
+**PHASE 1 & 2 (Plant as starts/seedlings):**
+- Valerian (1-2)
+- Echinacea, Purple (2-3)
+- St. John's Wort (1-2)
+- Horehound (1)
 
----
+**PHASE 2 (Buried pot containment):**
+- Stinging Nettle (in pot)
+- Mugwort (in pot)
+- Bee Balm, Wild Bergamot (in pot)
+- Feverfew (in pot OR deadhead aggressively)
 
-## Seed-by-Seed Planting Plan
+**PHASE 3 (Direct sow in blocks):**
+- Angelica, Ashwagandha, Astragalus, Borage, Calendula (use ~80 of 100)
+- Chamomile (use ~100 of 300), Fenugreek, Hollyhock, Hyssop, Marigold
+- Motherwort, Mullein, Skullcap, Toothache Plant, Yarrow, Anise, Cayenne Pepper
 
-### **BACK ROW (Tall - 3-5 ft) — Full Sun, Back of Bed**
-| Plant | Qty Available | Height | Spacing | Type | Notes |
-|-------|---|--------|---------|------|-------|
-| **Valerian** | 100 | 4-5 ft | 18-24" | Perennial | Tall, structural, pink/white flowers |
-| **Mullein** | 100 | 3-5 ft | 24" | Biennial | Tall spikes, yellow flowers |
-| **Elderberry, Black** | 50 | 4-6 ft | 24-36" | Shrub/Perennial | Tall, berries for harvest |
-| **Burdock** | 100 | 3-4 ft | 18" | Biennial | Tall, root vegetable medicinal |
-| **Marshmallow** | 50 | 3-4 ft | 18" | Perennial | Tall, pink flowers |
-| **Stinging Nettle** | 100 | 3-4 ft | 12-18" | Perennial | Spreads, very medicinal |
-| **St. John's Wort** | 100 | 2-3 ft | 12" | Perennial | Yellow flowers, medicinal |
-
-### **MIDDLE ROW (Medium - 18-36 in) — Mid-Bed, Morning Sun**
-| Plant | Qty Available | Height | Spacing | Type | Notes |
-|-------|---|--------|---------|------|-------|
-| **Echinacea, Purple** | 100 | 24-36" | 12" | Perennial | Purple coneflowers, medicinal |
-| **Bee Balm, Wild Bergamot** | 100 | 24-36" | 12-18" | Perennial | Red/pink flowers, spreads |
-| **Astragalus** | 25 | 24-30" | 12" | Perennial | Root herb, yellow flowers |
-| **Motherwort** | 50 | 18-24" | 12" | Perennial | Pink flowers, self-seeds |
-| **Mugwort** | 100 | 18-36" | 12" | Perennial | Feathery foliage, spreads |
-| **Yarrow** | 100 | 18-24" | 12" | Perennial | Flat flower clusters, many colors |
-| **Angelica** | 30 | 20-36" | 18" | Biennial | Tall, architectural |
-| **Horehound** | 50 | 18-24" | 12" | Perennial | Hairy, medicinal |
-| **Hyssop** | 200 | 18-24" | 12" | Perennial | Blue/purple flowers, pollinator |
-| **Skullcap** | 50 | 18-24" | 12" | Perennial | Blue flowers, medicinal |
-| **Ashwagandha** | 30 | 18-24" | 12" | Annual/Perennial | Small flowers, root medicinal |
-| **Licorice, Wild** | 40 | 18-24" | 12" | Perennial | Root herb, purple flowers |
-
-### **FRONT ROW (Short/Spreading - 6-18 in) — Front Edge, Full Sun**
-| Plant | Qty Available | Height | Spacing | Type | Notes |
-|-------|---|--------|---------|------|-------|
-| **Calendula, Pacific Beauty** | 100 | 12-18" | 10" | Annual | Orange flowers, USE TONS |
-| **Chamomile, Roman** | 300 | 12-18" | 10-12" | Perennial | White daisy-like, self-seeds |
-| **Borage** | (many) | 12-18" | 12" | Annual | Blue flowers, spreads, pollinator |
-| **Feverfew** | 100 | 12-18" | 10" | Perennial | White flowers, self-seeds |
-| **Chicory** | 200 | 18-24" | 12" | Perennial | Blue flowers, root medicinal |
-| **Dandelion** | 50 | 12-18" | 12" | Perennial | Yellow, entirely medicinal |
-| **Plantain, Common** | 100 | 12-15" | 10" | Perennial | Medicinal, low-growing |
-| **Fenugreek** | 50 | 12-18" | 6-8" | Annual | Beige flowers, seed medicinal |
-| **Marigold, French Petite** | 100 | 12-15" | 8-10" | Annual | Gold/orange, companion plant |
-| **Hollyhock, French** | 25 | 12-18" | 12" | Biennial | Pink/white flowers, medicinal |
-| **Toothache Plant** | 50 | 12-18" | 10" | Annual | Yellow flowers, numbing |
-| **Pepper, Cayenne** | 30 | 12-18" | 12" | Annual | Red peppers, medicinal heat |
-| **Anise** | 100 | 18-24" | 12" | Annual | Feathery foliage, seed medicinal |
+**RESERVE FOR OTHER BEDS (too large/invasive for Gloam alone):**
+- Elderberry, Black (50) — save for larger planting
+- Burdock (100) — save for larger planting
+- Marshmallow (50) — save for larger planting
+- Dandelion (50) — optional, very prolific
+- Chicory (200) — save some seeds, plant 50-100 if space allows
+- Licorice, Wild (40) — reserve for later
+- Plantain, Common (100) — save seeds, use sparingly if at all
+- Mugwort (partial — pot only)
 
 ---
 
-## Detailed Layout (Top-Down View)
+## Plant Reference by Phase
 
+### **PHASE 1 (Late March) — Keystone Perennials (Buy as starts or large seedlings)**
+
+| Plant | Qty | Height | Position | Spacing | Notes |
+|-------|-----|--------|----------|---------|-------|
+| **Valerian** | 1-2 | 4-5 ft | Back center | 24" apart | Pink/white, tall structure |
+| **Echinacea, Purple** | 2-3 | 24-36" | Mid-back | 12-18" apart | Purple coneflowers, medicinal |
+| **St. John's Wort** | 1-2 | 18-24" | Mid-bed | 12-18" apart | Yellow flowers, medicinal |
+| **Horehound** | 1 | 18-24" | Mid-bed | 18" | Sturdy, hairy, medicinal |
+
+---
+
+### **PHASE 2 (April) — Buried Pot Containment (4 pots, 18-24" apart)**
+
+| Pot | Plant | Qty | Notes |
+|-----|-------|-----|-------|
+| 1 | **Stinging Nettle** | 1 start | AGGRESSIVE spreader — must contain |
+| 2 | **Mugwort** | 1 start | AGGRESSIVE spreader — must contain |
+| 3 | **Bee Balm, Wild Bergamot** | 1 start | Spreads via runners — contain to manage |
+| 4 | **Feverfew** | 1-2 starts | Alternative: plant open + deadhead aggressively |
+
+---
+
+### **PHASE 3 (May-June) — Direct Sow Fill (use blocks/patches, thin seedlings)**
+
+**BACK ZONE (behind Valerian, tall plants):**
+
+| Plant | Seeds to Sow | Height | Notes |
+|-------|-------|--------|-------|
+| **Mullein** | 25-50 | 3-5 ft | Tall spikes, thin to 3-5 plants |
+| **Yarrow** | 25 | 18-24" | Deadhead spent flowers to contain |
+| **Angelica** | 15 | 20-36" | Tall, architectural, self-seeds |
+
+**MIDDLE ZONE (around structural perennials, med height):**
+
+| Plant | Seeds to Sow | Height | Notes |
+|-------|-------|--------|-------|
+| **Astragalus** | 20 | 24-30" | Small cluster, minimal spread |
+| **Motherwort** | 20 | 18-24" | One patch, deadhead to prevent spread |
+| **Hyssop** | 50 | 18-24" | Pollinator favorite, can self-seed |
+| **Skullcap** | 15 | 18-24" | Blue flowers, medicinal |
+| **Ashwagandha** | 20 | 18-24" | Medicinal root, modest spread |
+
+**FRONT ZONE & EDGES (front perimeter, short plants):**
+
+| Plant | Seeds to Sow | Height | Notes |
+|-------|-------|--------|-------|
+| **Calendula, Pacific Beauty** | 80 | 12-18" | USE GENEROUSLY, fills gaps, deadhead some |
+| **Chamomile, Roman** | 100 (of 300) | 12-18" | Prolific self-seeder, thin patches, deadhead some |
+| **Borage** | scattered | 12-18" | Scatter throughout, deadhead to manage |
+| **Fenugreek** | 30 | 12-18" | Annual, doesn't spread |
+| **Marigold, French Petite** | 50 | 12-15" | Annual, companion plant |
+| **Hollyhock, French** | 15 | 12-18" | Biennial, self-seeds moderately |
+| **Anise** | 50 | 18-24" | Annual, feathery foliage |
+| **Toothache Plant** | 20 | 12-18" | Annual, novelty |
+| **Cayenne Pepper** | 15 | 12-18" | Annual, red peppers, medicinal heat |
+
+---
+
+## Detailed Layout (Phase 1 → 3)
+
+### **PHASE 1 (Late March) — Keystone Perennials**
 ```
                         NORTH (FRONT)
                           ↑
@@ -112,25 +144,56 @@ Anise, Angelica, Ashwagandha, Astragalus, Bee Balm/Wild Bergamot, Borage, Burdoc
      ┌─────────────────────────────────────────┐
      │  ★ SIGN: "THE GLOAM"                    │
      │     (Dusty Purple + Silver Text)        │
-     │       Medicinal Garden                  │
+     │                                         │
+     │      ⊙ VAL          ⊙ VAL               │  BACK
+     │   (Valerian 1)   (Valerian 2)           │  (Tall: 4-5 ft)
+     │     24" apart                           │
+     │                                         │
+     │   ⊙ ECH   ⊙ ECH   ⊙ ECH                │  MID
+     │  (1)      (2)      (3)                  │  (Med: 24-36")
+     │  Echinacea 12-18" apart                │
+     │                                         │
+     │   ⊙ SJW       ⊙ HOR                    │  MID
+     │(St. John's) (Horehound)                 │  (18-24")
      │                                         │
      │                                         │
-     │  ⊙ ECH    ⊙ ECH    ⊙ ECH                │
-     │ (1)       (2)      (3)                  │  BACK (Tall)
-     │ Echinacea 12" apart                    │
-     │                                         │
-     │  ✿ VAL   ✿ CAM    ✿ STJ               │
-     │(Valerian)(Chamomile)(St.John's Wort)  │  MID (Med height)
-     │ (tall)   (fill)    (fill)              │
-     │                                         │
-     │  ✿ CAL    ✿ CAL   ✿ BOA               │  FRONT (Short)
-     │(Calendula - use generously!)           │
-     │ (tons)    (tons)   (Borage scattered)  │
-     │                                         │
-     │  [WATER SOURCE NEARBY] ←→ [SHADE EDGE] │
+     │  Remaining space: mulch, prep for       │  FRONT
+     │  Phase 2 (pots) & Phase 3 (direct sow) │  (6-18")
      │                                         │
      └─────────────────────────────────────────┘
-              12 ft × 12 ft TOTAL
+              4-6 plants total
+```
+
+### **PHASE 2 (April) — Buried Pot Containment**
+```
+Insert 4 buried pots in remaining space (between perennials):
+
+     POT 1               POT 2
+  STINGING NETTLE    MUGWORT
+    (North area)     (East area)
+
+     POT 3               POT 4
+   BEE BALM          FEVERFEW
+   (West area)   (South/Front area)
+
+Each pot 18-24" apart (pot centers), sunk into ground, mulched rim
+```
+
+### **PHASE 3 (May-June) — Direct Sow Fill in Blocks**
+```
+                    Final layout after direct sowing:
+
+BACK ZONE (behind Valerian):
+  Mullein (25-50 seeds) | Yarrow (25 seeds) | Angelica (15 seeds)
+
+MIDDLE ZONE (around Echinacea & St. John's Wort):
+  Astragalus | Motherwort patch | Hyssop block | Skullcap | Ashwagandha
+
+FRONT/EDGES (around pots, front perimeter):
+  Calendula block (80 seeds) | Chamomile patch (100 of 300) | Borage scattered
+  Fenugreek | Marigold | Hollyhock | Anise | Toothache Plant | Cayenne Pepper
+
+Rough spacing: Direct sow in 2-3 ft blocks, thin seedlings to proper density
 ```
 
 ---
@@ -214,70 +277,185 @@ Stagger heights: taller in back (Valerian, Echinacea, St. John's Wort),
 
 ---
 
-## Planting Schedule & Checklist
+## Planting Instructions by Phase
 
-### **THIS WEEK (Late March) — MEDICINAL BED SETUP**
+### **PHASE 1 (Late March) — Clear & Plant Keystone Perennials**
+
+**Bed Prep:**
 - [ ] Clear The Gloam of weeds/grass
 - [ ] Spread compost/worm castings 3-4" deep, till in
 - [ ] Rake smooth, level
-- [ ] **BUY MEDICINAL PLANTS:**
-  - Echinacea (Coneflower) x3
-  - Valerian x1
-  - Chamomile x2-3
-  - St. John's Wort x2
-  - Calendula (tons on hand — use generously!)
-  - Borage (multiple)
-- [ ] Plant all perennials in positions shown above
-- [ ] Mulch around each (2-3" depth, 1" from stems)
+
+**Buy as starts (or grow large seedlings indoors):**
+- [ ] Valerian x1-2
+- [ ] Echinacea (Coneflower) x2-3
+- [ ] St. John's Wort x1-2
+- [ ] Horehound x1
+
+**Plant:**
+- [ ] 1-2 **Valerian** — back center, 24" apart
+- [ ] 2-3 **Echinacea** — mid-back, 12-18" apart
+- [ ] 1-2 **St. John's Wort** — mid-bed, 12-18" apart
+- [ ] 1 **Horehound** — mid-bed, 18" apart
+
+**Finish:**
+- [ ] Mulch around each (2-3" depth, 1" from crowns)
 - [ ] **Install sign: "THE GLOAM" (Dusty Purple + Silver) at north edge**
 - [ ] Water deeply
+- [ ] Leave remaining space (~100 sq ft) clear/mulched for Phase 2
 
-**REMINDER:** Cooking herbs (Lavender, Sage, Rosemary, Mints) are in **Wildwood's Spiral Herb Garden**
-
-### **APRIL — NO ACTION NEEDED FOR THE GLOAM**
-
-Mint pot containment happens in **Wildwood's Spiral Herb Garden** (see Wildwood.md for details).
-
-### **MAY-JUNE — MEDICINAL BED FILL-IN**
-- [ ] Direct sow/transplant remaining seeds in medicinal bed:
-  - Motherwort (in buried pot or contained area for control)
-  - Feverfew (in buried pot or contained area for control)
-  - Holy Basil/Tulsi (direct sow if not in Phase 1)
-  - Calendula (fill generous patches — you have tons!)
-  - Fenugreek (direct sow if available)
-  - Toothache Plant (direct sow if available)
-  - Ashwagandha (transplant from indoor start if available)
-  - Borage (already planted in Phase 1, but add more if desired)
-- [ ] Water regularly
-- [ ] Deadhead self-seeders as needed to prevent unwanted spread
+**Result:** 4-6 well-spaced plants anchoring the bed
 
 ---
 
-## Quick Reference: Spacing Cheat Sheet
+### **PHASE 2 (April) — Set Up Buried Pot Containment**
+
+**Supplies needed:**
+- 4 large plastic pots (5-7 gallon minimum)
+- Utility knife or saw to cut bottoms
+- Mulch
+
+**Setup:**
+- [ ] Cut bottoms out of 4 pots
+- [ ] Arrange in open space between perennials (18-24" apart, centers)
+- [ ] Sink into ground so rims are at soil level
+- [ ] Mulch around rims to hide plastic
+
+**Buy as starts (or grow seedlings):**
+- [ ] Stinging Nettle x1
+- [ ] Mugwort x1
+- [ ] Bee Balm (Wild Bergamot) x1
+- [ ] Feverfew x1-2 (optional - can plant open + deadhead instead)
+
+**Plant pots:**
+- [ ] Pot 1 (North area): **Stinging Nettle** (1 start) — MUST be contained!
+- [ ] Pot 2 (East area): **Mugwort** (1 start) — MUST be contained!
+- [ ] Pot 3 (West area): **Bee Balm** (1 start) — contain to manage spread
+- [ ] Pot 4 (South/Front area): **Feverfew** (1-2 starts) — optional pot OR plant open + deadhead
+
+**Finish:**
+- [ ] Water all pots deeply
+- [ ] Space remaining areas (~60 sq ft) for Phase 3 direct sowing
+
+**Result:** 4 contained spreaders, majority of bed ready for direct sowing
+
+---
+
+### **PHASE 3 (May-June) — Direct Sow Fill in Blocks**
+
+**Strategy:** Create 2-3 ft blocks by height zone. Sow seeds directly, thin seedlings after germination.
+
+**BACK ZONE (behind Valerian):**
+- [ ] **Mullein** — sow 25-50 seeds, thin to 3-5 plants
+- [ ] **Yarrow** — sow 25 seeds, thin to 4-6 plants, plan weekly deadheading
+- [ ] **Angelica** — sow 15 seeds, thin to 2-3 plants
+
+**MIDDLE ZONE (around structural perennials):**
+- [ ] **Astragalus** — sow 20 seeds in block
+- [ ] **Motherwort** — sow 20 seeds, plan to deadhead regularly
+- [ ] **Hyssop** — sow 50 seeds, thin to 6-8 plants
+- [ ] **Skullcap** — sow 15 seeds
+- [ ] **Ashwagandha** — sow 20 seeds in block
+
+**FRONT & EDGES (front perimeter):**
+- [ ] **Calendula** — sow 80 seeds, thin to 8-10, deadhead some
+- [ ] **Chamomile** — sow 100 seeds (SAVE 200 EXTRA!), thin patches, deadhead some
+- [ ] **Borage** — scatter seeds throughout, thin to 4-6 plants
+- [ ] **Fenugreek** — sow 30 seeds
+- [ ] **Marigold** — sow 50 seeds in scattered patches
+- [ ] **Hollyhock** — sow 15 seeds, space 12" apart
+- [ ] **Anise** — sow 50 seeds in block
+- [ ] **Toothache Plant** — sow 20 seeds
+- [ ] **Cayenne Pepper** — sow 15 seeds
+
+**Finish:**
+- [ ] Water all areas well
+- [ ] Begin maintenance schedule (see below)
+
+**Result:** Full, diverse medicinal bed with managed spreaders
+
+---
+
+### **PHASE 4 (June-August+) — Ongoing Maintenance**
+
+**CRITICAL DEADHEADING SCHEDULE (prevents self-seeding chaos):**
+
+Weekly deadheading:
+- Feverfew
+- Yarrow
+- Motherwort
+- Bee Balm (in pot, if any flowers escape rim)
+
+Bi-weekly deadheading:
+- Calendula (some)
+- Chamomile (some)
+- Hyssop
+
+As-needed removal:
+- Extra Mullein seedlings (keep 3-5)
+- Extra Chamomile seedlings if too dense
+- Any Angelica runts
+
+**THINNING SEEDLINGS:**
+- 2-4 weeks after sowing: remove weak/crowded seedlings
+- Keep strongest-looking plants at proper spacing
+
+**WATERING:**
+- Soil-level watering 1x/week (or 2x in peak heat)
+- Pots may need more frequent watering
+
+**NOTES:**
+- Cooking herbs (Lavender, Sage, Rosemary, Mints) are in **Wildwood's Spiral Herb Garden**
+- You have extra seeds of many varieties — save them for future projects or other beds
+- Year 2+: Self-seeders will naturalize — manage by selective deadheading/removal
+- Perennials will fill in more densely by year 2
+
+---
+
+## Quick Reference: Spacing & Management
 
 ```
-THE GLOAM MEDICINAL BED — All 30+ varieties:
+PHASE 1 KEYSTONE PLANTS (buy as starts):
+  Valerian:         24" apart (1-2 plants)
+  Echinacea:        12-18" apart (2-3 plants)
+  St. John's Wort:  12-18" apart (1-2 plants)
+  Horehound:        18" apart (1 plant)
 
-BACK ROW (3-5 ft) — Plant with generous spacing:
-  Valerian, Mullein, Elderberry, Burdock, Marshmallow,
-  Stinging Nettle, St. John's Wort: 18-24" apart
+PHASE 2 BURIED POT PLANTS (1 per pot):
+  Stinging Nettle   (MUST CONTAIN)
+  Mugwort           (MUST CONTAIN)
+  Bee Balm          (CONTAIN to manage)
+  Feverfew          (pot OR open + deadhead)
 
-MIDDLE ROW (18-36") — Plant with 12-18" spacing:
-  Echinacea, Bee Balm, Astragalus, Motherwort, Mugwort,
-  Yarrow, Angelica, Horehound, Hyssop, Skullcap,
-  Ashwagandha, Licorice: 12-18" apart
+PHASE 3 DIRECT SOW (thin after germination):
+  BACK (tall, thin to spacing below):
+    Mullein:        24" apart (3-5 plants)
+    Yarrow:         12" apart (4-6 plants, deadhead)
+    Angelica:       18" apart (2-3 plants)
 
-FRONT ROW (6-18") — Direct sow, thin to spacing below:
-  Calendula (10" apart) — USE TONS, fill gaps!
-  Chamomile (10-12" apart) — 300 seeds available
-  Borage (12" apart) — scatter throughout
-  Feverfew, Chicory, Dandelion, Plantain (10-12")
-  Fenugreek (6-8" apart) — smaller plants
-  Marigold, Hollyhock, Toothache Plant (8-12")
-  Anise (12" apart)
+  MIDDLE (medium, thin to spacing below):
+    Astragalus:     12" apart
+    Motherwort:     12" apart (deadhead)
+    Hyssop:         12" apart (6-8 plants)
+    Skullcap:       12" apart
+    Ashwagandha:    12" apart
 
-Strategy: You have thousands of seeds. Direct sow in blocks,
-thin seedlings, let self-seed naturally.
+  FRONT (short, thin to spacing below):
+    Calendula:      10" apart (fill edges!)
+    Chamomile:      10-12" apart (thin heavily!)
+    Borage:         12" apart (scatter)
+    Fenugreek:      6-8" apart
+    Marigold:       8-10" apart
+    Hollyhock:      12" apart
+    Anise:          12" apart
+    Toothache:      10" apart
+    Cayenne:        12" apart
+
+MAINTENANCE REMINDERS:
+  • Weekly deadheading: Feverfew, Yarrow, Motherwort, Bee Balm
+  • Thin seedlings 2-4 weeks after sowing
+  • Remove extra self-seeders (especially Mullein, Chamomile)
+  • Water 1x/week at soil level
 ```
 
 ---
