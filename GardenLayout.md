@@ -8,20 +8,18 @@
 
 ---
 
-## Medicinal Bed Plants
+## Medicinal Bed Plants — 30+ Varieties from Seed Collection
 
-### Back Row (Tall Plants)
-- **Echinacea (Coneflower)** x3 - structural, purple flowers
-- **Valerian** x1 - tall, back center
-- **St. John's Wort** - mid-tall
+**BACK ROW (Tall - 3-5 ft):**
+Valerian, Mullein, Elderberry, Burdock, Marshmallow, Stinging Nettle, St. John's Wort
 
-### Mid Row (Medium Height)
-- **Chamomile** x2-3 - mid-height, delicate
-- **Borage** - scattered for pollinators
+**MIDDLE ROW (Medium - 18-36"):**
+Echinacea, Bee Balm/Wild Bergamot, Astragalus, Motherwort, Mugwort, Yarrow, Angelica, Horehound, Hyssop, Skullcap, Ashwagandha, Licorice/Wild
 
-### Front Row (Short/Spreading)
-- **Calendula** - tons on hand, use generously to fill gaps
-- **Borage** - scattered throughout
+**FRONT ROW (Short - 6-18"):**
+Calendula (use TONS!), Chamomile (300 seeds!), Borage, Feverfew, Chicory, Dandelion, Plantain, Fenugreek, Marigold, Hollyhock, Toothache Plant, Cayenne Pepper, Anise
+
+See Gloam_Medicinal_Garden_Layout.md for full spacing/planting guide
 
 ---
 

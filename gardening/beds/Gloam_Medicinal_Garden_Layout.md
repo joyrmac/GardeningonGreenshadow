@@ -31,13 +31,75 @@
 ## Medicinal Bed Organization
 
 ### **THE GLOAM MEDICINAL BED** — The "Weird Ones"
-**Contains:** Echinacea, Valerian, Chamomile, St. John's Wort, Calendula, Borage + any other medicinal herbs you have seeds for
+**Contains:** Medicinal & unusual herbs from your seed collection (excluding cooking herbs already in Wildwood spiral)
 
 - **Purpose:** Dedicated space for medicinal & unusual herbs (specialty/backup medicinal collection)
-- **Cooking herbs** (Lavender, Sage, Rosemary, Mints) live in **Wildwood's Spiral Herb Garden**
-- **Layout:** Taller plants (Valerian, Echinacea) in back; shorter (Chamomile, Calendula) in front
-- **Borage:** Scattered throughout for pollinator support & medicinal use
+- **Cooking herbs in Wildwood spiral:** Lavender, Sage, Rosemary, Mints, Basil, Dill, Catnip
+- **Layout:** Taller plants in back; shorter in front
 - **North side** = Front/Entry (where sign goes)
+
+### **From Your Seed Collection:**
+**EXCLUDE (already in Wildwood):**
+- Lavender, Vera
+- Rosemary
+- Sage, Broadleaf
+- Basil, Holy Kapoor Tulsi
+- Lemon Balm
+- Mint, Common
+- Peppermint
+- Dill
+- Catnip
+
+**USE FOR GLOAM (30 medicinal varieties):**
+Anise, Angelica, Ashwagandha, Astragalus, Bee Balm/Wild Bergamot, Borage, Burdock, Calendula, Chamomile, Chicory, Echinacea, Dandelion, Elderberry, Fenugreek, Feverfew, Hollyhock, Horehound, Hyssop, Licorice/Wild, Marigold/French Petite, Marshmallow, Motherwort, Mullein, Mugwort, Pepper/Cayenne, Plantain, Skullcap, St. John's Wort, Stinging Nettle, Toothache Plant, Valerian, Yarrow
+
+---
+
+## Seed-by-Seed Planting Plan
+
+### **BACK ROW (Tall - 3-5 ft) — Full Sun, Back of Bed**
+| Plant | Qty Available | Height | Spacing | Type | Notes |
+|-------|---|--------|---------|------|-------|
+| **Valerian** | 100 | 4-5 ft | 18-24" | Perennial | Tall, structural, pink/white flowers |
+| **Mullein** | 100 | 3-5 ft | 24" | Biennial | Tall spikes, yellow flowers |
+| **Elderberry, Black** | 50 | 4-6 ft | 24-36" | Shrub/Perennial | Tall, berries for harvest |
+| **Burdock** | 100 | 3-4 ft | 18" | Biennial | Tall, root vegetable medicinal |
+| **Marshmallow** | 50 | 3-4 ft | 18" | Perennial | Tall, pink flowers |
+| **Stinging Nettle** | 100 | 3-4 ft | 12-18" | Perennial | Spreads, very medicinal |
+| **St. John's Wort** | 100 | 2-3 ft | 12" | Perennial | Yellow flowers, medicinal |
+
+### **MIDDLE ROW (Medium - 18-36 in) — Mid-Bed, Morning Sun**
+| Plant | Qty Available | Height | Spacing | Type | Notes |
+|-------|---|--------|---------|------|-------|
+| **Echinacea, Purple** | 100 | 24-36" | 12" | Perennial | Purple coneflowers, medicinal |
+| **Bee Balm, Wild Bergamot** | 100 | 24-36" | 12-18" | Perennial | Red/pink flowers, spreads |
+| **Astragalus** | 25 | 24-30" | 12" | Perennial | Root herb, yellow flowers |
+| **Motherwort** | 50 | 18-24" | 12" | Perennial | Pink flowers, self-seeds |
+| **Mugwort** | 100 | 18-36" | 12" | Perennial | Feathery foliage, spreads |
+| **Yarrow** | 100 | 18-24" | 12" | Perennial | Flat flower clusters, many colors |
+| **Angelica** | 30 | 20-36" | 18" | Biennial | Tall, architectural |
+| **Horehound** | 50 | 18-24" | 12" | Perennial | Hairy, medicinal |
+| **Hyssop** | 200 | 18-24" | 12" | Perennial | Blue/purple flowers, pollinator |
+| **Skullcap** | 50 | 18-24" | 12" | Perennial | Blue flowers, medicinal |
+| **Ashwagandha** | 30 | 18-24" | 12" | Annual/Perennial | Small flowers, root medicinal |
+| **Licorice, Wild** | 40 | 18-24" | 12" | Perennial | Root herb, purple flowers |
+
+### **FRONT ROW (Short/Spreading - 6-18 in) — Front Edge, Full Sun**
+| Plant | Qty Available | Height | Spacing | Type | Notes |
+|-------|---|--------|---------|------|-------|
+| **Calendula, Pacific Beauty** | 100 | 12-18" | 10" | Annual | Orange flowers, USE TONS |
+| **Chamomile, Roman** | 300 | 12-18" | 10-12" | Perennial | White daisy-like, self-seeds |
+| **Borage** | (many) | 12-18" | 12" | Annual | Blue flowers, spreads, pollinator |
+| **Feverfew** | 100 | 12-18" | 10" | Perennial | White flowers, self-seeds |
+| **Chicory** | 200 | 18-24" | 12" | Perennial | Blue flowers, root medicinal |
+| **Dandelion** | 50 | 12-18" | 12" | Perennial | Yellow, entirely medicinal |
+| **Plantain, Common** | 100 | 12-15" | 10" | Perennial | Medicinal, low-growing |
+| **Fenugreek** | 50 | 12-18" | 6-8" | Annual | Beige flowers, seed medicinal |
+| **Marigold, French Petite** | 100 | 12-15" | 8-10" | Annual | Gold/orange, companion plant |
+| **Hollyhock, French** | 25 | 12-18" | 12" | Biennial | Pink/white flowers, medicinal |
+| **Toothache Plant** | 50 | 12-18" | 10" | Annual | Yellow flowers, numbing |
+| **Pepper, Cayenne** | 30 | 12-18" | 12" | Annual | Red peppers, medicinal heat |
+| **Anise** | 100 | 18-24" | 12" | Annual | Feathery foliage, seed medicinal |
 
 ---
 
@@ -75,18 +137,29 @@
 
 ## Planting Map (Phase 1 — NOW)
 
-### **MEDICINAL BED — Perennial Positions (Buy & Plant This Week)**
+### **MEDICINAL BED — Strategy**
 
-| Plant | Qty | Position | Spacing Notes |
-|-------|-----|----------|---------------|
-| **Echinacea (Coneflower)** | 3 | Back center line, staggered | 12" apart in row |
-| **Valerian** | 1 | Back (tall plant) | Center-back, 18" space |
-| **Chamomile** | 2-3 | Mid-bed | 12" apart |
-| **St. John's Wort** | 2 | Mid-bed | 12" apart |
-| **Calendula** | Tons | Fill edges & gaps generously | 10" apart, fill edges |
-| **Borage** | Multiple | Scattered throughout | Intersperse throughout bed |
+You have ~30 medicinal varieties with thousands of seeds. Strategy for the 12x12 bed:
 
-**NOTE:** Cooking herbs (Lavender, Sage, Rosemary, Mints) are planted in **Wildwood's Spiral Herb Garden** -- they are NOT part of The Gloam.
+**Priority Perennials to Buy/Start:**
+| Plant | Qty | Position | Purpose |
+|-------|-----|----------|---------|
+| **Valerian** | 1-2 | Back center | Tall structural |
+| **Echinacea** | 2-3 | Back/mid | Purple, medicinal |
+| **St. John's Wort** | 1-2 | Mid-bed | Medicinal, yellow |
+
+**Fill Remaining Space with Direct Sow/Transplant from Your Seeds:**
+- **Back 3-4 ft:** Mullein (100 seeds), Elderberry (50), Burdock (100), Marshmallow (50), Stinging Nettle (100)
+- **Middle 4-5 ft:** Bee Balm (100), Astragalus (25), Motherwort (50), Mugwort (100), Yarrow (100), Angelica (30), Horehound (50), Hyssop (200), Skullcap (50), Ashwagandha (30), Licorice (40)
+- **Front/Edges:** Calendula (100 - use TONS), Chamomile (300 - use lots!), Borage (many), Feverfew (100), Chicory (200), Dandelion (50), Plantain (100), Fenugreek (50), Marigold (100), Hollyhock (25), Toothache Plant (50), Cayenne Pepper (30), Anise (100)
+
+**APPROACH:**
+1. Direct sow seeds in blocks/patches by height zone
+2. Let plants self-seed and fill in naturally
+3. Thin as needed to prevent overcrowding
+4. You have way more seeds than space — embrace abundance and let pollinators choose favorites
+
+**NOTE:** Cooking herbs (Lavender, Sage, Rosemary, Mints) are in **Wildwood's Spiral Herb Garden** -- NOT in The Gloam.
 
 ### **Visual Spacing**
 
@@ -183,19 +256,28 @@ Mint pot containment happens in **Wildwood's Spiral Herb Garden** (see Wildwood.
 ## Quick Reference: Spacing Cheat Sheet
 
 ```
-MEDICINAL BED — THE GLOAM:
-  ECHINACEA:      12" apart
-  VALERIAN:       18-24" space (tall, back)
-  CHAMOMILE:      12" apart
-  ST. JOHN'S WORT: 12" apart
-  CALENDULA:      10" apart (use TONS generously!)
-  BORAGE:         12-18" apart
-  MOTHERWORT:     12" apart (in buried pot for control)
-  FEVERFEW:       12" apart (in buried pot for control)
-  FENUGREEK:      6" apart
-  HOLY BASIL:     12" apart
+THE GLOAM MEDICINAL BED — All 30+ varieties:
 
-Note: Cooking herbs spacing is in Wildwood's Spiral Herb Garden file
+BACK ROW (3-5 ft) — Plant with generous spacing:
+  Valerian, Mullein, Elderberry, Burdock, Marshmallow,
+  Stinging Nettle, St. John's Wort: 18-24" apart
+
+MIDDLE ROW (18-36") — Plant with 12-18" spacing:
+  Echinacea, Bee Balm, Astragalus, Motherwort, Mugwort,
+  Yarrow, Angelica, Horehound, Hyssop, Skullcap,
+  Ashwagandha, Licorice: 12-18" apart
+
+FRONT ROW (6-18") — Direct sow, thin to spacing below:
+  Calendula (10" apart) — USE TONS, fill gaps!
+  Chamomile (10-12" apart) — 300 seeds available
+  Borage (12" apart) — scatter throughout
+  Feverfew, Chicory, Dandelion, Plantain (10-12")
+  Fenugreek (6-8" apart) — smaller plants
+  Marigold, Hollyhock, Toothache Plant (8-12")
+  Anise (12" apart)
+
+Strategy: You have thousands of seeds. Direct sow in blocks,
+thin seedlings, let self-seed naturally.
 ```
 
 ---
