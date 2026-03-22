@@ -1,43 +1,43 @@
-# The Gloam - Garden Layout
+# The Gloam - Medicinal Garden Layout
 
 ## Overview
 - **North Side**: Front/Entry (Visible from main approach)
 - **Sign Placement**: North edge, dusty purple + silver text
+- **Type**: Medicinal Bed (the "weird ones")
+- **Cooking Herbs Location**: Wildwood's Spiral Herb Garden
 
 ---
 
-## Herb Circle
-Compact spiral with easy access to frequently-used herbs
+## Medicinal Bed Plants — 30+ Varieties from Seed Collection
 
-### Plants
-- **Lavender** - tall, back/edges for structure
-- **Sage** - mid-height, edges
-- **Rosemary** - tall, back
-- **Mint varieties** - all types (contained, spreads within circle)
-- **Lemon Balm** - mid-height
+**BACK ROW (Tall - 3-5 ft):**
+Valerian, Mullein, Elderberry, Burdock, Marshmallow, Stinging Nettle, St. John's Wort
 
----
+**MIDDLE ROW (Medium - 18-36"):**
+Echinacea, Bee Balm/Wild Bergamot, Astragalus, Motherwort, Mugwort, Yarrow, Angelica, Horehound, Hyssop, Skullcap, Ashwagandha, Licorice/Wild
 
-## Medicinal Bed
-"Weird ones" - medicinal & unusual herbs (all those you have seeds for)
+**FRONT ROW (Short - 6-18"):**
+Calendula (use TONS!), Chamomile (300 seeds!), Borage, Feverfew, Chicory, Dandelion, Plantain, Fenugreek, Marigold, Hollyhock, Toothache Plant, Cayenne Pepper, Anise
 
-### Plants
-- **Echinacea** - tall, structural
-- **Calendula** - tons on hand, use generously
-- **Chamomile** - mid-height
-- **St. John's Wort** - tall
-- **Valerian** - tall, back placement
-- **Borage** - scattered throughout this bed
+See Gloam_Medicinal_Garden_Layout.md for full spacing/planting guide
 
 ---
 
-## Borage
-**Borage goes EVERYWHERE** - plant in both herb circle and medicinal bed for coverage
+## Important Separation
+**Cooking Herbs in Wildwood:**
+- Lavender
+- Sage
+- Rosemary
+- All Mint varieties (Peppermint, Spearmint, Common Mint, etc.)
+- Lemon Balm
+- Thyme, Oregano, Basil, Parsley, Chives, Cilantro, Dill
+
+These are in **Wildwood's Spiral Herb Garden** with proper containment for spreaders.
 
 ---
 
 ## Layout Notes
-- Taller plants in back (north side)
+- Taller plants in back (north side toward sun)
 - Sign visible from front (north edge)
-- Some overlap acceptable between zones
-- Borage acts as connector/bridge between areas
+- Borage scattered throughout for pollinator support
+- Calendula fills gaps generously
