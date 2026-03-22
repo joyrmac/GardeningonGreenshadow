@@ -222,9 +222,16 @@ Last frost approaching (April 6). Cool-season crops are in the ground. Time for 
 - [ ] Review Gourd Gate trellis plan — cattle panel + raised beds need building before May
 - [ ] Look at sunflower bed — ready for late April direct sow?
 
-### Monday, March 31 — 10 min
+### Monday, March 31 — 10 min + Strawberry Prep
 - [ ] Final indoor tray check — last day to start pumpkins if missed
 - [ ] Jot down April priorities (top 5 things that need to happen first)
+- [ ] **STRAWBERRY: Order transplants** — Order from Nourse Farms, Stark Bros, or local nursery:
+  - Albion (1-2 packs, 6-packs)
+  - Chandler (1 pack)
+  - San Andreas (1 pack)
+  - Seascape (1 pack)
+  - Lead time: 2-3 weeks, so order by end of week!
+- [ ] **STRAWBERRY: Plan location** — Find 2-3 ft wide x 8-10 ft long spot (full sun, well-draining soil)
 
 ---
 
@@ -240,6 +247,45 @@ Last frost approaching (April 6). Cool-season crops are in the ground. Time for 
 | **Mar 30** | Transplant: broccoli, cauliflower, kale (window closes) | |
 | **Apr 6** | Average last frost — no tender plants outside before this | |
 | **Apr 15** | Previous owner's "safe to plant" date — main Bloomveil planting begins | |
+
+---
+
+---
+
+## APRIL 2026 Preview — Strawberry + Tender Planting
+
+### Early April (April 5-10) — Strawberry Bed Prep
+- [ ] **STRAWBERRY: Receive transplants** (should arrive by now)
+- [ ] **STRAWBERRY: Pick bed location** — full sun, well-draining, close to water
+- [ ] **STRAWBERRY: Buy soil amendments:**
+  - Compost (3-4 cu ft)
+  - Peat moss (2-3 cu ft)
+  - Perlite (1 cu ft)
+  - Straw mulch (1-2 bales)
+  - Drip irrigation kit (optional, $30-50)
+- [ ] **STRAWBERRY: Prep soil** — Clear site of grass/weeds/rocks. Till/dig in compost + peat + perlite to 8-10" depth. Rake smooth, level, water to settle.
+
+### Mid-April (April 15-20) — Strawberry Planting Day
+- [ ] **STRAWBERRY: PLANTING** (2-3 hours)
+  - Mark 3 rows with string (2-3 ft apart)
+  - Dig holes 12-18" apart
+  - Plant 15-21 transplants at correct crown depth (exactly at soil level!)
+  - Water deeply immediately
+  - Mulch with 2-3" straw
+  - Set up drip irrigation or hand-watering plan
+
+### April General Tasks
+- [ ] **Bloomveil annual planting** (weather permitting, all annuals and perennials after April 15)
+- [ ] **Hardened-off seedlings transplanting** (tomatoes, peppers, eggplant after April 15)
+- [ ] **Watermelon/cantaloupe transplanting** (late April, soil 60F+)
+- [ ] **Sunflower direct sow** (late April, after frost danger)
+- [ ] **Corn circle planting** (after buckwheat turned under, late April)
+- [ ] **STRAWBERRY: Daily care** — Water 1" per week, pinch flowers (until June 1), remove runners (keep 1-2/plant), weed 2x/week
+
+### May-June — Strawberry Harvest + Maintenance
+- [ ] **STRAWBERRY: Watch for first flowers** (late April/early May)
+- [ ] **STRAWBERRY: Begin picking** (June harvest peak, especially Chandler)
+- [ ] **STRAWBERRY: Weekly tasks** — Deadhead spent flowers, manage runners, fertilize weekly, check for pests
 
 ---
 
