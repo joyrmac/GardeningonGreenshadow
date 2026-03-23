@@ -153,21 +153,65 @@ Wildwood is the working garden -- food, cut flowers, and herbs. Enclosed by fenc
 
 ## 5. Spiral Herb Garden (with Frog Pond)
 
-**Structure:** Raised spiral -- highest at center (dry, sunny), spiraling down to a pond at the northeast base (moist, shady).
+**Structure:** Raised spiral -- highest at center (dry, sunny), spiraling down to a pond at the northeast base (moist, shady). A dedicated **contained mint bed** on the West Step holds all mint varieties safely mulched.
 
-### Herb Spiral Tiers
+### Current Herb Spiral Layout (ACTUAL, March 2026)
 
-| Tier | Position | Soil | Plants |
-|------|----------|------|--------|
-| **Top** (25-30%) | Center, highest, driest | Well-draining with sand/grit | Rosemary, Thyme, Oregano |
-| **Southwest** (25%) | Mid-level, full sun | Well-draining + compost | Lavender (Hidcote, Spike, Vera, Munstead), Sage (Culinary + White), Basil |
-| **East** (20%) | Mid-level, morning sun | Compost-rich, moderate moisture | Parsley (Italian Flat Leaf), Chives |
-| **North/Bottom** (25-30%) | Lowest, shady, moist | Rich compost, moisture-retaining | Cilantro (Santo), Dill |
+| Section | Position | Plants | Notes |
+|---------|----------|--------|-------|
+| **Top Circle** | Center, highest, driest | 4 Lavenders (surrounding), Sage (regular, center), Lemon Thyme | Full sun, compact |
+| **Upper South Step** | Mid-level, full sun | Rosemary, Italian Parsley, Nasturtium | Well-draining |
+| **Upper North/West** | Winding around mid-level | Mustard, Yarrow, Dill (past season) | Morning/partial sun |
+| **North Side** | Shaded area | Arugula | Shade-tolerant |
+| **West Step (MINT BED)** | Lower, contained, mulched | See mint expansion below | Aggressive spreaders go HERE ONLY |
 
-### Aggressive Spreaders (CONTAIN THESE -- fabric grow bags or pots only)
-Lemon Balm, Peppermint, Spearmint, Catnip, Catmint, Borage (x3)
+### West Step: The Dedicated Mint Bed
 
-**Caution:** Mint spreads by underground runners and WILL take over everything within one season if not contained. Plant in buried pots with the bottom cut out, or in separate containers. This is not optional.
+**Current Mints/Mint-Adjacent (keeping):**
+- Spearmint
+- Mojito Mint
+- Anise Hyssop (licorice-scented, purple centers — not a true mint but mint-family)
+
+**Being Removed (moving to Cat Garden):**
+- Catnip
+- Catmint
+
+**Being Removed (moving to Bay Leaf Tree bed on east house side):**
+- Lemon Balm (needs pruning, shade-tolerant)
+
+**To Add (Mint Expansion):**
+
+| Mint Variety | Flavor Profile | Uses | Height | Source |
+|---|---|---|---|---|
+| Peppermint | Sharp, cooling, classic | Tea, digestive, headaches, cooking | 24-36" | Buy 1-2 plants |
+| Chocolate Mint | Minty chocolate | Desserts, hot chocolate, tea | 18-24" | Buy 1-2 plants |
+| Orange/Bergamot Mint | Citrus-minty | Tea, lemonade, fruit desserts | 18-24" | Buy 1-2 plants |
+| Apple Mint | Mild, fruity-minty | Iced tea, gentle stomach aid | 18-30" | Buy 1 plant |
+| Ginger Mint | Spicy-minty | Tea, nausea, digestion | 12-18" | Buy 1 plant |
+| Bing Mint (optional) | Sweet, clean | Desserts, mojitos, iced tea | 18-24" | Buy 1 plant if available |
+
+**Suggested West Step Layout (Back to Front):**
+```
+BACK (taller, max light)
+  Peppermint (24-36") — center/back position
+  Apple Mint (24-30") — side position
+
+MIDDLE (18-24")
+  Spearmint — established, keep
+  Chocolate Mint (new)
+  Orange Mint (new)
+  Bing Mint (new, if added)
+
+FRONT (shorter, trailing)
+  Mojito Mint — established
+  Ginger Mint (12-18", new)
+  Anise Hyssop — established, keep
+
+EDGE (any runners that cascade down)
+  Spillover from above
+```
+
+**Caution:** All true mints spread by underground runners and WILL take over everything within one season if not contained. The West Step mulched bed is PERFECT for this — contained on all sides, well-mulched, no escape routes. This is the only place mints go in the spiral. All other aggressive spreaders (catnip, catmint, lemon balm) move OUT to dedicated gardens.
 
 ### Frog Pond ("The Alchemist's Pond")
 
