@@ -35,7 +35,7 @@ Wildwood is the working garden -- food, cut flowers, and herbs. Enclosed by fenc
 
 ---
 
-## 2. Vegetable Beds (8 Raised Beds)
+## 2. Vegetable Beds
 
 ### Bed 1 -- Leafy Greens & Brassicas
 
@@ -46,15 +46,6 @@ Wildwood is the working garden -- food, cut flowers, and herbs. Enclosed by fenc
 | Kale (Garden Blend) | 12" | |
 | Broccoli (Calabrese) | 18" | |
 | Cauliflower (Snowball Y) | 18" | |
-
-### Bed 2 -- Root Vegetables
-
-| Plants | Spacing | Companion |
-|--------|---------|-----------|
-| Carrots (Danvers, Parisienne, Purple Dragon, Rainbow, Tendersweet) | 3" | Nasturtiums (pest deterrent) |
-| Onions (Yellow Sweet Spanish, White Nebuka Bunching) | 4-6" | |
-
-**Caution:** Carrots need loose, stone-free soil 12"+ deep. Rocky or clay soil = forked, stubby carrots. Amend heavily with sand and compost, or use raised beds with fresh potting mix.
 
 ### Bed 3 -- Corn & Beans
 
@@ -99,14 +90,6 @@ Wildwood is the working garden -- food, cut flowers, and herbs. Enclosed by fenc
 | Spinach (Bloomsdale) | 6" |
 | Onion (Yellow Sweet Spanish, White Nebuka) | 4-6" |
 | Companions: Parsley, Thyme | Edges |
-
-### Bed 8 -- Root & Onion Strip
-
-| Plants | Spacing |
-|--------|---------|
-| All 5 carrot types + both onion types | 3-6" |
-| Fennel, Chamomile, Calendula | Edges |
-| Basil | Outer edge |
 
 **General veggie bed caution:** Water at soil level, not from overhead. Wet leaves on tomatoes = blight. Wet leaves on cucumbers = powdery mildew. Use soaker hoses or drip irrigation.
 
