@@ -39,7 +39,8 @@ Each garden has one complete file with layout, plant list, spacing, and care not
 | **Berry Beds** | Small_Gardens.md (section) | Fruit production | 2 parallel rows | Blueberries, raspberries |
 | **Porch Planters** | Small_Gardens.md (section) | Container gardens | 3 large pots | Herbs, flowers (season-dependent) |
 | **Front Yard** | Small_Gardens.md (section) | Heat-tolerant zone | Twin beds, west-facing | Drought-hardy annuals/perennials |
-| **Tomato Circle** | Within Wildwood.md | Veggie specialty | Obelisk structure | Tomatoes, peppers, marigolds |
+| **Potion Patch** | Potion_Patch.md + 6 guides | Medicinal healing circle | 10 ft concentric | Valerian, Echinacea, Calendula, Chamomile, Fenugreek, 20+ herbs |
+| **Tomato Circle / The Gloam** | Gloam_Medicinal_Garden_Layout.md | Veggie + outer boundary | Obelisk structure | Tomatoes, peppers, marigolds, basil (Potion Patch inside) |
 
 **What each file contains:**
 - Garden name, location, size, and purpose
@@ -51,7 +52,17 @@ Each garden has one complete file with layout, plant list, spacing, and care not
 - Companion planting notes
 - Notes from previous owner or design thinking
 
-**How to use:** Pick a garden, read the full plan, follow the layout and timeline.
+**Special case — Potion Patch (medicinal healing circle):**
+Each major garden has one file, but Potion Patch has multiple detailed guides due to its complexity:
+- **Potion_Patch.md** — Hub file with overview + links
+- **Potion_Patch_Concentric_Design.md** — Full design reasoning + every plant explained
+- **Potion_Patch_Positioning_Quick_Guide.md** — Practical measurements + placement
+- **Potion_Patch_Planting_Guide.md** — 4-phase timeline + step-by-step instructions
+- **Potion_Patch_Shopping_List.md** — Plants, seeds, costs, budgets
+- **Potion_Patch_Visual_Guide.md** — Diagrams, spacing, growth timeline
+- **Potion_Patch_Accessories_Guide.md** — Mirror, bee house, stepping stones, etc.
+
+**How to use:** For other gardens, pick one file and follow the plan. For Potion Patch, start with Potion_Patch.md, then dive into the detailed guides as needed.
 
 ---
 
@@ -202,13 +213,13 @@ Old drafts, superseded plans, and experimental ideas from the planning process. 
 
 ## 📋 Repository Statistics
 
-- **Total files:** 85 (77 active + 8 hub files)
-- **Active garden guides:** 11 (7 major + 4 small)
+- **Total files:** 92 (84 active + 8 hub files)
+- **Active garden guides:** 12 (7 major + 4 small + 1 detailed/complex = Potion Patch with 7 files)
 - **How-to guides:** 8
 - **Inventory tracking files:** 5
 - **Reference files:** 4
 - **Calendar entries:** 50+ events for 2026
-- **Seeds and plants tracked:** 228 items
+- **Seeds and plants tracked:** 228+ items (Potion Patch adds 30+ plants)
 - **Archived files:** 53 (historical, reference only)
 
 ---
@@ -243,4 +254,4 @@ Old drafts, superseded plans, and experimental ideas from the planning process. 
 ---
 
 *Repository created: March 2026*
-*Updated: March 9, 2026*
+*Updated: March 23, 2026* (Potion Patch documentation added)
