@@ -29,7 +29,7 @@
 
 ---
 
-## 📅 What to Do Right Now (March 9, 2026)
+## 📅 What to Do Right Now (March 23, 2026)
 
 **This week:**
 - [ ] Start seeds indoors: tomatoes, peppers, eggplant (6-8 weeks before April 15)
@@ -45,7 +45,7 @@
 **By April 15:**
 - [ ] All danger of frost has passed — transplant warm-season stuff (tomatoes, peppers, basil, etc.)
 
-See [March_Schedule.md](guides/March_Schedule.md) for the full day-by-day plan.
+See [March_Schedule.md](guides/seasonal/March_Schedule.md) for the full day-by-day plan.
 
 ---
 
@@ -64,12 +64,12 @@ You own **228 seeds and plants** organized by:
 ## 🔍 How to Use This Repo
 
 ### "I want to know what to plant in [garden]"
-→ Go to `beds/[Garden_Name].md`
+→ Go to `garden-beds/[garden-name]/`
 
 Examples:
-- [beds/Wildwood.md](beds/Wildwood.md) — veggie beds layout
-- [beds/Bloomveil.md](beds/Bloomveil.md) — flower garden zones
-- [beds/Small_Gardens.md](beds/Small_Gardens.md) — everything else
+- [Wildwood](garden-beds/11-wildwood/Wildwood.md) — veggie beds layout
+- [Bloomveil](garden-beds/02-bloomveil/Bloomveil.md) — flower garden zones
+- [Small Gardens](garden-beds/07-small-gardens/Small_Gardens.md) — everything else
 
 ### "What grows in my zone now?"
 → [guides/Planting_Calendar_NC.md](guides/Planting_Calendar_NC.md)
@@ -92,16 +92,16 @@ Examples:
 
 All your garden dates in one place. Add to your phone/Google Calendar:
 
-**URL:** `https://raw.githubusercontent.com/joyrmac/GardeningonGreenshadow/main/gardening/Joy_Garden_2026.ics`
+**URL:** `https://raw.githubusercontent.com/joyrmac/GardeningonGreenshadow/main/planning/Joy_Garden_2026.ics`
 
-[Full instructions here.](../README.md#subscribing-to-the-calendar)
+[Full instructions here.](README.md#subscribing-to-the-calendar)
 
 ---
 
 ## 🎯 Next Steps
 
-1. **Today:** Read [Garden_Overview.md](Garden_Overview.md) (the philosophy part makes sense of everything)
-2. **This week:** Check [March_Schedule.md](guides/March_Schedule.md) and start seeds
+1. **Today:** Read [Garden_Overview.md](planning/Garden_Overview.md) (the philosophy part makes sense of everything)
+2. **This week:** Check [March_Schedule.md](guides/seasonal/March_Schedule.md) and start seeds
 3. **By April 15:** Have seedlings hardened off and ready to plant
 4. **Ongoing:** Reference [Planting_Calendar_NC.md](guides/Planting_Calendar_NC.md) for what's next
 
@@ -110,19 +110,19 @@ All your garden dates in one place. Add to your phone/Google Calendar:
 ## 🔗 Key Files (Bookmark These)
 
 - **What to plant when:** [Planting_Calendar_NC.md](guides/Planting_Calendar_NC.md)
-- **This month's plan:** [March_Schedule.md](guides/March_Schedule.md)
+- **This month's plan:** [March_Schedule.md](guides/seasonal/March_Schedule.md)
 - **How to do things:** [Planting_How_To.md](guides/Planting_How_To.md)
 - **Troubleshoot problems:** [Garden_Care_and_Troubleshooting.md](guides/Garden_Care_and_Troubleshooting.md)
 - **All your seeds:** [Master_Seed_and_Plant_List.md](inventory/Master_Seed_and_Plant_List.md)
 
 ---
 
-**Want the full deep dive?** → [Garden_Overview.md](Garden_Overview.md)
+**Want the full deep dive?** → [Garden_Overview.md](planning/Garden_Overview.md)
 
 **Got a question?** → Check the relevant file in `guides/` or `reference/`
 
-**Ready to plan your space?** → Pick a garden in `beds/` and dive in.
+**Ready to plan your space?** → Pick a garden in `garden-beds/` and dive in.
 
 ---
 
-*Last updated: March 9, 2026*
+*Last updated: March 23, 2026*
