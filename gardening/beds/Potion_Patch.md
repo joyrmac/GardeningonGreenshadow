@@ -1,351 +1,222 @@
-# Potion Patch — Medicinal Herb Circle
+# Potion Patch — Concentric Medicinal Healing Garden
 
-> **Location:** Inside the Tomato Circle (Wildwood)
-> **Size:** 12 ft × 12 ft circular medicinal bed
-> **Center:** Surrounded by tomato obelisks and companion plants
-> **Design:** Three-phase approach using 30+ medicinal seed varieties
+> **Sacred geometry. Healing herbs. Pollinators everywhere. You stand in the center, surrounded by medicine.**
 
----
-
-## Philosophy
-
-**Potion Patch** is a focused medicinal herb garden nested inside the tomato circle at Wildwood. Unlike The Gloam location (which now hosts the tomato obelisks), this compact bed captures the intensity of healing herbs in a manageable space. Aggressive spreaders (lemon balm, catnip, spearmint, etc.) remain safely contained in the Spiral Herb Garden's buried pots — Potion Patch focuses on non-invasive medicinal varieties.
+**Location:** Inside The Gloam Tomato Circle (Wildwood section)
+**Size:** 10 ft diameter C-shaped bed opening south
+**Purpose:** Medicinal herbology, pollinator support, sacred geometry, healing power circle
+**Design:** 3 concentric rings (tall center, medium middle, short edges) + C-shaped opening
+**Timeline:** 3-year establishment (Year 1 foundation → Year 3+ full production)
 
 ---
 
-## Design Layout
+## Quick Links to Detailed Guides
 
-```
-                    NORTH (FRONT)
-                          ↑
-
-     EDGE          0 1 2 3 4 5 6 7 8 9 10 11 12
-                   +—————————————————————————————+
-              0    | MULCH RING                  |
-              1    | (between Potion Patch       |
-              2    |  & tomato obelisks)         |
-              3    |                             |
-              4    | POTION PATCH                |
-              5    | Ech   Val   Ech         Ech |
-              6    | (tall back)                 |
-              7    |                             |
-              8    | Cal   Chamo  STJ    Borage |
-              9    | (fill & scatter)            |
-             10    |                             |
-             11    | Valerian (back)             |
-             12    +—————————————————————————————+
-```
+| Guide | Purpose | Read This When... |
+|-------|---------|-------------------|
+| **[Potion_Patch_Concentric_Design.md](Potion_Patch_Concentric_Design.md)** | Full design reasoning, every plant explained | You want to understand the "why" behind each placement |
+| **[Potion_Patch_Positioning_Quick_Guide.md](Potion_Patch_Positioning_Quick_Guide.md)** | Practical positioning with exact measurements | You're ready to mark the circle and start planting |
+| **[Potion_Patch_Planting_Guide.md](Potion_Patch_Planting_Guide.md)** | 4-phase timeline (March→June), spacing tables, maintenance | You're ready to plant and need step-by-step instructions |
+| **[Potion_Patch_Shopping_List.md](Potion_Patch_Shopping_List.md)** | Complete plant/seed list with costs, budgets, sourcing | You need to buy plants and seeds ($127-425) |
+| **[Potion_Patch_Visual_Guide.md](Potion_Patch_Visual_Guide.md)** | Diagrams, spacing reference, growth timeline | You're a visual learner or want to see growth progression |
+| **[Potion_Patch_Accessories_Guide.md](Potion_Patch_Accessories_Guide.md)** | Mirror, bee house, stepping stones, drying rack, more | You want to add witchy/functional touches |
 
 ---
 
-## Three-Phase Planting Strategy
+## The Design at a Glance
 
-### **Why Phased?**
-You have 30+ medicinal varieties with thousands of seeds. This 3-phase approach:
-- **Phase 1:** Creates structure with keystone perennials
-- **Phase 2:** Manages spreaders in buried pots (or omits them — none here by design)
-- **Phase 3:** Fills remaining space with direct-sown annuals & managed perennials
-- **Result:** A beautiful, compact medicinal bed with companion mulch buffer to the tomatoes
-
-### **NOTE: Aggressive Spreaders**
-✋ **Lemon Balm, Catnip, Spearmint, Peppermint, Mint, Common** are NOT in Potion Patch.
-These thrive in **Wildwood's Spiral Herb Garden** (buried pots, carefully watched). Keep them there for safety.
-
----
-
-## Plant Reference by Phase
-
-### **PHASE 1 (Late March) — Keystone Perennials (Buy as starts or large seedlings)**
-
-| Plant | Qty | Height | Position | Spacing | Notes |
-|-------|-----|--------|----------|---------|-------|
-| **Valerian** | 1-2 | 4-5 ft | Back center | 24" apart | Pink/white, tall structure |
-| **Echinacea, Purple** | 2-3 | 24-36" | Mid-back | 12-18" apart | Purple coneflowers, medicinal |
-| **St. John's Wort** | 1-2 | 18-24" | Mid-bed | 12-18" apart | Yellow flowers, medicinal |
-| **Horehound** | 1 | 18-24" | Mid-bed | 18" | Sturdy, hairy, medicinal |
-
----
-
-### **PHASE 2 (April) — Buried Pot Containment (OPTIONAL — Skip if not needed)**
-
-Since aggressive spreaders live in the Spiral Herb Garden, you may skip this phase entirely.
-
-**If you want contained medicinal herbs here:**
-
-| Pot | Plant | Qty | Notes |
-|-----|-------|-----|-------|
-| 1 | **Feverfew** | 1-2 starts | Alternative: plant open + deadhead aggressively |
-| 2 | **Motherwort** (optional) | 1 start | Plant open + deadhead if preferred |
-
----
-
-### **PHASE 3 (May-June) — Direct Sow Fill (use blocks/patches, thin seedlings)**
-
-**BACK ZONE (behind Valerian, tall plants):**
-
-| Plant | Seeds to Sow | Height | Notes |
-|-------|-------|--------|-------|
-| **Mullein** | 25-50 | 3-5 ft | Tall spikes, thin to 3-5 plants |
-| **Yarrow** | 25 | 18-24" | Deadhead spent flowers to contain |
-| **Angelica** | 15 | 20-36" | Tall, architectural, self-seeds |
-
-**MIDDLE ZONE (around structural perennials, med height):**
-
-| Plant | Seeds to Sow | Height | Notes |
-|-------|-------|--------|-------|
-| **Astragalus** | 20 | 24-30" | Small cluster, minimal spread |
-| **Hyssop** | 50 | 18-24" | Pollinator favorite, can self-seed |
-| **Skullcap** | 15 | 18-24" | Blue flowers, medicinal |
-| **Ashwagandha** | 20 | 18-24" | Medicinal root, modest spread |
-
-**FRONT ZONE & EDGES (front perimeter, short plants):**
-
-| Plant | Seeds to Sow | Height | Notes |
-|-------|-------|--------|-------|
-| **Calendula, Pacific Beauty** | 80 | 12-18" | USE GENEROUSLY, fills gaps, deadhead some |
-| **Chamomile, Roman** | 100 (of 300) | 12-18" | Prolific self-seeder, thin patches |
-| **Borage** | scattered | 12-18" | Scatter throughout, deadhead to manage |
-| **Fenugreek** | 30 | 12-18" | Annual, doesn't spread |
-| **Marigold, French Petite** | 50 | 12-15" | Annual, companion plant |
-| **Hollyhock, French** | 15 | 12-18" | Biennial, self-seeds moderately |
-| **Anise** | 50 | 18-24" | Annual, feathery foliage |
-| **Toothache Plant** | 20 | 12-18" | Annual, novelty |
-| **Cayenne Pepper** | 15 | 12-18" | Annual, red peppers, medicinal heat |
-
----
-
-## Detailed Phased Layout
-
-### **PHASE 1 (Late March) — Keystone Perennials**
-
+### C-Shape Opening South
 ```
                     NORTH
-                      ↑
+                     ↑
 
-     ┌─────────────────────────────────────────┐
-     │                                         │
-     │      ⊙ VAL          ⊙ VAL               │  BACK
-     │   (Valerian 1)   (Valerian 2)           │  (Tall: 4-5 ft)
-     │     24" apart                           │
-     │                                         │
-     │   ⊙ ECH   ⊙ ECH   ⊙ ECH                │  MID
-     │  (1)      (2)      (3)                  │  (Med: 24-36")
-     │  Echinacea 12-18" apart                │
-     │                                         │
-     │   ⊙ SJW       ⊙ HOR                    │  MID
-     │(St. John's) (Horehound)                 │  (18-24")
-     │                                         │
-     │                                         │
-     │  Remaining space: mulch, prep for       │  FRONT
-     │  Phase 2 (pots) & Phase 3 (direct sow) │  (6-18")
-     │                                         │
-     └─────────────────────────────────────────┘
-          4-6 plants total
+        ╔═════════════════════════╗
+        ║   TALL CENTER (3-5 ft)  ║
+        ║ Valerian, Mullein,      ║
+        ║ Echinacea, Angelica     ║
+        ╠═════════════════════════╣
+        ║  MEDIUM MIDDLE (18-36") ║
+        ║ Astragalus, Yarrow,     ║
+        ║ St. John's, Hyssop      ║
+        ╠═════════════════════════╣
+        ║   SHORT OUTER (6-18")   ║
+        ║ Calendula, Chamomile,   ║
+        ║ Borage, Fenugreek       ║
+        ╚═════════════════════════╝
+                    │
+              OPENS SOUTH ↓
+           (Full sunlight entry)
+```
+
+### Why This Works
+- **Stand IN the center** — surrounded by concentric rings of healing herbs
+- **Tall plants on north** — protection, wind break, visual focal point
+- **C-shaped opening south** — maximum light floods to center, creates "threshold" entry
+- **Sacred geometry** — nested circles = traditional protection + power pattern
+- **Ecological** — tall plants don't shade shorter ones, nitrogen fixers distributed, pollinators supported
+- **Witchy** — standing in your own medicine circle, intentional design, everything on purpose
+
+---
+
+## Plant List by Ring
+
+### CENTER RING (Ring 1) — Tall Focal Plants (3-5 ft)
+- **Valerian** (2) — Deep roots, calming medicine, perennial anchor
+- **Mullein** (3-5) — Respiratory, self-seeding, biennial
+- **Echinacea** (2-3) — Immune support icon, perennial
+- **Angelica** (2-3) — Architectural, warming, biennial
+
+### MIDDLE RING (Ring 2) — Structural Plants (18-36")
+- **Astragalus** (1-2) — Adaptogenic immune, slow-build perennial, nitrogen fixer
+- **Yarrow** (4-6) — Beneficial wasp magnet, bleeds stopping, perennial
+- **St. John's Wort** (1-2) — Mood support, yellow flowers, perennial
+- **Hyssop** (6-8) — Respiratory, spike flowers, moderate spreader
+- **Horehound** (1) — Cough support, unique texture, perennial
+
+### OUTER RING (Ring 3) — Abundant Annuals (6-18")
+- **Calendula** (8-10) — Continuous healing flowers, prolific
+- **Chamomile** (10-15) — Sleep + digestion, heavy self-seeder
+- **Borage** (4-6) — Blue star flowers, courage herb, moderate spreader
+- **Fenugreek** (10-12) — YOUR TEA PLANT, seed harvest
+- **French Marigold** (8-10) — Companion pest deterrent
+- **Anise** (8-10) — Digestive, feathery foliage
+- **Hollyhock, French Dwarf** (5-8) — Vertical accent, biennial
+
+---
+
+## 3-Year Evolution Plan
+
+### YEAR 1 (Foundation)
+- Plant keystone perennials (March-April)
+- Direct sow annuals (May-June)
+- Deadhead regularly to manage self-seeders
+- Establish watering + maintenance rhythm
+- **Expected harvest:** Calendula flowers, Fenugreek leaves + seeds, some Echinacea
+
+### YEAR 2 (Filling In)
+- Perennials bloom fuller + bigger
+- Self-seeders fill gaps (Chamomile, Borage volunteers)
+- Start harvesting St. John's Wort (June solstice)
+- Mullein first-year rosettes become second-year flowers
+- Angelica rosettes become tall flower spikes
+- **Expected harvest:** Calendula salves, Chamomile tea, St. John's oil, Fenugreek seeds
+
+### YEAR 3+ (Full Production)
+- Astragalus roots ready to harvest (year 3+)
+- System self-sustaining with minimal replanting
+- Perennials at full size + productivity
+- Annual self-seeding handles much of replacement
+- You're in full "tend + harvest" mode
+- **Expected harvest:** Full medicinal production — teas, tinctures, salves, roots, seeds
+
+---
+
+## What You'll Produce
+
+### Year 1 (Fresh + Dried)
+- Calendula salve + oil
+- Chamomile tea
+- Fenugreek seed tea
+- Fresh borage flowers (edible)
+
+### Year 2+
+- Calendula continuous healing medicine
+- Chamomile calming tea
+- Echinacea immune tincture
+- St. John's Wort mood oil
+- Fenugreek seed tea (your daily drink)
+- Yarrow for wound stopping
+- Mullein respiratory tea
+- Angelica warming tea
+- Astragalus root decoction (deep immunity)
+- Hyssop respiratory blend
+- Horehound cough drops
+
+---
+
+## Accessories (Optional But Lovely)
+
+Eight witchy/functional touches to add:
+
+1. **Plant labels** — mark each plant type
+2. **Hidden mirror** — low in center, bounces southern light
+3. **Butterfly puddling station** — SE corner, minerals + water
+4. **Bee house** — back north, native bee hotel
+5. **Bee cups** — scattered, 3-4 shallow water dishes
+6. **Stepping stones** — path from south opening to center
+7. **Harvest basket hook** — SW side, easy reach
+8. **Drying rack** — E side, dappled shade, dry herbs right there
+
+See [Potion_Patch_Accessories_Guide.md](Potion_Patch_Accessories_Guide.md) for placement + details.
+
+---
+
+## Quick Start: Where to Begin
+
+**If you have 30 minutes:**
+1. Read this file (overview)
+2. Skim [Potion_Patch_Concentric_Design.md](Potion_Patch_Concentric_Design.md) — understand the "why"
+3. Look at [Potion_Patch_Visual_Guide.md](Potion_Patch_Visual_Guide.md) — see diagrams
+
+**If you're ready to plant (next week):**
+1. Read [Potion_Patch_Positioning_Quick_Guide.md](Potion_Patch_Positioning_Quick_Guide.md) — exact measurements
+2. Read [Potion_Patch_Planting_Guide.md](Potion_Patch_Planting_Guide.md) — timeline + instructions
+3. Get [Potion_Patch_Shopping_List.md](Potion_Patch_Shopping_List.md) — know what to buy
+
+**If you want all the details:**
+- Read guides in order: Design → Visual → Positioning → Planting → Shopping → Accessories
+- Bookmark all 6 files for reference throughout the year
+
+---
+
+## Maintenance at a Glance
+
+### Weekly (May-September)
+- Deadhead Calendula (continuous harvest)
+- Deadhead Chamomile 50% (prevent total chaos)
+- Deadhead Yarrow 50% (manage spreading)
+- Water deeply 1-2x per week
+- Thin seedlings as they appear (especially Chamomile)
+
+### Seasonal
+- **March-April:** Plant perennials
+- **May-June:** Direct sow annuals, thin seedlings
+- **June-July:** Harvest St. John's Wort (flowers)
+- **August:** Fenugreek seed harvest
+- **September-October:** Echinacea seeds mature, deadhead or let drop
+- **Fall:** Optional: let spent plants decompose in place for winter
+
+---
+
+## The Story This Garden Tells
+
+> *You're not just growing herbs. You're creating a protected circle of healing power, nested inside the Tomato Circle at Wildwood, which sits in a garden full of sacred geometry. Tall guardians in back reach toward the ancestors + sky. Abundant fillers in front feed the bees that feed the whole property. Fenugreek returns each year (abundance perpetuating itself). Astragalus goes deep (roots deepen each year). Calendula + Chamomile provide continuous healing. Every plant serves the whole system. Every plant is there on purpose. When you stand in the center, you're standing in your own power — surrounded by medicine that you grew.*
+
+---
+
+## Related Gardens
+
+- **The Gloam Tomato Circle** — Outer ring of tomato obelisks + companion planting (Gloam_Medicinal_Garden_Layout.md)
+- **Wildwood Spiral Herb Garden** — Cooking herbs (sage, rosemary, lavender, mints in buried pots)
+- **Wayward Meadow** — Pollinator habitat that feeds this garden
+- **Bloomveil** — Cut flowers for pollinators that cross-visit
+
+---
+
+## File Structure
+
+```
+gardening/beds/
+├── Potion_Patch.md ← YOU ARE HERE (hub file)
+├── Potion_Patch_Concentric_Design.md (philosophy + reasoning)
+├── Potion_Patch_Positioning_Quick_Guide.md (measurements + placement)
+├── Potion_Patch_Planting_Guide.md (timeline + instructions)
+├── Potion_Patch_Shopping_List.md (costs + sourcing)
+├── Potion_Patch_Visual_Guide.md (diagrams + growth)
+└── Potion_Patch_Accessories_Guide.md (witchy touches)
 ```
 
 ---
 
-### **PHASE 3 (May-June) — Direct Sow Fill in Blocks**
-
-```
-BACK ZONE (behind Valerian):
-  Mullein (25-50 seeds) | Yarrow (25 seeds) | Angelica (15 seeds)
-
-MIDDLE ZONE (around Echinacea & St. John's Wort):
-  Astragalus | Hyssop block | Skullcap | Ashwagandha
-
-FRONT/EDGES (around bed perimeter):
-  Calendula block (80 seeds) | Chamomile patch (100 of 300) | Borage scattered
-  Fenugreek | Marigold | Hollyhock | Anise | Toothache Plant | Cayenne Pepper
-
-Rough spacing: Direct sow in 2-3 ft blocks, thin seedlings to proper density
-```
-
----
-
-## Mulch Strategy
-
-**Key difference from The Gloam:** Potion Patch sits **inside** the tomato circle, with a protective mulch ring between the medicinal herbs and the tomato obelisks.
-
-### **Mulch Rings**
-
-1. **Inner ring (around Potion Patch perimeter):** 2-3" mulch, 1" away from plant crowns
-2. **Buffer zone (between Potion Patch & tomato obelisks):** 2-3" mulch, creates clear separation
-3. **Outer ring (around entire tomato circle):** 2-3" mulch, maintains clean aesthetics
-
-This prevents:
-- Medicinal herbs from crowding tomatoes
-- Shared root zones
-- Disease spread between beds
-- Visual clutter
-
----
-
-## Planting Instructions by Phase
-
-### **PHASE 1 (Late March) — Clear & Plant Keystone Perennials**
-
-**Bed Prep:**
-- [ ] Clear Potion Patch of weeds/grass
-- [ ] Spread compost/worm castings 3-4" deep, till in
-- [ ] Rake smooth, level
-- [ ] Install mulch ring around perimeter (2-3" depth, 1" from crowns)
-
-**Buy as starts (or grow large seedlings indoors):**
-- [ ] Valerian x1-2
-- [ ] Echinacea (Coneflower) x2-3
-- [ ] St. John's Wort x1-2
-- [ ] Horehound x1
-
-**Plant:**
-- [ ] 1-2 **Valerian** — back center, 24" apart
-- [ ] 2-3 **Echinacea** — mid-back, 12-18" apart
-- [ ] 1-2 **St. John's Wort** — mid-bed, 12-18" apart
-- [ ] 1 **Horehound** — mid-bed, 18" apart
-
-**Finish:**
-- [ ] Mulch around each (2-3" depth, 1" from crowns)
-- [ ] Mulch buffer zone between Potion Patch and tomato obelisks (2-3")
-- [ ] Water deeply
-- [ ] Leave remaining space (~100 sq ft) clear/mulched for Phase 3
-
-**Result:** 4-6 well-spaced plants anchoring the bed
-
----
-
-### **PHASE 3 (May-June) — Direct Sow Fill in Blocks**
-
-**Strategy:** Create 2-3 ft blocks by height zone. Sow seeds directly, thin seedlings after germination.
-
-**BACK ZONE (behind Valerian):**
-- [ ] **Mullein** — sow 25-50 seeds, thin to 3-5 plants
-- [ ] **Yarrow** — sow 25 seeds, thin to 4-6 plants, plan weekly deadheading
-- [ ] **Angelica** — sow 15 seeds, thin to 2-3 plants
-
-**MIDDLE ZONE (around structural perennials):**
-- [ ] **Astragalus** — sow 20 seeds in block
-- [ ] **Hyssop** — sow 50 seeds, thin to 6-8 plants
-- [ ] **Skullcap** — sow 15 seeds
-- [ ] **Ashwagandha** — sow 20 seeds in block
-
-**FRONT & EDGES (front perimeter):**
-- [ ] **Calendula** — sow 80 seeds, thin to 8-10, deadhead some
-- [ ] **Chamomile** — sow 100 seeds (SAVE 200 EXTRA!), thin patches, deadhead some
-- [ ] **Borage** — scatter seeds throughout, thin to 4-6 plants
-- [ ] **Fenugreek** — sow 30 seeds
-- [ ] **Marigold** — sow 50 seeds in scattered patches
-- [ ] **Hollyhock** — sow 15 seeds, space 12" apart
-- [ ] **Anise** — sow 50 seeds in block
-- [ ] **Toothache Plant** — sow 20 seeds
-- [ ] **Cayenne Pepper** — sow 15 seeds
-
-**Finish:**
-- [ ] Water all areas well
-- [ ] Begin maintenance schedule (see below)
-- [ ] Maintain mulch buffer to tomatoes
-
-**Result:** Full, diverse medicinal bed with clear separation from tomato obelisks
-
----
-
-## Ongoing Maintenance (Phase 4: June-August+)
-
-**CRITICAL DEADHEADING SCHEDULE (prevents self-seeding chaos):**
-
-Weekly deadheading:
-- Yarrow
-- Feverfew (if planted)
-
-Bi-weekly deadheading:
-- Calendula (some)
-- Chamomile (some)
-- Hyssop
-
-As-needed removal:
-- Extra Mullein seedlings (keep 3-5)
-- Extra Chamomile seedlings if too dense
-- Any Angelica runts
-
-**THINNING SEEDLINGS:**
-- 2-4 weeks after sowing: remove weak/crowded seedlings
-- Keep strongest-looking plants at proper spacing
-
-**WATERING:**
-- Soil-level watering 1x/week (or 2x in peak heat)
-- Water Potion Patch AND tomato obelisks separately to avoid cross-contamination
-- Use soaker hose or drip system for precision
-
-**NOTES:**
-- You have extra seeds of many varieties — save them for future projects or other beds
-- Year 2+: Self-seeders will naturalize — manage by selective deadheading/removal
-- Perennials will fill in more densely by year 2
-- **Keep aggressive spreaders in Spiral Herb Garden pots** — do NOT migrate them here
-
----
-
-## Quick Reference: Spacing & Management
-
-```
-PHASE 1 KEYSTONE PLANTS (buy as starts):
-  Valerian:         24" apart (1-2 plants)
-  Echinacea:        12-18" apart (2-3 plants)
-  St. John's Wort:  12-18" apart (1-2 plants)
-  Horehound:        18" apart (1 plant)
-
-PHASE 3 DIRECT SOW (thin after germination):
-  BACK (tall):
-    Mullein:        24" apart (3-5 plants)
-    Yarrow:         12" apart (4-6 plants, deadhead)
-    Angelica:       18" apart (2-3 plants)
-
-  MIDDLE (medium):
-    Astragalus:     12" apart
-    Hyssop:         12" apart (6-8 plants)
-    Skullcap:       12" apart
-    Ashwagandha:    12" apart
-
-  FRONT (short):
-    Calendula:      10" apart (fill edges!)
-    Chamomile:      10-12" apart (thin heavily!)
-    Borage:         12" apart (scatter)
-    Fenugreek:      6-8" apart
-    Marigold:       8-10" apart
-    Hollyhock:      12" apart
-    Anise:          12" apart
-    Toothache:      10" apart
-    Cayenne:        12" apart
-
-MULCH MANAGEMENT:
-  • Inner ring: 2-3" around plant bases
-  • Buffer zone: 2-3" between Potion Patch & tomato obelisks
-  • Maintain separation to prevent disease/pest spread
-```
-
----
-
-## Notes
-
-- **Location:** Inside tomato circle, Wildwood garden
-- **Water source:** Keep bucket/hose nearby — medicinal herbs prefer consistent moisture
-- **Sun:** Full sun (6+ hours). Afternoon shade OK in peak NC summer heat
-- **Mulch:** 2-3" depth everywhere, 1" away from crowns (rot prevention)
-- **Pest management:** Medicinal herbs are hardy — minimal pest pressure
-- **Harvest:** Start year 2+ for best results. Year 1 = establishment
-- **Aggressive spreaders:** Keep in Spiral Herb Garden pots (Lemon Balm, Catnip, Spearmint, etc.)
-
----
-
-## Plant Key
-
-```
-⊙  = Single perennial plant
-🔵 = Buried pot (if using contained plants)
-~~~ = Mulch ring
-→  = Growth direction / height progression
-```
-
----
-
-**Ready to plant Potion Patch! 🌿✨**
-
+*Garden designed: March 2026*
 *Last updated: March 23, 2026*
