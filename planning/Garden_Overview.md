@@ -102,8 +102,9 @@ HERB SPIRAL / ALCHEMIST'S POND
   │ Overflow water irrigates surrounding beds
   │
 CAT GARDEN → Catnip and catmint attract pollinators when blooming
-BLUEBERRY & RASPBERRY BED → Shared acidic soil zone, companion plants attract pollinators for fruit set
-TOMATO CIRCLE → Tomatoes, peppers, marigolds on obelisks — pollinators cross-visit from nearby beds
+RASPBERRY BED → 6 raspberries on trellis along north fence, high-value crop, attracts beneficial insects
+WILDWOOD BLUEBERRY BARRELS → 3 barrel planters in Wildwood among tomato circle & Potion Patch, isolated acidic soil
+TOMATO CIRCLE → Tomatoes, peppers, marigolds on obelisks — pollinators cross-visit from nearby beds and blueberry area
 ```
 
 **The cycle:** Wayward Meadow raises the pollinators. Wildwood grows the food. Bloomveil feeds the soul and the bees. The herb spiral heals you and controls pests. Fernwood recycles what falls. Compost from all beds feeds the next season. Nothing is wasted.
@@ -175,7 +176,9 @@ These are on the property map but don't have detailed plans. One-liners for now:
 |--------|----------------------------------|
 | **Cat Garden** | U-shaped railroad tie bed with tulip magnolia -- catnip, catmint, cat grass, lounging zone |
 | **Porch Planters** | 3 large pots (sun, shade, herb) |
-| **Blueberry & Raspberry** | Parallel rows with picking aisle -- 4 blueberries + 4 Red Latham raspberries, shared acidic soil |
+| **Raspberry Bed** | 26 ft × 4 ft north fence line -- 6 raspberries (3 Red Latham + 3 Jewel black) on wire trellis |
+| **Blueberry Barrels** | 3 barrel planters (Vigoro Jackson) in Wildwood -- lava rock + azalea soil + play sand, pine needle mulch |
+| **Rhubarb Bed** | Separate east fence line -- spring planting, no harvest year 1 |
 | **Front Yard** | Twin Beds / Sunlit Threshold -- heat-tolerant west-facing |
 
 ---

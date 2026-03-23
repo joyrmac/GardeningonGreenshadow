@@ -142,61 +142,211 @@ All of these go in the open west end where sunlight enters:
 
 ---
 
-## Blueberry & Raspberry & Strawberry Bed (Integrated Berry System)
+## Raspberry Bed (26 ft × 4 ft)
 
-**Dimensions:** 26 ft long × 3.5-4 ft wide. Runs along north fence line (full sun exposure).
-**What's actually here (March 2026):** 4 blueberry bushes, 4 red latham raspberries (already in place), rhubarb.
-**New additions:** 3 Black Raspberries (Jewel variety), 50 strawberries (NEW — planted in Wildwood in in-ground hill mounds instead of in this bed).
+**Location:** North fence line, full sun exposure.
+**Layout:** Single continuous bed, 26 ft long × 4 ft wide. **All 6 raspberry canes spread across the full 26 feet** on a wire trellis.
 
-### Current Layout: Blueberry Row
+### Finalized Raspberry Layout
 
-4 bushes, 4-5 ft apart, ripening in sequence:
-1. O'Neal (late May) -- SW corner
-2. Patriot (early June)
-3. Bluecrop (mid-June)
-4. Legacy (late July) -- SE corner
-
-### Red Latham Raspberry Row (south side, parallel to blueberries)
-
-4 Red Latham canes already in place, with a 3-4 ft picking aisle between them and the blueberries.
+All raspberries in one row on the north fence line, evenly spaced across 26 feet:
 
 ```
-Blueberry row:  O'Neal --- Patriot --- Bluecrop --- Legacy
-                         (4-5 ft apart, north fence line)
-— 3-4 ft picking aisle (mulch path or mow strip) —
-Raspberry row:  RL --- RL --- RL --- RL
-                (4-5 ft apart, wire trellis, Red Latham = summer bearing)
+FENCE LINE (north)
+┌────────────────────────────────────────────────────────────┐
+│  RL  ·  JB  ·  RL  ·  JB  ·  RL  ·  JB                    │
+│     (26 feet of trellis, all raspberries spread full length) │
+└────────────────────────────────────────────────────────────┘
+
+RL = Red Latham raspberry
+JB = Jewel black raspberry
+Spacing: ~3-4 ft apart, interspersed for continuous harvest (early June through late July)
 ```
 
-### Black Raspberry Row (NEW — Jewel variety)
+**Red Latham Raspberries (3 canes):** Summer bearing, ripen late June-July
+**Jewel Black Raspberries (3 canes):** Summer bearing, ripen early June (1-2 weeks before Red Lathams), cold hardy
 
-**3 Black Raspberries (Jewel) to be added** — placed in this bed alongside the Red Lathams. Black raspberries fruit on 2nd-year canes like Red Lathams, but:
-- Fruit 1-2 weeks earlier than Red Lathams (early June, before Red Lathams peak in July)
-- More cold hardy, compact growth (good for tight spaces)
-- Jewel is a reliable NC variety
+**Why this works:**
+- Both need acidic soil (pH 5.5-6.5). Same amendments (peat moss, pine fines).
+- Interspersed spacing avoids tangling and maximizes picking access
+- Continuous fruit from early June (Jewel) through late July (Red Latham)
+- Full fence-line exposure = maximum air circulation for disease prevention in humid NC
 
-**Placement options:**
-1. **Interspersed with Red Lathams** (2-3 ft spacing mix): Creates a continuous raspberry row with two fruiting times
-2. **At end of row as accent**: Group 3 Jewels at the west or east end, slightly offset
-3. **Back row** (if space allows): 3-4 ft north of the Red Lathams, creating a back-row berry tier
+**Wire trellis:**
+- 2 horizontal wires at 2 ft and 4 ft heights
+- Tie canes loosely as they grow; black raspberries arch more than red, so train them upward
+- Forked posts at each end (from brush pile) or 2 metal T-posts ($4-6 each)
 
-**Recommended:** Option 1 (interspersed spacing) — gives you continuous raspberries from early June (Jewel) through July (Red Latham) and adds variety.
+---
 
-**Why this works:** Both crops want acidic soil (pH 5.5-6.5 for raspberries, 4.5-5.5 for blueberries). Same amendments (peat moss, pine fines, elemental sulfur), same watering schedule. The picking aisle keeps them from tangling and gives airflow — critical for both crops in humid NC.
+## Blueberry Beds (3 Barrel Planters in Wildwood)
 
-### Raspberry Trellis
+**Location:** Wildwood area, sunny spot (full sun, same area as Tomato Obelisk Circle and Potion Patch).
+**Container:** Vigoro Jackson barrel planters, 26"W × 26"D × 16.5"H (~15-20 gallon capacity per planter). 3 planters total.
 
-Two options depending on what you have:
+### Why Barrel Planters for Blueberries?
 
-**Option A — brush pile stakes + wire (free):**
-- Drive 2 sturdy forked posts (from brush pile, NE of Wildwood) at each end of the row, 6-8" deep
-- Run galvanized wire or heavy jute twine at 2 ft and 4 ft heights
-- Tie canes loosely to wires as they grow
+✓ **Acidic soil control:** Barrels allow you to create the exact pH (4.5-5.5) blueberries need, without amending the whole garden bed
+✓ **Portable:** If you move or want to adjust placement, just roll them
+✓ **Drainage:** Prevents waterlogging in NC's humid clay soil
+✓ **Compact:** Takes up minimal space; fits nicely in Wildwood among the tomatoes and Potion Patch
+✓ **Easy maintenance:** Watering, fertilizing, and pest checks are all at hand level
 
-**Option B — T-post + wire (buy, more permanent):**
-- 2 metal T-posts at each end ($4-6 each at Home Depot)
-- 14-gauge galvanized wire at 2 ft and 4 ft
-- Lasts years with no maintenance
+### Blueberry Varieties
+
+3 bushes (confirmed types once delivered):
+- **O'Neal** (late May, ripens early)
+- **Patriot** (early June, mid-season)
+- **Bluecrop** (mid-June, continues season)
+
+*Note: These dates may shift 1-2 weeks based on spring warmth, but having 3 varieties extends harvest from late May through July.*
+
+### Planting Method: Lava Rock + Azalea Soil + Play Sand
+
+**Ingredient ratio per planter:**
+- **40% lava rock** (volcanic aggregate, porous drainage media) — improves drainage and aeration
+- **35% azalea soil** (acidic, peat-heavy potting mix) — maintains pH 4.5-5.5
+- **25% play sand** (coarse, washed) — prevents soil compaction, improves drainage
+
+**Ratios for 26"×26"×16.5" barrel:**
+- ~6 gallons lava rock
+- ~5.5 gallons azalea soil
+- ~3.5 gallons play sand
+- **Total: ~15 gallons per planter**
+
+**Shopping list (3 planters):**
+- 3× Vigoro Jackson barrel planters, 26"×26"×16.5" (~$25-30 each at Home Depot)
+- Lava rock: 18 gallons (~2 bags, 10 lb each, ~$15-20 total)
+- Azalea soil (acidic potting mix): 16.5 gallons (~2 bags, 8 qt each, ~$10-15)
+- Play sand (washed): 10.5 gallons (~2-3 bags, ~$8-12)
+- **Total: ~$70-90 in materials**
+
+### Planting Steps
+
+1. **Prepare barrels:**
+   - Ensure drainage holes in bottom (drill if needed — 4-6 holes, ½" diameter)
+   - Line with landscape fabric to prevent soil washing through
+
+2. **Mix planting media:**
+   - Combine lava rock + azalea soil + play sand in the ratio above
+   - Mix thoroughly — the azalea soil will clump initially but will loosen as you work
+   - Fill barrels ¾ full
+
+3. **Plant blueberry bushes:**
+   - Transplant (or bare-root) blueberry at same depth it was growing — crown at soil surface, not buried
+   - Backfill with remaining mix, firm gently
+   - Water deeply until water drains from bottom
+
+4. **Top-dress with mulch:**
+   - Cover soil surface with **pine needle mulch from yard** (~2-3 inches)
+   - Keep mulch 2-3" away from stem to prevent fungal rot
+   - Pine needles acidify the soil as they decompose (bonus)
+
+### Pine Needle Mulch (Available on Property)
+
+**Source:** Abundant pine needles from southern pines in your yard — free and excellent for acidic-soil beds.
+
+**Why pine needles:**
+- Naturally acidic (perfect for blueberries)
+- Excellent drainage while retaining some moisture
+- Light-colored = doesn't heat soil as much in summer
+- Soft underfoot; slugs/snails don't like crawling through them
+- Free from your own yard
+
+**Collecting pine needles:**
+- Rake under southern pine trees (year-round, but easiest in fall when drop is heavy)
+- Store in bags or loose piles — they'll compress naturally
+- Use fresh or aged (aged is darker and more decomposed, but fresh works too)
+
+**Mulching schedule:**
+- **At planting (early April):** 2-3" of pine needle mulch
+- **June-July (hot months):** Top up mulch if it's compacted — keep 2-3" depth
+- **Fall (Sept-Oct):** Add another 1-2" as needle drop season peaks
+- **Winter:** Light additional layer if winters are harsh (NC zone 7b rarely needs this, but 3" total is ideal)
+
+### Blueberry Care in Barrels
+
+**Watering:**
+- Barrels dry faster than in-ground beds
+- Check soil daily in summer (stick your finger 2" deep — if dry, water)
+- Water thoroughly until it drains from bottom
+- Morning watering preferred — water at soil level, not foliage
+- In July-August heat: may need daily watering
+
+**Fertilizing:**
+- Don't fertilize at planting; let roots establish 3-4 weeks first
+- Once growing: monthly balanced fertilizer (10-10-10) or acid-specific blueberry fertilizer (start June)
+- Follow package directions — over-fertilizing reduces fruit flavor
+
+**pH monitoring:**
+- Test pH annually (late fall or early spring)
+- Target: 4.5-5.5 for blueberries
+- If pH drifts alkaline (NC clay tendency): add 1 tbsp elemental sulfur per planter, water in, retest in 4 weeks
+
+**Pest watch:**
+- Birds are the main threat once fruit sets (use netting or live with 30% loss to mockingbirds)
+- Japanese beetles: hand-pick in early morning, or use neem oil weekly June-July
+- Mites/spider mites: mist foliage with water in dry spells; neem oil if severe
+
+### Timeline for Blueberry Barrels
+
+- **Early April 2026:** Plant 3 blueberry bushes in barrels with lava rock + azalea soil + play sand mix
+- **Late April-May:** Blueberries flower; first berries appear
+- **Late May-June:** First harvest (O'Neal ripens first)
+- **June-July:** Patriot and Bluecrop ripen; continuous picking
+- **Aug onward:** Harvest winds down; enjoy the last berries
+- **Fall:** Mulch with fresh pine needles
+- **Year 2+:** Barrels become self-maintaining; expect larger harvests as bushes mature
+
+---
+
+---
+
+## Rhubarb Bed (Separate East Fenceline)
+
+**Location:** East of the raspberry bed, along the fenceline. Separate, dedicated space (rhubarb spreads and doesn't play well with other plants).
+**Dimensions:** ~8-10 ft long × 3-4 ft wide (flexible — rhubarb is tough and forgiving about space)
+**Sun:** Full sun to part shade (thrives in both)
+
+### Why Separate?
+
+Rhubarb:
+- Has massive rhizomes that spread laterally and can outcompete neighbors
+- Likes slightly different soil than berries (less acidic — neutral to slightly alkaline is fine)
+- Needs its own picking space (stems are tall and unwieldy; don't want them getting tangled in raspberry canes)
+
+### Rhubarb Setup (Simple)
+
+**Soil prep:**
+- Rhubarb thrives in rich soil. Amend with compost or aged manure.
+- No special pH requirements — NC neutral to slightly acidic clay is fine
+- Mix compost into top 8-10" of existing soil
+
+**Planting:**
+- Plant rhubarb crowns (or divisions from existing plants) in early April
+- Space 3-4 ft apart — they spread
+- Crowns plant with "eyes" (leaf buds) at soil surface, not buried
+- Water deeply after planting
+
+**First year (2026):**
+- Don't harvest — let the plant establish strong roots
+- Remove any flower stalks (they waste energy)
+- Water during dry spells
+- Mulch 2-3" around crown
+
+**Second year (2027) onward:**
+- Light harvest (1-2 stems per plant)
+- By year 3, harvest freely (snap stems off at base when 12"+ long)
+- Never take more than ½ the stems at once — plant needs leaves for photosynthesis
+
+**Ongoing:**
+- Divide every 4-5 years (lift crowns in early spring, cut into 1-2 lb sections with at least 1 eye each, replant)
+- Top-dress with compost annually in spring
+- Remove flower stalks to encourage leaf growth
+
+**Caution:** Rhubarb leaves are toxic (contain oxalic acid) — only eat stems, never leaves.
+
+---
 
 ### Materials (recycled from property)
 
@@ -358,48 +508,61 @@ The nursery will likely send a mix of spring-ready June-bearing types optimized 
 - **November:** Mulch plants with 2-3" leaf mulch for winter protection
 - **Spring 2027:** HEAVY harvest begins (when you'll be so glad you pinched flowers in year 1)
 
----
+### Planting Raspberries — Early April 2026
 
-### Planting the Black Raspberries (Jewel) — Early April 2026
-
-**What you're receiving:** 3 bare-root or potted Jewel canes
+**What you're receiving:**
+- 3 Red Latham raspberries (if not already in place)
+- 3 Jewel black raspberries (new)
 
 **When to plant:** Early April 2026 (after last frost, before rapid growth)
 
-**Where:** In the main berry bed, interspersed with the Red Latham raspberries (2-3 ft spacing mix creates continuous berry row with two harvest times)
+**Where:** North fence line, 26-foot bed, spread evenly across the full length
 
 **Planting steps:**
-1. Dig holes 18-24" wide × 12" deep along the raspberry row
-2. Mix planting soil: 50% existing soil + peat moss or pine fines (to acidify) + brush pile compost
-3. Fill hole halfway with planting mix
-4. Set cane at same depth it was growing (bare-root: crown at soil surface; potted: soil level same as pot)
-5. Backfill, firm gently, water deeply
-6. Mulch 4" around cane, keeping mulch 6" away from stem (prevents fungal rot)
+1. Dig 6 holes total, spaced ~3-4 ft apart along the 26-foot fence line, alternating RL-JB-RL-JB-RL-JB pattern
+2. Each hole: 18-24" wide × 12" deep
+3. Mix planting soil: 50% existing soil + peat moss or pine fines (to acidify) + brush pile compost
+4. Fill hole halfway with planting mix
+5. Set cane at same depth it was growing (bare-root: crown at soil surface; potted: soil level same as pot)
+6. Backfill, firm gently, water deeply
+7. Mulch 4" around cane, keeping mulch 6" away from stem (prevents fungal rot)
 
-**Jewel-specific care:**
-- Black raspberries need same acidic soil as Red Lathams (pH 5.5-6.5)
+**Trellis setup:**
+- Install 2 horizontal wires at 2 ft and 4 ft heights running the full 26 feet
+- Posts at each end: forked posts from brush pile (free) or 2 metal T-posts (~$8-12 total)
+- Tie canes loosely to wires as they grow
+- Black raspberries arch more than red ones — train them upward
+
+**Raspberry-specific care:**
+- Both Red Latham and Jewel need acidic soil (pH 5.5-6.5)
 - Don't fertilize at planting — let them establish 3-4 weeks first
-- Water consistently through summer; mound roots often dry out
-- Fruit appears on 2nd-year canes (summer 2027 for this year's planting)
-- Prune same as Red Lathams: after fruiting, cut old canes to ground, leave new green canes for next year
-- Jewel matures slightly more compact than Red Latham — spacing can be 3-4 ft instead of 4-5 ft
-
-**Trellis the Jewels with the Red Lathams:**
-- Use the same wire trellis (2 ft and 4 ft heights) for both varieties
-- Tie canes loosely as they grow
-- Black raspberries arch more than red ones — tie and train them upward
+- Water consistently through summer
+- Fruit appears on 2nd-year canes
+- Prune same for both: after fruiting, cut old (fruited) canes to ground, leave new green canes for next year
+- Jewel is slightly more compact than Red Latham (compact growth is good — leaves more picking aisle space)
 
 ---
 
-**Updated Timeline for Main Berry Bed:**
+**2026 Berry Timeline:**
 
-- **April 2026:** Plant 3 Black Raspberries (Jewel) in the main bed alongside Red Lathams
-- **April-May:** Blueberries bloom, first berries appear (eat the early ones!)
-- **Early June:** Jewel black raspberries produce (first harvest from the new plants)
-- **Late June-July:** Red Latham raspberries peak harvest
-- **July-August:** Continue blueberry harvests (Legacy ripens last)
-- **August onward:** Blueberry season winds down
-- **Fall/Winter:** Mulch and prune
+**Raspberry Bed (north fence, 26 ft):**
+- **Early April:** Plant all 6 raspberries (3 Red Latham + 3 Jewel, interspersed) with trellis
+- **Early June:** Jewel black raspberries produce — first harvest!
+- **Late June-July:** Red Latham raspberries peak harvest (2nd-year canes if already established)
+- **Aug-Sept:** Continued picking as canes ripen
+- **Fall/Winter:** Cut back spent canes; mulch with pine needles
+
+**Blueberry Barrels (Wildwood area):**
+- **Early April:** Plant 3 blueberry bushes in barrels with lava rock + azalea soil + play sand
+- **Late May:** O'Neal blueberries ripen first
+- **June-July:** Patriot and Bluecrop harvests
+- **August:** Final harvests; season winds down
+- **Fall:** Mulch with fresh pine needles; monitor pH
+
+**Rhubarb (east fence):**
+- **Early April:** Plant rhubarb crowns in separate bed along east fence
+- **2026:** No harvest — let roots establish
+- **Spring 2027 onward:** Light harvest (1-2 stems) year 2; full harvest year 3+
 
 **Updated Timeline for Wildwood Strawberries:**
 
@@ -413,13 +576,27 @@ The nursery will likely send a mix of spring-ready June-bearing types optimized 
 ---
 
 **Cautions for all berry crops:**
-- **All need acidic soil.** Amend with peat moss, pine fines, or elemental sulfur. Test pH annually — NC clay drifts alkaline
-- **Raspberries spread by underground suckers** 6+ feet out. Root barrier on the south edge and pulling escapees annually handles this
-- **Don't plant raspberries near blackberries** — shared diseases (raspberry mosaic virus, verticillium wilt)
-- **Prune correctly:** Both Red Latham and Jewel are summer-bearing — fruits on 2nd-year canes. After harvest, cut fruited canes to ground. Leave new green canes for next year
-- **Don't fertilize at transplant.** Let them establish 3-4 weeks first
-- **Bird netting** is essential for all berries once fruit sets — blueberries and raspberries are mockingbird magnets. Use bird netting or protect your crop
-- **Don't use moldy brush pile material** right against canes or plant stems. Use the cleanest decomposed material closest to plants
+
+**Acidic-soil crops (raspberries & blueberries):**
+- **Pine needle mulch is free and ideal** — abundant from southern pines on property. Use for both raspberry and blueberry beds. Naturally acidic; refreshes every fall
+- **Test pH annually** (late fall or spring) — NC clay drifts alkaline. Target: 4.5-5.5 (blueberries) / 5.5-6.5 (raspberries)
+- **If pH drifts:** Add elemental sulfur and retest in 4 weeks (don't go below target; over-acidifying blocks nutrient uptake)
+
+**Raspberries specific:**
+- **Spread by underground suckers** 6+ feet out. Root barrier on outer edges and pulling escapees annually handles this
+- **Don't plant near blackberries** — shared diseases (raspberry mosaic virus, verticillium wilt)
+- **Prune correctly:** Both Red Latham and Jewel are summer-bearing — fruit on 2nd-year canes. After harvest, cut fruited canes to ground. Leave new green canes for next year
+- **Trellis is non-negotiable** — keeps canes off ground, improves airflow, prevents fungal disease in humid NC
+
+**Blueberries specific:**
+- **Barrels need daily water checks in summer** — they dry faster than in-ground beds
+- **pH monitoring is critical** — test annually. Blueberries are pickier than raspberries
+- **Bird netting is essential once fruit sets** — mockingbirds will take 30-50% of your crop without protection
+- **Don't over-fertilize** — follow package directions. Over-fertilizing reduces fruit flavor and encourages leafy growth
+
+**General:**
+- **Don't fertilize at transplant** — let roots establish 3-4 weeks first
+- **Don't use moldy brush pile material** right against canes or plant stems. Use the cleanest, most decomposed material closest to plants
 - **Strawberry first-year patience is KEY** — pinching flowers feels wrong, but it creates year 2+ harvests that are triple the size. You'll thank yourself in July 2027
 
 ---
