@@ -4,53 +4,63 @@
 
 ---
 
-## The Design (10 ft diameter, 3 rings — TALL CENTER, SHORT EDGES)
+## The Design (10 ft diameter, 3 rings — C-SHAPE OPENING SOUTH)
 
 ```
+                     NORTH
+                       ↑
+
         TOMATO CIRCLE (outer boundary, obelisks + companions)
-                         ↓
-          ┌─────────────────────────┐
-          │                         │
-          │   ╭─────────────────╮   │
-          │  ╱   CENTER RING      ╲  │
-          │ ╱  Valerian, Mullein,  ╲ │  TALL: 3-5 ft
-          │╱   Echinacea, Angelica ╲│  (Central focal point)
-          │    (18-24" wide)        │
-          │                         │
-          │   ╭──────────────╮      │
-          │  ╱  MIDDLE RING   ╲     │
-          │ ╱ Astragalus,      ╲    │  MEDIUM: 18-36"
-          │╱ Yarrow,           ╲    │  (Transitional)
-          │  St. John's Wort,   │    │
-          │  Hyssop, Horehound  │    │
-          │    (18-24" wide)    │    │
-          │                     │    │
-          │   ╭──────────╮      │    │
-          │  ╱  OUTER RING╲     │    │
-          │ ╱ Calendula,  ╲    │    │  SHORT: 6-18"
-          │╱ Chamomile,    ╲   │    │  (Edges/Perimeter)
-          │  Borage,        │   │    │
-          │  Fenugreek,     │   │    │
-          │  Marigolds      │   │    │
-          │  (18" wide)     │   │    │
-          │                 │   │    │
-          └─────────────────────────┘
-                MULCH BUFFER (2-3")
-                    ↓
-            TOMATO OBELISKS & MARIGOLDS
-                (outer ring)
+
+          ┌──────────────────────────┐
+          │                          │
+          │   ╭────────────────╮     │
+          │  ╱  CENTER RING     ╲    │
+          │ ╱ Valerian, Mullein, ╲   │  TALL: 3-5 ft
+          │╱  Echinacea, Angelica ╲  │  (Peak of dome)
+          │   (18-24" wide)        │  │
+          │                        │  │
+          │   ╭──────────────╮     │  │
+          │  ╱ MIDDLE RING    ╲    │  │  MEDIUM: 18-36"
+          │ ╱ Astragalus,      ╲   │  │  (Transitional)
+          │╱ Yarrow,            ╲  │  │
+          │ St. John's Wort,      │  │  │
+          │ Hyssop, Horehound     │  │  │
+          │   (18-24" wide)       │  │  │
+          │                       │  │  │
+          │   ╭────────────╮      │  │  │
+          │  ╱ OUTER RING  ╲     │  │  │
+          │ ╱ Calendula,    ╲    │  │  │  SHORT: 6-18"
+          │╱ Chamomile,      ╲   │  │  │  (Edges)
+          │ Borage,           │   │  │  │
+          │ Fenugreek,        │   │  │  │
+          │ Marigolds         │   │  │  │
+          │ (18" wide)        │   │  │  │
+          │                   │   │  │  │
+          └───────────────────┬───┘  │  │
+                MULCH (2-3")  │      │  │
+                              │      │  │
+                         ↓ OPEN TO SOUTH (full sun)
+
+         TOMATO OBELISKS (North + East + West sides)
 ```
 
-**Visual from the side (dome shape):**
+**Visual from the side (dome shape, C-shaped opening south):**
 ```
-           TALL (center peaks)
+           TALL (center peaks north)
                   /\
                /      \
-            /            \
+            /            \    ← Full sun penetrates from south
          /    MEDIUM      \
       /                      \
-   SHORT (edges slope down)
+   SHORT (edges)              OPEN (south-facing)
 ```
+
+**Sun exposure:**
+- **North side (back):** Tall plants benefit from northern wind protection
+- **South side (open):** Center + outer ring get maximum southern sunlight
+- **East/West:** Partial sun on side plants
+- **Center standing area:** Flooded with direct southern light year-round
 
 ---
 
