@@ -272,20 +272,20 @@ EDGE (any runners that cascade down)
 
 | Plant | Variety | Qty | Source | Spacing | Notes |
 |-------|---------|-----|--------|---------|-------|
-| Rhubarb | Crimson Red | 1 | Renee's Garden | 3-4 ft | Red stalks, compact |
+| Rhubarb | Crimson Red | 2 | Renee's Garden (shipped with 2 roots) | 3-4 ft | Red stalks, compact — BOTH PLANTED |
 | Rhubarb | Victoria | 3 | Johnny's Selected Seeds (ships week of 3/16) | 3-4 ft | Classic green/pink, vigorous |
 
 ### Layout
 
 ```
         WEST (crepe myrtles above)
-  +----+----+----+----+
-  | V1 | V2 | V3 | CR |   4 ft deep
-  +----+----+----+----+
+  +----+----+----+----+----+
+  | V1 | V2 | V3 | CR | CR |   4 ft deep
+  +----+----+----+----+----+
               8 ft wide
 ```
 - V1, V2, V3 = Victoria crowns (2 ft from edges, 3-4 ft apart)
-- CR = Crimson Red (2 ft from edge)
+- CR, CR = Crimson Red (2 roots, planted 3-4 ft apart)
 
 ### Care
 
