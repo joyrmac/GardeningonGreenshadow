@@ -144,9 +144,9 @@ All of these go in the open west end where sunlight enters:
 
 ## Blueberry & Raspberry & Strawberry Bed (Integrated Berry System)
 
-**Dimensions:** ~35 ft long. East to west orientation.
-**What's actually here (March 2026):** 4 blueberry bushes, 4 red latham raspberries (to be transplanted).
-**New addition:** Strawberry groundcover layer (15-21 plants) nested under and between the blueberries and raspberries.
+**Dimensions:** 26 ft long × 3.5-4 ft wide. Runs along north fence line (full sun exposure).
+**What's actually here (March 2026):** 4 blueberry bushes, 4 red latham raspberries (already in place), rhubarb.
+**New additions:** 3 Black Raspberries (Jewel variety), 50 strawberries (NEW — planted in Wildwood in in-ground hill mounds instead of in this bed).
 
 ### Current Layout: Blueberry Row
 
@@ -156,17 +156,31 @@ All of these go in the open west end where sunlight enters:
 3. Bluecrop (mid-June)
 4. Legacy (late July) -- SE corner
 
-### New: Raspberry Row (parallel, south side)
+### Red Latham Raspberry Row (south side, parallel to blueberries)
 
-4 Red Latham canes transplanted from the old 2x3 brick box into a parallel row on the south side of the blueberries, with a 3-4 ft picking aisle between them.
+4 Red Latham canes already in place, with a 3-4 ft picking aisle between them and the blueberries.
 
 ```
 Blueberry row:  O'Neal --- Patriot --- Bluecrop --- Legacy
-                         (4-5 ft apart)
+                         (4-5 ft apart, north fence line)
 — 3-4 ft picking aisle (mulch path or mow strip) —
-Raspberry row:  cane --- cane --- cane --- cane
-                      (4-5 ft apart, wire trellis)
+Raspberry row:  RL --- RL --- RL --- RL
+                (4-5 ft apart, wire trellis, Red Latham = summer bearing)
 ```
+
+### Black Raspberry Row (NEW — Jewel variety)
+
+**3 Black Raspberries (Jewel) to be added** — placed in this bed alongside the Red Lathams. Black raspberries fruit on 2nd-year canes like Red Lathams, but:
+- Fruit 1-2 weeks earlier than Red Lathams (early June, before Red Lathams peak in July)
+- More cold hardy, compact growth (good for tight spaces)
+- Jewel is a reliable NC variety
+
+**Placement options:**
+1. **Interspersed with Red Lathams** (2-3 ft spacing mix): Creates a continuous raspberry row with two fruiting times
+2. **At end of row as accent**: Group 3 Jewels at the west or east end, slightly offset
+3. **Back row** (if space allows): 3-4 ft north of the Red Lathams, creating a back-row berry tier
+
+**Recommended:** Option 1 (interspersed spacing) — gives you continuous raspberries from early June (Jewel) through July (Red Latham) and adds variety.
 
 **Why this works:** Both crops want acidic soil (pH 5.5-6.5 for raspberries, 4.5-5.5 for blueberries). Same amendments (peat moss, pine fines, elemental sulfur), same watering schedule. The picking aisle keeps them from tangling and gives airflow — critical for both crops in humid NC.
 
@@ -247,85 +261,166 @@ Two options depending on what you have:
 | Tomatoes/peppers/eggplant | Share verticillium wilt with raspberries |
 | Blackberries | Disease sharing (raspberry mosaic virus) |
 
-### STRAWBERRY LAYER: Integrated Groundcover System
+### STRAWBERRY PLANTING: In-Ground Hill Mounds (Wildwood Area)
 
-**Why it works:** Strawberries (12-18" tall max) planted as a living groundcover layer BETWEEN blueberries and raspberries creates a tiered berry production system with shared acidic soil and companion benefits.
+**NEW PLAN (March 2026):** 50 strawberries arriving March 25-30, planted immediately in the Wildwood area using in-ground hill line mounds on mulched ground.
 
-**Layout:**
+**Why in-ground hills?**
+✓ Better drainage (prevents waterlogging and root rot)
+✓ Berries sit on mulch, not soil (cleaner, reduces disease and rot)
+✓ Warmer soil = faster growth and earlier harvest in year 2
+✓ Easier to manage runners on mounded rows
+✓ Already-mulched Wildwood area needs minimal prep
+✓ Separate bed = no competition with blueberries/raspberries for space or nutrients
+
+**Location:** Wildwood area (already mulched, full sun exposure). Space separate from the main berry bed.
+
+**In-Ground Hill Mound Spacing:**
+
 ```
-Blueberry row:     O'Neal --- Patriot --- Bluecrop --- Legacy
-                   (4-5 ft apart, 4-6 ft tall)
+MULCHED GROUND (Wildwood)
 
-Strawberry layer:  [scattered between, under canopy]
-                   (12-18" tall, spilling out sides)
+Hill Line 1:  ·--·--·--·--·--·--·--·--·--·--·  (15 strawberries, spaced 12-18" apart)
+              (alternating left/right on mound)
 
-— 3-4 ft picking aisle (mulch path) —
+            2 ft aisle (mulch)
 
-Strawberry edge:   (shallow root line, minimal interference)
+Hill Line 2:  ·--·--·--·--·--·--·--·--·--·--·  (15 strawberries, spaced 12-18" apart)
+              (staggered offset from Line 1)
 
-Raspberry row:     cane --- cane --- cane --- cane
-                   (4-5 ft apart, 6+ ft tall with trellis)
+            2 ft aisle (mulch)
+
+Hill Line 3:  ·--·--·--·--·--·--·--·--·--·--·  (15 strawberries, spaced 12-18" apart)
+
+           (runners allowed to trail down into mulch — they'll root naturally)
 ```
 
-**Strawberry varieties (15-21 plants total):**
+**Building the mounds (prep work):**
+1. Mark 3 parallel lines in Wildwood area, each 15-20 ft long × 12-15" wide
+2. Mound existing mulch + soil mix 6-8" high and 12-15" wide
+3. Firm down lightly — mound will settle as you water
+4. Space rows 2-2.5 ft apart (for foot traffic and airflow)
 
-| Variety | Type | Role | Qty | Season |
-|---------|------|------|-----|--------|
-| **Albion** | Day-neutral | Workhorse — continuous bearing all season | 6-8 | April–November |
-| **San Andreas** | Day-neutral | Backup day-neutral for reliability | 4-6 | April–November |
-| **Seascape** | Everbearing | Fills gaps between day-neutral peaks | 3-4 | May, July–Oct |
-| **Chandler** | June-bearing | Peak spectacle season, traditional big harvest | 2-3 | May–June |
+**Planting the mounds (when strawberries arrive Mar 25-30):**
+1. Dig small holes 12-18" apart along each mound (stagger second row offset from first for better coverage)
+2. Transplant strawberries at same depth they were growing (crown at soil surface, not buried)
+3. Water deeply after planting
+4. Keep mounded mulch 2" away from crowns (prevents rot)
 
-**Spacing & planting:**
-- Plant strawberries 12-18" apart in clusters or loose rows
-- Allow trailing runners to spill out toward the picking aisle
-- Avoid planting directly under the densest blueberry canopy (too shady)
-- Focus strawberry placement on the south and east edges of blueberries (better light)
+**Strawberry Varieties (50 plants total):**
 
-**Soil & site prep:**
-- Same acidic soil mix as blueberries/raspberries (peat moss, pine fines, sulfur)
-- Amend top 6-8" before strawberry planting
-- Ensure good drainage — strawberries hate waterlogged soil even more than blueberries
-- Mulch strawberries with 2" straw (keeps berries clean, suppresses weeds, regulates moisture)
+The nursery will likely send a mix of spring-ready June-bearing types optimized for immediate planting. Common choices:
+- **Chandler** (June-bearing) — traditional spring favorite, big berries, concentrated harvest
+- **Earliglow** (June-bearing) — early season, cold hardy, NC-proven
+- **Seascape** (Everbearing) — continuous bearing if flowers pinched first year
+- **San Andreas** or **Albion** (Day-neutral) — if available, continuous bearing
 
-**Watering & care:**
-- Strawberries need consistent moisture during fruiting (berries crack if erratic watering)
-- Drip irrigation or soaker hose ideal for all three crops together
-- In heat (July/August) 1.5-2" per week
-- Deadhead spent flowers on strawberries for continuous production
-- Manage runners: allow 1-2 per plant to root nearby for year 2 replacement
+*Note: Confirm variety mix when order ships.*
 
-**Pros of this integration:**
-✓ Weed suppression under tall plants (strawberries fill the gap)
-✓ Efficient watering (one irrigation system serves all)
-✓ Shared soil management (all three love acidic conditions)
-✓ Tiered harvesting (reach different fruit at different heights)
-✓ Maximum production from limited space
-✓ Beautiful diversity (visitors see blueberries, raspberries, strawberries at once)
+**CRITICAL: First Year Flower & Fruit Management**
 
-**Cautions about strawberry + blueberry integration:**
-- **Moisture management is critical** — don't let dense strawberry mulch trap moisture against blueberry stems (fungal risk)
-- **Airflow matters** — keep strawberries away from the densest blueberry canopy
-- **Pick carefully** — reaching under blueberries requires gentleness (don't break branches)
-- **Monitor for shared pests** — slugs love the moist strawberry zone; eggshell barriers help
-- **Don't overcrowd** — resist the urge to plant 30 strawberries; stick to 15-21 or they'll smother each other and blueberry roots
+⚠️ **NO HARVEST IN 2026** — Even though it's spring planting. This lets roots establish strong.
 
-**Timeline:**
-- **April–May 2026:** Plant blueberries + raspberries per plan
-- **August–September 2026 (recommended):** Plant full strawberry layer as fall planting system
-- **Spring 2027:** Full integrated harvest (first heavy strawberry season)
-- **Ongoing:** Manage strawberry runners in summer, propagate replacements, rotate varieties every 3 years
+**Flower removal schedule:**
+- **When plants arrive (Mar 25-30):** Remove ALL visible flower buds from transplants before planting
+- **April-May:** Pinch off all flower buds as they appear (daily/every few days in warm weather)
+- **June:** Continue pinching (this is hard — watch the flowers grow and kill them anyway!)
+- **July 1 onward:** STOP pinching. Let flowers develop and fruit set. Year 2 berries start forming now.
+
+**Why?** First-year flowering drains energy from root and runner development. Plants that are forced to fruit in year 1 produce weaker plants in year 2. Fall 2026 and spring 2027 harvests will be MUCH bigger if you sacrifice year 1.
+
+**Runner management:**
+- Allow runners to root into the mulch along the sides of mounds
+- These rooted runners become replacement plants for year 2-3
+- 1-2 strong runners per original plant = perfect
+- Remove excess runners if they crowd the original plant too much
+
+**Ongoing care (2026):**
+- Water consistently — 1-1.5" per week, more in heat
+- Mulch keeps berries and roots clean but dries out faster on mounds; check soil moisture after hot days
+- Deadhead all flowers through June 30
+- No fertilizer at planting; apply balanced (10-10-10) monthly starting July if plants look pale
+- Remove any diseased or yellowing leaves immediately
+- Watch for slugs and beetles in the mulch layer
+
+**Watering tips for in-ground hills:**
+- Mounds dry faster than flat beds
+- Morning soaking preferred — water at soil level, not foliage (prevents fungal disease)
+- Drip irrigation or soaker hose ideal; hand-watering works too
+- In July-August heat (80°F+): may need watering every 2-3 days
+- Test soil 2" deep — if dry, water
+
+**2026 Timeline:**
+- **Mar 25-30:** Plant 50 strawberries in Wildwood mounds
+- **Apr-Jun:** Remove ALL flowers (hardest month mentally — you'll want to let them fruit)
+- **July 1:** Stop pinching; let flowers develop
+- **Aug-Oct:** Enjoy fall berries (lighter harvest, but proof the system works)
+- **November:** Mulch plants with 2-3" leaf mulch for winter protection
+- **Spring 2027:** HEAVY harvest begins (when you'll be so glad you pinched flowers in year 1)
 
 ---
 
-**Cautions for all three crops:**
+### Planting the Black Raspberries (Jewel) — Early April 2026
+
+**What you're receiving:** 3 bare-root or potted Jewel canes
+
+**When to plant:** Early April 2026 (after last frost, before rapid growth)
+
+**Where:** In the main berry bed, interspersed with the Red Latham raspberries (2-3 ft spacing mix creates continuous berry row with two harvest times)
+
+**Planting steps:**
+1. Dig holes 18-24" wide × 12" deep along the raspberry row
+2. Mix planting soil: 50% existing soil + peat moss or pine fines (to acidify) + brush pile compost
+3. Fill hole halfway with planting mix
+4. Set cane at same depth it was growing (bare-root: crown at soil surface; potted: soil level same as pot)
+5. Backfill, firm gently, water deeply
+6. Mulch 4" around cane, keeping mulch 6" away from stem (prevents fungal rot)
+
+**Jewel-specific care:**
+- Black raspberries need same acidic soil as Red Lathams (pH 5.5-6.5)
+- Don't fertilize at planting — let them establish 3-4 weeks first
+- Water consistently through summer; mound roots often dry out
+- Fruit appears on 2nd-year canes (summer 2027 for this year's planting)
+- Prune same as Red Lathams: after fruiting, cut old canes to ground, leave new green canes for next year
+- Jewel matures slightly more compact than Red Latham — spacing can be 3-4 ft instead of 4-5 ft
+
+**Trellis the Jewels with the Red Lathams:**
+- Use the same wire trellis (2 ft and 4 ft heights) for both varieties
+- Tie canes loosely as they grow
+- Black raspberries arch more than red ones — tie and train them upward
+
+---
+
+**Updated Timeline for Main Berry Bed:**
+
+- **April 2026:** Plant 3 Black Raspberries (Jewel) in the main bed alongside Red Lathams
+- **April-May:** Blueberries bloom, first berries appear (eat the early ones!)
+- **Early June:** Jewel black raspberries produce (first harvest from the new plants)
+- **Late June-July:** Red Latham raspberries peak harvest
+- **July-August:** Continue blueberry harvests (Legacy ripens last)
+- **August onward:** Blueberry season winds down
+- **Fall/Winter:** Mulch and prune
+
+**Updated Timeline for Wildwood Strawberries:**
+
+- **Mar 25-30:** Plant 50 strawberries in in-ground hill mounds
+- **Apr-Jun:** PINCH ALL FLOWERS (the hardest work — watch buds die daily)
+- **July 1+:** Stop pinching; let flowers develop → first light harvest Aug-Oct
+- **Fall 2026:** Light berry production (proves the system works)
+- **Nov 2026:** Mulch plants with leaf mulch for winter
+- **Spring 2027:** PEAK harvest begins (huge berries, continuous production)
+
+---
+
+**Cautions for all berry crops:**
 - **All need acidic soil.** Amend with peat moss, pine fines, or elemental sulfur. Test pH annually — NC clay drifts alkaline
 - **Raspberries spread by underground suckers** 6+ feet out. Root barrier on the south edge and pulling escapees annually handles this
 - **Don't plant raspberries near blackberries** — shared diseases (raspberry mosaic virus, verticillium wilt)
-- **Prune correctly:** Red Latham is summer-bearing — fruits on 2nd-year canes. After harvest, cut fruited canes to the ground. Leave new green canes for next year
+- **Prune correctly:** Both Red Latham and Jewel are summer-bearing — fruits on 2nd-year canes. After harvest, cut fruited canes to ground. Leave new green canes for next year
 - **Don't fertilize at transplant.** Let them establish 3-4 weeks first
-- **Bird netting** is essential for blueberries unless you want to share your entire crop with mockingbirds. Raspberries and strawberries attract birds too — consider netting all three once fruit sets
+- **Bird netting** is essential for all berries once fruit sets — blueberries and raspberries are mockingbird magnets. Use bird netting or protect your crop
 - **Don't use moldy brush pile material** right against canes or plant stems. Use the cleanest decomposed material closest to plants
+- **Strawberry first-year patience is KEY** — pinching flowers feels wrong, but it creates year 2+ harvests that are triple the size. You'll thank yourself in July 2027
 
 ---
 
