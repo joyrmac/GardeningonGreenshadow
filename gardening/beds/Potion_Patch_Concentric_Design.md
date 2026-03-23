@@ -4,7 +4,7 @@
 
 ---
 
-## The Design (10 ft diameter, 3 rings)
+## The Design (10 ft diameter, 3 rings — TALL CENTER, SHORT EDGES)
 
 ```
         TOMATO CIRCLE (outer boundary, obelisks + companions)
@@ -12,31 +12,27 @@
           ┌─────────────────────────┐
           │                         │
           │   ╭─────────────────╮   │
-          │  ╱   OUTER RING       ╲  │
+          │  ╱   CENTER RING      ╲  │
           │ ╱  Valerian, Mullein,  ╲ │  TALL: 3-5 ft
-          │╱   Yarrow, Angelica    ╲│  Back/North
+          │╱   Echinacea, Angelica ╲│  (Central focal point)
           │    (18-24" wide)        │
           │                         │
           │   ╭──────────────╮      │
           │  ╱  MIDDLE RING   ╲     │
-          │ ╱ Echinacea,       ╲    │  MEDIUM: 18-36"
-          │╱ Astragalus,       ╲    │
+          │ ╱ Astragalus,      ╲    │  MEDIUM: 18-36"
+          │╱ Yarrow,           ╲    │  (Transitional)
           │  St. John's Wort,   │    │
           │  Hyssop, Horehound  │    │
           │    (18-24" wide)    │    │
           │                     │    │
           │   ╭──────────╮      │    │
-          │  ╱  INNER RING╲     │    │
+          │  ╱  OUTER RING╲     │    │
           │ ╱ Calendula,  ╲    │    │  SHORT: 6-18"
-          │╱ Chamomile,    ╲   │    │  Front/South + edges
+          │╱ Chamomile,    ╲   │    │  (Edges/Perimeter)
           │  Borage,        │   │    │
-          │  Fenugreek      │   │    │
+          │  Fenugreek,     │   │    │
+          │  Marigolds      │   │    │
           │  (18" wide)     │   │    │
-          │                 │   │    │
-          │   ╭─────────╮   │   │    │
-          │  ╱  CENTER   ╲  │   │    │  Open mulched space
-          │ ╱  (18-24")   ╲ │   │    │  Standing room
-          │╱               ╲│   │    │  Or focal point
           │                 │   │    │
           └─────────────────────────┘
                 MULCH BUFFER (2-3")
@@ -45,17 +41,30 @@
                 (outer ring)
 ```
 
+**Visual from the side (dome shape):**
+```
+           TALL (center peaks)
+                  /\
+               /      \
+            /            \
+         /    MEDIUM      \
+      /                      \
+   SHORT (edges slope down)
+```
+
 ---
 
-## OUTER RING: The Tall Protective Guardians (3-5 ft)
+## CENTER RING: The Tall Radiant Focal Point (3-5 ft)
 
-### **VALERIAN** (2 plants, 24" apart, back center)
+These plants tower from the center, creating the domed peak. They're visible from everywhere, they're the heart of the circle.
+
+### **VALERIAN** (2 plants, 24" apart, center position)
 
 **Why here:**
-- **Height:** 4-5 ft tall → stands in back so it doesn't shade shorter plants in front
-- **Position:** Back/north side → catches morning sun, afternoon shade from taller structure
-- **Structure:** Creates architectural anchor + focal point (delicate pink/white flowers)
-- **Placement logic:** Center back position = visual centerline, draws eye
+- **Height:** 4-5 ft tall → creates the peak of the dome shape (center is highest point)
+- **Position:** Dead center → visible from every approach, true focal point
+- **Structure:** Creates architectural anchor + eye-draw from all directions (delicate pink/white flowers glow when tall)
+- **Placement logic:** Center = grounding point, where all energy concentrates, where your eye lands first
 
 **What it does for the system:**
 - **Companion benefit:** Tall stem doesn't compete with ground space (medicinal roots extract deep minerals, improve soil structure)
@@ -76,13 +85,13 @@
 
 ---
 
-### **MULLEIN** (thin to 3-5 plants, scattered back)
+### **MULLEIN** (thin to 3-5 plants, scattered in center zone)
 
 **Why here:**
-- **Height:** 3-5 ft tall (sometimes taller) → back row only
-- **Tallest of tall** → needs back position to avoid shading everything
-- **Self-seeding:** Likely to create volunteers → thin to 3-5 plants in back zone
-- **Position:** Back perimeter → lets light through to middle ring
+- **Height:** 3-5 ft tall (sometimes taller) → creates central spikes of height
+- **Tallest of tall** → radiates from center, peaks the dome
+- **Self-seeding:** Likely to create volunteers → thin to 3-5 plants in center zone
+- **Position:** Center area → tall spikes shoot up from middle, visible from all directions
 
 **What it does for the system:**
 - **Structure:** Tall flower spikes = vertical accent (very architectural)
@@ -104,12 +113,12 @@
 
 ---
 
-### **YARROW** (thin to 4-6 plants, scattered back/middle edge)
+### **YARROW** (thin to 4-6 plants, scattered in middle ring)
 
 **Why here:**
-- **Height:** 18-24" typically, but can reach 3+ ft → back edge of middle ring OR scattered back
+- **Height:** 18-24" typically, but can reach 3+ ft → straddles center + middle, creates transition from tall to medium
 - **Spreader tendency:** Moderate self-seeding → manage by deadheading some flowers
-- **Position:** Back edge/transition → bridges outer + middle rings visually + ecologically
+- **Position:** Middle ring, distributed → bridges center tall plants + outer short plants visually + ecologically
 - **Spacing:** 12" apart, thin aggressively if crowded
 
 **What it does for the system:**
@@ -132,13 +141,13 @@
 
 ---
 
-### **ANGELICA** (thin to 2-3 plants, back)
+### **ANGELICA** (thin to 2-3 plants, center-to-middle zone)
 
 **Why here:**
-- **Height:** 20-36" tall (can exceed if conditions are perfect) → back row
+- **Height:** 20-36" tall (can exceed if conditions are perfect) → rises from center, part of the dome peak
 - **Biennial:** First year = rosette, second year = tall flower spike → plan for year 2 presence
-- **Architectural:** Tall + ornate + delicate → focal point interest
-- **Position:** Scattered in back, allow space around each (they prefer room)
+- **Architectural:** Tall + ornate + delicate → focal point visible from center
+- **Position:** Scattered in center-middle zone, allow space around each (they prefer room)
 
 **What it does for the system:**
 - **Medicinal role:** "Root of the Holy Ghost" — respiratory, warming, digestive
@@ -159,17 +168,17 @@
 
 ---
 
-## MIDDLE RING: The Keystone Herbs (18-36")
+## CENTER RING (continued) & MIDDLE RING: The Structural Bridge (18-36")
 
-These are your structural perennials + keystone medicinals. They anchor the bed + provide reliable harvests.
+These are your structural perennials + keystone medicinals. They transition from tall center down to shorter edges.
 
-### **ECHINACEA / PURPLE CONEFLOWER** (2-3 plants, 12-18" apart, mid-back position)
+### **ECHINACEA / PURPLE CONEFLOWER** (2-3 plants, 12-18" apart, center-to-middle zone)
 
 **Why here:**
-- **Height:** 24-36" → middle ring, back section (not blocking front)
+- **Height:** 24-36" → creates middle layer of dome shape, radiates from center
 - **Perennial structure:** Lives 3-5 years, gets bigger each year → foundational plant
 - **Non-aggressive:** Stays in place, doesn't spread invasively → reliable positioning
-- **Position:** Scattered mid-back = visual anchor without dominating
+- **Position:** Scattered in center-to-middle zone = visual anchor from all angles
 
 **What it does for the system:**
 - **Iconic pollinator magnet:** Purple coneflower = beloved by all pollinators (bees, butterflies, beneficial wasps, hover flies)
@@ -193,10 +202,10 @@ These are your structural perennials + keystone medicinals. They anchor the bed 
 ### **ASTRAGALUS** (1-2 plants, 12-18" apart, middle ring)
 
 **Why here:**
-- **Height:** 24-30" mature → fits middle ring perfectly
+- **Height:** 24-30" mature → part of middle ring, creates gradation from tall center to short edges
 - **Growth habit:** Bushy, contained, non-spreading → stays in assigned space
 - **Perennial slow-build:** 3 years to root harvest → long-term investment plant
-- **Position:** Scattered in middle ring (not back, not front) → you can access roots later
+- **Position:** Scattered in middle ring → you can reach edges easily to access roots later
 - **Spacing:** 18" minimum from Echinacea + St. John's Wort
 
 **What it does for the system:**
@@ -223,7 +232,7 @@ These are your structural perennials + keystone medicinals. They anchor the bed 
 ### **ST. JOHN'S WORT** (1-2 plants, 12-18" apart, middle ring)
 
 **Why here:**
-- **Height:** 18-24" → sits nicely in middle ring (visible but not blocking)
+- **Height:** 18-24" → sits in middle ring, creates transition from center tall to edge short
 - **Perennial structure:** Reliable, stays in place → foundational
 - **Modest spread:** Doesn't aggressively self-seed → predictable positioning
 - **Position:** Scattered in middle ring, away from Echinacea (prefer individual space)
@@ -247,13 +256,13 @@ These are your structural perennials + keystone medicinals. They anchor the bed 
 
 ---
 
-### **HYSSOP** (thin to 6-8 plants, 12" apart, middle/inner edge)
+### **HYSSOP** (thin to 6-8 plants, 12" apart, middle-to-outer transition)
 
 **Why here:**
-- **Height:** 18-24" → middle ring, but can edge toward inner ring
+- **Height:** 18-24" → straddles middle + outer rings, helps transition height
 - **Self-seeding:** Moderate spreader → thin aggressively if crowded
 - **Compact bushy form:** Doesn't sprawl → efficient space user
-- **Position:** Scattered throughout middle ring, edges into inner ring
+- **Position:** Scattered throughout middle ring, some edging toward outer
 
 **What it does for the system:**
 - **Pollinator magnet:** Spike flowers = beloved by native bees + beneficial wasps
@@ -302,17 +311,17 @@ These are your structural perennials + keystone medicinals. They anchor the bed 
 
 ---
 
-## INNER RING: The Abundant Fillers (6-18")
+## OUTER RING: The Abundant Accessible Edge (6-18")
 
-These are your easy-to-grow annuals + manageable spreaders. They fill space, continuously produce, support pollinators.
+These are your easy-to-grow annuals + manageable spreaders. They fill the perimeter, continuously produce, support pollinators. Easy to reach + harvest.
 
-### **CALENDULA / POT MARIGOLD** (thin to 8-10 plants, 10" apart, front + edges)
+### **CALENDULA / POT MARIGOLD** (thin to 8-10 plants, 10" apart, outer ring perimeter)
 
 **Why here:**
-- **Height:** 12-18" → inner ring, edges of middle ring
+- **Height:** 12-18" → outer ring perfectly, creates the lower edge of dome
 - **Continuous blooming:** Flowers all summer → no deadheading needed (just pinch sometimes)
 - **Easy-growing:** Forgiving, beginner-friendly → reliable filler
-- **Position:** Distributed throughout inner ring + edges (fill gaps)
+- **Position:** Distributed throughout outer ring perimeter (easy reach, you see them constantly)
 - **Self-seeding:** Some → expect modest volunteers next year (harvest-friendly)
 
 **What it does for the system:**
@@ -335,13 +344,13 @@ These are your easy-to-grow annuals + manageable spreaders. They fill space, con
 
 ---
 
-### **CHAMOMILE, ROMAN** (thin to patches, 10-12" apart, front + scattered)
+### **CHAMOMILE, ROMAN** (thin to patches, 10-12" apart, outer ring scattered)
 
 **Why here:**
-- **Height:** 12-18" → inner ring (but often shorter, 8-12")
+- **Height:** 12-18" → outer ring perfectly (but often shorter, 8-12")
 - **Prolific self-seeder:** HEAVY spreader → manage by selective deadheading + thinning
-- **Feathery foliage:** Delicate texture = visual softness
-- **Position:** Scattered throughout inner ring + edges (distributed, not concentrated in one spot)
+- **Feathery foliage:** Delicate texture = visual softness at edges
+- **Position:** Scattered throughout outer ring perimeter (distributed, not concentrated in one spot)
 - **Thinning strategy:** Thin seedlings ruthlessly (2-4 weeks post-sowing) → prevents chaos
 
 **What it does for the system:**
@@ -364,13 +373,13 @@ These are your easy-to-grow annuals + manageable spreaders. They fill space, con
 
 ---
 
-### **BORAGE** (thin to 4-6 plants, 12" apart, scattered throughout)
+### **BORAGE** (thin to 4-6 plants, 12" apart, outer ring scattered)
 
 **Why here:**
-- **Height:** 12-18" → inner/middle ring transition
+- **Height:** 12-18" → outer ring to middle-outer transition
 - **Self-seeding:** Moderate (manageable, not overwhelming) → expected to spread gently
 - **Hairy succulent leaves:** Distinctive texture + tactile quality
-- **Position:** Scattered throughout (fills gaps + provides color)
+- **Position:** Scattered throughout outer ring (fills gaps + provides color at edges)
 
 **What it does for the system:**
 - **Pollinator magnet:** Star-shaped blue flowers = ICONIC bee favorite
@@ -392,13 +401,13 @@ These are your easy-to-grow annuals + manageable spreaders. They fill space, con
 
 ---
 
-### **FENUGREEK** (thin to 10-12 plants, 6-8" apart, front + edges)
+### **FENUGREEK** (thin to 10-12 plants, 6-8" apart, outer ring perimeter)
 
 **Why here:**
 - **Height:** 12-18" (leafy bushy plant)
 - **Annual:** Dies after seed production → space frees up for next year
 - **Self-seeding:** Moderate (you harvest seeds, some drop naturally)
-- **Position:** Front/edges of inner ring (easier to harvest seed pods)
+- **Position:** Outer ring perimeter (easy reach to harvest seed pods, visible constantly)
 - **Spacing:** Tighter spacing (6-8") = bushier, more productive
 
 **What it does for the system:**
@@ -421,13 +430,13 @@ These are your easy-to-grow annuals + manageable spreaders. They fill space, con
 
 ---
 
-### **MARIGOLD, FRENCH PETITE** (thin to scattered patches, 8-10" apart, front + edges)
+### **MARIGOLD, FRENCH PETITE** (thin to scattered patches, 8-10" apart, outer ring)
 
 **Why here:**
-- **Height:** 12-15" → inner ring perfectly
+- **Height:** 12-15" → outer ring perfectly
 - **Annual:** Dies after frost → space available for next year
 - **Compact bushy form:** Efficient space user
-- **Position:** Scattered throughout inner ring + front edges
+- **Position:** Scattered throughout outer ring perimeter
 
 **What it does for the system:**
 - **Companion planting classic:** Some sources say marigolds repel certain pests (nematodes, aphids)
@@ -450,13 +459,13 @@ These are your easy-to-grow annuals + manageable spreaders. They fill space, con
 
 ---
 
-### **HOLLYHOCK, FRENCH** (thin to 5-8 plants, 12" apart, back edge of inner ring)
+### **HOLLYHOCK, FRENCH** (thin to 5-8 plants, 12" apart, middle-to-outer transition)
 
 **Why here:**
-- **Height:** 12-18" (dwarf variety) → inner ring, back edge (taller than front)
+- **Height:** 12-18" (dwarf variety) → straddles middle + outer rings, bridges the height transition
 - **Biennial:** First year = rosette, second year = flowers → expect 2-year presence
 - **Spiky vertical form:** Adds height interest + architectural element
-- **Position:** Back edge of inner ring (transitions into middle ring)
+- **Position:** Middle-to-outer edge (helps slope from center tall down to edge short)
 - **Self-seeding:** Moderate → expect volunteers (thin if crowded)
 
 **What it does for the system:**
@@ -478,13 +487,13 @@ These are your easy-to-grow annuals + manageable spreaders. They fill space, con
 
 ---
 
-### **ANISE** (thin to 8-10 plants, 12" apart, scattered front + edges)
+### **ANISE** (thin to 8-10 plants, 12" apart, middle-to-outer transition)
 
 **Why here:**
-- **Height:** 18-24" tall but feathery → inner/middle edge
+- **Height:** 18-24" tall but feathery → bridges middle + outer rings
 - **Annual:** Dies after frost → space available next year
 - **Feathery foliage:** Delicate, graceful appearance
-- **Position:** Scattered throughout inner ring (not concentrated)
+- **Position:** Scattered in middle-to-outer zone (not concentrated)
 
 **What it does for the system:**
 - **Medicinal role:** Digestive (seeds especially), carminative, cough support
@@ -550,10 +559,11 @@ These are your easy-to-grow annuals + manageable spreaders. They fill space, con
 - **Nested pattern** (circles within circles) = matches the layered, interconnected vision
 
 ### **Witchy Narrative**
-- **Target/bullseye design** = "drawing power inward" (what potions do — concentrate, distill, intensify)
-- **Tall → medium → short rings** = represents descent into depth + grounding (Valerian + Astragalus + Nettle all teach this)
-- **Center point** = grounding, anchoring, "where the magic happens"
-- **Everything visible from above** = intention + design visible to sky + ancestors
+- **Dome/bullseye design** = you stand in CENTER, surrounded by healing herbs in concentric rings
+- **Tall center → medium middle → short edges** = radiates outward from where you stand
+- **Center point** = grounding, anchoring, "where the magic happens" — literally YOUR standing place
+- **Everything visible from center** = you're in the middle of the target, herbs surround you in perfect geometry
+- **Protective circles** = traditional witchy protection pattern (nested circles = layered boundaries)
 
 ### **Ecological Functionality**
 - **Tall outer ring** doesn't shade shorter plants = efficient light use
