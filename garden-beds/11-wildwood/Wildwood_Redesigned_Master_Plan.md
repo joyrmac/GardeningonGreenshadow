@@ -86,20 +86,18 @@ Wildwood is being redesigned to fully honor Joy's astrological needs:
 
 ---
 
-### **Vegetable Beds (8 Raised Beds)**
+### **Vegetable Beds**
 
 **Layout Overview:**
 
 | Bed | Name | Purpose | Color Palette | Companions |
 |-----|------|---------|---|---|
 | **1** | Leafy Greens | Lettuce, spinach, kale, broccoli, cauliflower | Deep green + silver (radish leaves) | Radishes (shade providers) |
-| **2** | Root Vegetables | Carrots (5 colors), onions | Rainbow (purple, orange, yellow, white) + orange nasturtiums | Nasturtiums (golden edging) |
 | **3** | Corn & Beans | Corn + pole beans (Three Sisters beginning) | Deep green + golden (corn silk) | Beans climbing corn |
 | **4** | Peppers & Tomatoes | Nightshades (tomatoes, peppers) | Deep reds + purples + golds | Red basil, purple-leaved basil |
 | **5** | Cucumber & Bean Trellis | Mexican sour gherkins + pole beans | Bright green + borage blue + nasturtium orange | Borage (blue flowers), nasturtium |
 | **6** | *RETIRING BED* | Being replaced | — | — |
 | **7** | Cool Crops | Brassicas, celery, greens (fall/spring) | Deep green + parsley green | Thyme, parsley |
-| **8** | Root & Onion Strip | Carrots + onions | Rainbow carrots + gold calendula | Calendula (bright yellow) |
 
 **Key Changes:**
 - Bed 6 (old melon bed) is RETIRING — this is where the new melon/cucumber bed will go (see Zone 2)
