@@ -9,28 +9,28 @@
 ## Quick Links
 
 **New to this garden?** Start here:
-- 📖 [QUICK_START.md](gardening/QUICK_START.md) — 5-minute orientation
-- 🗺️ [Garden_Overview.md](gardening/Garden_Overview.md) — Philosophy, zone info, complete property map, bed index
-- 📅 [Joy_Garden_2026.ics](gardening/Joy_Garden_2026.ics) — Subscribe to the growing calendar (iCal format)
+- 📖 [QUICK_START.md](QUICK_START.md) — 5-minute orientation
+- 🗺️ [Garden_Overview.md](planning/Garden_Overview.md) — Philosophy, zone info, complete property map, bed index
+- 📅 [Joy_Garden_2026.ics](planning/Joy_Garden_2026.ics) — Subscribe to the growing calendar (iCal format)
 
 **Planning & Planting:**
-- 🛠️ [Planting How-To Guide](gardening/guides/Planting_How_To.md) — Seed starting, transplanting, spacing, companions
-- 📆 [Planting Calendar NC](gardening/guides/Planting_Calendar_NC.md) — What to plant when in Zone 7b
-- 📋 [March Schedule](gardening/guides/March_Schedule.md) — Day-by-day spring plan
-- 📝 [Garden Todo List](gardening/guides/Garden_Todo_List.md) — Tasks by garden/season
+- 🛠️ [Planting How-To Guide](guides/Planting_How_To.md) — Seed starting, transplanting, spacing, companions
+- 📆 [Planting Calendar NC](guides/Planting_Calendar_NC.md) — What to plant when in Zone 7b
+- 📋 [March Schedule](guides/seasonal/March_Schedule.md) — Day-by-day spring plan
+- 📝 [Garden Todo List](guides/Garden_Todo_List.md) — Tasks by garden/season
 
 **Reference & Troubleshooting:**
-- 🌱 [Garden Care & Troubleshooting](gardening/guides/Garden_Care_and_Troubleshooting.md) — Weekly maintenance, pests, diseases, seed saving
-- 🥗 [Medicinal Herb Kit Guide](gardening/guides/Medicinal_Herb_Kit_Guide.md) — Growing and using healing herbs
-- 🌍 [Soil Notes](gardening/guides/Soil_Notes.md) — Amendments, pH, mulch by garden
-- 🪶 [NC Native Recommendations](gardening/reference/NC_Native_Recommendations.md) — Pollinator plants for this region
-- 📖 [Previous Owner Notes](gardening/reference/Previous_Owner_Notes.md) — Frost dates, what's already growing, what works
+- 🌱 [Garden Care & Troubleshooting](guides/Garden_Care_and_Troubleshooting.md) — Weekly maintenance, pests, diseases, seed saving
+- 🥗 [Medicinal Herb Kit Guide](guides/Medicinal_Herb_Kit_Guide.md) — Growing and using healing herbs
+- 🌍 [Soil Notes](guides/Soil_Notes.md) — Amendments, pH, mulch by garden
+- 🪶 [NC Native Recommendations](reference/NC_Native_Recommendations.md) — Pollinator plants for this region
+- 📖 [Previous Owner Notes](reference/Previous_Owner_Notes.md) — Frost dates, what's already growing, what works
 
 **Inventory & Planning Grids:**
-- 📊 [Master Seed and Plant List](gardening/inventory/Master_Seed_and_Plant_List.md) — All 228 seeds and plants with sources
-- ✅ [Inventory Audit March 2026](gardening/inventory/Inventory_Audit_March_2026.md) — What's assigned, what's unassigned, next steps
-- 🏗️ [Bloomveil Grid](gardening/inventory/Bloomveil_Grid.csv) — Spacing, heights, arrangement for flower garden
-- 🏗️ [Edgeworth Grid](gardening/inventory/Edgeworth_Grid.csv) — Pollinator garden layout with seed sources
+- 📊 [Master Seed and Plant List](inventory/Master_Seed_and_Plant_List.md) — All 228 seeds and plants with sources
+- ✅ [Inventory Audit March 2026](inventory/audits/Inventory_Audit_March_2026.md) — What's assigned, what's unassigned, next steps
+- 🏗️ [Bloomveil Grid](garden-beds/02-bloomveil/Bloomveil_Grid.csv) — Spacing, heights, arrangement for flower garden
+- 🏗️ [Edgeworth Grid](garden-beds/03-edgeworth-corner/Edgeworth_Grid.csv) — Pollinator garden layout with seed sources
 
 ---
 
@@ -38,26 +38,30 @@
 
 | Garden | File | What It Is |
 |--------|------|-----------|
-| **Bloomveil** | [beds/Bloomveil.md](gardening/beds/Bloomveil.md) | L-shaped flower garden with 5 color-themed zones. Sunrise Cloud, Berry Patch, Spice Drift, Moonlit Meadow, Twilight Hollow |
-| **Wildwood** | [beds/Wildwood.md](gardening/beds/Wildwood.md) | Main fenced veggie garden: 8 beds, cut flowers, corn circle (Three Sisters), pumpkin patch, watermelon patch, spiral herb garden with frog pond, Gourd Gate |
-| **Edgeworth Corner** | [beds/Edgeworth_Corner.md](gardening/beds/Edgeworth_Corner.md) | Grid-based pollinator garden (10×15 sunny + 6×4 shade) with dry creek pathway. Grid-based planting by seed source |
-| **Fernwood** | [beds/Fernwood.md](gardening/beds/Fernwood.md) | Shade garden on north side. Ferns, hostas, foxglove, seating area. Home for shade plants |
-| **Wayward Meadow** | [beds/Wayward_Meadow.md](gardening/beds/Wayward_Meadow.md) | Prairie wildflower meadow in back corner (~50 ft deep). Prairie Habitat kits go here. Pollinator magnet |
-| **Swingnook** | [beds/Swingnook.md](gardening/beds/Swingnook.md) | Shaded pergola retreat with swing bench, bonfire pit, fern groundcover. Ivy removal in progress |
-| **Small Gardens** | [beds/Small_Gardens.md](gardening/beds/Small_Gardens.md) | All mini gardens: Cat Garden (catnip, catmint, lounge zone), Blueberry & Raspberry beds, Porch Planters, Front Yard twins |
+| **Potion Patch** | [garden-beds/01-potion-patch/](garden-beds/01-potion-patch/) | Circular medicinal herb garden with compass-direction layout. Healing & magical herbs only |
+| **Bloomveil** | [garden-beds/02-bloomveil/](garden-beds/02-bloomveil/) | L-shaped flower garden with 5 color-themed zones. Sunrise Cloud, Berry Patch, Spice Drift, Moonlit Meadow, Twilight Hollow |
+| **Edgeworth Corner** | [garden-beds/03-edgeworth-corner/](garden-beds/03-edgeworth-corner/) | Grid-based pollinator garden (10×15 sunny + 6×4 shade) with dry creek pathway. Grid-based planting by seed source |
+| **Fernwood** | [garden-beds/04-fernwood/](garden-beds/04-fernwood/) | Shade garden on north side. Ferns, hostas, foxglove, seating area. Home for shade plants |
+| **Gloam** | [garden-beds/05-gloam/](garden-beds/05-gloam/) | Medicinal herb garden layout |
+| **Obelisk** | [garden-beds/06-obelisk/](garden-beds/06-obelisk/) | Vertical growing with trellis |
+| **Wayward Meadow** | [garden-beds/10-wayward-meadow/](garden-beds/10-wayward-meadow/) | Prairie wildflower meadow in back corner (~50 ft deep). Prairie Habitat kits go here. Pollinator magnet |
+| **Swingnook** | [garden-beds/09-swingnook/](garden-beds/09-swingnook/) | Shaded pergola retreat with swing bench, bonfire pit, fern groundcover |
+| **Wildwood** | [garden-beds/11-wildwood/](garden-beds/11-wildwood/) | Main fenced veggie garden: 8 beds, cut flowers, corn circle, spiral herb garden |
+| **Small Gardens** | [garden-beds/07-small-gardens/](garden-beds/07-small-gardens/) | Compact growing: Cat Garden, Blueberry & Raspberry beds, Porch Planters |
+| **Strawberry Patch** | [garden-beds/08-strawberry-patch/](garden-beds/08-strawberry-patch/) | Berry production bed |
 
 ---
 
 ## Special Topics
 
 **Herbs & Herbology:**
-- 🌿 [Medicinal Herb Kit Guide](gardening/guides/Medicinal_Herb_Kit_Guide.md) — Full growing and healing uses reference
-- 🧿 [Catnip Crafts Guide](gardening/reference/Catnip_Crafts_Guide.md) — Harvesting catnip, 5 cat toy projects, household uses
-- 🪣 [Smudging & Scent Burning Guide](gardening/guides/Smudging_and_Scent_Burning_Guide.md) — Sacred herb use, bundling, burning
+- 🌿 [Medicinal Herb Kit Guide](guides/Medicinal_Herb_Kit_Guide.md) — Full growing and healing uses reference
+- 🧿 [Catnip Crafts Guide](reference/Catnip_Crafts_Guide.md) — Harvesting catnip, 5 cat toy projects, household uses
+- 🪣 [Smudging & Scent Burning Guide](guides/Smudging_and_Scent_Burning_Guide.md) — Sacred herb use, bundling, burning
 
 **Aesthetic & Design:**
-- 🏷️ [Garden Signs](gardening/reference/Garden_Signs.md) — 9 sign designs with fonts, colors, materials, shopping list
-- 📸 [Garden Photography Guide](gardening/archive/Garden_Photography_Guide.md) — Lighting, angles, when to shoot for best photos
+- 🏷️ [Garden Signs](reference/Garden_Signs.md) — 9 sign designs with fonts, colors, materials, shopping list
+- 📸 [Garden Photography Guide](archive/) — Lighting, angles, when to shoot for best photos
 
 ---
 
@@ -65,46 +69,62 @@
 
 ```
 GardeningonGreenshadow/
-├── README.md (you are here)
-└── gardening/
-    ├── Garden_Overview.md        ← START HERE for philosophy & maps
-    ├── QUICK_START.md            ← 5-minute orientation
-    ├── Joy_Garden_2026.ics       ← iCal subscribe link
-    │
-    ├── beds/                     ← One file per major garden
-    │   ├── Bloomveil.md
-    │   ├── Wildwood.md
-    │   ├── Edgeworth_Corner.md
-    │   ├── Fernwood.md
-    │   ├── Swingnook.md
-    │   ├── Wayward_Meadow.md
-    │   └── Small_Gardens.md
-    │
-    ├── guides/                   ← How-to reference (8 files)
-    │   ├── Garden_Todo_List.md
-    │   ├── March_Schedule.md
-    │   ├── Planting_How_To.md
-    │   ├── Planting_Calendar_NC.md
-    │   ├── Garden_Care_and_Troubleshooting.md
-    │   ├── Medicinal_Herb_Kit_Guide.md
-    │   ├── Soil_Notes.md
-    │   └── Smudging_and_Scent_Burning_Guide.md
-    │
-    ├── inventory/                ← What you own (5 files)
-    │   ├── Master_Seed_and_Plant_List.md
-    │   ├── Inventory_Audit_March_2026.md
-    │   ├── Bloomveil_Grid.csv
-    │   ├── Edgeworth_Grid.csv
-    │   └── Nest_Supply_Store_List.md
-    │
-    ├── reference/                ← Quick lookups (4 files)
-    │   ├── Previous_Owner_Notes.md
-    │   ├── Garden_Signs.md
-    │   ├── NC_Native_Recommendations.md
-    │   └── Catnip_Crafts_Guide.md
-    │
-    └── archive/                  ← Old explorations & drafts
-        └── (53 files from original planning)
+├── README.md                    ← You are here
+├── QUICK_START.md              ← 5-minute orientation
+│
+├── garden-beds/                ← Individual garden folders
+│   ├── README.md              ← Overview of all beds
+│   ├── 01-potion-patch/        ← Medicinal herb circle
+│   ├── 02-bloomveil/           ← Flower garden
+│   ├── 03-edgeworth-corner/    ← Pollinator garden
+│   ├── 04-fernwood/            ← Shade garden
+│   ├── 05-gloam/               ← Medicinal garden
+│   ├── 06-obelisk/             ← Vertical garden
+│   ├── 07-small-gardens/       ← Compact gardens
+│   ├── 08-strawberry-patch/    ← Berry bed
+│   ├── 09-swingnook/           ← Seating area
+│   ├── 10-wayward-meadow/      ← Wildflower meadow
+│   └── 11-wildwood/            ← Veggie garden
+│
+├── guides/                     ← How-to & seasonal guides
+│   ├── README.md
+│   ├── Planting_How_To.md
+│   ├── Garden_Care_and_Troubleshooting.md
+│   ├── Soil_Notes.md
+│   ├── Medicinal_Herb_Kit_Guide.md
+│   ├── Planting_Calendar_NC.md
+│   └── seasonal/
+│       ├── March_2026_Monthly_Guide.md
+│       ├── April_2026_Monthly_Guide.md
+│       ├── May_2026_Monthly_Guide.md
+│       └── June_2026_Monthly_Guide.md
+│
+├── inventory/                  ← Seeds, plants & shopping
+│   ├── README.md
+│   ├── Master_Seed_and_Plant_List.md
+│   ├── shopping-lists/
+│   │   ├── Herb_Spiral_Shopping_List.md
+│   │   ├── Bloomveil_Witchy_Decor_Shopping_List.md
+│   │   └── Nest_Supply_Store_List.md
+│   ├── audits/
+│   │   └── Inventory_Audit_March_2026.md
+│   └── Seed_Varieties_by_Square_Foot.csv
+│
+├── reference/                  ← Background info
+│   ├── README.md
+│   ├── NC_Native_Recommendations.md
+│   ├── Previous_Owner_Notes.md
+│   ├── Catnip_Crafts_Guide.md
+│   └── Garden_Signs.md
+│
+├── planning/                   ← Master plans & calendar
+│   ├── README.md
+│   ├── Master_Polyculture_Ecosystem_Plan.md
+│   ├── Garden_Overview.md
+│   └── Joy_Garden_2026.ics
+│
+└── archive/                    ← Historical documents
+    └── (Old files from original planning)
 ```
 
 ---
@@ -163,15 +183,15 @@ To sync your garden schedule to your phone or calendar app:
 ## Getting Started: Three Paths
 
 ### 🚀 I want to jump in now
-→ [QUICK_START.md](gardening/QUICK_START.md) (5 minutes)
+→ [QUICK_START.md](QUICK_START.md) (5 minutes)
 
 ### 📚 I want to understand everything first
-→ [Garden_Overview.md](gardening/Garden_Overview.md) (30 minutes) then pick your garden
+→ [Garden_Overview.md](planning/Garden_Overview.md) (30 minutes) then pick your garden
 
 ### 🎯 I have a specific question
-→ Use the **Quick Links** above or search by topic
+→ Use the **Quick Links** above or explore the organized folders
 
 ---
 
 ## Last Updated
-March 9, 2026
+March 23, 2026 — Reorganized into garden-beds, guides, inventory, reference, planning, and archive
