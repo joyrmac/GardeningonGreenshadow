@@ -142,10 +142,11 @@ All of these go in the open west end where sunlight enters:
 
 ---
 
-## Blueberry & Raspberry Bed
+## Blueberry & Raspberry & Strawberry Bed (Integrated Berry System)
 
 **Dimensions:** ~35 ft long. East to west orientation.
-**What's actually here (March 2026):** 4 blueberry bushes. Mimosa tree removed. No sunflowers, no Boston Ivy (original plan scrapped).
+**What's actually here (March 2026):** 4 blueberry bushes, 4 red latham raspberries (to be transplanted).
+**New addition:** Strawberry groundcover layer (15-21 plants) nested under and between the blueberries and raspberries.
 
 ### Current Layout: Blueberry Row
 
@@ -246,14 +247,85 @@ Two options depending on what you have:
 | Tomatoes/peppers/eggplant | Share verticillium wilt with raspberries |
 | Blackberries | Disease sharing (raspberry mosaic virus) |
 
-**Cautions:**
-- **Both crops need acidic soil.** Amend with peat moss, pine fines, or elemental sulfur. Test pH annually — NC clay drifts alkaline
+### STRAWBERRY LAYER: Integrated Groundcover System
+
+**Why it works:** Strawberries (12-18" tall max) planted as a living groundcover layer BETWEEN blueberries and raspberries creates a tiered berry production system with shared acidic soil and companion benefits.
+
+**Layout:**
+```
+Blueberry row:     O'Neal --- Patriot --- Bluecrop --- Legacy
+                   (4-5 ft apart, 4-6 ft tall)
+
+Strawberry layer:  [scattered between, under canopy]
+                   (12-18" tall, spilling out sides)
+
+— 3-4 ft picking aisle (mulch path) —
+
+Strawberry edge:   (shallow root line, minimal interference)
+
+Raspberry row:     cane --- cane --- cane --- cane
+                   (4-5 ft apart, 6+ ft tall with trellis)
+```
+
+**Strawberry varieties (15-21 plants total):**
+
+| Variety | Type | Role | Qty | Season |
+|---------|------|------|-----|--------|
+| **Albion** | Day-neutral | Workhorse — continuous bearing all season | 6-8 | April–November |
+| **San Andreas** | Day-neutral | Backup day-neutral for reliability | 4-6 | April–November |
+| **Seascape** | Everbearing | Fills gaps between day-neutral peaks | 3-4 | May, July–Oct |
+| **Chandler** | June-bearing | Peak spectacle season, traditional big harvest | 2-3 | May–June |
+
+**Spacing & planting:**
+- Plant strawberries 12-18" apart in clusters or loose rows
+- Allow trailing runners to spill out toward the picking aisle
+- Avoid planting directly under the densest blueberry canopy (too shady)
+- Focus strawberry placement on the south and east edges of blueberries (better light)
+
+**Soil & site prep:**
+- Same acidic soil mix as blueberries/raspberries (peat moss, pine fines, sulfur)
+- Amend top 6-8" before strawberry planting
+- Ensure good drainage — strawberries hate waterlogged soil even more than blueberries
+- Mulch strawberries with 2" straw (keeps berries clean, suppresses weeds, regulates moisture)
+
+**Watering & care:**
+- Strawberries need consistent moisture during fruiting (berries crack if erratic watering)
+- Drip irrigation or soaker hose ideal for all three crops together
+- In heat (July/August) 1.5-2" per week
+- Deadhead spent flowers on strawberries for continuous production
+- Manage runners: allow 1-2 per plant to root nearby for year 2 replacement
+
+**Pros of this integration:**
+✓ Weed suppression under tall plants (strawberries fill the gap)
+✓ Efficient watering (one irrigation system serves all)
+✓ Shared soil management (all three love acidic conditions)
+✓ Tiered harvesting (reach different fruit at different heights)
+✓ Maximum production from limited space
+✓ Beautiful diversity (visitors see blueberries, raspberries, strawberries at once)
+
+**Cautions about strawberry + blueberry integration:**
+- **Moisture management is critical** — don't let dense strawberry mulch trap moisture against blueberry stems (fungal risk)
+- **Airflow matters** — keep strawberries away from the densest blueberry canopy
+- **Pick carefully** — reaching under blueberries requires gentleness (don't break branches)
+- **Monitor for shared pests** — slugs love the moist strawberry zone; eggshell barriers help
+- **Don't overcrowd** — resist the urge to plant 30 strawberries; stick to 15-21 or they'll smother each other and blueberry roots
+
+**Timeline:**
+- **April–May 2026:** Plant blueberries + raspberries per plan
+- **August–September 2026 (recommended):** Plant full strawberry layer as fall planting system
+- **Spring 2027:** Full integrated harvest (first heavy strawberry season)
+- **Ongoing:** Manage strawberry runners in summer, propagate replacements, rotate varieties every 3 years
+
+---
+
+**Cautions for all three crops:**
+- **All need acidic soil.** Amend with peat moss, pine fines, or elemental sulfur. Test pH annually — NC clay drifts alkaline
 - **Raspberries spread by underground suckers** 6+ feet out. Root barrier on the south edge and pulling escapees annually handles this
 - **Don't plant raspberries near blackberries** — shared diseases (raspberry mosaic virus, verticillium wilt)
 - **Prune correctly:** Red Latham is summer-bearing — fruits on 2nd-year canes. After harvest, cut fruited canes to the ground. Leave new green canes for next year
-- **Don't fertilize raspberries at transplant.** Let them establish 3-4 weeks first
-- **Bird netting** is essential for blueberries unless you want to share your entire crop with mockingbirds. Raspberries attract birds too — consider netting both rows once fruit sets
-- **Don't use moldy brush pile material** right against cane stems. Use the cleanest decomposed material closest to plants
+- **Don't fertilize at transplant.** Let them establish 3-4 weeks first
+- **Bird netting** is essential for blueberries unless you want to share your entire crop with mockingbirds. Raspberries and strawberries attract birds too — consider netting all three once fruit sets
+- **Don't use moldy brush pile material** right against canes or plant stems. Use the cleanest decomposed material closest to plants
 
 ---
 
