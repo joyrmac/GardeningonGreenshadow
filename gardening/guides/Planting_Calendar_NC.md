@@ -107,6 +107,68 @@ or Transplants | Start Seeds Outdoors |
 | Zucchini | ❄️ Mar 8-23
 🌙 Mar 8-18 | ❄️ Apr 20-May 4
 🌙 Apr 30-May 4 | N/A |
+
+---
+
+## 🌿 Potion Patch Medicinal Herbs (Spring Planting)
+
+**Location:** Concentric medicinal garden inside The Gloam Tomato Circle (Wildwood)
+**Design:** 3 rings — tall center (3-5 ft), medium middle (18-36"), short annuals (6-18")
+**Timeline:** 3-phase planting (March → June), 3-year establishment
+
+### PHASE 1: PERENNIAL STARTERS (Late March - Early April)
+Plant keystone perennials for structure. These go in the center + middle rings.
+
+| Herb | Type | Start Indoors | Plant Starters Outdoors | Direct Sow |
+|------|------|---|---|---|
+| **Valerian** | Perennial | N/A | ❄️ Mar 23-Apr 6 🌙 Apr 1-6 | N/A (slow) |
+| **Echinacea** | Perennial | ❄️ Feb 1-15 🌙 Feb 1-8 | ❄️ Apr 6-20 🌙 Apr 6-16 | ❄️ Apr 13-May 4 (if starting from seed) |
+| **Astragalus** | Perennial | ❄️ Feb 1-15 | ❄️ Apr 6-20 🌙 Apr 6-16 | N/A (slow) |
+| **St. John's Wort** | Perennial | ❄️ Feb 1-15 | ❄️ Apr 6-20 🌙 Apr 6-16 | ❄️ Apr 13-May 4 |
+| **Horehound** | Perennial | ❄️ Feb 8-22 | ❄️ Apr 6-20 🌙 Apr 6-16 | N/A |
+
+### PHASE 2: TALL + BIENNIAL STARTERS (April)
+Add height with tall plants + biennials. These create the dome peak in center ring.
+
+| Herb | Type | Start Indoors | Plant Starters Outdoors | Direct Sow |
+|------|------|---|---|---|
+| **Mullein** | Biennial | N/A | N/A | ❄️ Mar 23-Apr 13 🌙 Apr 1-6 (self-seeds) |
+| **Angelica** | Biennial | ❄️ Feb 1-15 | ❄️ Apr 6-27 🌙 Apr 6-16 | N/A (slow) |
+| **Yarrow** | Perennial | ❄️ Feb 8-22 🌙 Feb 8-16 | ❄️ Apr 6-27 🌙 Apr 6-16 | ❄️ Apr 13-May 4 |
+| **Hyssop** | Perennial | ❄️ Feb 8-22 | ❄️ Apr 6-27 🌙 Apr 6-16 | ❄️ May 1-15 |
+
+### PHASE 3: ANNUAL DIRECT SOW (Late May - Early June)
+Direct sow annuals after last frost. These fill the outer ring with abundant blooms.
+
+| Herb | Type | Start Indoors | Plant Starters | Direct Sow Outdoors |
+|------|------|---|---|---|
+| **Calendula** | Annual | N/A | N/A | ❄️ May 4-18 🌙 Apr 30-May 4 |
+| **Chamomile** | Annual | N/A | N/A | ❄️ May 4-18 🌙 Apr 30-May 4 |
+| **Borage** | Annual | N/A | N/A | ❄️ May 4-18 🌙 Apr 30-May 4 |
+| **Fenugreek** | Annual | N/A | N/A | ❄️ May 4-18 🌙 Apr 30-May 4 |
+| **French Marigold** | Annual | N/A | N/A | ❄️ May 4-18 🌙 Apr 30-May 4 |
+| **Anise** | Annual | N/A | N/A | ❄️ May 4-18 🌙 Apr 30-May 4 |
+| **Hollyhock (French Dwarf)** | Biennial | N/A | ❄️ May 4-18 | ❄️ May 4-18 🌙 Apr 30-May 4 |
+
+### Summary Timeline
+
+```
+LATE MARCH:          Plant perennial starters (Valerian, Echinacea, Astragalus, St. John's, Horehound)
+APRIL:               Plant tall + biennial starters (Mullein, Angelica, Yarrow, Hyssop)
+LATE MAY/EARLY JUNE: Direct sow annuals + Hollyhock (Calendula, Chamomile, Borage, etc.)
+```
+
+### Special Potion Patch Notes
+
+- **Perennials in center/middle rings:** Start indoors early (Feb-Mar) OR buy starters (cheaper, faster)
+- **Annuals in outer ring:** Direct sow after frost date — they prefer outdoor soil
+- **Chamomile:** Heavy self-seeder — expect volunteers next year (thin aggressively if crowded)
+- **Fenugreek:** Your daily tea plant — seed harvest in August
+- **Astragalus & Angelica:** Slow germinators — buying starters recommended
+- **Mullein:** Often self-seeds naturally — thin seedlings ruthlessly at 2-4 weeks
+- **Moon planting:** Waxing moon (new to full) for above-ground herbs, waning moon for root plants (Astragalus, Angelica roots)
+
+For complete Potion Patch details, see: **`gardening/beds/Potion_Patch.md`** + 6 detailed guides
   
   
 ## Planting Dates for Fall  
@@ -143,6 +205,24 @@ On average, your first fall frost occurs on November 1 (at APEX, NC climate stat
 | Turnips | N/A | N/A | ❄️  Sep 22 |
 | Watermelons | N/A | N/A | ❄️  Jul 4 |
 | Zucchini | N/A | N/A | ❄️  Aug 3 |
+
+---
+
+## 🌿 Potion Patch Medicinal Herbs (Fall Planting)
+
+**Fall is IDEAL for planting perennial roots.** Soil is still warm but air temperatures are cooler — perfect for establishment.
+
+| Herb | Type | Best Timing | Notes |
+|------|------|---|---|
+| **Astragalus** | Perennial root | ❄️ Aug 15-Sep 15 | BEST TIME: Cool air + warm soil = strong root development |
+| **Angelica** | Biennial root | ❄️ Aug 15-Sep 15 | BEST TIME: Plant roots in fall for spring flowering |
+| **Valerian** | Perennial root | ❄️ Aug 15-Sep 15 | BEST TIME: Root systems establish over winter |
+| **Yarrow** | Perennial | ❄️ Aug 1-Sep 1 | Can plant divisions or young plants |
+| **Echinacea** | Perennial | ❄️ Aug 1-Sep 1 | Can plant divisions or transplants |
+| **Chamomile** | Annual | N/A | Plant in spring only (dies after frost) |
+| **Fenugreek** | Annual | N/A | Plant in spring only |
+
+**Key note:** Fall-planted perennial roots are PREFERRED over spring planting. They establish deeper root systems before summer heat arrives. If you missed spring planting, fall is your ideal window!
   
   
 ##   
