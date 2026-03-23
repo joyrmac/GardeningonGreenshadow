@@ -64,6 +64,33 @@
 
 ---
 
+## PLANT HEIGHT REFERENCE (for layering)
+
+**Use this to determine what goes in front of what:**
+
+| Plant | Mature Height | Best Position |
+|-------|---------------|----------------|
+| **Mullein** | 4-6 ft | Ring 1 - TALLEST, back layer |
+| **Angelica** | 3-5 ft | Ring 1 - tall, back |
+| **Hollyhock** | 4-6 ft | Ring 3 - acts as back border |
+| **Valerian** | 3-4 ft | Ring 1 - tall, back |
+| **Echinacea** | 3-4 ft | Ring 1 - tall, back |
+| **Borage** | 2-3 ft | Ring 3 - surprisingly tall, front-middle |
+| **Anise** | 2-3 ft | Ring 3 - mid-height |
+| **St. John's Wort** | 2-3 ft | Ring 2 - mid-height |
+| **Yarrow** | 2-3 ft | Ring 2 - mid-height |
+| **Horehound** | 1.5-2 ft | Ring 2 - shorter mid-layer |
+| **Hyssop** | 1.5-2 ft | Ring 2 - shorter mid-layer |
+| **Astragalus** | 1-2 ft | Ring 2 - low mid-layer |
+| **Fenugreek** | 1-2 ft | Ring 3 - short foreground |
+| **Calendula** | 1-2 ft | Ring 3 - short foreground |
+| **Chamomile** | 1-2 ft | Ring 3 - short foreground |
+| **Marigold** | 1-2 ft | Ring 3 - short foreground |
+
+**Height placement tip:** In each ring, place taller plants on the north (back) side and shorter plants on south/edges (front) so nothing gets shaded.
+
+---
+
 ## STEP 3: PLANT POSITIONS (NORTH SIDE FIRST)
 
 ### CENTER RING (Ring 1) - Plant these FIRST
@@ -105,12 +132,12 @@
 
 **Exact positions (North side, centered):**
 
-| Plant | Position from center | Distance apart | Count |
-|-------|----------------------|-----------------|-------|
-| **Valerian** | 4-5 ft north | 24" | 2 plants |
-| **Echinacea** | 4-5 ft (scattered) | 12-18" | 2-3 plants |
-| **Mullein** | 4-5 ft (scattered) | Self-seed | 3-5 plants |
-| **Angelica** | 4-5 ft (scattered) | 18" | 2-3 plants |
+| Plant | Height | Position from center | Distance apart | Count |
+|-------|--------|----------------------|-----------------|-------|
+| **Mullein** | 4-6 ft | 4-5 ft north | Self-seed | 3-5 plants |
+| **Valerian** | 3-4 ft | 4-5 ft north | 24" | 2 plants |
+| **Angelica** | 3-5 ft | 4-5 ft (scattered) | 18" | 2-3 plants |
+| **Echinacea** | 3-4 ft | 4-5 ft (scattered) | 12-18" | 2-3 plants |
 
 **How to measure:**
 1. From center stake, measure 5 ft north = plant Valerian there (2 plants, 24" apart E-W)
@@ -177,13 +204,13 @@ Ring 2 outer edge = about 7-8 ft from center
 
 **Positions (7-8 ft from center, distributed around north/east/west):**
 
-| Plant | Spacing | How many | Where |
-|-------|---------|----------|-------|
-| **Yarrow** | 12" apart | 6 | Front of Ring 2 (north) |
-| **Astragalus** | 18" apart | 2 | North-east side, spaced out |
-| **St. John's Wort** | 18" apart | 2 | North-west side, spaced out |
-| **Hyssop** | 12" apart | 8 | Around entire ring except south gap |
-| **Horehound** | Solitary | 1 | Middle-north, all alone |
+| Plant | Height | Spacing | How many | Where |
+|-------|--------|---------|----------|-------|
+| **St. John's Wort** | 2-3 ft | 18" apart | 2 | North-west side, spaced out |
+| **Yarrow** | 2-3 ft | 12" apart | 6 | Front of Ring 2 (north) |
+| **Hyssop** | 1.5-2 ft | 12" apart | 8 | Around entire ring except south gap |
+| **Horehound** | 1.5-2 ft | Solitary | 1 | Middle-north, all alone |
+| **Astragalus** | 1-2 ft | 18" apart | 2 | North-east side, spaced out |
 
 **Rough distribution:**
 - North side (front): Yarrow line (6 plants in a row, 12" apart)
@@ -231,21 +258,26 @@ Ring 3 outer edge = 9-10 ft from center (the boundary)
 
 **Positions (9-10 ft from center, all around except south):**
 
-| Plant | Spacing | Qty | Distribution |
-|-------|---------|-----|--------------|
-| **Calendula** | 10" apart | 10 | North edge (one line, dense) |
-| **Chamomile** | 10-12" apart | 15 patches | SCATTERED throughout (self-seeder, expect chaos) |
-| **Borage** | 12" apart | 6 | East + West sides |
-| **Fenugreek** | 6-8" apart | 12 | North-east side (tight spacing = bushier) |
-| **Marigold** | 10" apart | 10 | North-west side |
-| **Anise** | 12" apart | 10 | Middle-outer east/west |
-| **Hollyhock** | 12" apart | 8 | Back of ring, north side (tall!) |
+| Plant | Height | Spacing | Qty | Distribution |
+|-------|--------|---------|-----|--------------|
+| **Hollyhock** | 4-6 ft | 12" apart | 8 | Back of ring, north side (TALLEST) |
+| **Borage** | 2-3 ft | 12" apart | 6 | East + West sides (taller than expected) |
+| **Anise** | 2-3 ft | 12" apart | 10 | Middle-outer east/west (mid-height) |
+| **Calendula** | 1-2 ft | 10" apart | 10 | North edge (one line, dense) |
+| **Marigold** | 1-2 ft | 10" apart | 10 | North-west side |
+| **Chamomile** | 1-2 ft | 10-12" apart | 15 patches | SCATTERED throughout (self-seeder, expect chaos) |
+| **Fenugreek** | 1-2 ft | 6-8" apart | 12 | North-east side (tight spacing = bushier) |
 
-**Key placement strategy:**
-- **North (front):** Dense with Calendula + Chamomile (what people see first)
-- **East/West:** Borage + Fenugreek + Anise (distributed)
+**Key placement strategy (with height layering):**
+- **North (front):** Dense with Calendula + Chamomile (1-2 ft, shortest layer)
+- **East/West:** Borage (2-3 ft, mid-height) + Fenugreek + Anise (distributed)
 - **South:** COMPLETELY OPEN (gap)
-- **Back (north):** Hollyhock adds height (12-18", bridges to Ring 2)
+- **Back (north):** Hollyhock (4-6 ft, tallest - bridges to Ring 1/2 height)
+
+**Height layering creates a natural amphitheater effect:**
+- Ring 1: 3-6 ft (back layer, shade-free)
+- Ring 2: 1.5-3 ft (mid-layer)
+- Ring 3: 1-6 ft (front layer, with Hollyhock creating dramatic backdrop)
 
 ---
 
