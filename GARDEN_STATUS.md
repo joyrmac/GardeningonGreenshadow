@@ -38,12 +38,18 @@
 ### Bloomveil Bed 🔄
 - **Status:** Weeding & mulching in progress
 - **Date started:** Mar 23, 2026
+- **Already growing there (perennials/volunteers):**
+  - Catnip
+  - Dahlia (variety unknown)
+  - Hosta (planted in back)
+  - Bee balm
+  - Borage (self-seeded, 2 small sprouts emerging) — **leave these alone!**
 - **Work completed:**
   - Weeding (started)
   - Old mulch removed & moved to walkways
   - New mulch applied on north side
 - **Still to do:**
-  - Finish weeding
+  - Finish weeding (avoid Borage sprouts)
   - Finish mulching remaining areas
 
 ---
