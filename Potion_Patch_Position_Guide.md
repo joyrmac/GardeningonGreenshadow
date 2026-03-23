@@ -4,46 +4,46 @@
 Plant each herb in the direction listed from your center point, spacing them 12-18 inches apart as you go around:
 
 ### NORTH (top of circle)
-- Mint
-- Thyme
-- Sage
 - Lavender
-- Rosemary
+- Feverfew
+- Valerian
+- Passionflower
+- Skullcap
 
 ### NORTHEAST
-- Basil
-- Oregano
-- Marjoram
-- Dill
-- Fennel
+- Holy Basil (Tulsi)
+- Ashwagandha
+- Gotu Kola
+- Ginseng
+- Elecampane
 
 ### EAST (right side of circle)
-- Parsley
-- Cilantro
-- Chervil
-- Tarragon
-- Chives
+- Echinacea
+- Nettle
+- Red Clover
+- Dandelion
+- Burdock
 
 ### SOUTHEAST
 - Lemon Balm
-- Lemongrass
 - Bee Balm
 - Bergamot
 - Catmint
+- Self-heal (Prunella)
 
 ### SOUTH (bottom of circle)
 - Chamomile
 - Calendula
-- Echinacea
 - St. John's Wort
 - Yarrow
+- Wood Betony
 
 ### SOUTHWEST
 - Hyssop
-- Sage (Purple)
-- Salvia
 - Germander
 - Santolina
+- Agrimony
+- Betony
 
 ### WEST (left side of circle)
 - Mullein
@@ -64,17 +64,17 @@ Plant each herb in the direction listed from your center point, spacing them 12-
 ## OPTION 2: WEDGE ZONES
 Imagine your circle divided into 8 pizza slices. Go clockwise starting at 12 o'clock (top/North):
 
-**Wedge 1 (Top/North):** Mint, Thyme, Sage, Lavender, Rosemary
+**Wedge 1 (Top/North):** Lavender, Feverfew, Valerian, Passionflower, Skullcap
 
-**Wedge 2 (Top-right/Northeast):** Basil, Oregano, Marjoram, Dill, Fennel
+**Wedge 2 (Top-right/Northeast):** Holy Basil (Tulsi), Ashwagandha, Gotu Kola, Ginseng, Elecampane
 
-**Wedge 3 (Right/East):** Parsley, Cilantro, Chervil, Tarragon, Chives
+**Wedge 3 (Right/East):** Echinacea, Nettle, Red Clover, Dandelion, Burdock
 
-**Wedge 4 (Bottom-right/Southeast):** Lemon Balm, Lemongrass, Bee Balm, Bergamot, Catmint
+**Wedge 4 (Bottom-right/Southeast):** Lemon Balm, Bee Balm, Bergamot, Catmint, Self-heal (Prunella)
 
-**Wedge 5 (Bottom/South):** Chamomile, Calendula, Echinacea, St. John's Wort, Yarrow
+**Wedge 5 (Bottom/South):** Chamomile, Calendula, St. John's Wort, Yarrow, Wood Betony
 
-**Wedge 6 (Bottom-left/Southwest):** Hyssop, Sage (Purple), Salvia, Germander, Santolina
+**Wedge 6 (Bottom-left/Southwest):** Hyssop, Germander, Santolina, Agrimony, Betony
 
 **Wedge 7 (Left/West):** Mullein, Comfrey, Plantain, Horehound, Motherwort
 
