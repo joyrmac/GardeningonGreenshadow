@@ -25,7 +25,6 @@ Plant each herb in the direction listed from your center point, spacing them 12-
 - Burdock
 
 ### SOUTHEAST
-- Lemon Balm
 - Bee Balm
 - Bergamot
 - Catmint
@@ -70,7 +69,7 @@ Imagine your circle divided into 8 pizza slices. Go clockwise starting at 12 o'c
 
 **Wedge 3 (Right/East):** Echinacea, Nettle, Red Clover, Dandelion, Burdock
 
-**Wedge 4 (Bottom-right/Southeast):** Lemon Balm, Bee Balm, Bergamot, Catmint, Self-heal (Prunella)
+**Wedge 4 (Bottom-right/Southeast):** Bee Balm, Bergamot, Catmint, Self-heal (Prunella)
 
 **Wedge 5 (Bottom/South):** Chamomile, Calendula, St. John's Wort, Yarrow, Wood Betony
 

@@ -62,7 +62,7 @@ See **`gardening/beds/Obelisk_Garden_Plan.md`** for complete details:
 **Spiral Herb Garden:**
 - **Location:** Wildwood (separate location)
 - **Plants:** Cooking herbs (lavender, sage, rosemary, basil, parsley, chives, dill, cilantro)
-- **Aggressive spreaders (CONTAINED):** Lemon Balm, Peppermint, Spearmint, Catnip, Catmint, Borage — all in buried pots
+- **Aggressive spreaders (CONTAINED):** Peppermint, Spearmint, Catnip, Catmint, Borage — all in buried pots
 - **See:** `gardening/beds/Wildwood.md` (section 5)
 
 ---

@@ -134,7 +134,7 @@ All of these go in the open west end where sunlight enters:
 **Pot 3 -- Herb/Scent Pot:**
 - Center: Lavender (English)
 - Edge: Thyme or Oregano (trailing)
-- Opposite: Lemon Balm OR Mint (never both, and only one -- it takes over)
+- Opposite: Mint (only one -- it takes over)
 
 **Soil refresh:** Replace top 4-6" of old soil with 70% existing + 20-25% compost + 5-10% worm castings. Top with bark mulch.
 

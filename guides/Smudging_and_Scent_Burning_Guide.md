@@ -212,7 +212,7 @@ You've got a lot of herb seeds and not all have homes yet. Here's a placement ch
 | **Anise** | 1 | Herb Spiral — East tier, next to parsley and chives | Likes similar conditions (morning sun, decent soil). Also grows 2 ft tall so won't shade the top tier. |
 | **Hyssop** (extra packs) | 2 extra after Bloomveil | Wayward Meadow edges + Edgeworth Corner border | Native pollinator magnet, 2-3 ft tall, tough. Perfect meadow edge plant. Also good smudging harvest spot away from the show garden. |
 | **Borage** (extra packs) | 2 extra after Bloomveil | Scatter along Wildwood fence line + around Corn Circle (Three Sisters) | Self-seeds, attracts pollinators like crazy, great squash/melon companion. Let it naturalize along the fence. |
-| **Lemon Balm** | extra if any | Fernwood shade garden — in a buried pot | Tolerates shade, lemony scent when brushed against on the path. MUST be in a pot or it'll eat Fernwood alive. |
+| **Lemon Balm** | extra if any | Bay Leaf Tree bed (east house side) | Harvesting for smudging bundles and tea. |
 | **White Sage** | 1 (unconfirmed) | Try again in a **container on the porch** in full sun with sandy/gritty soil | It's not happy in NC humidity in the ground. Treat it like a Mediterranean succulent — terra cotta pot, fast-draining soil, full baking sun, almost no water. Worth one more try in a pot. |
 | **Lemongrass/Citronella** | 1 (unconfirmed) | Large porch pot — bring inside Oct–Apr | NOT cold hardy. Beautiful in a big pot on the porch all summer. Smells amazing and keeps mosquitoes away. Burn dried stalks in fall. |
 

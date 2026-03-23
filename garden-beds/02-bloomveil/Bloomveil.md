@@ -45,7 +45,6 @@
 | Lizzy Dwarf Gladiolus | Short-mid | Front/Middle | 3 | 6-9" | Clustered line |
 | Chamomile (Roman) | Short | Front | 4 | 6-9" | Edge line |
 | Candy Cane Stripe Zinnia | Mid | Middle | 2 | 12" | Tight cluster |
-| Lemon Balm (in pot) | Short | Front corner | 1 | -- | Pot placement |
 | Calendula 'Pink Surprise' | Mid-low | Front | 2 | -- | Loose cluster |
 | Ranunculus 'Jumbo Spring Joy' | Short-mid | Middle corner (scattered) | 1 | 6-9" | **PLANTED 3/8/26.** Scattered around the middle corner of the L. Spring focal -- blooms before summer flowers fill in, goes dormant in heat |
 
