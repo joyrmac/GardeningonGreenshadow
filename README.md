@@ -42,7 +42,8 @@
 | **Bloomveil** | [garden-beds/02-bloomveil/](garden-beds/02-bloomveil/) | L-shaped flower garden with 5 color-themed zones. Sunrise Cloud, Berry Patch, Spice Drift, Moonlit Meadow, Twilight Hollow |
 | **Edgeworth Corner** | [garden-beds/03-edgeworth-corner/](garden-beds/03-edgeworth-corner/) | Grid-based pollinator garden (10×15 sunny + 6×4 shade) with dry creek pathway. Grid-based planting by seed source |
 | **Fernwood** | [garden-beds/04-fernwood/](garden-beds/04-fernwood/) | Shade garden on north side. Ferns, hostas, foxglove, seating area. Home for shade plants |
-| **Gloam** | [garden-beds/05-gloam/](garden-beds/05-gloam/) | Tomato Obelisk Circle with companion planting. Vertical tomatoes & peppers with basil, borage, marigolds |
+| **Gloam** | [garden-beds/05-gloam/](garden-beds/05-gloam/) | Medicinal herb garden layout |
+| **Obelisk** | [garden-beds/06-obelisk/](garden-beds/06-obelisk/) | Vertical growing with trellis |
 | **Wayward Meadow** | [garden-beds/10-wayward-meadow/](garden-beds/10-wayward-meadow/) | Prairie wildflower meadow in back corner (~50 ft deep). Prairie Habitat kits go here. Pollinator magnet |
 | **Swingnook** | [garden-beds/09-swingnook/](garden-beds/09-swingnook/) | Shaded pergola retreat with swing bench, bonfire pit, fern groundcover |
 | **Wildwood** | [garden-beds/11-wildwood/](garden-beds/11-wildwood/) | Main fenced veggie garden: 8 beds, cut flowers, corn circle, spiral herb garden |
