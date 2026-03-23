@@ -13,7 +13,7 @@
 
 This location now hosts the **Tomato Obelisk Circle** with 4-6 vertical structures for tomatoes and peppers. Companion planting includes basil varieties, marigold rings, borage, and nasturtium trap crops.
 
-**MEDICINAL HERBS RELOCATED:** The medicinal herb garden (previously planned for this location) has been relocated to **Potion Patch** inside the Tomato Circle at Wildwood. See `gardening/beds/Potion_Patch.md` for details.
+**MEDICINAL HERBS RELOCATED:** The medicinal herb garden (previously planned for this location) has been relocated to **Potion Patch** inside the Tomato Circle at Wildwood. See `../11-wildwood/11d-tomato-obelisk-circle/Potion_Patch.md` for details.
 
 ---
 
@@ -42,7 +42,7 @@ This location now hosts the **Tomato Obelisk Circle** with 4-6 vertical structur
 
 ## Main Obelisk Planting
 
-See **`gardening/beds/Obelisk_Garden_Plan.md`** for complete details:
+See **[Obelisk_Garden_Plan.md](../11-wildwood/11d-tomato-obelisk-circle/Obelisk_Garden_Plan.md)** for complete details:
 
 - 4-6 tomato & pepper obelisks (8-10 ft height)
 - Companion planting: basil, marigolds, borage, nasturtium
