@@ -73,7 +73,7 @@ The Wildwood redesign isn't abstract. Every zone, every color, every hidden spac
 | **Peppermint** | West Step Mint Bed | Leaves (fresh or dried) |
 | **Dill** | Various (self-seeds everywhere) | Seeds (tea), fronds (cooking) |
 | **Chamomile** | Herb Spiral or self-seeding in beds | Flowers dried for tea |
-| **Lemon Balm** | Herb Spiral (west side, moving from spiral to avoid takeover) | Leaves fresh for tea |
+| **Lemon Balm** | Bay Leaf Tree bed (east house side) | Leaves fresh for tea |
 | **Ginger** | Pots (overwinter indoors) | Root harvest for tea/cooking |
 
 **The pipeline:** Feeling reflux coming? Walk to Herb Spiral, pick fresh peppermint, steep 5 minutes, drink. Done. No Omeprazole needed (as often).
@@ -200,7 +200,7 @@ On Full Moon nights (your power phase as a Full Moon baby), fill a birdbath with
 | **Chamomile** | Bed 8 or self-seeding | Flowers, late spring through fall | Evening Reset, Headache Tea |
 | **Lavender** | Herb Spiral, Cut Flowers | Buds, summer peak | Rose Garden Blend, respiratory |
 | **Spearmint** | West Step Mint Bed | Leaves, ongoing | Daily digestive, PCOS support |
-| **Lemon Balm** | Herb Spiral (moving location) | Leaves, fresh or dried | Headache Tea, anxiety |
+| **Lemon Balm** | Bay Leaf Tree bed (east house side) | Leaves, fresh or dried | Headache Tea, anxiety |
 | **Catnip** | Already planted (moving to Cat Garden) | Leaves | Headache Tea (sedative) |
 | **Rosemary** | Herb Spiral | Leaves, evergreen year-round | Optional headache tea, cooking |
 | **Bee Balm** | Herb Spiral (spring division) | Flowers + leaves, summer | Garden Respiratory Tea |

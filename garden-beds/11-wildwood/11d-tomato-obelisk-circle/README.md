@@ -34,7 +34,7 @@ Medicinal herbs only (no culinary varieties):
 - Lavender, Feverfew, Valerian, Passionflower, Skullcap
 - Holy Basil, Ashwagandha, Gotu Kola, Ginseng, Elecampane
 - Echinacea, Nettle, Red Clover, Dandelion, Burdock
-- Lemon Balm, Bee Balm, Bergamot, Catmint, Self-heal
+- Bee Balm, Bergamot, Catmint, Self-heal
 - Chamomile, Calendula, St. John's Wort, Yarrow, Wood Betony
 - Hyssop, Germander, Santolina, Agrimony, Betony
 - Mullein, Comfrey, Plantain, Horehound, Motherwort

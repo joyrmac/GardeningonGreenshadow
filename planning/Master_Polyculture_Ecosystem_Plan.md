@@ -83,7 +83,7 @@ WILDWOOD (main veggie garden)
   │  └─> FEEDS → Pollinators across entire property
   │
   ├─ SPIRAL HERB GARDEN (cooking herbs):
-  │  ├─ Sage, rosemary, basil, thyme, oregano, lavender, lemon balm, mints
+  │  ├─ Sage, rosemary, basil, thyme, oregano, lavender, mints
   │  ├─ Frog pond (frogs eat slugs/mosquitoes)
   │  └─> FEEDS → Beneficial insects + you (cooking + tea)
   │
@@ -387,7 +387,7 @@ Plant these throughout to keep pollinators visiting veggies:
 | **Tomato Circle** | Obelisk tomatoes + companions | Tomatoes, Marigolds, Basil, Nasturtiums, Potion Patch (inside) |
 | **Three Sisters Corn Circle** | Vegetable productivity + nitrogen fixation | Corn, Beans, Squash (perfect companion) |
 | **Gourd Gate** | Pumpkins on trellis, food + beauty | Pumpkins, architectural structure |
-| **Spiral Herb Garden** | Cooking herbs + frog pond | Sage, Rosemary, Basil, Thyme, Oregano, Lavender, Lemon Balm, Mints (potted) |
+| **Spiral Herb Garden** | Cooking herbs + frog pond | Sage, Rosemary, Basil, Thyme, Oregano, Lavender, Mints (potted) |
 | **Nettle Pot** | Daily nutritional tea | Nettle (dedicated 5-gal pot, never let loose in ground) |
 | **Polycultural Shade Bed** | Year-round greens + color | Lettuce, Carrots, Marigolds, succession-planted |
 | **Cut Flower Garden** | Beauty + pollinator food | Cosmos, Zinnias, Dahlias, Sunflowers (grow tall) |

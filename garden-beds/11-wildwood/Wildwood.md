@@ -223,7 +223,7 @@ EDGE (any runners that cascade down)
 | Shallow shelf (3-6") | Edge | Pickerelweed, Arrow Arum, Golden Club, Creeping Jenny, Marsh Marigold, Soft Rush |
 | Plant zone (6-12") | Mid | Hornwort, American Waterweed, Water Starwort, Duckweed (25% surface cover) |
 | Deep zone (18-24") | Center | Additional oxygenators |
-| Pond edge (soil) | Outside | Cardinal Flower, Sensitive Fern, Lavender, Lemon Balm, Bee Balm |
+| Pond edge (soil) | Outside | Cardinal Flower, Sensitive Fern, Lavender, Bee Balm |
 
 **Hardware needed:** Solar fountain pump (150-250 GPH), rocks/gravel (~1 cubic yard), rubber liner, rainwater barrel (50-100 gal)
 
