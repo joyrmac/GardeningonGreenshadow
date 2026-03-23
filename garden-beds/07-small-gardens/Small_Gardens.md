@@ -273,7 +273,7 @@ Two options depending on what you have:
 ✓ Already-mulched Wildwood area needs minimal prep
 ✓ Separate bed = no competition with blueberries/raspberries for space or nutrients
 
-**Location:** Wildwood area (already mulched, full sun exposure). Space separate from the main berry bed.
+**Location:** Wildwood area — **separate mulched zone** (not in Potion Patch area). Already mulched, full sun exposure. Keeps strawberries away from the tomato ring and Potion Patch circulation.
 
 **In-Ground Hill Mound Spacing:**
 
