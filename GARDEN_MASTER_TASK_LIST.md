@@ -68,10 +68,13 @@
 - [ ] Prepare shaded bed area (SOUTH SIDE behind tree for dappled sun)
   - NOT directly under trunk (too dark + root competition)
   - Stagger plants on south/southeast side for filtered afternoon light
+- [ ] Mulch magnolia tree base with pine needles (2-3", April)
+  - Keep mulch 3-4" away from trunk
+  - Pine needles are acidic & perfect for magnolias
 - [ ] Plant Fireflies Forever collection (upon arrival)
   - Cardinal Flower, Northern Sea Oats, Common Boneset, Arkansas Bluestar
 - [ ] Mulch heavily after planting (mix old leaves + broken wood chips, 2-3")
-  - OR: Pine needles work great under magnolias (acidic, breaks down slowly, mimics forest floor)
+  - OR: Pine needles work great (acidic, breaks down slowly, mimics forest floor)
 - [ ] Water deeply (shade plants need consistent moisture, especially near tree roots)
 - [ ] Create signage for medicinal plants (May)
 - [ ] Document medicinal uses (May)
