@@ -1,6 +1,6 @@
 # 🌿 Garden Master Task List 2026
 
-**Last Updated:** March 24, 2026 (Late Evening)
+**Last Updated:** March 24, 2026 (Night Updates)
 **How to use:** Check off boxes as you complete tasks. Commit your progress to git.
 
 ---
@@ -71,6 +71,7 @@
 - [ ] Plant Fireflies Forever collection (upon arrival)
   - Cardinal Flower, Northern Sea Oats, Common Boneset, Arkansas Bluestar
 - [ ] Mulch heavily after planting (mix old leaves + broken wood chips, 2-3")
+  - OR: Pine needles work great under magnolias (acidic, breaks down slowly, mimics forest floor)
 - [ ] Water deeply (shade plants need consistent moisture, especially near tree roots)
 - [ ] Create signage for medicinal plants (May)
 - [ ] Document medicinal uses (May)
@@ -111,8 +112,9 @@
 ### Herb Spiral
 - [ ] Prep & edge spiral bed
 - [ ] Plant medicinal & culinary herbs (Late April/May)
-  - Mint bed (separate)
+  - Mint bed (separate — catnip & cat mint will be moved to Cat Garden)
   - Alchemist pond area
+- [ ] Move catnip & cat mint to Cat Garden (April)
 - [ ] Mulch after planting
 - [ ] Monitor for herb vigor (ongoing)
 
@@ -151,58 +153,77 @@
 ---
 
 ## WAYWARD MEADOW (Prairie Wildflower Meadow - Back)
-**Status:** Receiving American Meadows collections (April 13-17)
+**Status:** Intentionally wild; cultivating native flowers
 
-- [ ] Clear/prep back meadow area
-- [ ] Plant Prairie Habitat Collection (6 plants upon arrival)
+- [x] Scatter native flower seeds (Done previous seasons)
+- [ ] Plant Prairie Habitat Collection strategically (April 13-17)
   - Switchgrass, Black Eyed Susan, Pale Purple Coneflower, Coreopsis, Blazing Star, Little Bluestem
-- [ ] Plant Pollinator Meadow Collection (5 plants upon arrival)
+- [ ] Plant Pollinator Meadow Collection (April 13-17)
   - Aromatic Aster, Swamp Milkweed, Wild Bergamot, Joe Pye Weed, Blue Vervain
-- [ ] Plant Ecoregion Collection (9 plants upon arrival)
+- [ ] Plant Ecoregion Collection (April 13-17)
   - Calico Aster, Black Eyed Susan varieties, Goldenrod
-- [ ] Mulch or seed between plants (May)
-- [ ] Monitor for native wildflower volunteers (Spring/Summer — let 'em grow!)
-- [ ] Scout for pollinators (weekly — should be ALIVE with bees!)
-- [ ] Plan for Year 2 self-seeding (leave seed heads in fall!)
+- [ ] Let native volunteers grow (weeds + natives = meadow magic!)
+- [ ] Scout for pollinators weekly (should be ALIVE with bees!)
+- [ ] Plan for Year 2 self-seeding (leave seed heads through fall/winter!)
 - [ ] Document pollinator activity (Summer — photos & notes)
+- [ ] Enjoy the wildness! (Meadow gardens thrive with controlled chaos)
 
 ---
 
 ## SWINGNOOK (Shaded Pergola Retreat)
-**Status:** Needs setup
+**Status:** Clearing ivy; preparing cozy retreat space
 
-- [ ] Install swing bench (April)
-- [ ] Create fern groundcover (May)
-- [ ] Plan seating comfort (cushions?)
-- [ ] Mulch pathways (April)
-- [ ] Create bonfire pit (May — if building)
-- [ ] Plant shade-tolerant plants around edges (May)
-- [ ] Add ambient lighting (optional — May)
+- [x] Swing bench installed (existing)
+- [ ] Clear ivy covering completely (April)
+- [ ] Create fern groundcover & shade plants (May)
+- [ ] Add cushions to swing for comfort (April/May)
+- [ ] Install solar lights for ambient evening glow (May)
+- [ ] Bonfire pit is behind area (already exists — enjoy it!)
 - [ ] Make it your retreat zone (sit & relax here!)
+- **Note:** Nobody goes here yet — this is your peaceful escape spot!
 
 ---
 
-## SMALL GARDENS (Compact Growing Areas)
+## CAT GARDEN (Feline Paradise)
+**Status:** Setting up cat sanctuary
 
-### Cat Garden
-- [ ] Mulch lounging center with pine needles (soft & cat-friendly)
-- [ ] Plant catnip (April)
+- [ ] Prep garden bed area (April)
+- [ ] Move catnip & cat mint from herb spiral mint bed to cat garden (April)
+- [ ] Mulch with pine needles (soft & cat-friendly, April)
 - [ ] Plant cat grass (April)
 - [ ] Create cat-safe zone (April)
 - [ ] Add enrichment items (May)
 - [ ] Monitor cat activity (ongoing — watch them enjoy!)
 
-### Blueberry & Raspberry Beds
+---
+
+## SMALL GARDENS & CONTAINERS (Compact Growing Areas)
+
+### Blueberry Barrels (3)
 - [ ] Check existing plants (April)
 - [ ] Add acidic soil amendments (April)
-- [ ] Mulch with pine needles (April)
+- [ ] Mulch with pine needles (April) — excellent for blueberries!
 - [ ] Monitor blooms (Spring)
 - [ ] Watch for fruit set (Early summer)
 
+### Bird Feeder Garden
+- [ ] Prep bed (April)
+- [ ] Plant bird-friendly flowers (May)
+- [ ] Keep near feeder for attraction (ongoing)
+
+### Bay Leaf Tree
+- [ ] Check container drainage (April)
+- [ ] Ensure adequate sunlight (April)
+- [ ] Water as needed (ongoing)
+- [ ] Harvest bay leaves for cooking (Summer+)
+
 ### Porch Planters
-- [ ] Prepare containers (April)
-- [ ] Plant with seasonal flowers (May)
-- [ ] Set watering schedule (May — containers dry fast!)
+- [ ] Pot 1: Ivy + Autumn Joy Sedum (existing — maintain)
+- [ ] Pot 2: Creeping Jenny (split & propagate to other locations — love this plant!)
+  - Consider trailing in Swingnook fern area OR hanging baskets
+  - Propagate cuttings to spread throughout garden (April/May)
+- [ ] Pots 3-4: Prepare for seasonal flowers (May)
+- [ ] Set watering schedule (containers dry fast!)
 - [ ] Rotate plants seasonally (each season)
 - [ ] Enjoy daily! (all season)
 
@@ -275,11 +296,15 @@
 
 - **Borage sprouts in Bloomveil:** Don't pull them! Cleaned up & remulched around them — they'll flower beautifully in late May.
 - **Plant supports for Bloomveil:** Use bamboo stakes + soft clips or twine method — less visually intrusive than cages.
-- **Shade garden mulch (Fernwood & Gloam):** Old leaves + broken wood chips (2-3") — mimics forest floor, breaks down slowly, feeds soil.
+- **Shade garden mulch (Fernwood & Gloam):** Old leaves + broken wood chips (2-3") — OR pine needles for magnolias (acidic, breaks down slowly, forest floor mimicry).
+- **Pine needles:** Excellent for magnolia trees, blueberries, and acid-loving plants. Creates natural forest floor. Can also use for cat garden (soft!).
 - **Strawberry mulch:** Use straw (not hay) — keeps berries off wet soil, insulates roots, prevents fungal issues. Apply right after planting.
 - **Raspberry supports:** Posts + wire system holds canes upright & accessible for picking. Easier than cages or individual stakes.
 - **Gloam placement:** Plant south side of magnolia tree (dappled light) — avoid dense shadow under trunk where roots compete for water.
+- **Wayward Meadow wildness:** Controlled chaos is intentional! Let volunteer natives grow alongside cultivated plants. Weeds + natives = beautiful meadow.
+- **Creeping Jenny:** Beautiful trailing plant! Propagates easily from cuttings. Consider for hanging baskets, Swingnook fern groundcover, or other trailing spots.
 - **Gourdgate pumpkin seeds:** Old seeds will volunteer pumpkins — plan accordingly.
+- **Swingnook solar lights:** Perfect for ambiance + practical. Solar = no wiring needed + eco-friendly.
 - **Frost dates:** Last frost is around April 15-20 for your zone (7b). Wait to plant tender plants.
 - **Soil temp:** Wait until soil is consistently 50F+ before planting strawberries.
 - **Pollinators:** Wayward Meadow + native plants = happy bees. Let the ecosystem work!
