@@ -31,6 +31,15 @@
 - **Date done:** Mar 23, 2026
 - **Work done:** Pine needle mulch applied around plants
 
+### Rhubarb Bed ✓
+- **Status:** Planted & established
+- **Date planted:** Mar 2026
+- **What's in it:**
+  - Crimson Red rhubarb (1 plant)
+  - Victoria rhubarb (3 crowns)
+- **Location:** Wildwood Rhubarb Bed (west side, under crepe myrtles)
+- **Notes:** Both varieties planted and ready to establish. No harvest year 1.
+
 ---
 
 ## In Progress
@@ -83,6 +92,20 @@
 - **Planting plan:** Back bed with existing red raspberries (north fence line, interspersed)
 - **Planting date:** Early April 2026 (after frost danger passes)
 - **Spacing:** 3-4 ft apart, alternating with Red Latham raspberries
+
+### American Meadows Native Plant Collection (American Meadows)
+- **Order #:** AMI15783
+- **Status:** Order confirmed
+- **Estimated Arrival:** Week of April 13-17, 2026
+- **What's coming:** ~51 native perennials across 5 collections:
+  - Ecoregion Native Plant Collection - Southeastern USA Plains (9 plants): Calico Aster, Black Eyed Susan, Old Field Goldenrod
+  - Prairie Habitat Native Plant Collection (6 plants): Shenandoah Red Switchgrass, Giant Black Eyed Susan, Pale Purple Coneflower, Early Sunrise Coreopsis, Prairie Blazing Star, Prairie Blues Little Bluestem Grass
+  - Fireflies Forever Native Plant Collection (6 plants): Smooth Blue Aster, Common Boneset, Northern Sea Oats, Cardinal Flower, Arkansas Bluestar
+  - Pollinator Meadow Native Plant Collection (5 plants): Aromatic Aster, Ice Ballet Swamp Milkweed, Wild Bergamot, Joe Pye Weed, Blue Vervain
+  - Butterfly & Hummingbird Pre-Planned Garden (25 plants): Multiple salvias, coneflowers, black-eyed susans, bee balms, penstemon, phlox, butterfly bush, hyssop
+- **Cost:** $521.88
+- **Planting plan:** Wayward Meadow (prairie/native beds) & Edgeworth Corner
+- **Planting date:** Mid to late April 2026
 
 ---
 
