@@ -33,8 +33,7 @@
    - Cinnamon Fern
    - Maidenhair Fern
    - Christmas Fern
-5. **Shade Designer Garden** — pre-designed shade mix (species TBD)
-6. **Sensation Lilac** — fragrant spring blooms, placement at entrance
+5. **Sensation Lilac** — fragrant spring blooms, placement at entrance
 
 **Seeds/Established:**
 - Fanal Astilbe (1) — red plumes, existing
@@ -97,11 +96,6 @@
 | Joe Pye Weed (Spotted) | -- | 60-84" | **FAR BACK** (critical!) | Tall, broad leaves, pink flowers, late summer. **Will shade everything if placed wrong** |
 | Goldenrod | -- | 24-36" | Back/side edge | Late-season color, sunny spots within shade |
 | Sensation Lilac | 1 | 36-60" | Entrance corner | Fragrant, spring blooms, can anchor entryway |
-
-### BONUS: Shade Designer Garden Mix
-- **Status:** In hand but species not yet identified
-- **Placement:** Fill gaps or use as a mobile collection (some may not be permanent shade plants)
-- **Action:** Identify contents first, then assign locations
 
 ---
 
@@ -198,11 +192,10 @@ Seating in the center lets you experience the quiet, cool, textured space. This 
 
 ## Next Actions
 
-1. **Identify the "Shade Designer Garden" contents** — what species are in that pre-pack?
-2. **Confirm Lily-of-the-Valley status** — did it establish well from the 3/8 planting?
-3. **Receive Hellebores (mid-April)** — plant behind ginkgo immediately
-4. **Mulch & slug-monitor** — set up beer traps before May
-5. **Enjoy spring through fall** — this garden is mostly hands-off after planting
+1. **Confirm Lily-of-the-Valley status** — did it establish well from the 3/8 planting?
+2. **Receive Hellebores (mid-April)** — plant behind ginkgo immediately
+3. **Mulch & slug-monitor** — set up beer traps before May
+4. **Enjoy spring through fall** — this garden is mostly hands-off after planting
 
 ---
 
