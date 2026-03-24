@@ -98,6 +98,7 @@
 
 ### Rhubarb Bed
 - [x] Plant Crimson Red & Victoria rhubarb (Done Mar 2026)
+- [ ] Mulch with wood chips (provides long-term soil building & insulation)
 - [ ] Monitor for first-year growth (no harvesting!)
 - [ ] Keep weed-free (weekly)
 - [ ] Note when mature for harvesting (Year 2-3)
@@ -149,6 +150,7 @@
 ## SMALL GARDENS (Compact Growing Areas)
 
 ### Cat Garden
+- [ ] Mulch lounging center with pine needles (soft & cat-friendly)
 - [ ] Plant catnip (April)
 - [ ] Plant cat grass (April)
 - [ ] Create cat-safe zone (April)
