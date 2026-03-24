@@ -1,6 +1,6 @@
 # 🌿 Garden Master Task List 2026
 
-**Last Updated:** March 24, 2026
+**Last Updated:** March 24, 2026 (Evening)
 **How to use:** Check off boxes as you complete tasks. Commit your progress to git.
 
 ---
@@ -8,11 +8,11 @@
 ## BLOOMVEIL (L-shaped Flower Garden)
 **Status:** Weeding & mulching in progress
 
-- [ ] Finish weeding (CAREFUL: avoid borage sprouts!)
+- [x] Clean up & remulch around borage sprouts (Done Mar 24)
 - [ ] Finish mulching remaining areas
 - [ ] Prepare planting zones (5 color zones)
 - [ ] Plant seedlings once hardened off (Late April/May)
-- [ ] Install plant supports/stakes
+- [ ] Install plant supports/stakes (bamboo stakes + soft clips recommended)
 - [ ] Watch borage for blooms (should flower late May)
 - [ ] Scout for bees & butterflies weekly
 - [ ] Deadhead spent flowers (selective to allow reseeding)
@@ -26,7 +26,7 @@
 - [ ] Lay out grid squares (use stakes/string)
 - [ ] Plant all seedlings by source (Late April)
 - [ ] Check grid spacing before planting
-- [ ] Install dry creek pathway (if building)
+- [x] Install dry creek pathway (Done)
 - [ ] Mulch around plants after planting
 - [ ] Monitor for pollinators (should be buzzing!)
 - [ ] Succession plant seeds (Late May for gaps)
@@ -34,14 +34,16 @@
 ---
 
 ## FERNWOOD (Shade Garden)
-**Status:** Needs setup
+**Status:** Clearing & prepping
 
-- [ ] Clear existing debris
-- [ ] Amend soil with shade-loving amendments
+- [ ] Pull weeds throughout area
+- [ ] Clean up & mulch ginkgo base (shredded leaves or composted bark, 2-3")
+  - Hellebores planted 3-4 feet from trunk
+  - Keep mulch pulled back 3-4" from hellebore crowns
+- [ ] Amend soil with shade-loving amendments (astilbe, Solomon's Seal, Tiarella, woodland phlox)
 - [ ] Plant hellebores (arriving late April)
 - [ ] Plant shade ferns & hostas (Late April/May)
-- [ ] Create seating area (if planned)
-- [ ] Mulch heavily (shade beds love it)
+- [ ] Bench seating area (already in place)
 - [ ] Watch for spring ephemerals (enjoy native wildflowers!)
 - [ ] Test soil pH for shade plants
 
@@ -50,9 +52,8 @@
 ## POTION PATCH (Circular Medicinal Herb Garden)
 **Status:** Design exists; needs execution
 
-- [ ] Mark out compass directions (N, S, E, W)
 - [ ] Prepare circular bed
-- [ ] Plant medicinal herbs by direction (Late April/May)
+- [ ] Plant medicinal herbs (Late April/May)
 - [ ] Create center focal point (stone? birdbath?)
 - [ ] Research companion herbs before planting
 - [ ] Install herb labels (May)
@@ -61,15 +62,16 @@
 
 ---
 
-## GLOAM (Medicinal Herb Garden - Shaded)
+## GLOAM (Medicinal Herb Garden - Shaded, Under/Around Magnolia)
 **Status:** Receiving plants from American Meadows (April 13-17)
 
-- [ ] Prepare shaded bed area
+- [ ] Prepare shaded bed area (SOUTH SIDE behind tree for dappled sun)
+  - NOT directly under trunk (too dark + root competition)
+  - Stagger plants on south/southeast side for filtered afternoon light
 - [ ] Plant Fireflies Forever collection (upon arrival)
   - Cardinal Flower, Northern Sea Oats, Common Boneset, Arkansas Bluestar
-- [ ] Note shade levels (how many hours of sun?)
-- [ ] Mulch heavily after planting
-- [ ] Water deeply (shade plants need consistent moisture)
+- [ ] Mulch heavily after planting (shredded leaves or composted bark)
+- [ ] Water deeply (shade plants need consistent moisture, especially near tree roots)
 - [ ] Create signage for medicinal plants (May)
 - [ ] Document medicinal uses (May)
 - [ ] Watch for shade creep from nearby trees (ongoing)
@@ -224,6 +226,8 @@
 
 ## COMPLETED TASKS ✅
 
+- [x] Clean up & remulch borage sprouts in Bloomveil (Mar 24)
+- [x] Install dry creek pathway in Edgeworth Corner (Done)
 - [x] Plant seeds in Polyculture bed (Mar 24)
 - [x] Mulch Polyculture bed (Mar 24)
 - [x] Remove old mulch, apply new mulch to Polyculture (Mar 23)
@@ -236,7 +240,10 @@
 
 ## NOTES & LEARNINGS
 
-- **Borage sprouts in Bloomveil:** Don't pull them! They self-seeded and will flower beautifully.
+- **Borage sprouts in Bloomveil:** Don't pull them! Cleaned up & remulched around them — they'll flower beautifully in late May.
+- **Plant supports for Bloomveil:** Use bamboo stakes + soft clips or twine method — less visually intrusive than cages.
+- **Fernwood mulch:** Shredded leaves best under hellebores (mimics forest floor). Keep mulch 3-4" back from crowns.
+- **Gloam placement:** Plant south side of magnolia tree (dappled light) — avoid dense shadow under trunk where roots compete for water.
 - **Gourdgate pumpkin seeds:** Old seeds will volunteer pumpkins — plan accordingly.
 - **Frost dates:** Last frost is around April 15-20 for your zone (7b). Wait to plant tender plants.
 - **Soil temp:** Wait until soil is consistently 50F+ before planting strawberries.
