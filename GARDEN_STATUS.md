@@ -141,24 +141,16 @@
 
 ---
 
-## To-Do
+## All Tasks & Tracking
 
-### Urgent (Next Week)
-- [ ] Finish Bloomveil weeding (avoid Borage sprouts!)
-- [ ] Finish Bloomveil mulching
-- [ ] Plant marigolds in Polyculture bed
-- [ ] Prepare 2 x 4x4 strawberry beds in Wildwood (soil, mulch, string rows)
+📋 **See [GARDEN_MASTER_TASK_LIST.md](GARDEN_MASTER_TASK_LIST.md)** for the complete, organized checklist of all garden tasks.
 
-### April Tasks
-- [ ] **Plant strawberries** (April 15-20 when soil is 50F+, avoid frost)
-  - Bed 1: 15 Albion + 10 Chandler (2-3 ft row spacing, 12-18" between plants)
-  - Bed 2: 25 Seascape (2-3 ft row spacing, 12-18" between plants)
-- [ ] **Plant black raspberries** (early April, after frost danger passes)
-  - 3 Jewel to north fence line with existing Red Latham raspberries
-- [ ] Buy transplants (tomatoes, peppers, basil, optional brassicas) — target: early April
-- [ ] Plant remaining seeds once soil warms up (beans, corn, squash, melons, cucumber)
-- [ ] Tend to Tomato Circle prep (when ready)
-- [ ] Tend to Potion Patch (when ready)
+This is the single source of truth for:
+- All tasks by garden area
+- Task progress (check off as you complete!)
+- Incoming plant orders
+- Weekly ongoing tasks
+- Special projects
 
 ---
 
