@@ -17,7 +17,7 @@
 - 🛠️ [Planting How-To Guide](guides/Planting_How_To.md) — Seed starting, transplanting, spacing, companions
 - 📆 [Planting Calendar NC](guides/Planting_Calendar_NC.md) — What to plant when in Zone 7b
 - 📋 [March Schedule](guides/seasonal/March_Schedule.md) — Day-by-day spring plan
-- 📝 [Garden Todo List](guides/Garden_Todo_List.md) — Tasks by garden/season
+- ✅ [Garden Master Task List](GARDEN_MASTER_TASK_LIST.md) — All tasks organized by garden, with checkboxes
 
 **Reference & Troubleshooting:**
 - 🌱 [Garden Care & Troubleshooting](guides/Garden_Care_and_Troubleshooting.md) — Weekly maintenance, pests, diseases, seed saving

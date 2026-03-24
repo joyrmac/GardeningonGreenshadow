@@ -1,6 +1,6 @@
 # Garden Status
 
-**Last Updated:** March 23, 2026
+**Last Updated:** March 24, 2026
 
 ---
 
@@ -31,6 +31,15 @@
 - **Date done:** Mar 23, 2026
 - **Work done:** Pine needle mulch applied around plants
 
+### Rhubarb Bed ✓
+- **Status:** Planted & established
+- **Date planted:** Mar 2026
+- **What's in it:**
+  - Crimson Red rhubarb (1 plant)
+  - Victoria rhubarb (3 crowns)
+- **Location:** Wildwood Rhubarb Bed (west side, under crepe myrtles)
+- **Notes:** Both varieties planted and ready to establish. No harvest year 1.
+
 ---
 
 ## In Progress
@@ -54,15 +63,94 @@
 
 ---
 
-## To-Do
+## Coming Soon / Incoming Orders 📦
 
-- [ ] Plant marigolds in Polyculture bed
-- [ ] Finish Bloomveil weeding
-- [ ] Finish Bloomveil mulching
-- [ ] Buy transplants (tomatoes, peppers, basil, optional brassicas) — target: early April
-- [ ] Plant remaining seeds once soil warms up (beans, corn, squash, melons, cucumber)
-- [ ] Tend to Tomato Circle prep (when ready)
-- [ ] Tend to Potion Patch (when ready)
+### Strawberry Plants (AmericanBerryStore)
+- **Order #:** 4006264084
+- **Status:** In transit (USPS)
+- **Tracking:** 9434609206094587428510
+- **Estimated Arrival:** Mar 25-30, 2026
+- **What's coming:**
+  - 15 Albion Strawberry Plants (June-bearing, sweet, large berries)
+  - 10 Chandler Strawberry Plants (June-bearing, firm, storage-friendly)
+  - 25 Seascape Strawberry Plants (everbearing, continuous harvest)
+  - **Total: 50 plants**
+- **Cost:** $69.71
+- **Planting plan:**
+  - **Strawberry Patch Bed 1 (Wildwood):** 15 Albion + 10 Chandler = 25 plants (4x4 bed, June-July peak)
+  - **Strawberry Patch Bed 2 (Wildwood):** 25 Seascape = 25 plants (4x4 bed, everbearing spring-fall)
+- **Planting date:** April 15-20, 2026 (wait for soil temp, avoid frost)
+- **Spacing:** 12-18" apart per plant
+
+### Black Raspberry Plants (flowersandberriesUS)
+- **Order #:** 4008854145
+- **Status:** Order confirmed
+- **Estimated Arrival:** Mar 31, 2026
+- **What's coming:**
+  - 3 Jewel Black Raspberry Plants (1-year-old plugs, Zones 4-8, early June ripening)
+- **Cost:** $37.47
+- **Planting plan:** Back bed with existing red raspberries (north fence line, interspersed)
+- **Planting date:** Early April 2026 (after frost danger passes)
+- **Spacing:** 3-4 ft apart, alternating with Red Latham raspberries
+
+### Plant Delights Specialty Order (Plant Delights Nursery)
+- **Order #:** 181763
+- **Status:** Confirmed
+- **Estimated Arrival:** Mid-to-late April 2026 (Ground shipping)
+- **What's coming:**
+  - Helleborus hybridus 'Dark and Handsome' (1) — early spring blooms, dark burgundy
+  - Helleborus hybridus 'Amber Gem' (1) — early spring blooms, warm amber tones
+  - Edgeworthia chrysantha 'Snow Cream' (1) — fragrant winter/spring blooms, rare shrub
+- **Cost:** $151.20
+- **Planting plan:**
+  - **Hellebores** → Fernwood (shade garden, behind ginkgo tree)
+  - **Edgeworthia** → Edgeworth Corner (replacement/focal plant for recovering bed)
+- **Planting date:** Upon arrival (late April)
+
+### American Meadows Native Plant Collection (American Meadows)
+- **Order #:** AMI15783
+- **Status:** Order confirmed
+- **Estimated Arrival:** Week of April 13-17, 2026
+- **Cost:** $521.88
+- **Planting plan by collection:**
+
+  **1. Prairie Habitat Collection (6 plants) → Wayward Meadow (back)**
+  - Shenandoah Red Switchgrass, Giant Black Eyed Susan, Pale Purple Coneflower, Early Sunrise Coreopsis, Prairie Blazing Star, Prairie Blues Little Bluestem Grass
+  - All sun-lovers, perfect for open meadow
+
+  **2. Fireflies Forever Collection (6 plants) → The Gloam (shaded area)**
+  - Smooth Blue Aster, Common Boneset, Northern Sea Oats, Cardinal Flower, Arkansas Bluestar, Shenandoah Red Switchgrass
+  - ✅ **SHADE-FRIENDLY**: Cardinal Flower (part shade/shade tolerant), Northern Sea Oats (excellent shade plant), Common Boneset (part shade ok), Arkansas Bluestar (part shade tolerant)
+  - ⚠️ Smooth Blue Aster & Switchgrass prefer sun, but others can handle shaded Gloam
+
+  **3. Butterfly & Hummingbird Pre-Planned Garden (25 plants) → Edgeworth Corner**
+  - Windwalker Royal Red Sage, Hot Raspberry Butterfly Bush, Goldsturm Black Eyed Susan, Magnus Coneflower, Mango Tango Hyssop, Red Riding Hood Penstemon, May Night Salvia, Scarlet Bee Balm, Starfire Phlox
+  - Perfect replacement for the existing (butterfly bush, oak leaf hydrangea, coneflowers, bunny ear violets, lemongrass)
+
+  **4. Pollinator Meadow Collection (5 plants) → Wayward Meadow (back)**
+  - Aromatic Aster, Ice Ballet Swamp Milkweed, Wild Bergamot, Joe Pye Weed, Blue Vervain
+  - Mostly sun-lovers; Joe Pye Weed can tolerate part shade
+
+  **5. Ecoregion Native Plant Collection (9 plants) → Wayward Meadow (back)**
+  - Calico Aster, Black Eyed Susan (both varieties), Old Field Goldenrod
+  - All full-sun plants, ideal for meadow
+
+- **Shade option for Fernwood:** If you want a shade collection, the **Fireflies Forever** plants (especially Cardinal Flower, Northern Sea Oats, Common Boneset, Arkansas Bluestar) would work better in Fernwood than Pollinator/Ecoregion. You could split Fireflies between Gloam & Fernwood, or move the shade-tolerant ones to Fernwood.
+
+- **Planting date:** Mid to late April 2026
+
+---
+
+## All Tasks & Tracking
+
+📋 **See [GARDEN_MASTER_TASK_LIST.md](GARDEN_MASTER_TASK_LIST.md)** for the complete, organized checklist of all garden tasks.
+
+This is the single source of truth for:
+- All tasks by garden area
+- Task progress (check off as you complete!)
+- Incoming plant orders
+- Weekly ongoing tasks
+- Special projects
 
 ---
 
