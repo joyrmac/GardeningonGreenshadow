@@ -93,6 +93,20 @@
 - **Planting date:** Early April 2026 (after frost danger passes)
 - **Spacing:** 3-4 ft apart, alternating with Red Latham raspberries
 
+### Plant Delights Specialty Order (Plant Delights Nursery)
+- **Order #:** 181763
+- **Status:** Confirmed
+- **Estimated Arrival:** Mid-to-late April 2026 (Ground shipping)
+- **What's coming:**
+  - Helleborus hybridus 'Dark and Handsome' (1) — early spring blooms, dark burgundy
+  - Helleborus hybridus 'Amber Gem' (1) — early spring blooms, warm amber tones
+  - Edgeworthia chrysantha 'Snow Cream' (1) — fragrant winter/spring blooms, rare shrub
+- **Cost:** $151.20
+- **Planting plan:**
+  - **Hellebores** → Fernwood (shade garden, behind ginkgo tree)
+  - **Edgeworthia** → Edgeworth Corner (replacement/focal plant for recovering bed)
+- **Planting date:** Upon arrival (late April)
+
 ### American Meadows Native Plant Collection (American Meadows)
 - **Order #:** AMI15783
 - **Status:** Order confirmed
