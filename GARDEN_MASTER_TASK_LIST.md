@@ -1,6 +1,6 @@
 # 🌿 Garden Master Task List 2026
 
-**Last Updated:** March 24, 2026 (Evening)
+**Last Updated:** March 24, 2026 (Late Evening)
 **How to use:** Check off boxes as you complete tasks. Commit your progress to git.
 
 ---
@@ -37,7 +37,7 @@
 **Status:** Clearing & prepping
 
 - [ ] Pull weeds throughout area
-- [ ] Clean up & mulch ginkgo base (shredded leaves or composted bark, 2-3")
+- [ ] Clean up & mulch ginkgo base (mix old leaves + broken wood chips, 2-3")
   - Hellebores planted 3-4 feet from trunk
   - Keep mulch pulled back 3-4" from hellebore crowns
 - [ ] Amend soil with shade-loving amendments (astilbe, Solomon's Seal, Tiarella, woodland phlox)
@@ -70,7 +70,7 @@
   - Stagger plants on south/southeast side for filtered afternoon light
 - [ ] Plant Fireflies Forever collection (upon arrival)
   - Cardinal Flower, Northern Sea Oats, Common Boneset, Arkansas Bluestar
-- [ ] Mulch heavily after planting (shredded leaves or composted bark)
+- [ ] Mulch heavily after planting (mix old leaves + broken wood chips, 2-3")
 - [ ] Water deeply (shade plants need consistent moisture, especially near tree roots)
 - [ ] Create signage for medicinal plants (May)
 - [ ] Document medicinal uses (May)
@@ -78,23 +78,26 @@
 
 ---
 
-## WILDWOOD (Main Veggie Garden - 8 Beds)
-**Status:** Needs spring prep & planting
+## WILDWOOD (Main Growing Area)
+**Status:** Spring prep & planting in progress
 
-### Strawberry Beds (NEW)
-- [ ] Prep 2x 4x4 strawberry beds (add compost, level soil)
+**Beds:** Strawberry (2), Raspberry patch, Rhubarb patch, Herb spiral, Polyculture, Tomato circle + Potion patch, Three Sisters, Gourdgate (E&W), New bed, Bloomveil flowers, Blueberry barrels (3), Pollinator garden (Edgeworth Corner)
+
+### Strawberry Beds (NEW - 4-5 rows on each side of walkway)
+- [ ] Prep strawberry beds (add compost, level soil)
 - [ ] Create row markers
 - [ ] Plant 50 strawberry plants (April 15-20)
   - Bed 1: 15 Albion + 10 Chandler (June-bearing)
   - Bed 2: 25 Seascape (everbearing)
-- [ ] Mulch strawberries heavily (right after planting)
+- [ ] Mulch with straw (2-3") right after planting (keeps berries off soil, insulates roots)
 - [ ] Monitor for frost protection (Late April — cover if needed)
 - [ ] Watch for runners in Year 1 (pinch if you want bigger berries)
 
-### Raspberry Beds
+### Raspberry Patch
 - [x] Mulch existing raspberries (Done Mar 23)
+- [ ] Pull weeds & add more mulch (ongoing through season)
 - [ ] Plant 3 Jewel black raspberries (Early April)
-- [ ] Install supports/trellising (April)
+- [ ] Install posts + wire support system (April) — holds canes upright
 - [ ] Monitor for new canes (Spring)
 - [ ] Mark harvest areas (May)
 
@@ -105,15 +108,45 @@
 - [ ] Keep weed-free (weekly)
 - [ ] Note when mature for harvesting (Year 2-3)
 
-### Main Veggie Beds (8)
-- [ ] Finish spring bed prep
-- [ ] Plant transplants (tomatoes, peppers, basil) — Late April/May
-- [ ] Direct sow (beans, corn, squash, melons, cucumber) — Late April
+### Herb Spiral
+- [ ] Prep & edge spiral bed
+- [ ] Plant medicinal & culinary herbs (Late April/May)
+  - Mint bed (separate)
+  - Alchemist pond area
+- [ ] Mulch after planting
+- [ ] Monitor for herb vigor (ongoing)
+
+### Polyculture Bed
+- [x] Plant seeds & mulch (Done Mar 24)
+- [ ] Monitor growth & thin as needed (April)
+- [ ] Weed & maintain (ongoing)
+
+### Tomato Circle (with Potion Patch inside)
 - [ ] Install tomato circle obelisk (April)
-- [ ] Set up trellises for climbers (April)
-- [ ] Plan succession planting (lettuce every 2 weeks!)
-- [ ] Create watering system (drip line or soaker hose)
-- [ ] Monitor for pests weekly
+- [ ] Plant tomatoes around circle (Late April/May)
+- [ ] Potion Patch medicinal herbs inside circle (Late April/May)
+- [ ] Set up stakes/supports for tomatoes (April)
+- [ ] Monitor & prune tomatoes (Summer)
+
+### Three Sisters Bed (Corn, Beans, Squash)
+- [ ] Direct sow corn (Late April)
+- [ ] Follow with bean & squash succession (Late April/May)
+- [ ] Mulch between plants (May)
+- [ ] Monitor for pests & support vines (Summer)
+
+### Gourdgate Beds (East & West)
+- [ ] Prep both beds (add compost if needed)
+- [ ] Plan for volunteer pumpkins (from old seeds)
+- [ ] Direct sow squash, pumpkins, gourds (Late April)
+- [ ] Set up trellises/supports if vining (May)
+- [ ] Monitor & harvest (Fall)
+
+### New Bed (Melons & Cucumbers)
+- [ ] Prep bed well (melons/cukes like rich soil)
+- [ ] Direct sow melons & cucumbers (Late April/Early May)
+- [ ] Set up trellis for vertical growth (May)
+- [ ] Water consistently (melons need moisture)
+- [ ] Monitor for harvest (Summer/Early Fall)
 
 ---
 
@@ -242,7 +275,9 @@
 
 - **Borage sprouts in Bloomveil:** Don't pull them! Cleaned up & remulched around them — they'll flower beautifully in late May.
 - **Plant supports for Bloomveil:** Use bamboo stakes + soft clips or twine method — less visually intrusive than cages.
-- **Fernwood mulch:** Shredded leaves best under hellebores (mimics forest floor). Keep mulch 3-4" back from crowns.
+- **Shade garden mulch (Fernwood & Gloam):** Old leaves + broken wood chips (2-3") — mimics forest floor, breaks down slowly, feeds soil.
+- **Strawberry mulch:** Use straw (not hay) — keeps berries off wet soil, insulates roots, prevents fungal issues. Apply right after planting.
+- **Raspberry supports:** Posts + wire system holds canes upright & accessible for picking. Easier than cages or individual stakes.
 - **Gloam placement:** Plant south side of magnolia tree (dappled light) — avoid dense shadow under trunk where roots compete for water.
 - **Gourdgate pumpkin seeds:** Old seeds will volunteer pumpkins — plan accordingly.
 - **Frost dates:** Last frost is around April 15-20 for your zone (7b). Wait to plant tender plants.
