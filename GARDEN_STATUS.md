@@ -97,14 +97,32 @@
 - **Order #:** AMI15783
 - **Status:** Order confirmed
 - **Estimated Arrival:** Week of April 13-17, 2026
-- **What's coming:** ~51 native perennials across 5 collections:
-  - Ecoregion Native Plant Collection - Southeastern USA Plains (9 plants): Calico Aster, Black Eyed Susan, Old Field Goldenrod
-  - Prairie Habitat Native Plant Collection (6 plants): Shenandoah Red Switchgrass, Giant Black Eyed Susan, Pale Purple Coneflower, Early Sunrise Coreopsis, Prairie Blazing Star, Prairie Blues Little Bluestem Grass
-  - Fireflies Forever Native Plant Collection (6 plants): Smooth Blue Aster, Common Boneset, Northern Sea Oats, Cardinal Flower, Arkansas Bluestar
-  - Pollinator Meadow Native Plant Collection (5 plants): Aromatic Aster, Ice Ballet Swamp Milkweed, Wild Bergamot, Joe Pye Weed, Blue Vervain
-  - Butterfly & Hummingbird Pre-Planned Garden (25 plants): Multiple salvias, coneflowers, black-eyed susans, bee balms, penstemon, phlox, butterfly bush, hyssop
 - **Cost:** $521.88
-- **Planting plan:** Wayward Meadow (prairie/native beds) & Edgeworth Corner
+- **Planting plan by collection:**
+
+  **1. Prairie Habitat Collection (6 plants) → Wayward Meadow (back)**
+  - Shenandoah Red Switchgrass, Giant Black Eyed Susan, Pale Purple Coneflower, Early Sunrise Coreopsis, Prairie Blazing Star, Prairie Blues Little Bluestem Grass
+  - All sun-lovers, perfect for open meadow
+
+  **2. Fireflies Forever Collection (6 plants) → The Gloam (shaded area)**
+  - Smooth Blue Aster, Common Boneset, Northern Sea Oats, Cardinal Flower, Arkansas Bluestar, Shenandoah Red Switchgrass
+  - ✅ **SHADE-FRIENDLY**: Cardinal Flower (part shade/shade tolerant), Northern Sea Oats (excellent shade plant), Common Boneset (part shade ok), Arkansas Bluestar (part shade tolerant)
+  - ⚠️ Smooth Blue Aster & Switchgrass prefer sun, but others can handle shaded Gloam
+
+  **3. Butterfly & Hummingbird Pre-Planned Garden (25 plants) → Edgeworth Corner**
+  - Windwalker Royal Red Sage, Hot Raspberry Butterfly Bush, Goldsturm Black Eyed Susan, Magnus Coneflower, Mango Tango Hyssop, Red Riding Hood Penstemon, May Night Salvia, Scarlet Bee Balm, Starfire Phlox
+  - Perfect replacement for the existing (butterfly bush, oak leaf hydrangea, coneflowers, bunny ear violets, lemongrass)
+
+  **4. Pollinator Meadow Collection (5 plants) → Wayward Meadow (back)**
+  - Aromatic Aster, Ice Ballet Swamp Milkweed, Wild Bergamot, Joe Pye Weed, Blue Vervain
+  - Mostly sun-lovers; Joe Pye Weed can tolerate part shade
+
+  **5. Ecoregion Native Plant Collection (9 plants) → Wayward Meadow (back)**
+  - Calico Aster, Black Eyed Susan (both varieties), Old Field Goldenrod
+  - All full-sun plants, ideal for meadow
+
+- **Shade option for Fernwood:** If you want a shade collection, the **Fireflies Forever** plants (especially Cardinal Flower, Northern Sea Oats, Common Boneset, Arkansas Bluestar) would work better in Fernwood than Pollinator/Ecoregion. You could split Fireflies between Gloam & Fernwood, or move the shade-tolerant ones to Fernwood.
+
 - **Planting date:** Mid to late April 2026
 
 ---
