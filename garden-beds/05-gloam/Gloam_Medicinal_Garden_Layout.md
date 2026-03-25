@@ -1,22 +1,31 @@
-# The Gloam — Medicinal Herb Garden
+# The Gloam — Fireflies Forever Garden
 
-> **Location:** The Gloam (property entrance area)
-> **Garden:** Medicinal herb garden layout
-> **Related:** Tomato Obelisk Circle and Potion Patch are at **Wildwood**
-
----
-
-## Quick Reference
-
-This is a medicinal herb garden layout. The **Tomato Obelisk Circle** with vertical tomato & pepper structures is located at **Wildwood**. The **Potion Patch** medicinal herbs are also at **Wildwood**—see those sections for complete details.
+> **Location:** Under/around magnolia tree (property entrance area, shaded)
+> **Plants:** Fireflies Forever Collection (American Meadows)
 
 ---
 
-## Notes
+## Plants
 
-- **Location:** The Gloam (property entrance)
-- **Purpose:** Medicinal herb garden layout
-- **See:** [Wildwood Tomato Obelisk Circle](../11-wildwood/11d-tomato-obelisk-circle/Obelisk_Garden_Plan.md) for vertical growing details
-- **See:** [Potion Patch at Wildwood](../11-wildwood/11d-tomato-obelisk-circle/Potion_Patch.md) for medicinal herbs
+| Plant | Light Tolerance | Notes |
+|-------|----------------|-------|
+| Cardinal Flower | Part shade/shade tolerant | Hummingbird magnet |
+| Northern Sea Oats | Excellent shade plant | Graceful seed heads |
+| Common Boneset | Part shade ok | Native, medicinal history |
+| Arkansas Bluestar | Part shade tolerant | Blue spring flowers, gold fall foliage |
+| Smooth Blue Aster | Prefers sun | May need brightest spot in bed |
+| Shenandoah Red Switchgrass | Prefers sun | May need brightest spot in bed |
 
-*Last updated: March 23, 2026*
+---
+
+## Planting Notes
+
+- Plant on **south side** of magnolia tree (dappled light)
+- Avoid directly under trunk (too dark + root competition)
+- Stagger plants on south/southeast side for filtered afternoon light
+- Mulch with pine needles (acidic, perfect for magnolias, mimics forest floor)
+- Water deeply — shade plants need consistent moisture, especially near tree roots
+
+---
+
+*Last updated: March 25, 2026*

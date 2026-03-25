@@ -62,8 +62,8 @@
 
 ---
 
-## GLOAM (Medicinal Herb Garden - Shaded, Under/Around Magnolia)
-**Status:** Receiving plants from American Meadows (April 13-17)
+## GLOAM (Fireflies Forever Garden - Shaded, Under/Around Magnolia)
+**Status:** Receiving Fireflies Forever collection from American Meadows (April 13-17)
 
 - [ ] Prepare shaded bed area (SOUTH SIDE behind tree for dappled sun)
   - NOT directly under trunk (too dark + root competition)
@@ -72,12 +72,9 @@
   - Keep mulch 3-4" away from trunk
   - Pine needles are acidic & perfect for magnolias
 - [ ] Plant Fireflies Forever collection (upon arrival)
-  - Cardinal Flower, Northern Sea Oats, Common Boneset, Arkansas Bluestar
-- [ ] Mulch heavily after planting (mix old leaves + broken wood chips, 2-3")
-  - OR: Pine needles work great (acidic, breaks down slowly, mimics forest floor)
+  - Cardinal Flower, Northern Sea Oats, Common Boneset, Arkansas Bluestar, Smooth Blue Aster, Shenandoah Red Switchgrass
+- [ ] Mulch heavily after planting (pine needles or old leaves + broken wood chips, 2-3")
 - [ ] Water deeply (shade plants need consistent moisture, especially near tree roots)
-- [ ] Create signage for medicinal plants (May)
-- [ ] Document medicinal uses (May)
 - [ ] Watch for shade creep from nearby trees (ongoing)
 
 ---
