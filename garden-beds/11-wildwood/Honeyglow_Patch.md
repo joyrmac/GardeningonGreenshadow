@@ -18,12 +18,12 @@ Audit started 3/25/26. Working through the bed corner by corner.
 
 | Plant | Status | Notes |
 |-------|--------|-------|
-| Coneflowers (Echinacea) | Tons returning | Divided some, repotted to move to other beds. Leaf spot visible on some rosettes -- trim affected leaves, water at soil level |
+| Coneflowers (Echinacea) | Tons returning | Divided some, repotted to move to other beds |
 | Rocket Larkspur (*Consolida ajacis*) | Tons, self-seeding aggressively | Moved escapees outside the bed to the back wall of the Cat Garden |
-| Zinnias | Dominant self-seeder | Take over the whole bed every year -- pink, red, orange, salmon. Need to manage spread |
+| Zinnias | Dominant self-seeder | Take over the whole bed every year -- pink, red, orange, salmon. Keep some in Honeyglow, transplant seedlings to Wayward Meadow |
 | Blazing Star (*Liatris spicata*) | Present | Confirmed in bed |
 | Columbine (*Aquilegia*) | Present | Confirmed in bed |
-| Primrose (type TBD) | Present | Divided some, repotted to move to other beds |
+| Common Evening Primrose (*Oenothera biennis*) | Present | Biennial -- rosette year 1, yellow flowers year 2, then dies and reseeds. Divided some, repotted to move to other beds. Leaf spot on overwintered rosettes is cosmetic |
 | Bee Balm / Wild Bergamot (*Monarda*) | Overgrown | Way too much -- needs thinning. Relocate divisions to: Wayward Meadow (let naturalize), near frog pond (in buried containers), herb spiral (for tea/smudge harvest) |
 
 **Overall assessment:** Overfilled and needs a makeover. Too many plants competing. Zinnias dominate everything in summer. Bee balm has spread aggressively.
