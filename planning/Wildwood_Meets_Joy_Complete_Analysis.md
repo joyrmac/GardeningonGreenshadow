@@ -90,7 +90,7 @@ The Wildwood redesign isn't abstract. Every zone, every color, every hidden spac
 |-------|----------|-----------------|-----|
 | **Sage** | Wildwood Bed 4 or herb spiral | Summer/fall (before frost) | Smudge bundles, clearing rituals |
 | **Rosemary** | Herb spiral or edges of beds | Year-round (perennial) | Smoke cleansing, protection |
-| **Lavender** | Herb spiral + Cut Flower Garden | Summer peak | Smudge bundles, peace rituals |
+| **Lavender** | Herb spiral + Bloomveil | Summer peak | Smudge bundles, peace rituals |
 | **Bee Balm** | Herb spiral (in expansion) | Summer/early fall | Smoke cleansing (bright, joyful scent) |
 | **Mugwort** | Mint Bed (CONTAINED) | Summer/fall, dry fully | Dream work bundles, Full Moon rituals |
 
@@ -209,14 +209,14 @@ On Full Moon nights (your power phase as a Full Moon baby), fill a birdbath with
 | **Dill** | Various (self-seeds) | Seeds (tea), fronds (cooking) | Digestive seed tea |
 | **Fennel** | Bed 8 | Bulbs (cooking), seeds (tea) | Digestive, GERD support |
 | **Hyssop** | Herb Spiral or separate bed | Flowers + leaves, summer | Garden Respiratory Tea |
-| **Echinacea** | Cut Flower Garden (doubles as medicinal) | Root (harvest year 3+) or flowers | Immune boost tea |
+| **Echinacea** | Potion Patch (the only medicinal garden) | Root (harvest year 3+) or flowers | Immune boost tea |
 
 **Need to plant (Wildwood expansion):**
 
 | Herb | Location Idea | Harvest | Tea Use |
 |------|---------------|---------|----------|
 | **Peppermint** | West Step Mint Bed (CONTAINED POT) | Leaves | Stronger headache tea |
-| **Holy Basil (Tulsi)** | Gloam or protected area (annual) | Leaves | Metabolic Grounding Tea |
+| **Holy Basil (Tulsi)** | Potion Patch or protected area (annual) | Leaves | Metabolic Grounding Tea |
 | **Elderberry** | Separate shrub (6-12 ft) | Berries (year 2-3+) | Immune syrup + tea |
 | **Valerian** | Contained area (can self-seed vigorously) | Root (year 2+) | Sleep tea |
 | **Skullcap** | Contained area | Flowers/leaves | Evening Reset Tea |

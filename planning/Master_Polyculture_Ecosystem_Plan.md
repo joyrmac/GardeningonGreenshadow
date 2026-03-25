@@ -20,7 +20,7 @@ You're not building separate gardens. You're building **one integrated living sy
 ### **Astragalus** (Protective, Long-Game Investment)
 - **What it is:** Perennial adaptogen herb (immune support, used in TCM)
 - **Your role:** Plant it now, let it establish 2-3 years, then harvest roots forever
-- **Where:** The Gloam (medicinal garden) or Potion Patch as a structural perennial
+- **Where:** Potion Patch as a structural perennial
 - **Ecological bonus:** Delicate flowers attract pollinators
 - **Witchy correspondences:** Protection, resilience, long-term planning, grounding
 - **Growing notes:** Needs good drainage, minimal fuss once established
@@ -28,7 +28,7 @@ You're not building separate gardens. You're building **one integrated living sy
 ### **Fenugreek** (Quick Payoff, Tea Habit)
 - **What it is:** Annual herb, fast-growing, self-seeding
 - **Your role:** Plant in spring, harvest seeds/leaves by summer, let some self-seed for next year
-- **Where:** Potion Patch (fits front/edge zone), Wildwood's medicinal area, or scattered in The Gloam
+- **Where:** Potion Patch (fits front/edge zone)
 - **Your tea:** Seeds are literally what you brew — no processing needed
 - **Ecological bonus:** Attracts pollinators, nitrogen-fixing legume (feeds soil)
 - **Witchy correspondences:** Abundance, nourishment, grounding, manifestation
@@ -95,13 +95,12 @@ WILDWOOD (main veggie garden)
 NETTLE POT (near kitchen or Wildwood path):
   └─> FEEDS → Daily tea supply + butterfly larvae host
 
-THE GLOAM (medicinal garden - 30+ varieties):
-  ├─ Tall: Valerian, Mullein, Elderberry, Burdock, Marshmallow, St. John's Wort
-  ├─ Medium: Echinacea, Bee Balm, Astragalus, Motherwort, Yarrow, Angelica, Hyssop
-  ├─ Short: Calendula, Chamomile, Borage, Fenugreek, Marigold
-  └─> FEEDS → Your apothecary + pollinators
+THE GLOAM (Fireflies Forever shade garden - under magnolia):
+  ├─ Cardinal Flower, Northern Sea Oats, Common Boneset, Arkansas Bluestar
+  ├─ Smooth Blue Aster, Shenandoah Red Switchgrass
+  └─> FEEDS → Shade pollinators + native habitat
 
-BLOOMVEIL (flower garden):
+BLOOMVEIL (cut flower garden - inside Wildwood):
   ├─ 5 color zones (Sunrise Cloud, Berry Patch, Spice Drift, Moonlit Meadow, Twilight Hollow)
   ├─ Cut flowers + pollinator support
   └─> FEEDS → Beauty + pollinators cross to veggie beds
@@ -382,15 +381,15 @@ Plant these throughout to keep pollinators visiting veggies:
 
 | Garden | Purpose | Key Plants |
 |--------|---------|-----------|
-| **Potion Patch** | Medicinal circle inside tomato ring | Echinacea, Astragalus, Fenugreek, Calendula, Chamomile, Borage, St. John's Wort |
-| **The Gloam** | Main medicinal garden (30+ varieties) | Valerian, Mullein, Yarrow, Angelica, Hyssop, Echinacea, Bee Balm, +25 more |
+| **Potion Patch** | The ONLY medicinal herb garden — circle inside tomato ring | Echinacea, Astragalus, Fenugreek, Calendula, Chamomile, Borage, St. John's Wort |
+| **The Gloam** | Fireflies Forever shade garden (under magnolia) | Cardinal Flower, Northern Sea Oats, Common Boneset, Arkansas Bluestar, Smooth Blue Aster, Switchgrass |
 | **Tomato Circle** | Obelisk tomatoes + companions | Tomatoes, Marigolds, Basil, Nasturtiums, Potion Patch (inside) |
 | **Three Sisters Corn Circle** | Vegetable productivity + nitrogen fixation | Corn, Beans, Squash (perfect companion) |
 | **Gourd Gate** | Pumpkins on trellis, food + beauty | Pumpkins, architectural structure |
 | **Spiral Herb Garden** | Cooking herbs + frog pond | Sage, Rosemary, Basil, Thyme, Oregano, Lavender, Mints (potted) |
 | **Nettle Pot** | Daily nutritional tea | Nettle (dedicated 5-gal pot, never let loose in ground) |
 | **Polycultural Shade Bed** | Year-round greens + color | Lettuce, Carrots, Marigolds, succession-planted |
-| **Cut Flower Garden** | Beauty + pollinator food | Cosmos, Zinnias, Dahlias, Sunflowers (grow tall) |
+| **Bloomveil** | Cut flower garden — beauty + pollinator food | Cosmos, Zinnias, Dahlias, Sunflowers, 40+ varieties in 5 color zones |
 | **Wildwood Veggies** | Main food production | Tomatoes, peppers, squash, beans, cukes, melons, watermelon |
 | **Bloomveil** | 5 color zones, cut flowers + design | 40+ flowering plants, color-themed |
 | **Wayward Meadow** | Native wildflower prairie | Prairie Habitat kit plants, native grasses |

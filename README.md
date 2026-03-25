@@ -38,14 +38,14 @@
 
 | Garden | File | What It Is |
 |--------|------|-----------|
-| **Potion Patch** | [garden-beds/01-potion-patch/](garden-beds/01-potion-patch/) | Circular medicinal herb garden with compass-direction layout. Healing & magical herbs only |
-| **Bloomveil** | [garden-beds/02-bloomveil/](garden-beds/02-bloomveil/) | L-shaped flower garden with 5 color-themed zones. Sunrise Cloud, Berry Patch, Spice Drift, Moonlit Meadow, Twilight Hollow |
+| **Potion Patch** | [garden-beds/01-potion-patch/](garden-beds/01-potion-patch/) | The ONLY medicinal herb garden. Circular with compass-direction layout. Healing & magical herbs only |
+| **Bloomveil** | [garden-beds/02-bloomveil/](garden-beds/02-bloomveil/) | Cut flower garden inside Wildwood. L-shaped with 5 color-themed zones. Sunrise Cloud, Berry Patch, Spice Drift, Moonlit Meadow, Twilight Hollow |
 | **Edgeworth Corner** | [garden-beds/03-edgeworth-corner/](garden-beds/03-edgeworth-corner/) | Grid-based pollinator garden (10×15 sunny + 6×4 shade) with dry creek pathway. Grid-based planting by seed source |
 | **Fernwood** | [garden-beds/04-fernwood/](garden-beds/04-fernwood/) | Shade garden on north side. Ferns, hostas, foxglove, seating area. Home for shade plants |
-| **Gloam** | [garden-beds/05-gloam/](garden-beds/05-gloam/) | Medicinal herb garden layout |
+| **Gloam** | [garden-beds/05-gloam/](garden-beds/05-gloam/) | Fireflies Forever shade garden under magnolia tree |
 | **Wayward Meadow** | [garden-beds/10-wayward-meadow/](garden-beds/10-wayward-meadow/) | Prairie wildflower meadow in back corner (~50 ft deep). Prairie Habitat kits go here. Pollinator magnet |
 | **Swingnook** | [garden-beds/09-swingnook/](garden-beds/09-swingnook/) | Shaded pergola retreat with swing bench, bonfire pit, fern groundcover |
-| **Wildwood** | [garden-beds/11-wildwood/](garden-beds/11-wildwood/) | Main fenced veggie garden: 8 beds, cut flowers, corn circle, spiral herb garden, tomato obelisk circle |
+| **Wildwood** | [garden-beds/11-wildwood/](garden-beds/11-wildwood/) | Main fenced garden: 8 veggie beds, Bloomveil (cut flowers), Honeyglow Patch (pollinators), corn circle, spiral herb garden, tomato obelisk circle |
 | **Small Gardens** | [garden-beds/07-small-gardens/](garden-beds/07-small-gardens/) | Compact growing: Cat Garden, Blueberry & Raspberry beds, Porch Planters |
 | **Strawberry Patch** | [garden-beds/08-strawberry-patch/](garden-beds/08-strawberry-patch/) | Berry production bed |
 

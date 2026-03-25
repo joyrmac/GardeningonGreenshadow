@@ -2,9 +2,9 @@
 
 > **Sacred geometry. Healing herbs. Pollinators everywhere. You stand in the center, surrounded by medicine.**
 
-**Location:** Inside The Gloam Tomato Circle (Wildwood section)
+**Location:** Inside the Tomato Circle (Wildwood section)
 **Size:** 10 ft diameter C-shaped bed opening south
-**Purpose:** Medicinal herbology, pollinator support, sacred geometry, healing power circle
+**Purpose:** The ONLY medicinal herb garden on the property. Medicinal herbology, pollinator support, sacred geometry, healing power circle
 **Design:** 3 concentric rings (tall center, medium middle, short edges) + C-shaped opening
 **Timeline:** 3-year establishment (Year 1 foundation → Year 3+ full production)
 
@@ -196,7 +196,7 @@ See [Potion_Patch_Accessories_Guide.md](Potion_Patch_Accessories_Guide.md) for p
 
 ## Related Gardens
 
-- **The Gloam Tomato Circle** — Outer ring of tomato obelisks + companion planting (Gloam_Medicinal_Garden_Layout.md)
+- **Tomato Circle** — Outer ring of tomato obelisks + companion planting
 - **Wildwood Spiral Herb Garden** — Cooking herbs (sage, rosemary, lavender, mints in buried pots)
 - **Wayward Meadow** — Pollinator habitat that feeds this garden
 - **Bloomveil** — Cut flowers for pollinators that cross-visit

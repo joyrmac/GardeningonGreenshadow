@@ -112,7 +112,7 @@ or Transplants | Start Seeds Outdoors |
 
 ## 🌿 Potion Patch Medicinal Herbs (Spring Planting)
 
-**Location:** Concentric medicinal garden inside The Gloam Tomato Circle (Wildwood)
+**Location:** The only medicinal herb garden — concentric circle inside Wildwood's Tomato Circle
 **Design:** 3 rings — tall center (3-5 ft), medium middle (18-36"), short annuals (6-18")
 **Timeline:** 3-phase planting (March → June), 3-year establishment
 

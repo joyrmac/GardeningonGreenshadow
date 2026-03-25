@@ -103,7 +103,7 @@ Divisions from Honeyglow thinning. Buried nursery pots (cut bottom out, rim 1" a
 
 ## Connection to Wildwood Ecosystem
 
-The Honeyglow Patch is Wildwood's pollinator engine. Bees and butterflies feeding here cross-visit vegetable beds, the Potion Patch, and the cut flower garden. From `planning/Garden_Overview.md`:
+The Honeyglow Patch is Wildwood's pollinator engine. Bees and butterflies feeding here cross-visit vegetable beds, the Potion Patch, and Bloomveil. From `planning/Garden_Overview.md`:
 
 > "Wayward Meadow raises the pollinators. Wildwood grows the food. Bloomveil feeds the soul and the bees."
 
