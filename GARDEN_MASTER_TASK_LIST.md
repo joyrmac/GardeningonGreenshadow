@@ -85,7 +85,7 @@
 ## WILDWOOD (Main Growing Area)
 **Status:** Spring prep & planting in progress
 
-**Beds:** Strawberry (2), Raspberry patch, Rhubarb patch, Herb spiral, Polyculture, Tomato circle + Potion patch, Three Sisters, Gourdgate (E&W), New bed, Bloomveil flowers, Blueberry barrels (3), Pollinator garden (Edgeworth Corner)
+**Beds:** Strawberry (2), Raspberry patch, Rhubarb patch, Herb spiral, Polyculture, Tomato circle + Potion patch, Three Sisters, Gourdgate (E&W), New bed, Bloomveil flowers, Blueberry barrels (3), Honeyglow Patch (pollinator garden)
 
 ### Strawberry Beds (NEW - 4-5 rows on each side of walkway)
 - [ ] Prep strawberry beds (add compost, level soil)
