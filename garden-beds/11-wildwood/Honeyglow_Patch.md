@@ -59,6 +59,22 @@ From `reference/NC_Native_Recommendations.md`:
 
 ---
 
+## Bee Balm Relocation Plan
+
+Divisions from Honeyglow thinning. Buried nursery pots (cut bottom out, rim 1" above soil) to contain runners. Divide annually each spring.
+
+| Location | Pot Size | Why |
+|----------|----------|-----|
+| Wayward Meadow | None (direct plant) | Let it naturalize freely |
+| Between Honeyglow and veggie beds | 5-gallon (12") | Main pollinator stepping stone to food crops |
+| Gourd Gate entrance | 5-gallon (12") | Beacon for squash/pumpkin pollination |
+| Near melon/watermelon patch | 3-gallon (10") | Tucked at edge, draws bees for fruit set |
+| Near blueberry barrels | 3-gallon (10") | Attracts native bees for buzz pollination |
+| Edgeworth Corner | 10" pot | One contained clump, fits the dense grid |
+| Existing pots (from last year) | Keep as-is | Set on pavers, not bare soil -- roots escape drainage holes |
+
+---
+
 ## Makeover Notes
 
 **Problems to address:**
