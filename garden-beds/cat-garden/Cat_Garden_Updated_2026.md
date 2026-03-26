@@ -63,6 +63,25 @@
 
 ---
 
+## Exterior Borders (Outside the Railroad Ties)
+
+### Back Wall (Behind Bed)
+- **Rocket Larkspur** (10 plants, 4" apart) — Relocated from Honeyglow Patch. Self-seeding annual, will thicken into a purple wall. Leave alone and let it reseed each year.
+
+### South Side (More Sun)
+- **Catmint** (*Nepeta*) — Low mounding, purple-blue flowers all summer, cats love it, pollinators love it
+- **Coreopsis** — Bright yellow, early summer blooms, fills the gap before zinnias
+- **Marigolds** — Transplant volunteers from Gourd Gate east bed when they sprout. Free plants, pest deterrent
+
+### North Side (Less Sun)
+- **Columbine** (*Aquilegia*) — Division from Honeyglow. Handles part shade, spring blooms
+- **Creeping Jenny** — Golden-green trailing groundcover, shade tolerant, spills over edges
+- **Johnny Jump-Ups** (*Viola tricolor*) — Grab self-seeders from Edgeworth Corner. Shade tolerant, early spring blooms
+
+**Keep everything under 18"** on the sides so it doesn't compete with the larkspur wall in back.
+
+---
+
 ## Magnolia Shoots Decision Tree
 
 ### Option A: Single-Stem Tree (Tidy, Classic Look)

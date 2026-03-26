@@ -150,10 +150,10 @@ TOMATO CIRCLE → Tomatoes, peppers, marigolds on obelisks — pollinators cross
 
 | Garden | File | What It Is |
 |--------|------|-----------|
-| **Bloomveil** | `beds/Bloomveil.md` | L-shaped flower garden, 5 color-themed zones (Sunrise Cloud, Berry Patch, Spice Drift, Moonlit Meadow, Twilight Hollow). 40+ plants with heights, quantities, and arrangements |
+| **Bloomveil** | `beds/Bloomveil.md` | Cut flower garden inside Wildwood. L-shaped, 5 color-themed zones (Sunrise Cloud, Berry Patch, Spice Drift, Moonlit Meadow, Twilight Hollow). 40+ plants with heights, quantities, and arrangements |
 | **Edgeworth Corner** | `beds/Edgeworth_Corner.md` | Grid-based pollinator garden (10x15 sunny bed + 6x4 shade bed) with dry creek "river" pathway. Near screen room |
 | **Potion Patch** | `beds/Potion_Patch.md` (+ 6 detailed guides) | Sacred geometry medicinal healing circle — 10 ft diameter, C-shaped, 3 concentric rings. Standing-in design with 20+ healing herbs. Tall center (Valerian, Mullein, Echinacea), medium perennials (Astragalus, Yarrow), abundant annuals (Calendula, Chamomile, Fenugreek). Year 1 foundation → Year 3+ full production |
-| **Wildwood** | `beds/Wildwood.md` | Main fenced garden: 8 veggie beds, cut flower garden, corn circle, pumpkin patch, watermelon patch, spiral herb garden with frog pond, and Gourd Gate entrance. **Contains:** Potion Patch inside Tomato Circle |
+| **Wildwood** | `beds/Wildwood.md` | Main fenced garden: 8 veggie beds, Bloomveil (cut flowers), Honeyglow Patch (pollinator garden), corn circle, pumpkin patch, watermelon patch, spiral herb garden with frog pond, and Gourd Gate entrance. **Contains:** Potion Patch inside Tomato Circle |
 | **Fernwood** | `beds/Fernwood.md` | Shade garden on north side. Ferns, hostas, foxglove, seating area. Home for all leftover shade plants |
 | **Wayward Meadow** | `beds/Wayward_Meadow.md` | Prairie wildflower meadow in the back corner (east wall to south wall). ~50 ft deep. Prairie Habitat kits go here |
 | **Swingnook** | `beds/Swingnook.md` | Shaded pergola retreat with swing bench, bonfire pit, fern groundcover. Ivy removal in progress. Existing: mahonia, holly, blue spruce, rose, pergola vine |
@@ -168,7 +168,7 @@ These are on the property map but don't have detailed plans. One-liners for now:
 | **Maple Shrine** | Near the maple tree. No plan yet |
 | **Hazel Nest** | Adjacent to Maple Shrine. No plan yet |
 
-**Note:** The Gloam area now houses the **Tomato Obelisk Circle** (outer boundary) with the **Potion Patch** medicinal healing garden nested inside it. See Gloam_Medicinal_Garden_Layout.md and Potion_Patch.md for complete details.
+**Note:** The Gloam is now the **Fireflies Forever shade garden** (under magnolia). The **Potion Patch** (inside Wildwood's Tomato Circle) is the **only medicinal herb garden** on the property. See Potion_Patch.md for complete details.
 
 ### Smaller Gardens (all in one file)
 

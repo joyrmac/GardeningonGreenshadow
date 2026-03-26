@@ -19,8 +19,8 @@
 
 | Garden | What | Why |
 |--------|------|-----|
-| **Wildwood** | Fenced veggie area: 8 beds, corn circle, herbs, melons | Food production |
-| **Bloomveil** | Colorful flower garden (L-shaped) | Pollinators + beauty + cut flowers |
+| **Wildwood** | Fenced garden: 8 veggie beds, Bloomveil, Honeyglow Patch, corn circle, herbs, melons | Food + flowers + pollinators |
+| **Bloomveil** | Cut flower garden inside Wildwood (L-shaped, 5 color zones) | Pollinators + beauty + cut flowers |
 | **Edgeworth Corner** | Grid pollinator garden (sunny + shade) | More pollinators, low maintenance |
 | **Wayward Meadow** | Back corner wildflower meadow | Prairie plants, native bees |
 | **Fernwood** | Shade garden (north side) | Ferns, hostas, rest area |

@@ -1,12 +1,12 @@
 # Wildwood Garden
 
-> The main enclosed garden. Fenced area containing vegetable beds, cut flower garden, pumpkin patch, watermelon patch, spiral herb garden, corn circle, and the Gourd Gate entrance.
+> The main enclosed garden. Fenced area containing vegetable beds, Bloomveil (cut flower garden), Honeyglow Patch (pollinator garden), pumpkin patch, watermelon patch, spiral herb garden, corn circle, and the Gourd Gate entrance.
 
 ---
 
 ## Overview
 
-Wildwood is the working garden -- food, cut flowers, and herbs. Enclosed by fencing (to keep deer and kids out). The **Gourd Gate** trellis is the entrance. Inside, sub-areas are organized by purpose.
+Wildwood is the working garden -- food, cut flowers, herbs, and pollinators. Enclosed by fencing (to keep deer and kids out). The **Gourd Gate** trellis is the entrance. Inside, sub-areas are organized by purpose.
 
 ---
 
@@ -116,17 +116,11 @@ Wildwood is the working garden -- food, cut flowers, and herbs. Enclosed by fenc
 
 ---
 
-## 4. Cut Flower Garden (L-Shaped, North Wall)
+## 4. Bloomveil (Cut Flower Garden)
 
-**Layout:** Tallest in back, mid-height middle, short in front.
+**See:** [Bloomveil](../02-bloomveil/Bloomveil.md) for full plant list, color zones, and planting details.
 
-| Row | Plants | Spacing |
-|-----|--------|---------|
-| **Back (5+ ft)** | Sunflowers (Autumn Beauty, Teddy Bear, Giant), Dahlias (Pacific Jewel, Ben Huston, Otto's Thrill, Fairway Pilot, Bantling, Rocco, Jowey Nicky), Amaranth (Trailing Red & Green) | 18-24" |
-| **Middle (3-4 ft)** | Snapdragons (Appleblossom, Tall Deluxe, Orange Wonder), Cosmos (Sea Shells, Apricotta, Mandarin Orange, Sensation), Coneflowers (Parrot, Pink Double Delight, Marmalade, Blueberry Cheesecake, Green Wizard) | 12-18" |
-| **Front (1-2 ft)** | Zinnias (California Giant, Cupcake Pink, Double Enchantress, Tequila Lime), Baby's Breath, Sweet Alyssum | 6-12" |
-
-**Also scatter through:** Poppies (Frosted Salmon, Jelly Beans, Lilac PomPom, Purple Peony)
+Bloomveil is the cut flower garden inside Wildwood. L-shaped, 5 color-themed zones (Sunrise Cloud, Berry Patch, Spice Drift, Moonlit Meadow, Twilight Hollow). 40+ plants.
 
 **How to cut flowers:** Cut in early morning when stems are full of water. Cut at a 45-degree angle. Strip leaves below the waterline. Change vase water every 2 days. Cutting flowers ENCOURAGES more blooms -- the more you cut, the more you get.
 
@@ -299,4 +293,4 @@ EDGE (any runners that cascade down)
 
 ---
 
-*Related files: `plans/Gourd_Gate.md`, `plans/Gourdgate_Trellis_Beds.md`, `plans/Corn_Circle.md`, `plans/Watermelon_Garden.md`, `plans/Spiral_Herb_Garden.md`, `plans/Veggie_Patch.md`*
+*Related files: `plans/Gourd_Gate.md`, `plans/Gourdgate_Trellis_Beds.md`, `plans/Corn_Circle.md`, `plans/Watermelon_Garden.md`, `plans/Spiral_Herb_Garden.md`, `plans/Veggie_Patch.md`, [Bloomveil](../02-bloomveil/Bloomveil.md), [Honeyglow Patch](Honeyglow_Patch.md)*

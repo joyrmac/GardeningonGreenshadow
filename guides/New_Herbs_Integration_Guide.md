@@ -6,18 +6,18 @@
 
 ## Quick Answer: Where Does Each Herb Go?
 
-### **ASTRAGALUS** → The Gloam or Potion Patch (Back/Middle Row)
+### **ASTRAGALUS** → Potion Patch (Back/Middle Row)
 - **Size:** 24-30" tall by year 2-3
 - **When to plant:** Late March (as starts) or Feb (seed indoors)
-- **Where exactly:** The Gloam middle row (between tall plants like Valerian + short plants like Calendula), OR Potion Patch back section (behind Echinacea)
+- **Where exactly:** Potion Patch middle ring (between tall plants like Valerian + short plants like Calendula), or back section (behind Echinacea)
 - **Spacing:** 12-18" apart from other plants
 - **First harvest:** Year 3 (roots), but flowers feed pollinators year 1+
 - **Your tea:** Steep dried root, mild slightly sweet flavor, building immunity over time
 
-### **FENUGREEK** → Potion Patch or The Gloam (Front/Edge Zone)
+### **FENUGREEK** → Potion Patch (Front/Edge Zone)
 - **Size:** 12-18" tall, bushy
 - **When to plant:** Early April (direct sow, don't transplant)
-- **Where exactly:** Front edges of Potion Patch (between Calendula + Chamomile), OR scattered in The Gloam front row
+- **Where exactly:** Front edges of Potion Patch (between Calendula + Chamomile), outer ring
 - **Spacing:** 6-8" apart
 - **First harvest:** July-August (seeds ready), can eat leaves fresh all summer
 - **Your tea:** This IS your constant-brew. Seeds taste like maple + spice, nourishing daily drink
@@ -52,11 +52,11 @@ YEAR 2: Grows larger, more flowers, still no root harvest
 YEAR 3+: Ready for gentle root harvesting (take some, leave some to expand)
 ```
 
-**In The Gloam (recommended):**
+**In the Potion Patch (recommended):**
 ```
-BACK ROW (tall: Valerian, Mullein, Elderberry)
+CENTER RING (tall: Valerian, Mullein, Echinacea, Angelica)
   ↓ (12-18" spacing)
-MIDDLE ROW (medium: Echinacea, Bee Balm, ASTRAGALUS ← here, Yarrow, Angelica)
+MIDDLE RING (medium: ASTRAGALUS ← here, Yarrow, Hyssop, St. John's Wort)
   ↓ (12-18" spacing)
 FRONT ROW (short: Calendula, Chamomile, Borage, Fenugreek)
 ```
@@ -118,9 +118,9 @@ FRONT/EDGES (short: Calendula, Chamomile, Borage, FENUGREEK ← here)
   Position: Edges around perimeter
 ```
 
-**In The Gloam (alternative):**
+**In the Potion Patch outer ring (alternative):**
 ```
-FRONT ROW (short plants): scattered among Calendula + Chamomile
+OUTER RING (short plants): scattered among Calendula + Chamomile
   Same spacing, same idea
 ```
 
@@ -245,7 +245,7 @@ YEAR 3+: Mature system, unlimited harvests
 
 ### **Early Spring (Late March)**
 - [ ] Buy Astragalus start or seed indoors (plant by April)
-- [ ] Locate Astragalus spot (The Gloam middle row or Potion Patch back)
+- [ ] Locate Astragalus spot (Potion Patch middle ring)
 - [ ] Prepare 5-gal pot with good soil + compost mix
 - [ ] Buy or source Nettle start
 - [ ] Identify Nettle pot location (near kitchen, accessible path)
@@ -308,7 +308,7 @@ A: Just resow next spring. It's not finicky. But if you let even a few plants ma
 A: No, nettle flowers are tiny + green. You harvest leaves before flowering (pinch top 6"), so flowers rarely appear on harvested plants. Not a priority.
 
 **Q: Can these three grow near each other?**
-A: Yes! Astragalus + Fenugreek grow well together (The Gloam or Potion Patch). Nettle pot can be anywhere. All three are companions in witchy herbology.
+A: Yes! Astragalus + Fenugreek grow well together in the Potion Patch. Nettle pot can be anywhere. All three are companions in witchy herbology.
 
 ---
 

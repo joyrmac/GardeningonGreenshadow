@@ -178,7 +178,7 @@ You have a Virgo brain that wants everything organized AND a Leo stellium that w
 
 ## ZONE 2: THE CREATIVE GARDEN (Leo Dramatic)
 
-### **Cut Flower Garden (L-shaped, North Wall)**
+### **Bloomveil / Cut Flower Garden (L-shaped, North Wall)**
 
 **Color Story:** Jewel tones explosion (the celebration zone)
 

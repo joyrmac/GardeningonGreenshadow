@@ -96,18 +96,13 @@ These are your long-term apothecary plants. Plant once, harvest for years.
 
 ---
 
-## The Recommendation: Create "The Gloam" as Your Apothecary Garden
+## The Apothecary Garden: Potion Patch
 
-You have an unplanned area called **The Gloam** (twilight-themed) with a sign designed but no plant list. This is the perfect home for a dedicated medicinal herb garden. The name already sounds like an apothecary.
+The **Potion Patch** (inside Wildwood's Tomato Circle) is the **only medicinal herb garden** on the property. It's a 10 ft diameter C-shaped sacred geometry circle with 3 concentric rings. See `Potion_Patch.md` for the full design.
 
-### Why The Gloam Works
-- Unplanned — no existing design to disrupt
-- The twilight/witchy aesthetic aligns perfectly with herbalism
-- Keeps medicinal herbs separate from your ornamental beds and food gardens
-- Creates a dedicated harvest zone (no guilt about cutting from pretty beds)
-- Centralized = easier to learn, tend, and harvest
+The following plant suggestions can be incorporated into the Potion Patch or grown in pots near accessible paths.
 
-### Suggested Gloam Apothecary Layout
+### Layout Reference (Potion Patch Rings)
 
 Think of it as 4 zones based on plant behavior:
 
@@ -166,7 +161,7 @@ Border plants, easy to reach for daily snipping.
 
 ---
 
-## What Goes Where OUTSIDE The Gloam
+## What Goes Where OUTSIDE the Potion Patch
 
 Some herbs serve double duty and should go in existing beds too:
 
