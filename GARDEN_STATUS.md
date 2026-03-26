@@ -145,10 +145,11 @@
 - **What's happening:**
   - Ripping out ALL existing shrubs: Indian hawthorn, common myrtle, china rose, all Japanese privets (invasive)
   - Keeping: Japanese maple, stone birdbath (elevating), landscape lighting
-  - Replacing with structured native pollinator garden — rosemary/lavender anchors, native perennials (echinacea, black-eyed susan, penstemon, salvia, bee balm, blazing star, aster), self-seeding annuals (zinnias, nasturtium, alyssum)
+  - **Twin Beds (flanking steps):** Replacing with structured native pollinator garden — rosemary/lavender anchors, native perennials (echinacea, black-eyed susan, penstemon, salvia, bee balm, blazing star, aster), self-seeding annuals (zinnias, nasturtium, alyssum)
+  - **Garage side:** Replacing privets with inkberry holly (native evergreen screening) + American beautyberry (native, dramatic purple berries). Crape myrtle stays
   - **No American Meadows plants diverted** — kits stay intact for their planned beds
   - All plants purchased fresh or grown from existing seed inventory
-- **Estimated plant cost:** $130-210 (live plants) + $30-50 (mulch/compost) + $3-5 (alyssum seed)
+- **Estimated total cost:** $280-455 (Twin Beds plants + garage shrubs + mulch/compost + seeds)
 - **Planting date:** After demolition — target late April / early May 2026
 
 ---

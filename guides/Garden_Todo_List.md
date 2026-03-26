@@ -102,15 +102,17 @@
 - [ ] Cut all common myrtle to stumps and remove
 - [ ] Cut china rose to stump and remove
 - [ ] Cut large Japanese privet (house corner, left bed) and remove — get ALL roots
-- [ ] Cut and remove all smaller Japanese privets
+- [ ] Cut and remove all smaller Japanese privets (Twin Beds)
+- [ ] Cut and remove ALL large Japanese privets along garage side — these are the biggest, budget extra time
 - [ ] Pull any Japanese privet seedlings in beds and nearby lawn
 - [ ] Rake out all old decomposed mulch
 - [ ] Elevate birdbath — clean, set on pedestal/stacked stones in left bed center
 - [ ] Consider stump grinder rental if any stumps too big to pull
 
 ### Soil Prep
-- [ ] Amend both beds with compost (4-6 bags total), worked into top 8-10"
+- [ ] Amend all three beds with compost (6-8 bags total), worked into top 8-10"
 - [ ] Avoid disturbing Japanese maple root zone (3 ft from trunk)
+- [ ] Avoid disturbing crape myrtle root zone (garage side)
 - [ ] Rake level
 
 ### Plant — Live Plants (buy these)
@@ -129,7 +131,13 @@
 - [ ] Buy and scatter sweet alyssum seed along front edges
 - [ ] Scatter extra creeping thyme seed between starts
 
+### Garage Side — Shrubs (buy these)
+- [ ] Buy: 2-3 inkberry holly (3 gallon), 1-2 American beautyberry (3 gallon)
+- [ ] Plant inkberry holly for evergreen screening (near driveway edge and between crape myrtle and Twin Beds)
+- [ ] Plant beautyberry between inkberries for seasonal drama
+- [ ] Underplant with creeping thyme and sedum along driveway curb
+
 ### Mulch & Finish
-- [ ] Mulch 3-4" with fresh shredded hardwood (keep 1-2" from stems and brick)
+- [ ] Mulch 3-4" with fresh shredded hardwood — all three beds (keep 1-2" from stems and brick)
 - [ ] Don't mulch over seeded areas until seedlings emerge
 - [ ] Water all deeply — morning only, 2-3x/week for first month
