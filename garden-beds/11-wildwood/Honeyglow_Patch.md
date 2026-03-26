@@ -18,11 +18,11 @@ Audit started 3/25/26. Working through the bed corner by corner.
 
 | Plant | Status | Notes |
 |-------|--------|-------|
-| Coneflowers (Echinacea) | Tons returning | Divided some, repotted to move to other beds |
+| Coneflowers (Echinacea) | Tons returning | Divided some, repotted — divisions may be mixed with evening primrose (similar rosettes at this stage, will ID once they grow up) |
 | Rocket Larkspur (*Consolida ajacis*) | Tons, self-seeding aggressively | Moved escapees outside the bed to the back wall of the Cat Garden |
 | Zinnias | Dominant self-seeder | Take over the whole bed every year -- pink, red, orange, salmon. Keep some in Honeyglow, transplant seedlings to Wayward Meadow |
 | Blazing Star (*Liatris spicata*) | Present | Confirmed in bed |
-| Columbine (*Aquilegia*) | Present | Confirmed in bed |
+| Columbine (*Aquilegia*) | Blooming (3/26) | Pink/yellow buds opening. Growing along stone border near fence |
 | Common Evening Primrose (*Oenothera biennis*) | Present | Biennial -- rosette year 1, yellow flowers year 2, then dies and reseeds. Divided some, repotted to move to other beds. Leaf spot on overwintered rosettes is cosmetic |
 | Bee Balm / Wild Bergamot (*Monarda*) | Overgrown | Way too much -- needs thinning. Relocate divisions to: Wayward Meadow (let naturalize), near frog pond (in buried containers), herb spiral (for tea/smudge harvest) |
 
@@ -93,7 +93,7 @@ Divisions from Honeyglow thinning. Buried nursery pots (cut bottom out, rim 1" a
 
 ## Spring 2026 Actions Taken
 
-- [ ] Corner 1: Weeded, mulched, divided coneflowers and primrose for repotting, relocated escaped larkspur to Cat Garden back wall
+- [x] Corner 1: Weeded, mulched with wood chips, divided coneflowers/primrose for repotting, relocated escaped larkspur to Cat Garden back wall. Columbine blooming along stone border. Larkspur seedlings left in place.
 - [ ] Corner 2: (not started)
 - [ ] Corner 3: (not started)
 - [ ] Corner 4: (not started)
