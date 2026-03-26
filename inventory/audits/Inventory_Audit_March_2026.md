@@ -48,7 +48,7 @@ Every single vegetable (carrots, lettuce, corn, beans, peppers, tomatoes, squash
 
 ### Unplaced sunflowers (all 8)
 
-None of the 8 sunflower varieties have bed assignments. They should go to the **Blueberry & Raspberry bed** edges, **Front Yard**, and/or **Wildwood** borders.
+None of the 8 sunflower varieties have bed assignments. They should go to the **Blueberry & Raspberry bed** edges and/or **Wildwood** borders. (Front Yard plan now uses shorter native perennials — sunflowers too tall for foundation beds.)
 
 ### Unplaced wildflower mixes (all 8)
 
@@ -181,7 +181,7 @@ These are listed as "(unlisted)" — they came from the informal Seeds_Inventory
 4. **Place sunflowers** — Assign to Blueberry & Raspberry bed edges, Front Yard, Wildwood borders
 5. **Place wildflower mixes** — Assign to Wayward Meadow zones
 6. **Place companion marigolds** — Assign to Wildwood veggie bed edges
-7. **Place the 30 American Meadows natives** — Map to Wayward Meadow and Edgeworth
+7. **Place the 30 American Meadows natives** — Map to Wayward Meadow, Edgeworth, and The Gloam (kits stay intact per GARDEN_STATUS.md)
 8. **Place remaining milkweed** — Wayward Meadow and Edgeworth Corner
 9. **Decide on climbing vines** — Where do the wisteria, jasmine, trumpet vine, and honeysuckle go? Need structures (arbors, trellises, fences)
 10. **Container plan** — Bird of Paradise, Lemongrass, and mints need pots

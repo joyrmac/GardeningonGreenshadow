@@ -139,6 +139,18 @@
 
 - **Planting date:** Mid to late April 2026
 
+### Front Yard / Twin Beds (Sunlit Threshold)
+- **Status:** Plan complete — demolition not yet started
+- **Plan file:** `garden-beds/07-small-gardens/Small_Gardens.md` (Front Yard section)
+- **What's happening:**
+  - Ripping out ALL existing shrubs: Indian hawthorn, common myrtle, china rose, all Japanese privets (invasive)
+  - Keeping: Japanese maple, stone birdbath (elevating), landscape lighting
+  - Replacing with structured native pollinator garden — rosemary/lavender anchors, native perennials (echinacea, black-eyed susan, penstemon, salvia, bee balm, blazing star, aster), self-seeding annuals (zinnias, nasturtium, alyssum)
+  - **No American Meadows plants diverted** — kits stay intact for their planned beds
+  - All plants purchased fresh or grown from existing seed inventory
+- **Estimated plant cost:** $130-210 (live plants) + $30-50 (mulch/compost) + $3-5 (alyssum seed)
+- **Planting date:** After demolition — target late April / early May 2026
+
 ---
 
 ## All Tasks & Tracking

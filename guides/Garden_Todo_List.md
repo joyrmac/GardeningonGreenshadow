@@ -91,4 +91,45 @@
 
 - [ ] Start harvest log once veggies produce
 - [ ] Build nest material station (plan in `inventory/Nest_Supply_Store_List.md`)
-- [ ] Front yard walkthrough and documentation
+- [x] Front yard walkthrough and documentation — **DONE** (full plan in `garden-beds/07-small-gardens/Small_Gardens.md`)
+
+---
+
+## Front Yard / Twin Beds — Task Checklist
+
+### Demolition
+- [ ] Cut all Indian hawthorn to stumps and remove
+- [ ] Cut all common myrtle to stumps and remove
+- [ ] Cut china rose to stump and remove
+- [ ] Cut large Japanese privet (house corner, left bed) and remove — get ALL roots
+- [ ] Cut and remove all smaller Japanese privets
+- [ ] Pull any Japanese privet seedlings in beds and nearby lawn
+- [ ] Rake out all old decomposed mulch
+- [ ] Elevate birdbath — clean, set on pedestal/stacked stones in left bed center
+- [ ] Consider stump grinder rental if any stumps too big to pull
+
+### Soil Prep
+- [ ] Amend both beds with compost (4-6 bags total), worked into top 8-10"
+- [ ] Avoid disturbing Japanese maple root zone (3 ft from trunk)
+- [ ] Rake level
+
+### Plant — Live Plants (buy these)
+- [ ] Buy: 2 rosemary (gallon), 2 lavender (gallon), 3 echinacea, 3 black-eyed susan, 2 penstemon, 2 salvia, 2 hyssop, 2 aster, 2 blazing star, 1 windwalker sage, 1 bee balm, 4-6 creeping thyme starts, 3-4 sedum
+- [ ] Plant back layer against brick (echinacea, BES, penstemon, bee balm, windwalker sage) — 6-8" from wall
+- [ ] Plant middle layer (salvia, hyssop, blazing star, aster)
+- [ ] Plant rosemary anchors (1 right bed near steps, 1 left bed house corner)
+- [ ] Plant lavender flanking birdbath in left bed
+- [ ] Plant sedum and creeping thyme along front walkway edges
+
+### Seed — From Inventory
+- [ ] Scatter yarrow, sage, hyssop seed in middle layer gaps
+- [ ] Scatter zinnias (California Giant + Tequila Lime) throughout
+- [ ] Scatter nasturtium (Empress of India + Alaska Mix) along front edges
+- [ ] Scatter black-eyed susan seed behind bought plants for year 2+ density
+- [ ] Buy and scatter sweet alyssum seed along front edges
+- [ ] Scatter extra creeping thyme seed between starts
+
+### Mulch & Finish
+- [ ] Mulch 3-4" with fresh shredded hardwood (keep 1-2" from stems and brick)
+- [ ] Don't mulch over seeded areas until seedlings emerge
+- [ ] Water all deeply — morning only, 2-3x/week for first month
