@@ -603,12 +603,232 @@ The nursery will likely send a mix of spring-ready June-bearing types optimized 
 
 ## Front Yard (Sunlit Threshold / Twin Beds)
 
-**Location:** West-facing, full afternoon sun, high heat
+> Structured native pollinator garden flanking the front entrance. HOA-friendly from the street, alive and buzzy up close.
 
-**Plants (heat and drought tolerant):**
-- Coneflowers, Black-Eyed Susans, Zinnias, Sunflowers (tall background)
-- Nasturtiums, Creeping Thyme (filler)
-- Alyssum, Sedum (low border)
+---
+
+### Location & Conditions
+
+- **Location:** Two beds flanking the front brick steps and curved walkway
+- **Exposure:** West-facing — cool morning shade, then direct brutal afternoon/evening sun (2pm-sunset)
+- **Microclimate:** The light-colored brick wall stores and radiates heat back onto plants. Surface temps in the bed can reach 100F+ in July/August peak hours. Effectively Zone 8a+ right against the house, even though the yard is 7b
+- **Soil:** NC Piedmont clay, slightly acidic, slow-draining. Old mulch has been decomposing for years under the existing shrubs
+- **Size:** Two beds, each roughly 6-8 ft deep x 12-15 ft wide, flanking the front steps
+
+### What's There Now (March 2026) — Ripping It All Out
+
+Generic builder-grade foundation shrubs from the previous owner:
+
+| Plant | Status | Problem |
+|-------|--------|---------|
+| Indian Hawthorn | Multiple shrubs, sparse and leggy | Generic, not thriving in the heat |
+| Common Myrtle | Multiple shrubs | Generic, no character |
+| China Rose | Small shrub near downspout | Not earning its spot |
+| Japanese Privet (large) | Big one at house corner + smaller ones | **Invasive in NC** — spreading across the yard via bird-dropped seeds. On the NC invasive species list |
+| Japanese Privet (small) | Several popping up | Same — all must go |
+| Old wood chip mulch | Decomposing, thin | Needs full replacement |
+
+**Keeping:**
+- **Japanese Maple** — beautiful red foliage, right bed focal point. The only thing with character
+- **Stone Birdbath** — elevating it as the left bed focal point
+- **Landscape lighting** along the walkway edge
+- **Hose reel** on wall (functional, stays)
+
+### The Vision
+
+**Structured but interesting.** A neighbor driving by sees "oh, that looks nice and intentional." You see native pollinators, medicinal herbs you can brush walking to the door, and a garden doing real ecological work.
+
+**The design tension:** Silver-green evergreen herbs (rosemary, lavender, sage) give year-round bones and HOA-friendly structure. Native perennials deliver jewel-tone color and pollinator value spring through fall. Self-seeding annuals add cottage fullness and Leo energy in the gaps. The Japanese maple anchors the right bed with dramatic red. The elevated birdbath anchors the left bed.
+
+**Color story — playing off the Japanese maple's red:**
+- Deep purples (salvia, echinacea, blazing star, sage flowers)
+- Warm reds and corals (penstemon, hyssop)
+- Golden yellows (black-eyed susan, yarrow)
+- Silver-green foliage (rosemary, lavender, sage — year-round structure)
+- Pops of bright (zinnias, nasturtium — cottage energy, permission to be colorful)
+
+### Layout
+
+```
+                    HOUSE (brick wall)
+    ╔═══════════════════════════════════════════════╗
+    ║  LEFT BED                 RIGHT BED           ║
+    ║                                               ║
+    ║  BACK (against brick, 2-3 ft):                ║
+    ║  [BES] [Penstemon]  |  [Echinacea] [Penstemon]║
+    ║  [Windwalker Sage]  |  [BES] [Bee Balm]       ║
+    ║  [Rosemary-anchor]  |                          ║
+    ║                     |                          ║
+    ║  MIDDLE (12-24"):   |  MIDDLE:                 ║
+    ║  [Salvia] [Hyssop]  |  [Salvia] [Hyssop]      ║
+    ║  [Blazing Star]     |  [Yarrow] [Blazing Star] ║
+    ║  [Aster] [Sage]     |  [Aster]                 ║
+    ║  {zinnias scatter}  |  {zinnias scatter}       ║
+    ║                     |                          ║
+    ║  FOCAL POINT:       |  FOCAL POINT:            ║
+    ║  [BIRDBATH elevated]|  [JAPANESE MAPLE]        ║
+    ║  Lavender  Lavender |                          ║
+    ║                     |  Rosemary                ║
+    ║  FRONT (6-12"):     |  FRONT:                  ║
+    ║  [Sedum] [Thyme]    |  [Sedum] [Thyme]         ║
+    ║  {nasturtium spill} |  {nasturtium spill}      ║
+    ║  {sweet alyssum}    |  {sweet alyssum}         ║
+    ╚═══╤═══════════════╤═══╤══════════════════╤════╝
+        │   WALKWAY     │   │    WALKWAY       │
+        │   (curved)    │STEPS│   (curved)     │
+        └───────────────┘   └──────────────────┘
+                    FRONT LAWN
+```
+
+**Right bed (Japanese maple side):**
+- Japanese maple = existing focal point near the walkway curve
+- Rosemary planted near the steps as an evergreen anchor
+- Back layer against brick: Echinacea, Penstemon, Black-Eyed Susan, Bee Balm
+- Middle layer: Salvia, Hyssop, Yarrow, Blazing Star, Aster, zinnias in gaps
+- Front edge along walkway: Sedum, creeping thyme, nasturtium trailing over edge, sweet alyssum
+
+**Left bed (birdbath side):**
+- Birdbath elevated as focal point, flanked by 2 lavender plants
+- Rosemary at the house corner (where the big privet was) for year-round screening
+- Back layer against brick: Black-Eyed Susan, Penstemon, Windwalker Red Sage
+- Middle layer: Salvia, Hyssop, Blazing Star, Aster, Sage, zinnias in gaps
+- Front edge along walkway: Sedum, creeping thyme, nasturtium spilling over, sweet alyssum
+
+### Complete Plant List
+
+#### BUY — Live Plants (instant structure, year 1 impact)
+
+| Plant | Qty | Est. cost | Layer | Why it works here |
+|-------|-----|-----------|-------|-------------------|
+| Rosemary (gallon) | 2 | $12-20 | Anchor, both beds | Heat-proof, year-round evergreen, fragrant, medicinal, pollinators love the flowers |
+| Lavender — Hidcote or Munstead (gallon) | 2 | $12-20 | Anchor, flanking birdbath | Silver-green year-round structure, drought-proof, pollinators |
+| Echinacea / Purple Coneflower (gallon or quart) | 3 | $15-25 | Back | NC native, heat-tough, self-seeds, immune-boost tea |
+| Black-Eyed Susan (gallon or quart) | 3 | $12-20 | Back | NC native, unkillable in heat, golden blooms June-Oct |
+| Red Riding Hood Penstemon (quart) | 2 | $12-18 | Back | NC native, tubular red flowers, hummingbirds, LOVES west-wall heat |
+| May Night Salvia (quart) | 2 | $12-18 | Middle | Deep purple repeat bloomer, loves hot dry conditions |
+| Mango Tango Hyssop (quart) | 2 | $12-18 | Middle | Coral-orange, heat-loving, pollinator magnet |
+| Aromatic Aster (quart) | 2 | $10-16 | Middle | Fall bloomer — keeps beds alive Sept-Nov when everything else fades |
+| Prairie Blazing Star (quart) | 2 | $10-16 | Middle | Purple vertical spikes, dramatic, loves hot and dry |
+| Windwalker Royal Red Sage (quart) | 1 | $6-10 | Back, left bed | Deep red, heat-adapted, hummingbirds |
+| Wild Scarlet Bee Balm (quart) | 1 | $6-10 | Back, right bed | Native, dramatic red, hummingbird magnet |
+| Creeping Thyme starts (*T. serpyllum*) | 4-6 | $12-20 | Front edge | Living mulch, aromatic when stepped near, bee forage |
+| Sedum — Dragon's Blood or similar | 3-4 | $10-15 | Front edge | Evergreen, handles worst heat/drought, fall flowers |
+
+**Where to buy:** Local NC garden centers (Logan's, Homewood, Garden Supply Co.), Home Depot/Lowe's for common varieties. American Meadows or Prairie Moon Nursery online for penstemon, hyssop, blazing star if local doesn't stock them.
+
+#### FROM SEED COLLECTION (already own — fills year 1, dominates by year 2-3)
+
+| Plant | Variety | Layer | Notes |
+|-------|---------|-------|-------|
+| Yarrow | Summer Berries | Middle | Direct sow after last frost. Flat-topped flowers beneficial insects need |
+| Sage | Kitchen/Perennial | Middle | Direct sow or start indoors. Silver foliage + purple flower spikes |
+| Hyssop | -- | Middle | Direct sow. Pollinator magnet, medicinal |
+| Zinnias | California Giant + Tequila Lime | Gap filler | Scatter in open spaces between perennials. Nonstop color, self-seed |
+| Nasturtium | Alaska Mix + Empress of India | Front edge | Direct sow after frost. Empress of India's dark red plays off the maple |
+| Black-Eyed Susan | -- | Back supplement | Direct sow for year 2+ density behind the bought plants |
+
+#### BUY — Seeds (not in collection)
+
+| Plant | Est. cost | Layer | Notes |
+|-------|-----------|-------|-------|
+| Sweet Alyssum | $3-5 | Front edge | Fragrant, low, honey bees love it, softens the walkway edge |
+
+### Shopping List
+
+| Item | Where | Est. cost |
+|------|-------|-----------|
+| Live plants (see list above, ~25-30 plants) | Local garden centers / online | $130-210 |
+| Sweet Alyssum seed packet | Any garden center | $3-5 |
+| Compost (4-6 bags for both beds) | Home Depot | $20-30 |
+| Fresh hardwood mulch (enough for both beds, 3" depth) | Home Depot or bulk delivery | $30-50 |
+| Stump grinder rental (if privet stumps too big to pull) | Home Depot / equipment rental | $0-150 |
+| **Total (not counting stump grinder)** | | **~$185-295** |
+
+### Note on American Meadows Orders
+
+The American Meadows live plants were purchased as **5 pre-designed collections** (Prairie Habitat, Fireflies Forever, Butterfly & Hummingbird, Pollinator Meadow, Ecoregion Native). These kits are designed to work together as ecosystems and should stay intact in their planned destinations (Wayward Meadow, The Gloam, Edgeworth Corner). **No American Meadows plants are diverted to the front beds.** Everything here is bought fresh or grown from existing seed inventory.
+
+### Action Plan — Twin Beds
+
+**Phase 1: Demolition (full day, hard work)**
+
+1. Cut ALL shrubs to stumps — Indian hawthorn, common myrtle, china rose, ALL Japanese privets (the big one at the house corner and every smaller one)
+2. Use loppers, pruning saw, or reciprocating saw. The big privet will need a saw
+3. Bag or haul away cut branches
+4. Dig around each stump. Expect 12-24" root balls depending on size. The big privet will be the worst
+5. Pry out with digging bar, mattock, or truck+chain
+6. **Japanese privet roots:** Be thorough. Any root fragments left can resprout. These are invasive for a reason
+7. Rake out ALL old mulch — it's decomposed and spent
+8. Check for any privet seedlings in the beds or nearby lawn and pull those too
+9. Leave the Japanese maple COMPLETELY untouched. Don't damage roots, don't compact soil in its root zone
+10. Elevate the birdbath — clean it, set it on a pedestal or stack of flat stones in the left bed center
+
+**Phase 2: Soil Prep (2-3 hours)**
+
+1. The soil has been under generic shrubs and decomposing mulch for years. It's compacted clay
+2. Amend both beds with 2-3 bags of compost each (4-6 total), worked into the top 8-10"
+3. Don't over-amend near the Japanese maple — it's established and happy in the existing soil. Just amend the areas where you're planting new things
+4. Rake level
+5. Don't fertilize at planting — let roots establish 3-4 weeks first
+
+**Phase 3: Plant the Structural Anchors (2-3 hours)**
+
+Plant the bought gallon/quart plants first — these give you instant bones:
+
+1. **Both beds — back layer (against brick, below windows):** Space echinacea, black-eyed susan, penstemon, bee balm/red sage 18-24" apart. Plant 6-8" from the brick wall (leave air gap for heat)
+2. **Both beds — middle layer:** Space salvia, hyssop, blazing star, aster 12-18" apart between the back layer and the focal points
+3. **Right bed — near steps:** Plant 1 rosemary as an evergreen anchor
+4. **Left bed — house corner (where big privet was):** Plant 1 rosemary for year-round presence and screening
+5. **Left bed — flanking birdbath:** Plant 2 lavender (one on each side)
+6. **Both beds — front edge:** Plant sedum and creeping thyme starts along the walkway, 8-12" apart
+7. Water everything deeply after planting
+
+**Phase 4: Seed the Gaps (30-45 min)**
+
+After the live plants are in, scatter seeds in the open spaces:
+
+1. **Middle layer gaps:** Scatter yarrow, sage, and hyssop seed between the live plants
+2. **Throughout both beds:** Scatter zinnia seed (California Giant + Tequila Lime) in every open space
+3. **Front edge along walkway:** Scatter nasturtium (Empress of India for the dark red near the maple, Alaska Mix elsewhere) and sweet alyssum
+4. **Open ground between plants:** Scatter additional creeping thyme seed to fill between the starts
+5. Press all seeds into soil surface, water gently. Most are surface or shallow sowers
+
+**Phase 5: Mulch (1 hour)**
+
+1. Mulch 3-4" between all plants with fresh shredded hardwood
+2. Keep mulch 1-2" away from plant stems and the brick wall
+3. Don't mulch over seeded areas until seedlings emerge — mark where you seeded
+4. The creeping thyme and sedum will eventually replace the mulch as living ground cover
+
+**Phase 6: Ongoing Care**
+
+- **First month:** Water deeply 2-3x/week while plants establish. Morning watering ONLY — evening water + brick heat = fungal problems
+- **After establishment:** Water only during dry spells. Everything here is drought-tolerant once rooted in
+- **Mid-summer wilt:** Expect some drooping on the hottest July/August afternoons. This is normal — the plants are conserving water. They'll perk back up by evening. Don't panic-water
+- **Deadheading:** Optional. Deadhead zinnias and salvia for more blooms, or let them seed for next year. Your call
+- **Fall:** Let everything go to seed. The asters and aromatic aster will be blooming when everything else is done. Don't cut back until late winter
+- **Late winter:** Cut back dead perennial stems to 4-6" in February. New growth comes from the base
+- **Year 2:** Perennials double in size. Self-seeded zinnias, nasturtium, and alyssum fill the gaps. Creeping thyme spreads to cover bare ground
+- **Year 3+:** The beds are mostly self-sustaining. Scatter fresh annual seed if you want more color. Divide perennials if they get too crowded. The whole thing looks like it planted itself
+
+### Seasonal Interest
+
+| Season | What's Happening |
+|--------|-----------------|
+| **Early Spring (March-April)** | Rosemary and lavender hold evergreen structure. Sedum greening up. New perennial growth emerging. Japanese maple leafing out |
+| **Late Spring (May-June)** | Salvia blooms first (purple spikes). Echinacea buds forming. Penstemon starts its red tubular flowers. Hummingbirds arrive. Zinnias and nasturtium germinating from seed |
+| **Peak Summer (July-August)** | FULL SHOW. Echinacea, black-eyed susan, hyssop, bee balm, blazing star all blooming. Zinnias filling every gap with color. Butterflies and bees everywhere. Japanese maple in full red |
+| **Fall (Sept-Nov)** | Aromatic aster takes over — purple-blue blooms when everything else fades. Sedum flowers. Sage may rebloom. Goldenrod along the street adds to the feel. Japanese maple goes brilliant red |
+| **Winter (Dec-Feb)** | Rosemary and lavender hold silver-green structure. Sedum stays. Japanese maple bare but architectural. Dried seed heads on echinacea and black-eyed susan feed birds. Beds rest |
+
+### Cautions
+
+- **Brick wall heat:** The light-colored brick radiates stored heat back at plants all evening. Plant 6-8" from the wall, not right against it. Mulch heavily between plants and wall
+- **Morning shade + afternoon blast:** This is NOT the same as "full sun." Some full-sun plants that need gentle morning warmup will fry here. Every plant on this list is specifically chosen for afternoon-heat tolerance
+- **Japanese maple root zone:** Don't dig, amend, or compact soil within 3 ft of the maple trunk. Its roots are shallow. Plant around it, not under it
+- **Privet resprouts:** Watch for Japanese privet seedlings for the next 2-3 years. Birds already spread the seeds. Pull any you see immediately
+- **Creeping thyme between pavers/walkway:** It WILL try to spread into walkway cracks. This is a feature, not a bug — it's fragrant when stepped on. But if you hate it in the cracks, edge regularly
+- **Bee balm spreading:** Bee balm spreads by runners. In a foundation bed this size it's manageable, but keep an eye on it. Pull runners that go where you don't want them
 
 ### Mailbox Garden (Pollinator Cottage Garden)
 
