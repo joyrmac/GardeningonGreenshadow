@@ -1,6 +1,6 @@
 # Garden Status
 
-**Last Updated:** March 24, 2026
+**Last Updated:** April 5, 2026
 
 ---
 
@@ -40,6 +40,41 @@
 - **Location:** Wildwood Rhubarb Bed (west side, under crepe myrtles)
 - **Notes:** Both varieties planted and ready to establish. No harvest year 1.
 
+### Strawberry Beds ✓
+- **Status:** Planted
+- **Date planted:** Apr 5, 2026
+- **What's in it:**
+  - 50 strawberry plants (Albion, Chandler, Seascape)
+- **Location:** Wildwood strawberry beds
+- **Notes:** All roots planted. Earlier than originally planned (April 15-20) but in the ground!
+
+### Raspberry Patch (Black Raspberries) ✓
+- **Status:** Planted
+- **Date planted:** Apr 5, 2026
+- **What's in it:**
+  - 3 Jewel Black Raspberry plants (added to existing patch)
+- **Location:** Back bed with existing red raspberries (north fence line)
+
+### Blueberry Barrels ✓
+- **Status:** Moved to barrels
+- **Date done:** Apr 5, 2026
+- **Work done:** Blueberries relocated into barrels
+- **Notes:** Now in dedicated containers for better acidic soil control
+
+### Fernwood — Bleeding Heart ✓
+- **Status:** Planted
+- **Date planted:** Apr 5, 2026
+- **What's in it:**
+  - Bleeding heart
+- **Location:** Fernwood shade garden
+
+### Citronella Plants ✓
+- **Status:** Planted
+- **Date planted:** Apr 5, 2026
+- **What's in it:**
+  - 2 citronella plants (one on each side of lemon balm)
+- **Notes:** Flanking the lemon balm — great mosquito-repelling combo
+
 ---
 
 ## In Progress
@@ -65,33 +100,23 @@
 
 ## Coming Soon / Incoming Orders 📦
 
-### Strawberry Plants (AmericanBerryStore)
+### ~~Strawberry Plants (AmericanBerryStore)~~ ✅ RECEIVED & PLANTED Apr 5
 - **Order #:** 4006264084
-- **Status:** In transit (USPS)
-- **Tracking:** 9434609206094587428510
-- **Estimated Arrival:** Mar 25-30, 2026
-- **What's coming:**
+- **Status:** ✅ Planted Apr 5, 2026
+- **What was planted:**
   - 15 Albion Strawberry Plants (June-bearing, sweet, large berries)
   - 10 Chandler Strawberry Plants (June-bearing, firm, storage-friendly)
   - 25 Seascape Strawberry Plants (everbearing, continuous harvest)
   - **Total: 50 plants**
 - **Cost:** $69.71
-- **Planting plan:**
-  - **Strawberry Patch Bed 1 (Wildwood):** 15 Albion + 10 Chandler = 25 plants (4x4 bed, June-July peak)
-  - **Strawberry Patch Bed 2 (Wildwood):** 25 Seascape = 25 plants (4x4 bed, everbearing spring-fall)
-- **Planting date:** April 15-20, 2026 (wait for soil temp, avoid frost)
-- **Spacing:** 12-18" apart per plant
 
-### Black Raspberry Plants (flowersandberriesUS)
+### ~~Black Raspberry Plants (flowersandberriesUS)~~ ✅ RECEIVED & PLANTED Apr 5
 - **Order #:** 4008854145
-- **Status:** Order confirmed
-- **Estimated Arrival:** Mar 31, 2026
-- **What's coming:**
+- **Status:** ✅ Planted Apr 5, 2026
+- **What was planted:**
   - 3 Jewel Black Raspberry Plants (1-year-old plugs, Zones 4-8, early June ripening)
 - **Cost:** $37.47
-- **Planting plan:** Back bed with existing red raspberries (north fence line, interspersed)
-- **Planting date:** Early April 2026 (after frost danger passes)
-- **Spacing:** 3-4 ft apart, alternating with Red Latham raspberries
+- **Location:** Back bed with existing red raspberries (north fence line)
 
 ### Plant Delights Specialty Order (Plant Delights Nursery)
 - **Order #:** 181763
