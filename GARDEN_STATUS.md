@@ -1,6 +1,6 @@
 # Garden Status
 
-**Last Updated:** April 5, 2026
+**Last Updated:** April 6, 2026
 
 ---
 
@@ -61,12 +61,25 @@
 - **Work done:** Blueberries relocated into barrels
 - **Notes:** Now in dedicated containers for better acidic soil control
 
-### Fernwood — Bleeding Heart ✓
-- **Status:** Planted
-- **Date planted:** Apr 5, 2026
+### Fernwood Shade Garden ✓
+- **Status:** Major planting done
+- **Date planted:** Apr 5-6, 2026
+- **Source:** Logan's Garden Hut, Fuquay
 - **What's in it:**
-  - Bleeding heart
-- **Location:** Fernwood shade garden
+  - Bleeding heart (planted Apr 5)
+  - Autumn fern
+  - Tassel fern (left side of log, near bench, in front of redbud)
+  - Maidenhair fern
+  - 2 Christmas ferns (framing entrance)
+  - 2 Wood ferns (right side of log, along back near brick)
+  - Soft shield fern
+  - Parsley leopard plant (centered in back, right side)
+  - Foam flower (left side, closer to log)
+  - White bleeding heart (near entrance and ferns, right side)
+  - Eastern red columbine (near tassel fern, in front of log)
+  - Hypericum calycinum / St. John's wort (groundcover in front of log)
+- **Soil work:** Worm castings applied throughout — ground was unworked for years
+- **Notes:** Existing features: walnut tree growing through oakleaf hydrangea behind log, dying mimosa left of bench (future replacement tree), eastern redbud growing in front of bench/log. Lily-of-the-valley in front of log (planted 3/8). Bluebells established in center.
 
 ### Citronella Plants ✓
 - **Status:** Planted
@@ -80,7 +93,7 @@
 ## In Progress
 
 ### Bloomveil Bed 🔄
-- **Status:** Weeding & mulching in progress
+- **Status:** Weeding & mulching in progress; new perennials planted Apr 6
 - **Date started:** Mar 23, 2026
 - **Already growing there (perennials/volunteers):**
   - Catnip
@@ -88,6 +101,10 @@
   - Hosta (planted in back)
   - Bee balm
   - Borage (self-seeded, 2 small sprouts emerging) — **leave these alone!**
+- **New plants added Apr 6 (from Logan's Garden Hut, Fuquay):**
+  - Mouse ear tickseed (Coreopsis auriculata 'Nana') — low edging
+  - False indigo (dark blue, Baptisia) — tall, back of bed
+  - Jeana garden phlox — tall, pollinator magnet
 - **Work completed:**
   - Weeding (started)
   - Old mulch removed & moved to walkways

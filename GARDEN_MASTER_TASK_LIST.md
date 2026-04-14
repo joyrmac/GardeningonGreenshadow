@@ -1,6 +1,6 @@
 # 🌿 Garden Master Task List 2026
 
-**Last Updated:** April 5, 2026
+**Last Updated:** April 6, 2026
 **How to use:** Check off boxes as you complete tasks. Commit your progress to git.
 
 ---
@@ -34,19 +34,22 @@
 ---
 
 ## FERNWOOD (Shade Garden)
-**Status:** Planting in progress
+**Status:** Major planting done Apr 5-6
 
-- [ ] Pull weeds throughout area
 - [x] Plant bleeding heart (Done Apr 5)
+- [x] Plant ferns — autumn, tassel, maidenhair, 2 Christmas, 2 wood, soft shield (Done Apr 6)
+- [x] Plant parsley leopard plant, foam flower, white bleeding heart, eastern red columbine (Done Apr 6)
+- [x] Plant hypericum calycinum / St. John's wort groundcover in front of log (Done Apr 6)
+- [x] Apply worm castings throughout (Done Apr 6)
+- [ ] Pull weeds throughout area
 - [ ] Clean up & mulch ginkgo base (mix old leaves + broken wood chips, 2-3")
   - Hellebores planted 3-4 feet from trunk
   - Keep mulch pulled back 3-4" from hellebore crowns
-- [ ] Amend soil with shade-loving amendments (astilbe, Solomon's Seal, Tiarella, woodland phlox)
 - [ ] Plant hellebores (arriving late April)
-- [ ] Plant shade ferns & hostas (Late April/May)
-- [ ] Bench seating area (already in place)
+- [ ] Plant hostas (Late April/May)
 - [ ] Watch for spring ephemerals (enjoy native wildflowers!)
 - [ ] Test soil pH for shade plants
+- [ ] Plan mimosa tree replacement (left of bench, once mimosa is removed)
 
 ---
 
@@ -281,6 +284,8 @@
 
 ## COMPLETED TASKS ✅
 
+- [x] Plant Fernwood shade garden — 12 plants from Logan's + worm castings (Apr 5-6)
+- [x] Plant mouse ear tickseed, false indigo, Jeana garden phlox in Bloomveil (Apr 6)
 - [x] Plant 50 strawberry plants — Albion, Chandler, Seascape (Apr 5)
 - [x] Plant 3 Jewel black raspberries in raspberry patch (Apr 5)
 - [x] Move blueberries to barrels (Apr 5)
