@@ -737,12 +737,13 @@ Generic builder-grade foundation shrubs from the previous owner:
 
 | Item | Where | Est. cost |
 |------|-------|-----------|
-| Live plants (see list above, ~25-30 plants) | Local garden centers / online | $130-210 |
+| Twin Beds live plants (see list above, ~25-30 plants) | Local garden centers / online | $130-210 |
+| Garage side shrubs (inkberry + beautyberry, 3-5 plants) | Local nursery | $75-140 |
 | Sweet Alyssum seed packet | Any garden center | $3-5 |
-| Compost (4-6 bags for both beds) | Home Depot | $20-30 |
-| Fresh hardwood mulch (enough for both beds, 3" depth) | Home Depot or bulk delivery | $30-50 |
+| Compost (6-8 bags for all three beds) | Home Depot | $30-40 |
+| Fresh hardwood mulch (all beds, 3" depth) | Home Depot or bulk delivery | $40-60 |
 | Stump grinder rental (if privet stumps too big to pull) | Home Depot / equipment rental | $0-150 |
-| **Total (not counting stump grinder)** | | **~$185-295** |
+| **Total (not counting stump grinder)** | | **~$280-455** |
 
 ### Note on American Meadows Orders
 
@@ -752,16 +753,17 @@ The American Meadows live plants were purchased as **5 pre-designed collections*
 
 **Phase 1: Demolition (full day, hard work)**
 
-1. Cut ALL shrubs to stumps — Indian hawthorn, common myrtle, china rose, ALL Japanese privets (the big one at the house corner and every smaller one)
-2. Use loppers, pruning saw, or reciprocating saw. The big privet will need a saw
+1. Cut ALL shrubs to stumps — Indian hawthorn, common myrtle, china rose, ALL Japanese privets (Twin Beds AND garage side — every single one)
+2. Use loppers, pruning saw, or reciprocating saw. The big privets (especially along the garage) will need a saw
 3. Bag or haul away cut branches
-4. Dig around each stump. Expect 12-24" root balls depending on size. The big privet will be the worst
+4. Dig around each stump. Expect 12-24" root balls depending on size. The garage-side privets will be the worst — they're the biggest and most established
 5. Pry out with digging bar, mattock, or truck+chain
 6. **Japanese privet roots:** Be thorough. Any root fragments left can resprout. These are invasive for a reason
 7. Rake out ALL old mulch — it's decomposed and spent
 8. Check for any privet seedlings in the beds or nearby lawn and pull those too
 9. Leave the Japanese maple COMPLETELY untouched. Don't damage roots, don't compact soil in its root zone
-10. Elevate the birdbath — clean it, set it on a pedestal or stack of flat stones in the left bed center
+10. Leave the crape myrtle COMPLETELY untouched (garage side center). It's staying as a height accent
+11. Elevate the birdbath — clean it, set it on a pedestal or stack of flat stones in the left bed center
 
 **Phase 2: Soil Prep (2-3 hours)**
 
@@ -829,6 +831,59 @@ After the live plants are in, scatter seeds in the open spaces:
 - **Privet resprouts:** Watch for Japanese privet seedlings for the next 2-3 years. Birds already spread the seeds. Pull any you see immediately
 - **Creeping thyme between pavers/walkway:** It WILL try to spread into walkway cracks. This is a feature, not a bug — it's fragrant when stepped on. But if you hate it in the cracks, edge regularly
 - **Bee balm spreading:** Bee balm spreads by runners. In a foundation bed this size it's manageable, but keep an eye on it. Pull runners that go where you don't want them
+
+### Garage Side (Driveway Foundation Bed)
+
+> Continuation of the Twin Beds — same project, same vibe, taller screening shrubs replacing the invasive privets along the garage wall.
+
+**Location:** West-facing foundation bed running from the front steps along the house toward the driveway/garage. Same brick wall, same afternoon oven microclimate as the Twin Beds.
+
+**What's there now:** 4-5 large Japanese privet shrubs (4-5 ft, dense rounded mounds) and a crape myrtle in the middle (bare/topped hard, but alive and leafing out).
+
+**Ripping out:** All Japanese privets. Same invasive problem as the front beds — they're seeding across the yard.
+
+**Keeping:** Crape myrtle (stays as the height accent in the center).
+
+**What replaces them:**
+
+This section needs taller plants than the Twin Beds (4-6 ft) to fill the foundation space under the upper story windows and provide screening along the driveway.
+
+| Plant | Qty | Height | Type | Why |
+|-------|-----|--------|------|-----|
+| **Inkberry Holly** (*Ilex glabra*) | 2-3 | 4-6 ft | NC native, **evergreen** | Closest native replacement for what the privets were doing — dense, green year-round, great screening. Looks like boxwood but not invasive. HOA-proof |
+| **American Beautyberry** (*Callicarpa americana*) | 1-2 | 4-6 ft | NC native, deciduous | Stunning magenta-purple berry clusters in fall/winter. Birds go crazy. Arching branches, dramatic seasonal interest |
+
+**Layout:**
+
+```
+    HOUSE (brick wall, upper windows)
+    ╔════════════════════════════════════════╗
+    ║                                        ║
+    ║  [Inkberry]  [Beautyberry]  [CRAPE     ║
+    ║              [Inkberry]      MYRTLE]   ║
+    ║                             [Beautyberry]║
+    ║                             [Inkberry]  ║
+    ║                                        ║
+    ╚════════════════════════════════════════╝
+              DRIVEWAY / GARAGE
+```
+
+- Inkberry holly goes where you need year-round evergreen screening (closest to the driveway edge and between the crape myrtle and the Twin Beds)
+- Beautyberry goes where seasonal drama is more important than winter screening — between the inkberries, where the arching branches and purple berries catch your eye walking up the driveway
+- Crape myrtle stays in the center, provides the tallest height accent when leafed out
+- Underplant with the same front-edge plants from the Twin Beds (creeping thyme, sedum) along the driveway curb for continuity
+
+**Garage Side — Additional Shopping:**
+
+| Plant | Qty | Est. cost | Where |
+|-------|-----|-----------|-------|
+| Inkberry Holly (3 gallon) | 2-3 | $50-90 | Local nursery (Logan's, Homewood) |
+| American Beautyberry (3 gallon) | 1-2 | $25-50 | Local nursery or NC native plant sales |
+| **Subtotal** | | **$75-140** |
+
+**Demolition:** Same process as the Twin Beds — cut privets to stumps, dig out root balls, remove old mulch, amend with compost. The big privets along the garage will be the hardest to remove on the whole property — they've been here a long time and the root systems will be extensive. Budget extra time and consider the stump grinder for these.
+
+---
 
 ### Mailbox Garden (Pollinator Cottage Garden)
 
