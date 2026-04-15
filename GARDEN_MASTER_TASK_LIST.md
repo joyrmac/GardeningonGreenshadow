@@ -154,6 +154,13 @@
 - [ ] Water consistently (melons need moisture)
 - [ ] Monitor for harvest (Summer/Early Fall)
 
+### Blueberry Barrels (3)
+- [x] Move blueberries to barrels (Done Apr 5)
+- [ ] Add acidic soil amendments (April)
+- [ ] Mulch with pine needles (April) — excellent for blueberries!
+- [ ] Monitor blooms (Spring)
+- [ ] Watch for fruit set (Early summer)
+
 ---
 
 ## WAYWARD MEADOW (Prairie Wildflower Meadow - Back)
@@ -201,14 +208,18 @@
 
 ---
 
-## SMALL GARDENS & CONTAINERS (Compact Growing Areas)
+## THE PORCH (Porch Planters, Bird Feeder Garden, Bay Leaf Tree)
+**Status:** Maintaining
 
-### Blueberry Barrels (3)
-- [x] Move blueberries to barrels (Done Apr 5)
-- [ ] Add acidic soil amendments (April)
-- [ ] Mulch with pine needles (April) — excellent for blueberries!
-- [ ] Monitor blooms (Spring)
-- [ ] Watch for fruit set (Early summer)
+### Porch Planters
+- [ ] Pot 1: Ivy + Autumn Joy Sedum (existing — maintain)
+- [ ] Pot 2: Creeping Jenny (split & propagate to other locations — love this plant!)
+  - Consider trailing in Swingnook fern area OR hanging baskets
+  - Propagate cuttings to spread throughout garden (April/May)
+- [ ] Pots 3-4: Prepare for seasonal flowers (May)
+- [ ] Set watering schedule (containers dry fast!)
+- [ ] Rotate plants seasonally (each season)
+- [ ] Enjoy daily! (all season)
 
 ### Bird Feeder Garden
 - [ ] Prep bed (April)
@@ -220,16 +231,6 @@
 - [ ] Ensure adequate sunlight (April)
 - [ ] Water as needed (ongoing)
 - [ ] Harvest bay leaves for cooking (Summer+)
-
-### Porch Planters
-- [ ] Pot 1: Ivy + Autumn Joy Sedum (existing — maintain)
-- [ ] Pot 2: Creeping Jenny (split & propagate to other locations — love this plant!)
-  - Consider trailing in Swingnook fern area OR hanging baskets
-  - Propagate cuttings to spread throughout garden (April/May)
-- [ ] Pots 3-4: Prepare for seasonal flowers (May)
-- [ ] Set watering schedule (containers dry fast!)
-- [ ] Rotate plants seasonally (each season)
-- [ ] Enjoy daily! (all season)
 
 ---
 

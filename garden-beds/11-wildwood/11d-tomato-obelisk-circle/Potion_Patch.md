@@ -200,9 +200,9 @@ See [Potion_Patch_Accessories_Guide.md](Potion_Patch_Accessories_Guide.md) for p
 
 ---
 
-## Future Additions — Great Options to Add Anytime
+## Future Additions — Great Herbs to Add Anytime
 
-These herbs were recommended for Joy's health needs but aren't essential for the initial Potion Patch. Add any of them whenever you want — in the Potion Patch, in pots, or anywhere in the yard that fits their needs.
+These herbs were recommended for Joy's health needs but aren't required for the Potion Patch to work. Add any of them whenever you want — to the Potion Patch, The Porch in pots, or anywhere in the yard that fits.
 
 ### Iron & Gut Healing
 | Plant | What it does | How to grow | Notes |
