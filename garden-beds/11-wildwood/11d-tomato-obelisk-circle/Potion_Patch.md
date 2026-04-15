@@ -82,6 +82,10 @@
 - **Fenugreek** (10-12) — PCOS support (improves insulin sensitivity), daily tea plant, seed harvest August. Direct sow late May
 - **French Marigold** (8-10) — Companion pest deterrent. Direct sow late May
 
+### POTTED — Outside the Circle (Aggressive Spreaders)
+- **Bee Balm** (1) — Antiseptic, sore throat tea, pollinator magnet. **Keep in pot to prevent spreading.** Source: transplant from Honeyglow Patch
+- **Stinging Nettle** (noted above) — Also best in a buried pot or container to prevent takeover
+
 ### REMOVED (Medication Interactions)
 - ~~**Valerian**~~ — Increases CNS depression with Escitalopram. Grow as ornamental only if desired.
 - ~~**St. John's Wort**~~ — Serotonin syndrome risk with Escitalopram. Already planted in Fernwood as ornamental/pollinator plant — do NOT use medicinally.
