@@ -70,9 +70,9 @@
 
 ### MIDDLE RING (Ring 2) — Structural Plants (18-36")
 - **Skullcap** (2-3) — SSRI-safe anxiety herb, works on GABA (not serotonin). Safe with Escitalopram. Source: from seed (SeedTherapy kit)
-- **Anise Hyssop** (4-6) — Respiratory + digestive, spike flowers, pollinator magnet. Source: transplant from existing
+- **Anise Hyssop** (4-6) — Respiratory + digestive, spike flowers, pollinator magnet. Source: from seed or buy starts (keep existing plants in herb spiral)
 - **Horehound** (1-2) — Cough support, unique texture, perennial. Source: from seed (sprouting!)
-- **Yarrow** (4-6) — First aid herb (stops bleeding on cuts), fever reducer, perennial. Source: transplant from existing
+- **Yarrow** (4-6) — First aid herb (stops bleeding on cuts), fever reducer, perennial. Source: from seeds already started (keep existing plants in herb spiral)
 - **Dandelion** (3-4) — Iron-rich greens, liver support (root tea supports transferrin production). Source: from seed
 
 ### OUTER RING (Ring 3) — Abundant Annuals (6-18")
