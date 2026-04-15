@@ -1,6 +1,6 @@
 # 🌿 Garden Master Task List 2026
 
-**Last Updated:** March 24, 2026 (Night Updates)
+**Last Updated:** April 6, 2026
 **How to use:** Check off boxes as you complete tasks. Commit your progress to git.
 
 ---
@@ -34,18 +34,22 @@
 ---
 
 ## FERNWOOD (Shade Garden)
-**Status:** Clearing & prepping
+**Status:** Major planting done Apr 5-6
 
+- [x] Plant bleeding heart (Done Apr 5)
+- [x] Plant ferns — autumn, tassel, maidenhair, 2 Christmas, 2 wood, soft shield (Done Apr 6)
+- [x] Plant parsley leopard plant, foam flower, white bleeding heart, eastern red columbine (Done Apr 6)
+- [x] Plant hypericum calycinum / St. John's wort groundcover in front of log (Done Apr 6)
+- [x] Apply worm castings throughout (Done Apr 6)
 - [ ] Pull weeds throughout area
 - [ ] Clean up & mulch ginkgo base (mix old leaves + broken wood chips, 2-3")
   - Hellebores planted 3-4 feet from trunk
   - Keep mulch pulled back 3-4" from hellebore crowns
-- [ ] Amend soil with shade-loving amendments (astilbe, Solomon's Seal, Tiarella, woodland phlox)
 - [ ] Plant hellebores (arriving late April)
-- [ ] Plant shade ferns & hostas (Late April/May)
-- [ ] Bench seating area (already in place)
+- [ ] Plant hostas (Late April/May)
 - [ ] Watch for spring ephemerals (enjoy native wildflowers!)
 - [ ] Test soil pH for shade plants
+- [ ] Plan mimosa tree replacement (left of bench, once mimosa is removed)
 
 ---
 
@@ -85,9 +89,9 @@
 **Beds:** Strawberry (2), Raspberry patch, Rhubarb patch, Herb spiral, Polyculture, Tomato circle + Potion patch, Three Sisters, Gourdgate (E&W), New bed, Bloomveil flowers, Blueberry barrels (3), Honeyglow Patch (pollinator garden)
 
 ### Strawberry Beds (NEW - 4-5 rows on each side of walkway)
-- [ ] Prep strawberry beds (add compost, level soil)
+- [x] Prep strawberry beds (add compost, level soil)
 - [ ] Create row markers
-- [ ] Plant 50 strawberry plants (April 15-20)
+- [x] Plant 50 strawberry plants (Done Apr 5)
   - Bed 1: 15 Albion + 10 Chandler (June-bearing)
   - Bed 2: 25 Seascape (everbearing)
 - [ ] Mulch with straw (2-3") right after planting (keeps berries off soil, insulates roots)
@@ -97,7 +101,7 @@
 ### Raspberry Patch
 - [x] Mulch existing raspberries (Done Mar 23)
 - [ ] Pull weeds & add more mulch (ongoing through season)
-- [ ] Plant 3 Jewel black raspberries (Early April)
+- [x] Plant 3 Jewel black raspberries (Done Apr 5)
 - [ ] Install posts + wire support system (April) — holds canes upright
 - [ ] Monitor for new canes (Spring)
 - [ ] Mark harvest areas (May)
@@ -200,7 +204,7 @@
 ## SMALL GARDENS & CONTAINERS (Compact Growing Areas)
 
 ### Blueberry Barrels (3)
-- [ ] Check existing plants (April)
+- [x] Move blueberries to barrels (Done Apr 5)
 - [ ] Add acidic soil amendments (April)
 - [ ] Mulch with pine needles (April) — excellent for blueberries!
 - [ ] Monitor blooms (Spring)
@@ -232,9 +236,9 @@
 ## INVENTORY & PLANNING PROJECTS
 **Status:** Active
 
-- [ ] Track strawberry plants arrival (Due: Mar 25-30)
+- [x] Track strawberry plants arrival — RECEIVED & PLANTED Apr 5
   - Order #4006264084 — 50 plants from AmericanBerryStore
-- [ ] Track black raspberry plants arrival (Due: Mar 31)
+- [x] Track black raspberry plants arrival — RECEIVED & PLANTED Apr 5
   - Order #4008854145 — 3 Jewel plants from flowersandberriesUS
 - [ ] Track Plant Delights order arrival (Due: Mid-late April)
   - Order #181763 — Hellebores, Edgeworthia
@@ -280,6 +284,13 @@
 
 ## COMPLETED TASKS ✅
 
+- [x] Plant Fernwood shade garden — 12 plants from Logan's + worm castings (Apr 5-6)
+- [x] Plant mouse ear tickseed, false indigo, Jeana garden phlox in Bloomveil (Apr 6)
+- [x] Plant 50 strawberry plants — Albion, Chandler, Seascape (Apr 5)
+- [x] Plant 3 Jewel black raspberries in raspberry patch (Apr 5)
+- [x] Move blueberries to barrels (Apr 5)
+- [x] Plant bleeding heart in Fernwood (Apr 5)
+- [x] Plant 2 citronella plants flanking lemon balm (Apr 5)
 - [x] Clean up & remulch borage sprouts in Bloomveil (Mar 24)
 - [x] Install dry creek pathway in Edgeworth Corner (Done)
 - [x] Plant seeds in Polyculture bed (Mar 24)

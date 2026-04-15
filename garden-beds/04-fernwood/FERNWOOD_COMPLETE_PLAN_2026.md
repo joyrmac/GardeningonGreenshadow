@@ -199,4 +199,32 @@ Seating in the center lets you experience the quiet, cool, textured space. This 
 
 ---
 
-*Plan created March 24, 2026. Update as plants establish and seasons change.*
+---
+
+## Planted April 5-6, 2026 (Logan's Garden Hut, Fuquay)
+
+All plants placed with worm castings applied throughout (soil previously unworked).
+
+| Plant | Location | Notes |
+|-------|----------|-------|
+| Bleeding heart (original) | Right end, near fence corner | Planted Apr 5 |
+| Tassel fern | Left side of log, near bench, in front of redbud | Visible from bench |
+| Eastern red columbine | Near tassel fern, in front of log | Hummingbird magnet |
+| 2 Christmas ferns | Framing the entrance to Fernwood | Evergreen year-round |
+| 2 Wood ferns | Right side of log, along back near brick wall | Juglone-tolerant, near walnut |
+| Autumn fern | Middle of right side, in dappled light | Bronze new fronds |
+| Maidenhair fern | Front of log, right end | Delicate fronds |
+| Soft shield fern | 2-3 ft right of maidenhair | Soft arching fronds, near bleeding heart |
+| Parsley leopard plant | Centered in back, right side | Bold glossy leaves, away from walnut |
+| Foam flower | Left side, closer to log | Low spreader, spring blooms |
+| White bleeding heart | Near entrance, right side, near ferns | Pink flowers despite the name! |
+| Hypericum calycinum (St. John's wort) | Groundcover in front of log | Will spread as groundcover |
+
+### Key landmarks
+- **Walnut tree** growing through oakleaf hydrangea behind the log (juglone concern — ferns & bleeding hearts are tolerant)
+- **Dying mimosa** left of bench — future replacement tree, area left open
+- **Eastern redbud** growing in front of bench/log — will add shade as it matures
+- **Lily-of-the-valley** in front of log (planted 3/8/26)
+- **Bluebells** established in center area
+
+*Plan created March 24, 2026. Updated April 6, 2026 with planting day notes.*
