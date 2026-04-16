@@ -122,6 +122,21 @@
 - [ ] Mulch after planting
 - [ ] Monitor for herb vigor (ongoing)
 
+### Alchemist Pond (Frog Sanctuary & Scrying Pool)
+- [ ] Expand current 3ft hole to 6-10ft kidney shape
+- [ ] Dig 3 tiers (6", 12", 24-30" deep)
+- [ ] Lay underlayment + pond liner
+- [ ] Add gravel to shelves, place rim rocks
+- [ ] Build frog shelter (rock pile / log)
+- [ ] Install PVC frog hotels around pond edge
+- [ ] Fill with water, let settle 2-3 days
+- [ ] Install solar aerator (soft bubble mode)
+- [ ] Plant water plants (blue flag iris, dwarf cattail, water mint, duckweed, water lettuce)
+- [ ] Trail creeping jenny cuttings over rim rocks
+- [ ] Add witchy touches (gazing ball, moon stakes, cauldron, fairy lights)
+- [ ] Place threshold stones at entry
+- See: `garden-beds/11-wildwood/alchemist-pond/` for full guides
+
 ### Polyculture Bed
 - [x] Plant seeds & mulch (Done Mar 24)
 - [ ] Monitor growth & thin as needed (April)
