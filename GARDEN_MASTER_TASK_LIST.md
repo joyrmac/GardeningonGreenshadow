@@ -42,10 +42,9 @@
 - [x] Plant hypericum calycinum / St. John's wort groundcover in front of log (Done Apr 6)
 - [x] Apply worm castings throughout (Done Apr 6)
 - [ ] Pull weeds throughout area
-- [ ] Clean up & mulch ginkgo base (mix old leaves + broken wood chips, 2-3")
-  - Hellebores planted 3-4 feet from trunk
+- [x] Plant 6 hellebores under ginkgo tree at Fernwood entrance (Done Apr 2026)
   - Keep mulch pulled back 3-4" from hellebore crowns
-- [ ] Plant hellebores (arriving late April)
+  - See: `garden-beds/04-fernwood/Hellebore_Care_Guide.md`
 - [ ] Plant hostas (Late April/May)
 - [ ] Watch for spring ephemerals (enjoy native wildflowers!)
 - [ ] Test soil pH for shade plants
