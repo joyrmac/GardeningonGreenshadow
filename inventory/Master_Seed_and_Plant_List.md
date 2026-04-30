@@ -360,6 +360,7 @@ Files excluded (no plant/seed inventory data):
 | 178 | Black Cohosh | -- | Etsy | Seed | -- | SML |  |
 | 179 | Josee Reblooming Lilac | -- | Breck's | Live Plant | -- | SML | |
 | 180 | Sensation Lilac | -- | Breck's | Live Plant | -- | SML, LEFT | [MULTI-FILE] |
+| 229 | Bloomerang® Dark Purple Reblooming Lilac | Syringa x | Proven Winners Direct | Live Plant | -- | SML | See reference/plants/Bloomerang_Dark_Purple_Lilac.md |
 | 181 | Cherry Berry Hosta | -- | Breck's | Live Plant | -- | SML, LEFT | [MULTI-FILE] |
 | 182 | Enterprise Hosta | -- | Breck's | Live Plant | -- | LEFT |  |
 | 183 | Tokudama Flavocircinalis Hosta | -- | Breck's | Live Plant | -- | LEFT |  |
@@ -474,10 +475,10 @@ These appear only in the Edgeworth Corner Grid and are landscape/structural plan
 | Climbing Flowers & Vines (seeds) | 6 |
 | Milkweed (seeds) | 7 |
 | Other Individual Flowers (seeds/bulbs) | 20 |
-| Perennials, Shrubs & Trees (live plants/seeds) | 13 |
+| Perennials, Shrubs & Trees (live plants/seeds) | 14 |
 | Edgeworth Landscape Plants (live, assumed) | 4 |
 | Recent Orders Jan-Feb 2026 (live plants, seeds, bare roots) | 39 |
-| **TOTAL UNIQUE ITEMS** | **228** |
+| **TOTAL UNIQUE ITEMS** | **229** |
 
 | Metric | Count |
 |--------|-------|

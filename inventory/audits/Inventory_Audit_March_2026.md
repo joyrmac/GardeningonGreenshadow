@@ -93,6 +93,7 @@ Only Amber Glow is assigned (Spice Drift). The companion-planting marigolds (Gol
 | Tokudama Flavocircinalis Hosta | Fernwood |
 | Cherry Berry Hosta | Fernwood |
 | Sensation Lilac | Needs a permanent spot |
+| Bloomerang® Dark Purple Reblooming Lilac | Newly purchased April 2026, Proven Winners Direct, $39.99 — needs a permanent spot. See reference/plants/Bloomerang_Dark_Purple_Lilac.md |
 
 ### Recent orders (Jan-Feb 2026) — mostly unplaced
 

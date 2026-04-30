@@ -6,6 +6,7 @@ Guides, plant lists, and background information.
 
 - **NC_Native_Recommendations.md** - Native plants for North Carolina
 - **Catnip_Crafts_Guide.md** - Growing and using catnip
+- **plants/Bloomerang_Dark_Purple_Lilac.md** - Proven Winners reblooming lilac (Zone 7b notes, care, placement candidates)
 
 ## Garden Design & Setup
 
