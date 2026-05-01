@@ -42,10 +42,9 @@
 - [x] Plant hypericum calycinum / St. John's wort groundcover in front of log (Done Apr 6)
 - [x] Apply worm castings throughout (Done Apr 6)
 - [ ] Pull weeds throughout area
-- [ ] Clean up & mulch ginkgo base (mix old leaves + broken wood chips, 2-3")
-  - Hellebores planted 3-4 feet from trunk
+- [x] Plant 6 hellebores under ginkgo tree at Fernwood entrance (Done Apr 2026)
   - Keep mulch pulled back 3-4" from hellebore crowns
-- [ ] Plant hellebores (arriving late April)
+  - See: `garden-beds/04-fernwood/Hellebore_Care_Guide.md`
 - [ ] Plant hostas (Late April/May)
 - [ ] Watch for spring ephemerals (enjoy native wildflowers!)
 - [ ] Test soil pH for shade plants
@@ -122,6 +121,21 @@
 - [ ] Mulch after planting
 - [ ] Monitor for herb vigor (ongoing)
 
+### Alchemist Pond (Frog Sanctuary & Scrying Pool)
+- [ ] Expand current 3ft hole to 6-10ft kidney shape
+- [ ] Dig 3 tiers (6", 12", 24-30" deep)
+- [ ] Lay underlayment + pond liner
+- [ ] Add gravel to shelves, place rim rocks
+- [ ] Build frog shelter (rock pile / log)
+- [ ] Install PVC frog hotels around pond edge
+- [ ] Fill with water, let settle 2-3 days
+- [ ] Install solar aerator (soft bubble mode)
+- [ ] Plant water plants (blue flag iris, dwarf cattail, water mint, duckweed, water lettuce)
+- [ ] Trail creeping jenny cuttings over rim rocks
+- [ ] Add witchy touches (gazing ball, moon stakes, cauldron, fairy lights)
+- [ ] Place threshold stones at entry
+- See: `garden-beds/11-wildwood/alchemist-pond/` for full guides
+
 ### Polyculture Bed
 - [x] Plant seeds & mulch (Done Mar 24)
 - [ ] Monitor growth & thin as needed (April)
@@ -153,6 +167,13 @@
 - [ ] Set up trellis for vertical growth (May)
 - [ ] Water consistently (melons need moisture)
 - [ ] Monitor for harvest (Summer/Early Fall)
+
+### Blueberry Barrels (3)
+- [x] Move blueberries to barrels (Done Apr 5)
+- [ ] Add acidic soil amendments (April)
+- [ ] Mulch with pine needles (April) — excellent for blueberries!
+- [ ] Monitor blooms (Spring)
+- [ ] Watch for fruit set (Early summer)
 
 ---
 
@@ -201,14 +222,18 @@
 
 ---
 
-## SMALL GARDENS & CONTAINERS (Compact Growing Areas)
+## THE PORCH (Porch Planters, Bird Feeder Garden, Bay Leaf Tree)
+**Status:** Maintaining
 
-### Blueberry Barrels (3)
-- [x] Move blueberries to barrels (Done Apr 5)
-- [ ] Add acidic soil amendments (April)
-- [ ] Mulch with pine needles (April) — excellent for blueberries!
-- [ ] Monitor blooms (Spring)
-- [ ] Watch for fruit set (Early summer)
+### Porch Planters
+- [ ] Pot 1: Ivy + Autumn Joy Sedum (existing — maintain)
+- [ ] Pot 2: Creeping Jenny (split & propagate to other locations — love this plant!)
+  - Consider trailing in Swingnook fern area OR hanging baskets
+  - Propagate cuttings to spread throughout garden (April/May)
+- [ ] Pots 3-4: Prepare for seasonal flowers (May)
+- [ ] Set watering schedule (containers dry fast!)
+- [ ] Rotate plants seasonally (each season)
+- [ ] Enjoy daily! (all season)
 
 ### Bird Feeder Garden
 - [ ] Prep bed (April)
@@ -220,16 +245,6 @@
 - [ ] Ensure adequate sunlight (April)
 - [ ] Water as needed (ongoing)
 - [ ] Harvest bay leaves for cooking (Summer+)
-
-### Porch Planters
-- [ ] Pot 1: Ivy + Autumn Joy Sedum (existing — maintain)
-- [ ] Pot 2: Creeping Jenny (split & propagate to other locations — love this plant!)
-  - Consider trailing in Swingnook fern area OR hanging baskets
-  - Propagate cuttings to spread throughout garden (April/May)
-- [ ] Pots 3-4: Prepare for seasonal flowers (May)
-- [ ] Set watering schedule (containers dry fast!)
-- [ ] Rotate plants seasonally (each season)
-- [ ] Enjoy daily! (all season)
 
 ---
 

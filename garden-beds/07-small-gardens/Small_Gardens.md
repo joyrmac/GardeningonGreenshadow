@@ -1,6 +1,6 @@
 # Small & Specialty Gardens
 
-> Cat Garden, Porch Planters, Blueberry & Raspberry Bed, Front Yard
+> Cat Garden, The Porch (porch planters, bird feeder garden, bay leaf tree), Raspberry Bed, Front Yard (Sunlit Threshold)
 
 ---
 
@@ -120,7 +120,7 @@ All of these go in the open west end where sunlight enters:
 
 ---
 
-## Porch Planters (3 Large Pots)
+## The Porch (Porch Planters, Bird Feeder Garden, Bay Leaf Tree)
 
 **Pot 1 -- Full Sun:**
 - Center: Purple Coneflower (Echinacea)
