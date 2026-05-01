@@ -72,6 +72,7 @@ Do this every week. It prevents 90% of garden disasters.
 | Tomato hornworms | Large green caterpillar, stripped leaves | Hand-pick (they don't bite). If you see one covered in white rice-like cocoons, LEAVE IT -- those are parasitic wasp eggs that will kill future hornworms for you |
 | Earwigs | Ragged holes in dahlia and zinnia petals, damage worst at night | Roll up newspaper, place near plants at dusk. Shake into soapy water in the morning |
 | Deer | Plants eaten to stumps overnight | Fencing is the only reliable solution. Irish Spring soap bars and human hair are temporary deterrents at best |
+| Voles | 1.5-2" round holes (no dirt mound) + surface runways through grass/mulch. Plants suddenly wilt or die because roots are chewed off. Young woody stems girdled at soil line | **Confirmed present at Greenshadow (May 2026).** No poison (kills the hawks/owls/snakes that control them). Tactics: 1) Hardware cloth (¼") basket around rootballs of any new woody plant (lilac, hydrangea, butterfly bush). 2) Sharp gravel/grit mixed into planting holes -- voles hate digging through it. 3) Castor-oil repellent granules. 4) Pull mulch back 2-3" from stems and crowns -- mulch right against stems is vole highway. 5) Encourage black rat snakes and king snakes -- they eat voles. 6) Don't let leaf litter/tall grass build up at bed edges. 7) Snap traps (wooden mouse traps baited with peanut butter) inside covered tunnels work if a population gets large |
 
 ### Diseases
 

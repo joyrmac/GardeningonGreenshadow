@@ -133,3 +133,15 @@ Other things to factor in when scouting:
 - Not under or downhill from black walnut (juglone toxicity — black walnut suppresses lilacs)
 - Decent drainage; lilacs hate wet feet
 - 4–6 ft of clear space all around for mature size
+
+## Vole Protection — Required at Planting
+
+Voles are confirmed on the property as of May 2026. Lilacs are one of their favorite winter foods — they ring-bark the stem at the soil line, killing the plant. **Don't skip this step:**
+
+1. Cut a piece of ¼" hardware cloth (wire mesh) about 18" × 18" — enough to wrap into a basket around the rootball.
+2. Form a cylinder/basket open at the top, sized so the rootball fits inside with ~2" of clearance on the sides.
+3. Set the basket in the planting hole, settle the lilac inside, backfill normally.
+4. Top of the basket should sit slightly above the soil line — fold the top inward or trim flush.
+5. Mulch on top, but **keep mulch 2–3" back from the trunk itself** (mulch against bark is another vole tunnel route).
+
+This 15-minute step protects the plant for its first 5–7 years (longest-vulnerable window). After it's well-established with thick bark, voles are less of a threat.
