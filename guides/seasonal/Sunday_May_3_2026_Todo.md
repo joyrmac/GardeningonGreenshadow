@@ -1,14 +1,14 @@
 # Sunday, May 3, 2026 — Garden Day
 
-> Next nice day for gardening after the May 1 planting and the rainy stretch. Pick what calls to you. You don't have to do all of it.
+> Refined Sunday plan: Home Depot run + supplies, mulch + weed the backyard, and the two big projects: **plan/measure the Potion Patch layout and direct-sow it**, plus **mulch the bird feeder area and the tomato circle**. Other items (mugwort/peppermint/rosemary/lavender planting, bee balm division, fire pit, etc.) deferred to a future garden day.
 
 ---
 
-## Pre-Game (Saturday, if it's still raining)
+## Pre-Game (Saturday)
 
-- [ ] Charge phone, find gloves, fill water bottle
-- [ ] **Trip to Home Depot** (see shopping list at bottom — get this done Saturday so Sunday is pure garden time)
-- [ ] Quick rainy-day scouting: walk the south-side tree area + anywhere else with potential **6+ hours of full sun** for the Bloomerang lilac. (Still unplaced — needs to go in the ground soon.)
+- [ ] Charge phone, find gloves, fill water bottle, find tape measure + stakes/flags for marking
+- [ ] **Trip to Home Depot** (see shopping list at bottom)
+- [ ] Quick rainy-day scouting if time: walk for a sunny spot for the Bloomerang lilac (still unplaced — not Sunday's task, but worth keeping eyes open)
 
 ---
 
@@ -16,116 +16,205 @@
 
 A practical sequence so you don't have to redo work:
 
-1. **Plant first** (medicinal circle + the four herbs) — disturbed soil first
-2. **Divide bee balm** — get divisions in the ground or potted up before they wilt
-3. **Mulch everything** — only after planting is done. Mulch on still-moist soil from the rain = ideal moisture-trap conditions
+1. **Weed first** — get unwanted plants out before you mulch over them
+2. **Plan + lay out the Potion Patch** (measure, mark, prep) — soil work
+3. **Direct-sow the Potion Patch** — seeds in marked spots
+4. **Mulch everything** that's mulchable — moist soil from the rain = ideal mulching window
 
 ---
 
-## PLANTING
+## PROJECT 1 — Potion Patch: Plan, Measure, and Direct-Sow
 
-### Plant the Medicinal Circle (Potion Patch)
+The marquee project. The Potion Patch is the C-shaped 10 ft diameter medicinal herb circle inside the Tomato Circle. Full design at `garden-beds/11-wildwood/11d-tomato-obelisk-circle/Potion_Patch.md`.
 
-The C-shaped Potion Patch opens south. Tall plants go on the north arc, sun-lovers along the south opening. The four herbs you're planting:
+### A. Bed Status Check (do this FIRST)
 
-- [ ] **Mugwort** (*Artemisia vulgaris*) — **MUST CONTAIN**
-  - Spreads aggressively via rhizomes — will take over the whole bed in 2–3 years if free-planted
-  - **Containment options:**
-    - Buried pot method: 12–18" plastic or terracotta pot, drainage holes, sink in ground with 1–2" of rim above soil line (stops surface runners + makes it visible)
-    - Or use a tall container above ground (decorative) and never plant in soil
-  - Position: north arc of the C (taller plant, traditional moon/witch position)
-- [ ] **Peppermint** (*Mentha × piperita*) — **MUST CONTAIN**
-  - Same problem as mugwort — runners. Even more aggressive than mugwort actually
-  - Same buried-pot method as above
-  - Position: south-side near the opening (loves moisture, wants sun but tolerates afternoon shade)
-- [ ] **Rosemary** — drought-tolerant, full sun, well-drained soil. Hates wet feet
-  - Plant on a slight mound if drainage is iffy
-  - Position: south-facing edge for max sun + heat
-  - **Don't water in heavy** — the Saturday rain has already given it more moisture than it loves
-- [ ] **Lavender** — same care as rosemary (Mediterranean: sun, lean soil, sharp drainage)
-  - Plant on a slight mound, mulch with **gravel or sand** (not heavy bark) at the crown to prevent crown rot
-  - Position: south-facing edge with rosemary
+Before any sowing, verify the Phase 0 prep. Per the planting guide, you need:
 
-> **Mediterranean herb tip:** Don't amend their planting holes with rich compost. Rosemary and lavender want **lean, sharp-draining** soil. Compost = lush growth, no flowers, weak winter survival. Mix in some of that river rock / sand instead.
+- [ ] **Bed is filled with 10–12" garden soil + compost mix** — is it? If not, this is a soil-fill day before planting can happen
+- [ ] **10 ft diameter circle is shaped and the C-opening faces south** — already shaped? Or does it need to be marked from scratch?
+- [ ] **Center mulched zone (18–24" diameter, 2–3" wood chips)** — your standing-room area in the middle. Already there or needs adding?
 
-### Divide the Bee Balm
+> If the bed is still raw ground or hasn't been filled, soil prep alone is the day's work. Direct sowing has to wait until the bed is built. Check this before committing the rest of the day to seed sowing.
 
-Per the existing Honeyglow Patch relocation plan (`garden-beds/11-wildwood/Honeyglow_Patch.md`):
+### B. Measure & Mark the Layout
 
-- [ ] Lift and divide overgrown bee balm in Honeyglow
-- [ ] Distribute divisions to:
-  - **Wayward Meadow** (let naturalize freely — perfect spot for a runner)
-  - **Near the frog pond** (in **buried containers** to control spread — bee balm will run through wet soil)
-  - **Wildwood herb spiral** (for tea/smudge harvest — also containerized if there's space)
+If the bed is ready, lay out the planting zones with stakes/flags before opening any seed packets.
+
+- [ ] **Mark the circle:** 10 ft diameter, C-shape opening facing south
+- [ ] **Mark the 3 rings:**
+  - **Center ring** (~3 ft diameter, tall plants 3–5 ft) — Valerian, Mullein, Echinacea, Angelica spots (most you don't have yet — leave open or mark for future)
+  - **Middle ring** (~18–24" wide ring, 18–36" plants) — Astragalus, Yarrow, St. John's Wort, Hyssop, Horehound spots
+  - **Outer ring** (~18" wide ring, 6–18" plants) — Calendula, Chamomile, Borage, Fenugreek, Marigold, Hollyhock, Anise spots
+- [ ] **Mark the C-opening clearly** (south side, ~3 ft of opening)
+- [ ] **Stand in the center** before sowing — does it feel right? Adjust before committing.
+
+### C. Direct-Sow What You Already Have
+
+These are in your existing seed inventory — no need to buy:
+
+| Plant | Inventory # | Where in design | Sowing notes |
+|-------|-------------|-----------------|--------------|
+| **Calendula** (Sunset Mix + Pink Surprise) | #160, #161 | Outer ring, 10" apart, 8–10 plants | Surface sow, light cover; thin to spacing |
+| **Chamomile** (Roman) | #67 | Outer ring, scattered, 10–15 patches | Tiny seeds — surface sow, press in, **thin RUTHLESSLY** at 2–4 weeks |
+| **Borage** (3 packs) | #62 | Outer ring, 12" apart, 4–6 plants | Cover ¼", germinates fast |
+| **Marigold** (French Petite Mix or Strawberry Blonde) | #107, #110 etc. | Outer ring, 10" apart, 8–10 plants | Cover ¼"; thin |
+| **Anise** (true *Pimpinella anisum*, the annual) | #61 | Outer/middle-outer, 12" apart, 8–10 plants | Cover ¼"; needs warm soil |
+| **Hyssop** seed | #59 | Middle-outer transition, 12" apart, 6–8 plants | Verify packet — could be true hyssop or anise hyssop. Either works. |
+| **Hollyhock 'Majorette'** | #171 | Middle-outer edge, 12" apart, 5–8 plants | Biennial — flowers year 2. Cover lightly. |
+
+**Sowing technique (applies to all):**
+1. Loosen the top inch of soil in each marked zone
+2. Scatter seeds at the spacing for that plant
+3. Press in (don't bury small seeds deep; light cover only)
+4. Water gently with fine spray — heavy water dislodges seeds
+5. Mark the zone with a label or flag so you don't accidentally weed seedlings later
+
+### D. Buy at Home Depot for the Potion Patch
+
+- [ ] **Fenugreek seed** — your tea plant; only Phase 3 herb missing from inventory. Outer ring perimeter, 6–8" apart, 10–12 plants
+- [ ] **Wood chip mulch** for the 18–24" center "standing room" zone (if not already mulched)
+
+### E. Note: Perennial Backbone (NOT Sunday)
+
+The Potion Patch design calls for these as Phase 1/2 plants — none in inventory yet. Leave their spots open in the marked layout for a future plant-buying trip:
+
+- Valerian (2)
+- Mullein (3–5)
+- Astragalus (1–2)
+- Angelica (2–3)
+- St. John's Wort (1–2)
+- Horehound (1)
+
+You can also **divide your existing anise hyssop** for the middle ring as a substitute for true hyssop — saves money, instant mature plants, similar function. Optional Sunday add.
 
 ---
 
-## MULCHING (after planting is done)
+## PROJECT 2 — Mulch the Backyard
 
-The Saturday rain means soil is moist — this is the **best mulching window of the year**. Do all of these:
+### Yard Tasks
 
-- [ ] **Under the bird feeder / Japanese maple** — light layer; **don't bury the new sedum stems** (pull mulch ½–1" back), and leave open mulch in the ground-feeder zone where you want birds visible
-- [ ] **Around the landscaping** — the foundation/front-of-house generic shrub area
-- [ ] **Pollinator garden** (Edgeworth Corner) — top up around the new American Meadows perennials planted on May 1; **keep the bare rings around each plant crown** (the technique you used Friday — protects from rot/voles/nitrogen tie-up)
-- [ ] **Old fire pit** — note: figure out what role this spot plays going forward (decorative, planting, burned-out feature). Mulching it now stabilizes whatever you decide later
-- [ ] **Tomato circle** (Wildwood obelisk circle) — mulch deeply; tomatoes love consistent moisture and hate splashback (mulch prevents soil-borne fungal issues)
-- [ ] **Newly-planted medicinal circle** — light mulch only around mugwort and peppermint (inside their containers); use **gravel/sand** around rosemary and lavender crowns instead of bark
+- [ ] **Weed first** — pull anything in the beds and lawn edges that you don't want, before mulching
+- [ ] **Mulch the back yard** generally — wherever needs it: bed edges, around trees, bare spots
+
+### Bird Feeder Area
+
+- [ ] Light mulch under the Japanese maple (avoid burying the new sedum and creeping Jenny stems — pull mulch ½–1" back from each)
+- [ ] **Leave the open ground-feeder zone open** so you keep visibility on the birds
+- [ ] **Pull mulch 2–3" back from the new sedum stems** specifically — voles use mulch-against-stems as cover
+
+### Tomato Circle
+
+- [ ] Mulch deeply around the Tomato Circle (the outer ring around the Potion Patch)
+- [ ] Tomatoes love consistent moisture and hate soil splashback — deep mulch (3"+) prevents both
+- [ ] Keep mulch 2" back from each tomato stem (no rot, no vole highway)
+- [ ] If you set up the obelisks already, mulch around the bases
 
 ---
 
 ## QUICK CHECKS WHILE YOU'RE OUT THERE
 
-- [ ] **Bird feeder hole** — likely a vole (confirmed present on the property). Look for surface runways in the mulch and grass nearby. Then see vole-protection tasks below.
-- [ ] **Friday's Edgeworth plantings** — any wilting? Mulch-free rings still intact? Water any that look stressed. While you're there, check for any vole runways near the new American Meadows perennials.
-- [ ] **Friday's bird feeder bed (Autumn Joy + Creeping Jenny)** — sedum leaves still firm? Any pooling water at the back wall? **Pull mulch back at least 2" from sedum stems** (mulch-against-stem is a vole highway).
-- [ ] **Bloomerang lilac** — still in pot? Keep watered, in shade if it's hot. Decision needed soon on its permanent spot. **Hardware cloth basket is now required** at planting time (voles ring-bark young lilacs).
-
----
-
-## VOLE PROTECTION (Confirmed presence on property — May 2026)
-
-The bird feeder hole is almost certainly a vole. Voles eat roots and ring-bark young woody plants, so this is now ongoing management.
-
-- [ ] **Pull mulch back 2–3" from every plant stem and crown** — both Friday's Edgeworth plantings and Sunday's medicinal circle. Mulch right against stems = vole tunnel under cover.
-- [ ] **Sprinkle a ring of sharp gravel/grit** around the Autumn Joy on the back wall and any new herb you plant Sunday — voles hate digging through it.
-- [ ] **Optional but smart:** apply castor-oil repellent granules around the bird feeder area and the Edgeworth perennial plantings.
-- [ ] **For the Bloomerang lilac** when planted: build a ¼" hardware cloth basket around the rootball before backfilling. Required, not optional. Lilacs are vole favorites.
-- [ ] **Reduce bird seed buildup** — switch to hulled seed and sweep up shells weekly. Less buffet = less vole.
-- [ ] **Don't poison.** Kills the hawks/owls/snakes that control them. See `guides/Garden_Care_and_Troubleshooting.md` for full pest entry.
+- [ ] **Bird feeder hole** — voles confirmed on property. Look for surface runways in mulch/grass; if obvious, plan vole protection in coming weeks
+- [ ] **Friday's Edgeworth plantings** — any wilting? Bare rings still intact? Water any that look stressed
+- [ ] **Friday's bird feeder bed (Autumn Joy + Creeping Jenny)** — sedum leaves firm? Water pooling at back wall? Pull mulch back from stems
+- [ ] **Bloomerang lilac** — still potted, kept watered + shaded? Decision on permanent spot is **not** today's task
 
 ---
 
 ## HOME DEPOT SHOPPING LIST
 
-Get this Saturday so Sunday is pure planting/mulching time.
+Get this Saturday so Sunday is pure garden time.
 
-- [ ] Potting soil (for the buried-pot containment method on mugwort + peppermint)
-- [ ] Worm castings (slow-release, gentle fertilizer for the medicinal circle)
-- [ ] Compost (for general bed top-up — but **NOT** for rosemary/lavender holes)
-- [ ] River rocks (decorative + Mediterranean herb mulch)
-- [ ] Sand (for rosemary/lavender drainage + mixed into their planting holes)
-- [ ] Salt for water softener (household — don't forget while you're there)
-- [ ] **Buried containers** for mugwort + peppermint — if you don't have spare 1–3 gallon plastic pots already, grab a couple
-- [ ] **Mulch** — confirm whether the chip drop covers everything on the mulch list above. If not, add bagged hardwood mulch
-- [ ] **Hardware cloth / ¼" wire mesh** — required for the Bloomerang lilac rootball cage. Voles confirmed on property; lilacs are vole favorites
-- [ ] **Sharp grit / pea gravel** — small bag for sprinkling around the Autumn Joy and any new herb plantings (vole deterrent)
-- [ ] *Optional:* Castor-oil-based vole repellent granules
+- [ ] **Potting soil** — for any container repotting needs / general use
+- [ ] **Worm castings** — slow-release fertilizer for the Potion Patch outer ring
+- [ ] **Compost** — Potion Patch bed-fill if needed, plus general bed top-dressing. **NOT** for the Mediterranean herb spots (rosemary/lavender — but those aren't Sunday anyway)
+- [ ] **River rocks** — decorative for the Potion Patch center, dry creek pathway in Edgeworth, or frog pond edges
+- [ ] **Sand** — drainage uses; mix with garden soil if any spot is too clay
+- [ ] **Salt for water softener** (household)
+- [ ] **Mulch** — confirm whether the chip drop covers the bird feeder + tomato circle + general backyard. If not, bagged hardwood mulch to fill in
+- [ ] **Fenugreek seed packet** — for the Potion Patch outer ring
+- [ ] **Wood chip mulch** for the Potion Patch center standing-room zone (if not already done)
+- [ ] *Optional but smart:* small bag of **sharp grit / pea gravel** for vole deterrent around the new bird feeder bed sedum
 
 ---
 
-## NOT TODAY (parking lot)
+## OPTIONAL STOP — Hilltop / Needmore Farms Nursery (Local Herb Nursery)
 
-Things on your mind that don't need to happen Sunday — log them so they don't bug you:
+If you swing by, here's what to look for. **Top priority is the Potion Patch perennial backbone** — these are the plants Sunday's direct-sowing won't cover, and getting them in the ground in May (vs. fall or next year) jump-starts the bed by a full year.
 
-- Bloomerang lilac permanent placement — scout this week, plant when soil/weather cooperates
-- Bird feeder hole resident ID — keep watching the hole; only act if surface runways appear (= vole)
-- Reconciling the American Meadows placement plan vs. the original Twin Beds plan — decision can wait
+### Tier 1 — Potion Patch Perennial Backbone (highest value)
+
+These are most commonly stocked at an herb-focused nursery. If they have these, grab them.
+
+| Plant | Latin name | What to look for | How many | Position in Potion Patch |
+|-------|-----------|------------------|----------|--------------------------|
+| **Valerian** | *Valeriana officinalis* | Tall perennial, fern-like leaves, white/pink umbel flowers. Strong "musty/earthy" root smell | 2 | Center ring (north side), 24" apart |
+| **St. John's Wort** | *Hypericum perforatum* | Bushy perennial, small oblong leaves with translucent dots when held to light, yellow 5-petal flowers | 1–2 | Middle ring, north side (away from echinacea) |
+| **Horehound** | *Marrubium vulgare* | Hairy gray-green leaves, square stems, fuzzy texture | 1 | Middle ring, spacious spot |
+| **Yarrow** | *Achillea millefolium* | Feathery fern-like foliage, flat-topped flowers (white/pink/yellow). Common — easy find | 4–6 | Middle ring, 12" apart |
+| **True Hyssop** | *Hyssopus officinalis* | Small evergreen subshrub, narrow blue-green leaves, intense camphor smell when crushed. Distinct from anise hyssop! | 6–8 | Middle-outer ring, 12" apart |
+
+### Tier 2 — Less Common but Worth Asking For
+
+These are harder to find at retail nurseries but herb-specialty places sometimes have them.
+
+| Plant | Latin name | Notes |
+|-------|-----------|-------|
+| **Mullein** | *Verbascum thapsus* | Biennial. Year 1 = soft fuzzy basal rosette (looks like donkey ears). Year 2 = tall yellow flower spike. Often grows wild. |
+| **Angelica** | *Angelica archangelica* | Biennial. Architectural, large compound leaves, hollow stems. Hard to find — seed-grown is more common |
+| **Astragalus** | *Astragalus membranaceus* | Adaptogenic medicinal — slow to establish, year 3+ before root harvest. Often only available mail-order |
+
+### Tier 3 — For the Spiral Herb Garden (lower priority — already established there)
+
+If you're already at the nursery and feeling ambitious:
+
+| Plant | Where it goes | Already have? |
+|-------|--------------|---------------|
+| **Mugwort** (*Artemisia vulgaris*) | Buried pot in Potion Patch (medicinal/witchy) or Spiral | NO — not on any current plan, but you mentioned wanting it |
+| **Peppermint** (*Mentha × piperita*) | West Step contained mint bed (Spiral) | NO |
+| **Chocolate Mint, Orange/Bergamot Mint, Apple Mint, Ginger Mint** | West Step mint bed | NO — full expansion list in `garden-beds/11-wildwood/Wildwood.md` |
+| **Rosemary** | Spiral Upper South Step | YES (1 already established) — only buy if you want a 2nd |
+| **Lavender** | Spiral Top Circle | YES (4 already there) — skip unless filling a gap |
+
+### Tier 4 — For the Frog Pond (Bonus)
+
+If they sell aquatic / pond-edge plants:
+- **Cardinal Flower** (*Lobelia cardinalis*) — you already have 1 from American Meadows; if they're cheap, a few more
+- **Pickerelweed**, **Arrow Arum**, **Soft Rush**, **Marsh Marigold** — pond shallow shelf
+- **Sensitive Fern** — pond edge / shade
+
+### Buying Tips
+
+- **Look at the roots, not just the leaves.** Pull the pot off if you can — you want firm white roots filling the soil, NOT a circling/bound rootball or mushy roots
+- **Skip plants in bloom** if you can. Plants budding or pre-bloom transplant better than ones putting energy into open flowers
+- **Smell test the medicinals.** Real *Hyssopus officinalis* should smell strongly camphor/medicinal. If it smells like licorice, it's anise hyssop (still useful, just label it correctly)
+- **Ask if they're container-grown or field-dug.** Container-grown transplant cleaner this time of year
+- **For voles:** ANY new perennial here that goes in the ground gets a sharp grit ring at minimum. The Potion Patch isn't woody so no hardware cloth basket needed — just the grit
+- **Budget guidance:** Tier 1 at quart/gallon size = $6–18 each. Don't spend more than $80–100 today unless you fall in love with something special — leave room for a second nursery trip later
+
+### What to Bring
+
+- This list (printed or on phone)
+- A flat / box / tray to keep pots upright in the car
+- Cash or card; ask if they take a discount for buying multiples
+
+---
+
+## NOT TODAY (deferred — parking lot)
+
+- **Mugwort, peppermint planting** (need buried-pot containment, plus pots, plus the actual plants — defer to a separate day)
+- **Rosemary, lavender planting** in the Spiral Herb Garden (not urgent — you already have 4 lavender + 1 rosemary established there)
+- **Bee balm division** (any cool morning works — better in fall actually)
+- **Fire pit mulching** (needs a use-decision first)
+- **Bloomerang lilac placement** (scout this week, plant separately)
+- **Potion Patch perennial backbone** (Valerian, Mullein, Astragalus, Angelica, St. John's Wort, Horehound — separate plant-buying trip)
 
 ---
 
 ## Reminders
 
-- **Mediterranean herbs (rosemary, lavender) hate rich soil and wet feet.** Plant lean, plant high.
-- **Mugwort and peppermint are containment-only plants.** No exceptions or you'll regret it in 2 years.
-- **Mulch on moist soil > mulch on dry soil.** The rain did you a favor; use the window.
-- **Bare rings around new plants** stay bare — applies to everything you mulched Friday and anything you mulch Sunday.
+- **Bed prep before sowing** — verify Phase 0 (soil fill, circle shape, center mulch) is done before opening seed packets
+- **Mark the layout BEFORE sowing** — once seeds are scattered, it's hard to undo
+- **Tiny seeds (chamomile) press in but don't bury** — they need light to germinate
+- **Mulch on moist soil from the rain = ideal mulching window**
+- **Bare rings stay bare** — keep a mulch-free ring around every plant stem
