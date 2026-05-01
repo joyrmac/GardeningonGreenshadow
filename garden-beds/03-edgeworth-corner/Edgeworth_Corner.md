@@ -30,8 +30,7 @@ Soil was already moist from heavy rainfall the night before, so chip mulch went 
 - Edgeworthia is Zone 7 cold-hardy; we are 7b, should be fine, but watch in first winter
 
 **Still pending placement / install:**
-- Three lilacs (Josee, Sensation, Bloomerang Dark Purple) — none in this bed yet
-- Sensation Lilac was originally slated for the Shade Bed corner per grid
+- Bloomerang Dark Purple Reblooming Lilac — needs a full-sun spot (6+ hours), not in this bed
 
 ---
 
@@ -123,7 +122,6 @@ Against the screen room wall. Morning sun, afternoon shade.
 | Hostas (3 varieties) | Live plants (Breck's) | Cherry Berry, Enterprise, Tokudama Flavocircinalis |
 | Hardy Fern Collection | Live plants (Breck's) | 4 fern varieties |
 | Shade Designer Garden | Live plants (Breck's) | Pre-designed shade mix |
-| Sensation Lilac | Live plant (Breck's) | Fragrant spring bloomer -- place at corner or end |
 
 ---
 

@@ -93,10 +93,10 @@ For Greenshadow specifically, candidate spots:
 
 ## Companion / Coordinating Plants Already in Inventory
 
-- **Josee Reblooming Lilac** (Breck's, item #179) — also unplaced. Could be planted as a pair or trio with Bloomerang.
-- **Sensation Lilac** (Breck's, item #180) — bicolor purple-and-white, 8–15 ft tall (much larger). Different size class, but the three together = a small lilac collection.
 - **Buzz Hot Raspberry Butterfly Bush** (item #207) — similar bloom window in summer/fall, complementary purple-pink.
 - **Wild Bergamot / Bee Balm** (item #214) — pollinator pairing at the lilac's feet.
+
+This is the only lilac on the property. (Josee and Sensation Lilac were on the inventory in error — never actually purchased — and were removed in May 2026.)
 
 ---
 
@@ -124,4 +124,12 @@ Proven Winners Direct — Bloomerang® Dark Purple Reblooming Lilac
 
 ## Decision Needed
 
-**Pick a permanent spot before it leafs out / before summer heat.** See *Inventory_Audit_March_2026.md* — this lilac is now on the unplaced perennials list alongside Josee and Sensation.
+**Pick a permanent spot before summer heat.** See *Inventory_Audit_March_2026.md* — this lilac is currently the only unplaced shrub on the property.
+
+**Non-negotiable:** the spot must get **6+ hours of direct sun**. A "between trees" spot on the south side of the yard was considered and ruled out (May 2026) because the trees would shade it too much for reliable bloom. Looking for an open, sunny location instead.
+
+Other things to factor in when scouting:
+- At least 6–10 ft from any tree trunk (root competition)
+- Not under or downhill from black walnut (juglone toxicity — black walnut suppresses lilacs)
+- Decent drainage; lilacs hate wet feet
+- 4–6 ft of clear space all around for mature size
