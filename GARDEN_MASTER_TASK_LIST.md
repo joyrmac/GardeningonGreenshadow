@@ -212,8 +212,9 @@
 
 ### Bird Feeder Garden
 - [ ] Prep bed (April)
-- [ ] Plant bird-friendly flowers (May)
+- [x] Plant bird-friendly flowers (May) — **May 1, 2026:** 4 Autumn Joy Sedum along back wall + bunches of Creeping Jenny underplanting (both propagated from porch pots). Center kept open mulch for ground-feeder visibility. See `garden-beds/07-small-gardens/Small_Gardens.md` "Bird Feeder Maple Bed" section.
 - [ ] Keep near feeder for attraction (ongoing)
+- [ ] **Watch list (first 7 days):** check for water pooling at back wall (sedum rot risk), pull mulch back from sedum stems, monitor creeping Jenny spread
 
 ### Bay Leaf Tree
 - [ ] Check container drainage (April)

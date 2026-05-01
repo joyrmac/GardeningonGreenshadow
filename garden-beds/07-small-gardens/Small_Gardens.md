@@ -634,7 +634,46 @@ Generic builder-grade foundation shrubs from the previous owner:
 - **Landscape lighting** along the walkway edge
 - **Hose reel** on wall (functional, stays)
 
-### The Vision
+---
+
+## Bird Feeder Maple Bed — Planted May 1, 2026
+
+> Scaled-back, bird-viewing-first approach for the right Twin Bed (with the bird feeder hanging in the Japanese maple). Replaces the full-demolition Phase 1–6 plan below, at least for now. The privet removal and full perennial buildout in the rest of the bed is still a future option.
+
+**Goal:** Keep most of the bed open mulch so ground-feeding birds (juncos, sparrows, towhees, mourning doves, cardinals) are clearly visible from the house, with safe sight lines from cats. Just a few low/clumping plants at the edges so the bed reads as intentional.
+
+**What got planted:**
+
+| Plant | Qty | Location in bed | Source | Notes |
+|-------|-----|-----------------|--------|-------|
+| Autumn Joy Sedum | 4 | Back wall (max sun) | Divided/cut from existing porch Pot 1 | Sun-loving — back wall placement gives them the best light in the bed |
+| Creeping Jenny | "Bunches" of cuttings | Underplanting around the maple | Cuttings from existing porch pot | Lime-chartreuse foliage plays against the maple's red. Will spread on top of mulch. |
+
+**Method:**
+- Cuttings/divisions from existing porch plants — $0 cost, instant install
+- Planted directly into mulch / surface soil (no deep digging — protects shallow Japanese maple roots)
+- Heavy rain all day and night following planting = ideal establishment moisture for the creeping Jenny
+
+**Watch list (first 7 days):**
+- **Sedum + heavy rain risk:** Autumn Joy doesn't love saturated soil. Check for water pooling at the back wall — divert if needed. Watch for soft/translucent leaves (rot signal). If leaves stay firm, they'll establish fine.
+- **Mulch off stems:** Pull mulch ½–1 inch back from sedum stems to prevent rot crown contact.
+- **Creeping Jenny:** Will start running within 2–3 weeks in this weather. Keep an eye on it spreading too far inward over time — pull stems back from the open center if it threatens the bird-viewing zone.
+
+**What's still mulch-only (and meant to stay that way):**
+- The center / ground-feeding zone directly under the feeder
+- Around the Japanese maple trunk (3 ft no-dig zone)
+- Most of the front edge along the walkway (for now)
+
+**Future considerations:**
+- If creeping Jenny carpets too aggressively, pull it back to a defined ring at the dripline.
+- If the bed ever gets the full Phase 1 demolition (privet removal + amendment + full perennial install), the sedum and creeping Jenny stay as keepers.
+- The bird feeder location dictates the rest of the design — anything added later should preserve open sight lines around the feeding zone.
+
+---
+
+### The Vision (Original Twin Beds Plan — Future / Aspirational)
+
+> The plan below is the original full-redesign vision for both Twin Beds. The Bird Feeder Maple Bed section above is what's currently in the right bed as of May 1, 2026. The full plan is preserved here for future reference if/when the privets get pulled.
 
 **Structured but interesting.** A neighbor driving by sees "oh, that looks nice and intentional." You see native pollinators, medicinal herbs you can brush walking to the door, and a garden doing real ecological work.
 
