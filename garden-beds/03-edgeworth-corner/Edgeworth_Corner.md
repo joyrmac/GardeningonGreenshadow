@@ -4,9 +4,40 @@
 
 ---
 
+## Planting Day — May 1, 2026
+
+Big planting day. Got a chip drop the same week. Plants installed:
+
+- **Butterfly & Hummingbird collection** — pollinator perennials from recent orders
+- **Milkweed** (cold-stratified seed and/or live plants from American Meadows order — Ice Ballet Swamp Milkweed)
+- **Edgeworthia chrysantha 'Snow Cream'** — centerpiece shrub, Zone B Row 5 per grid
+- Plus assorted other perennials from the American Meadows / Plant Delights / Renee's haul
+
+**Method (textbook order):**
+1. Planted everything
+2. Spread chip drop deeply across the bed
+3. **Left mulch-free rings (a few inches of bare soil) around every new plant's crown** — prevents stem rot, vole damage, and nitrogen tie-up against woody stems
+4. Deep-watered each plant individually at the base, into bare soil (not through mulch)
+
+Soil was already moist from heavy rainfall the night before, so chip mulch went down onto wet soil — ideal moisture-trapping conditions.
+
+**Establishment care (next 2–3 weeks):**
+- Deep water 2–3× per week unless real rain (½ inch+)
+- Water at base, in the bare rings — not overhead
+- Watch for morning wilt (afternoon wilt is normal in week 1)
+- No fertilizer for 2–3 weeks — let roots grow first
+- Keep the mulch-free ring around the Edgeworthia trunk **permanently** (1–2 inches at minimum)
+- Edgeworthia is Zone 7 cold-hardy; we are 7b, should be fine, but watch in first winter
+
+**Still pending placement / install:**
+- Three lilacs (Josee, Sensation, Bloomerang Dark Purple) — none in this bed yet
+- Sensation Lilac was originally slated for the Shade Bed corner per grid
+
+---
+
 ## What's Actually Growing (March 2026 Ground Truth)
 
-Observed during property walkthrough 3/8/26. This is what's in the ground now, before the planned grid is built out:
+Observed during property walkthrough 3/8/26. This is what was in the ground before the May 1 planting day:
 
 | Plant | Location | Status |
 |-------|----------|--------|
