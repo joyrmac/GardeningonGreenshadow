@@ -57,6 +57,7 @@
 - 🌿 [Medicinal Herb Kit Guide](guides/Medicinal_Herb_Kit_Guide.md) — Full growing and healing uses reference
 - 🧿 [Catnip Crafts Guide](reference/Catnip_Crafts_Guide.md) — Harvesting catnip, 5 cat toy projects, household uses
 - 🪣 [Smudging & Scent Burning Guide](guides/Smudging_and_Scent_Burning_Guide.md) — Sacred herb use, bundling, burning
+- 🌙 [Ancestral Herb Garden](planning/Ancestral_Herb_Garden.md) — Heritage-based plant list (Celtic/Germanic/Eastern European/French) + witchy garden practices (altar spirals, sacred trees, Wheel-of-the-Year rituals)
 
 **Aesthetic & Design:**
 - 🏷️ [Garden Signs](reference/Garden_Signs.md) — 9 sign designs with fonts, colors, materials, shopping list
