@@ -605,15 +605,58 @@ These are ancestral must-grows that aren't on the property yet:
 | **Nettle** | Celtic, Eastern European | Edge of Wayward Meadow (in a contained patch — also stings, plan accordingly) |
 | **Bay Laurel** | French | Container plant (already noted in master task list as the "Bay Leaf Tree" project) |
 
-### Sacred Trees — Decision Needed
+### Sacred Trees — Greenshadow Plantings (Decided May 2026)
 
-The tree section is the biggest open question. Each of these is a multi-decade commitment + a placement decision:
+Two sacred trees are now locked in for fall 2026 planting on opposite sides of the property — Germanic/burning at the back, Celtic/threshold at the front.
+
+#### 🌲 Eastern Red Cedar 'Brodie' (*Juniperus virginiana* 'Brodie')
+
+- **Tradition:** Germanic / Northern — protection, purification, winter survival, ancestral burning
+- **Cultivar reasoning:** Female (= blue berries for birds and ancestral berry use), narrow upright form (15–20 ft tall × 6–8 ft wide), most balanced size for harvest without overwhelming the bed
+- **Location:** Wayward Meadow, north edge — between the Cat Garden's tulip magnolia and the Gloam's southern magnolia. Walking distance to the Fire Pit on the south fence
+- **Why this spot:**
+  - Full sun (south of the trees, sunlight unblocked)
+  - Drought-tolerant + vole-resistant — ideal for the meadow border
+  - **Short walk to Fire Pit** for ritual burning of harvested branches
+  - Far from front-yard hawthorn (cedar-apple rust mitigated by ~250 ft + house in middle)
+- **Planting requirements:**
+  - 8–10 ft trunk-to-trunk from each existing magnolia (NOT in the literal 10 ft gap if they're really that close — verify field distance first)
+  - Sharp grit ring at base (vole insurance)
+  - No hardware cloth basket needed (juniper is vole-resistant)
+  - Container-grown 5-gallon stock from local NC nursery
+- **Companion plantings at base:**
+  - Wormwood (Germanic/EE ancestral pairing — silver foliage against juniper green)
+  - Yarrow (drought-tough, native, ancestral all four traditions)
+  - Aromatic Aster (#210 from American Meadows order — fall purple-blue blooms)
+  - Pale Purple Coneflower (#218 — drought-tough native)
+  - Small Calico Aster cluster (#191)
+  - Little Bluestem (#211 — native bunchgrass with bronze fall color)
+- **Timeline:** Buy + plant fall 2026 (Oct–Nov ideal). First small harvest year 2; meaningful harvest year 3+. Cut branches dry 6–12 months before burning.
+
+#### 🌳 'Winter King' Green Hawthorn (*Crataegus viridis* 'Winter King')
+
+- **Tradition:** Celtic / British / Irish — fairy tree, threshold/boundary protection
+- **Cultivar reasoning:** **Rust-resistant** (chosen specifically because of the cedar on-property), Celtic ancestral resonance intact, white Beltane-time blooms, brilliant **persistent red berries** through winter (food for birds + traditional jelly + Samhain harvest)
+- **Location:** Front yard, west side of the house — threshold/entry position where guests arrive
+- **Why this spot:**
+  - Maximum diagonal separation from cedar (~250+ ft, with house as wind/spore barrier)
+  - Front yard is the literal threshold — Celtic tradition's correct position
+  - Full sun
+  - Beltane (May 1) bloom timing aligns with Celtic festival calendar
+- **Planting requirements:**
+  - 20–25 ft mature size — give it room from house, walkway, and any power lines
+  - Single-trunk specimen (better for front-yard formal placement)
+  - Container-grown stock from local NC nursery (more common than this cultivar may sound)
+- **Timeline:** Buy + plant fall 2026 (Oct–Nov ideal). Beltane blooms by year 2–3; full structure by year 5.
+
+#### Future Sacred Tree Decisions (Year 2+)
+
+Still open — each is a multi-decade commitment:
 
 | Tree | Tradition | Notes for Greenshadow |
 |---|---|---|
 | **Rowan** (*Sorbus aucuparia*) | Celtic, Germanic | Family protection. Smaller tree (15–30 ft). Best near house entrance or property line |
-| **Hawthorn** (*Crataegus monogyna* or *C. phaenopyrum*) | Celtic | Boundary/threshold tree. Blooms ~May 1 (Beltane!). Native NC species available |
-| **Elder** (*Sambucus canadensis* — native, or *S. nigra*) | Celtic, Germanic, EE | Already in plan as Elderberry shrub. Ancestral + healing + Samhain herb |
+| **Elder** (*Sambucus canadensis* — native) | Celtic, Germanic, EE | Already in plan as Elderberry shrub (in SeedTherapy kit per Joy Master Doc). Ancestral + healing + Samhain herb |
 | **Birch** (*Betula nigra* — river birch is NC native) | Germanic, Slavic | New beginnings. River birch handles NC heat better than paper birch |
 | **Oak** (*Quercus alba* — white, or *Q. virginiana* — live, or *Q. phellos* — willow) | Celtic | Multi-generation commitment. White oak = THE Celtic oak |
 
@@ -649,8 +692,7 @@ Year-1-friendly priorities, sorted by impact-per-effort:
 - [ ] Update Smudging Guide Recipe 6 ("Woodland Resin") to note **Eastern Red Cedar** as the future target plant
 
 ### Tier 2 — Medium Effort, High Symbolic Value
-- [ ] Choose a **sacred tree** to plant this fall (Rowan, Hawthorn, Elder, or Birch). Pick a spot.
-- [ ] Plant an **Eastern Red Cedar** for ancestral burning + bird food + property edge structure
+- [x] **Sacred trees DECIDED (May 2026):** 'Brodie' Eastern Red Cedar in Wayward Meadow N edge + 'Winter King' Hawthorn in front yard. Fall 2026 planting. (See Sacred Trees section above.)
 - [ ] Build a small **altar spiral** at the Maple Shrine site (or another location). Stone or clay, 4–6 ft diameter
 - [ ] Designate an **ancestor altar** corner (could be as simple as a shelf at Swingnook with photos + candles + offering bowl)
 

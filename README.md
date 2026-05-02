@@ -10,7 +10,8 @@
 
 **New to this garden?** Start here:
 - 📖 [QUICK_START.md](QUICK_START.md) — 5-minute orientation
-- 🗺️ [Garden_Overview.md](planning/Garden_Overview.md) — Philosophy, zone info, complete property map, bed index
+- 🗺️ [Property_Map.md](planning/Property_Map.md) — Canonical spatial layout (where every zone, bed, and tree sits)
+- 📋 [Garden_Overview.md](planning/Garden_Overview.md) — Philosophy, zone info, bed index
 - 📅 [Joy_Garden_2026.ics](planning/Joy_Garden_2026.ics) — Subscribe to the growing calendar (iCal format)
 
 **Planning & Planting:**

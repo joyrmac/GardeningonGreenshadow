@@ -162,3 +162,33 @@ Bloomveil is mostly annuals, but a few perennial anchors at the edges = good. Ca
 3. **Decide Wayward Meadow site prep status** — is the ground ready, or does sod need to be smothered first? (See `garden-beds/10-wayward-meadow/Wayward_Meadow.md` establishment plan.)
 4. **Confirm Front Yard / Twin Beds is ready** — privets removed, soil amended?
 5. **Hold any plants you can't plant in 2 weeks** in shaded pots, water daily; replant in September when heat breaks.
+
+---
+
+## Update: May 2, 2026 — Fireflies Forever Collection Redistribution
+
+The original `garden-beds/05-gloam/Gloam_Fireflies_Forever.md` plan slotted the entire 6-plant collection into The Gloam (under the Southern Magnolia). Re-examination showed **only 1 of the 6 actually wants dry shade** — the other 5 want sun or wet conditions that the Gloam can't provide. Final placement:
+
+| Plant | Source qty | Final destination | Reason |
+|---|---|---|---|
+| **Cardinal Flower** (#204) | 1 | Frog pond margin (Wildwood) | Mandatory wet feet |
+| **Common Boneset** (#202) | 1 | Wayward Meadow / pond edge | Moisture-loving |
+| **Northern Sea Oats** (#203) | 1 | **Fernwood edge** | Shade-tolerant native grass |
+| **Arkansas Bluestar** (#205) | 1 | Front yard (Twin Beds) | Full sun = brilliant gold fall color |
+| **Smooth Blue Aster** (#206) | 1 | Wayward Meadow | Full sun prairie native |
+| **Shenandoah Red Switchgrass** (#199, #201) | 2 | Wayward Meadow | Full sun prairie grass |
+
+The Gloam itself has been rewritten with dry-shade specialists (Pulmonaria, Heuchera, Christmas Fern, Hellebores, Brunnera, etc.) — see updated `garden-beds/05-gloam/Gloam_Fireflies_Forever.md`.
+
+## Update: May 2, 2026 — Cedar Base Companions
+
+Several American Meadows perennials are now reserved for the base of the future 'Brodie' Eastern Red Cedar at the Wayward Meadow north edge (fall 2026 planting). Per `planning/Ancestral_Herb_Garden.md` Sacred Trees section:
+
+| Plant | # | Reserved for cedar base |
+|---|---|---|
+| Aromatic Aster | #210 | Cedar base (south-east side) |
+| Pale Purple Coneflower | #218 | Cedar base (south-west side) |
+| Calico Aster | 1 of 3 from #191 | Cedar base (south-east side) |
+| Prairie Blues Little Bluestem | #211 | Cedar base (west side) |
+
+The remaining Calico Asters (2 of 3) and the rest of the prairie kit go to Wayward Meadow proper as previously planned.

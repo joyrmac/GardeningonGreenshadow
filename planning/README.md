@@ -4,6 +4,7 @@ Master plans, goals, and long-term vision for the garden.
 
 ## Master Plans
 
+- **Property_Map.md** - Canonical spatial layout of the property — where every zone, bed, tree, and feature is. Reference this for placement decisions.
 - **Master_Polyculture_Ecosystem_Plan.md** - Long-term ecosystem design
 - **Garden_Overview.md** - Overview of all gardens and goals
 - **Ancestral_Herb_Garden.md** - Heritage-based herb plan (Celtic, Germanic, Eastern European, French) + witchy garden practices (altar spirals, sacred geometry, Wheel-of-the-Year rituals, sacred trees)

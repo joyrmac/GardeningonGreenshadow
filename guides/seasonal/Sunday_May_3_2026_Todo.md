@@ -209,6 +209,26 @@ If they sell aquatic / pond-edge plants:
 - **Bloomerang lilac placement** (scout this week, plant separately)
 - **Potion Patch perennial backbone** (Valerian, Mullein, Astragalus, Angelica, St. John's Wort, Horehound — separate plant-buying trip)
 
+### Fall 2026 Planting Reminders (October–November)
+
+Sacred trees decided (see `planning/Ancestral_Herb_Garden.md`):
+
+- **'Brodie' Eastern Red Cedar** — Wayward Meadow north edge, between Cat Garden's tulip magnolia and the Gloam's southern magnolia. Confirm the gap is wide enough (8–10 ft trunk-to-trunk on each side). Female cultivar, 5-gallon stock, sharp grit ring at base. Companion plants reserved from American Meadows order: Aromatic Aster, Pale Purple Coneflower, 1 Calico Aster, Little Bluestem.
+- **'Winter King' Green Hawthorn** — Front yard, west side of house, threshold position. Rust-resistant cultivar (chosen because of cedar on-property). 20–25 ft mature size — give clearance from house and walkway.
+
+### Fireflies Forever Plants (When You're Ready to Plant Each)
+
+Original 6-plant collection redistributed (see `inventory/audits/American_Meadows_Placement_May_2026.md`):
+
+- Cardinal Flower → Frog pond margin (wet site)
+- Common Boneset → Wayward Meadow edge / pond edge
+- Northern Sea Oats → Fernwood edge
+- Arkansas Bluestar → Front yard for fall color
+- Smooth Blue Aster → Wayward Meadow
+- Shenandoah Red Switchgrass (×2) → Wayward Meadow
+
+Gloam itself replanted with dry-shade specialists — see `garden-beds/05-gloam/Gloam_Fireflies_Forever.md` (Pulmonaria, Heuchera, Christmas Fern, Hellebores, etc.)
+
 ---
 
 ## Reminders
