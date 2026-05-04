@@ -101,6 +101,8 @@ Everything in this guide comes from plants you already have seeds for or are gro
 - 1-2 stems **Thyme**
 - Wrap with cotton twine — burn outdoors, it'll smoke more
 
+> **Future target plant:** *Juniperus virginiana* (Eastern Red Cedar) is the classic North American "cedar" smudge wood and is on the Greenshadow plant wishlist (see `planning/Ancestral_Herb_Garden.md` — Germanic/Northern heritage). Once established (2–3 years from planting), juniper branch tips replace cryptomeria/spruce in this recipe and make it the real ancestral version. Branches need 6–12 months drying after harvest.
+
 ---
 
 ## Loose Incense Blends (Burn on Charcoal Disc)

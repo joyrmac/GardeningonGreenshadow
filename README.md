@@ -10,7 +10,8 @@
 
 **New to this garden?** Start here:
 - 📖 [QUICK_START.md](QUICK_START.md) — 5-minute orientation
-- 🗺️ [Garden_Overview.md](planning/Garden_Overview.md) — Philosophy, zone info, complete property map, bed index
+- 🗺️ [Property_Map.md](planning/Property_Map.md) — Canonical spatial layout (where every zone, bed, and tree sits)
+- 📋 [Garden_Overview.md](planning/Garden_Overview.md) — Philosophy, zone info, bed index
 - 📅 [Joy_Garden_2026.ics](planning/Joy_Garden_2026.ics) — Subscribe to the growing calendar (iCal format)
 
 **Planning & Planting:**
@@ -57,6 +58,7 @@
 - 🌿 [Medicinal Herb Kit Guide](guides/Medicinal_Herb_Kit_Guide.md) — Full growing and healing uses reference
 - 🧿 [Catnip Crafts Guide](reference/Catnip_Crafts_Guide.md) — Harvesting catnip, 5 cat toy projects, household uses
 - 🪣 [Smudging & Scent Burning Guide](guides/Smudging_and_Scent_Burning_Guide.md) — Sacred herb use, bundling, burning
+- 🌙 [Ancestral Herb Garden](planning/Ancestral_Herb_Garden.md) — Heritage-based plant list (Celtic/Germanic/Eastern European/French) + witchy garden practices (altar spirals, sacred trees, Wheel-of-the-Year rituals)
 
 **Aesthetic & Design:**
 - 🏷️ [Garden Signs](reference/Garden_Signs.md) — 9 sign designs with fonts, colors, materials, shopping list

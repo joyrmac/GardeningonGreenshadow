@@ -358,8 +358,7 @@ Files excluded (no plant/seed inventory data):
 | 176 | Bird of Paradise | Orange | Etsy | Live Plant | -- | SML |  |
 | 177 | Basjoo Banana Tree | -- | Etsy | Live Plant | -- | SML |  |
 | 178 | Black Cohosh | -- | Etsy | Seed | -- | SML |  |
-| 179 | Josee Reblooming Lilac | -- | Breck's | Live Plant | -- | SML | |
-| 180 | Sensation Lilac | -- | Breck's | Live Plant | -- | SML, LEFT | [MULTI-FILE] |
+| 229 | Bloomerang® Dark Purple Reblooming Lilac | Syringa x | Proven Winners Direct | Live Plant | -- | SML | See reference/plants/Bloomerang_Dark_Purple_Lilac.md |
 | 181 | Cherry Berry Hosta | -- | Breck's | Live Plant | -- | SML, LEFT | [MULTI-FILE] |
 | 182 | Enterprise Hosta | -- | Breck's | Live Plant | -- | LEFT |  |
 | 183 | Tokudama Flavocircinalis Hosta | -- | Breck's | Live Plant | -- | LEFT |  |
@@ -474,10 +473,10 @@ These appear only in the Edgeworth Corner Grid and are landscape/structural plan
 | Climbing Flowers & Vines (seeds) | 6 |
 | Milkweed (seeds) | 7 |
 | Other Individual Flowers (seeds/bulbs) | 20 |
-| Perennials, Shrubs & Trees (live plants/seeds) | 13 |
+| Perennials, Shrubs & Trees (live plants/seeds) | 12 |
 | Edgeworth Landscape Plants (live, assumed) | 4 |
 | Recent Orders Jan-Feb 2026 (live plants, seeds, bare roots) | 39 |
-| **TOTAL UNIQUE ITEMS** | **228** |
+| **TOTAL UNIQUE ITEMS** | **227** |
 
 | Metric | Count |
 |--------|-------|
@@ -509,6 +508,6 @@ These appear only in the Edgeworth Corner Grid and are landscape/structural plan
 
 4. Calendula 'Pink Surprise' appears only in the Bloomveil Detailed Planting with no supplier. Calendula 'Sunset Mix' is attributed to Eden Brothers in the Seed Varieties by Square Foot file. A generic "Calendula" reference appears in SI25.
 
-5. The Leftover_Inventory_After_Bloomveil.csv lists items that were NOT used in the Bloomveil plan and are available for other beds. These include: Snapdragon 'Orange Wonder', Snapdragon 'Tall Deluxe', Zinnia 'Macarenia' (listed as Etsy source -- also appears as Rare Seeds in SML), Candy Cane Stripe Zinnias, Cosmos 'Sea Shells', Cosmos 'Apricotta' (listed as Eden Brothers -- also appears as Rare Seeds in SML), Aster 'Salmon Janina', Dandelion 'Pink', Tweedia 'Heavenly Blue', Daisy 'Blue Disc African', Daisy 'Pink Shades Paper', all four Poppies, Bachelor Buttons, Johnny Jump Ups, Chamomile, Hyssop, three Hostas, Hardy Fern Collection, Shade Designer Garden, and Sensation Lilac.
+5. The Leftover_Inventory_After_Bloomveil.csv lists items that were NOT used in the Bloomveil plan and are available for other beds. These include: Snapdragon 'Orange Wonder', Snapdragon 'Tall Deluxe', Zinnia 'Macarenia' (listed as Etsy source -- also appears as Rare Seeds in SML), Candy Cane Stripe Zinnias, Cosmos 'Sea Shells', Cosmos 'Apricotta' (listed as Eden Brothers -- also appears as Rare Seeds in SML), Aster 'Salmon Janina', Dandelion 'Pink', Tweedia 'Heavenly Blue', Daisy 'Blue Disc African', Daisy 'Pink Shades Paper', all four Poppies, Bachelor Buttons, Johnny Jump Ups, Chamomile, Hyssop, three Hostas, Hardy Fern Collection, and Shade Designer Garden. (Sensation Lilac was previously listed here but was never actually purchased — removed May 2026.)
 
 6. Some items have conflicting supplier attributions across files (e.g., Cosmos 'Apricotta' listed as Rare Seeds in SML but Eden Brothers in LEFT; Zinnia 'Macarenia' listed as Rare Seeds in SML but Etsy in LEFT). Both suppliers are noted where this occurs.

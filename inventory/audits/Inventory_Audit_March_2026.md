@@ -86,13 +86,14 @@ Only Amber Glow is assigned (Spice Drift). The companion-planting marigolds (Gol
 | Bird of Paradise Blue & Orange | NOT cold-hardy in Zone 7b — must be container plants brought inside for winter |
 | Basjoo Banana Tree | Cold-hardy to Zone 5 — can go in ground. Needs a spot |
 | Black Cohosh | Shade-loving — Fernwood candidate |
-| Josee Reblooming Lilac | Needs a permanent spot |
 | Hardy Fern Collection | Fernwood |
 | Shade Designer Garden | Fernwood |
 | Enterprise Hosta | Fernwood |
 | Tokudama Flavocircinalis Hosta | Fernwood |
 | Cherry Berry Hosta | Fernwood |
-| Sensation Lilac | Needs a permanent spot |
+| Bloomerang® Dark Purple Reblooming Lilac | Purchased April 2026, Proven Winners Direct, $39.99 — needs a permanent spot with 6+ hours of full sun. See reference/plants/Bloomerang_Dark_Purple_Lilac.md |
+
+> **Note (May 2026):** Josee Reblooming Lilac and Sensation Lilac were previously listed here as unplaced. They were never actually purchased and have been removed from inventory. The Bloomerang is the only lilac on the property.
 
 ### Recent orders (Jan-Feb 2026) — mostly unplaced
 
