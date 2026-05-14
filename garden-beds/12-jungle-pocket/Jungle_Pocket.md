@@ -44,6 +44,7 @@ Like a tropical greenhouse exploded onto a single bed.
 
 | Plant | Latin | Qty | Source | Notes |
 |---|---|---|---|---|
+| **Alocasia odora** ⭐ | *Alocasia odora* | 1 bulb | EasyToGrow / Etsy ($19.16) | "Asian Taro" / "Night-scented Lily" — most cold-hardy Alocasia, Zone 7b–8 with protection. Fragrant night blooms. Year 1 modest (2–3 ft); Year 2+ explodes to 4–6 ft upright. Cover crown with 8–12" mulch each fall (same method as existing elephant ear). |
 | **Elephant Ears 'Pink China'** | *Colocasia esculenta* 'Pink China' | 3 tubers/plants | Buy | Hardiest Colocasia for Zone 7b — can stay in ground with heavy mulch. Pink-stalked, deep green leaves. |
 | **Elephant Ears 'Black Magic'** (optional) | *Colocasia esculenta* 'Black Magic' | 1–2 | Buy | Dramatic black foliage. Lift tubers in fall to overwinter indoors. |
 | **Hardy Hibiscus** | *Hibiscus moscheutos* | 1–2 | Buy | Dinner-plate-sized flowers, 3–5 ft mound. Dies back each winter, regrows. Look for 'Lord Baltimore' (red), 'Kopper King' (burgundy foliage + pink), or 'Blue River II' (white). |

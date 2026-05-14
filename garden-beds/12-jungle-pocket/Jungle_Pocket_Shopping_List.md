@@ -17,7 +17,7 @@
 
 | Plant | Qty | Specifically look for | Approx cost |
 |---|---|---|---|
-| **Upright Alocasia macrorrhiza** ('Calidora' or straight species) | 1 | 3-gallon size minimum; big upright leaves | $25–50 |
+| **Alocasia odora** ⭐ ("Asian Taro" / "Night-scented Lily") | 1 bulb | EasyToGrow on Etsy ($19.16, ships from Wisconsin, arrives ~May 20–21). Most cold-hardy Alocasia for Zone 7b. Fragrant night blooms. | ~$19 |
 | **Colocasia 'Mojito'** | 1 | Green leaves with dark purple splotches | $15–25 |
 | **Canna 'Phasion'** (a.k.a. 'Tropicanna') | 3 rhizomes or potted | Striped leaves + orange flowers — both names = same plant | $15–30 |
 | **Hardy Hibiscus** | 1 | Pick: 'Kopper King' (burgundy leaves + pink) ⭐ or 'Lord Baltimore' (red dinner-plates) | $20–30 |
@@ -156,7 +156,7 @@ If you do only Tier 1 plants + essentials: **$165–330**
 ## Substitution Notes
 
 If a nursery doesn't have something:
-- **No Alocasia macrorrhiza?** 'Calidora' or 'Portora' substitute (both upright big-leaf)
+- **No Alocasia odora?** *A. macrorrhiza* straight species (also fairly hardy in 7b with mulch), or 'Calidora' / 'Portora' (less hardy — may need digging)
 - **No 'Mojito'?** Any large Colocasia works — 'Black Magic' (darker), 'Pink China' (hardiest)
 - **No 'Phasion'?** Look for 'Tropicanna' — exact same plant
 - **No 'Kopper King'?** 'Lord Baltimore' (red), 'Cherry Cheesecake' (pink/red bicolor), 'Blue River II' (white)
