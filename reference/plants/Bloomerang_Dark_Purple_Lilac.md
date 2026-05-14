@@ -122,17 +122,43 @@ Proven Winners Direct — Bloomerang® Dark Purple Reblooming Lilac
 
 ---
 
-## Decision Needed
+## Status (May 2, 2026): Planted, but Relocating
 
-**Pick a permanent spot before summer heat.** See *Inventory_Audit_March_2026.md* — this lilac is currently the only unplaced shrub on the property.
+**Currently planted** in the back-yard bird-feeder bed (against the brick wall). However, that area is being redesigned as **The Jungle Pocket** — a tropical bed (Basjoo Banana, Elephant Ears, etc.) which wants rich + moist soil. Lilacs want lean + dry. **The soil profile is incompatible** — the lilac needs to be moved.
 
-**Non-negotiable:** the spot must get **6+ hours of direct sun**. A "between trees" spot on the south side of the yard was considered and ruled out (May 2026) because the trees would shade it too much for reliable bloom. Looking for an open, sunny location instead.
+**Action needed:** Transplant the Bloomerang to a new spot before the tropical bed gets built.
 
-Other things to factor in when scouting:
-- At least 6–10 ft from any tree trunk (root competition)
-- Not under or downhill from black walnut (juglone toxicity — black walnut suppresses lilacs)
-- Decent drainage; lilacs hate wet feet
-- 4–6 ft of clear space all around for mature size
+### Scouting criteria for new spot
+
+- **6+ hours of direct sun** (non-negotiable)
+- **At least 6–10 ft from any tree trunk** (root competition)
+- **Far from where the 'Winter King' Hawthorn will go** (cedar-apple rust pairing — hawthorn goes front yard west of house)
+- **Lean, well-drained soil** — no swampy or rich-compost spots
+- **4–6 ft of clear space all around** for mature size
+
+### Candidate new locations
+
+1. **Front yard** — sunny gap away from where the hawthorn will go
+2. **South of the Cat Garden tulip magnolia** — if there's a sunny pocket (filtered shade probably won't work)
+3. **NE edge of Wildwood** along the north fence — if there's a sunny gap between Wildwood beds and Fernwood
+
+### Transplant technique
+
+- Cool / overcast morning
+- Water deeply 24 hours before digging
+- Dig as much rootball as possible (cut a 12–18" wide × 12" deep wedge around the plant)
+- Move directly to the new hole, no air drying
+- Backfill with native soil, no compost amendment
+- Water deeply at new spot
+- **Sharp grit ring** at base for vole protection
+- **Build hardware cloth basket around the rootball** at transplant (voles love lilacs — required, not optional)
+- Mulch 2–3", kept 2–3" back from trunk
+- Water deeply once a week through first summer if rainfall is light
+
+### Existing place markers
+
+- Removed from inventory: Josee Reblooming Lilac (#179) and Sensation Lilac (#180) — never actually purchased
+- This Bloomerang is the only lilac on the property
 
 ## Vole Protection — Required at Planting
 

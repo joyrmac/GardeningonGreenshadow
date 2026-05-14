@@ -128,6 +128,7 @@ D  │   │       │             │       ─────────        
 - **Defined features:**
   - **Gloam:** Just east of back door (~10 ft), under the **full-grown Southern Magnolia** (evergreen, big tree). Currently planned as "Fireflies Forever" shade garden — see notes below for revised plant list (most original plants didn't fit dry magnolia shade)
   - **Cat Garden:** Middle of back yard (~100 ft from door), ~10 ft east of the Gloam's southern magnolia. Center feature is a **tulip magnolia** (deciduous, with ~30 sprouts being managed)
+  - **Back-yard bird feeder tree + Jungle Pocket:** A tree with bird feeders sits inside a brick raised bed/wall structure. Wrapping the outside of that brick wall is **The Jungle Pocket** — a curved tropical bed (6–7 ft deep × 12 ft long, ~60–75 sq ft) featuring Basjoo Banana, Elephant Ears, Hardy Hibiscus, Cannas, and the existing Bird of Paradise containers. Replaces 4 existing bushes. See `garden-beds/12-jungle-pocket/Jungle_Pocket.md`
 
 ### 5. South Side / Southeast (the Ritual / Burning Side)
 
