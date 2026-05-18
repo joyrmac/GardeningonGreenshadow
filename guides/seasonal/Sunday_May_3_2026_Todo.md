@@ -206,8 +206,9 @@ If they sell aquatic / pond-edge plants:
 - **Rosemary, lavender planting** in the Spiral Herb Garden (not urgent — you already have 4 lavender + 1 rosemary established there)
 - **Bee balm division** (any cool morning works — better in fall actually)
 - **Fire pit mulching** (needs a use-decision first)
-- **Bloomerang lilac placement** (scout this week, plant separately)
 - **Potion Patch perennial backbone** (Valerian, Mullein, Astragalus, Angelica, St. John's Wort, Horehound — separate plant-buying trip)
+- **🌴 The Jungle Pocket bed build** — demo the 4 existing bushes around the back-yard bird feeder tree, soil prep, plant Basjoo banana + elephant ears + hardy hibiscus + cannas + bring out Bird of Paradise containers. See `garden-beds/12-jungle-pocket/Jungle_Pocket.md`. Best timing: late May / June after final frost danger and tropical plants are widely available at nurseries.
+- **🌸 Transplant Bloomerang Lilac** — currently planted in the Jungle Pocket area; needs to move to a sunny spot with lean soil. Cool/overcast morning, hardware-cloth basket at the new spot (vole-required). Scout new location this week — see `reference/plants/Bloomerang_Dark_Purple_Lilac.md` for candidate spots.
 
 ### Fall 2026 Planting Reminders (October–November)
 
