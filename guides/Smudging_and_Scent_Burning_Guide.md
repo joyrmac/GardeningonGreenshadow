@@ -101,7 +101,11 @@ Everything in this guide comes from plants you already have seeds for or are gro
 - 1-2 stems **Thyme**
 - Wrap with cotton twine — burn outdoors, it'll smoke more
 
-> **Future target plant:** *Juniperus virginiana* (Eastern Red Cedar) is the classic North American "cedar" smudge wood and is on the Greenshadow plant wishlist (see `planning/Ancestral_Herb_Garden.md` — Germanic/Northern heritage). Once established (2–3 years from planting), juniper branch tips replace cryptomeria/spruce in this recipe and make it the real ancestral version. Branches need 6–12 months drying after harvest.
+> **🌲 UPDATE May 2026:** Three mature **Eastern Red Cedar** (*Juniperus virginiana*) trees confirmed growing wild on the property (matched by wood signature — reddish heartwood, fibrous stringy grain, shaggy peeling bark). **Use real cedar branches instead of the cryptomeria/spruce substitute** — this is the actual ancestral burning wood your Germanic + Norse heritage calls for, AND THE classic North American smudge wood.
+>
+> **Harvest:** Take small dead/dropped branches first; live pruning sparingly so trees stay healthy. Dry 4–8 weeks for thin twigs, longer for thicker pieces. Break into 3–6" pieces before burning.
+>
+> The planned 'Brodie' Cedar (fall 2026) remains valuable as a cultivated tree near the fire pit (and female cultivar = berries) but is no longer the only source. See `planning/Ancestral_Herb_Garden.md` Sacred Trees section.
 
 ---
 

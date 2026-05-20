@@ -646,7 +646,22 @@ These are ancestral must-grows that aren't on the property yet:
 
 Two sacred trees are now locked in for fall 2026 planting on opposite sides of the property — Germanic/burning at the back, Celtic/threshold at the front.
 
-#### 🌲 Eastern Red Cedar 'Brodie' (*Juniperus virginiana* 'Brodie')
+#### 🌲 EXISTING: Three Mature Wild Eastern Red Cedars on Property (Confirmed May 2026)
+
+**Game-changer.** Three mature *Juniperus virginiana* trees identified growing wild on the property (wood signature: reddish heartwood, fibrous stringy grain, shaggy peeling bark). **You already have the ancestral burning wood.** Implications:
+
+- Begin ancestral cedar-smudge practice immediately (no waiting for the new 'Brodie' to mature)
+- Recipe 6 "Woodland Resin" can use real cedar instead of the cryptomeria substitute (see `guides/Smudging_and_Scent_Burning_Guide.md`)
+- Wild cedars are likely a mix of male and female — observe for blue berries to identify females (berry-producers add ancestral fruit harvest + bird food)
+- Harvest sparingly: take dead/dropped branches first; live-prune lightly. Dry 4–8 weeks before burning.
+
+#### 🌲 PLANNED: Eastern Red Cedar 'Brodie' (*Juniperus virginiana* 'Brodie')
+
+Despite the wild cedars, the 'Brodie' planting is still valuable:
+- **Confirmed-female cultivar** → reliable berries
+- **Sited near the Fire Pit** → ritual-proximity harvest
+- **Companion plantings reserved** at its base
+- **A specific intention/ritual planting** rather than wild trees
 
 - **Tradition:** Germanic / Northern — protection, purification, winter survival, ancestral burning
 - **Cultivar reasoning:** Female (= blue berries for birds and ancestral berry use), narrow upright form (15–20 ft tall × 6–8 ft wide), most balanced size for harvest without overwhelming the bed
