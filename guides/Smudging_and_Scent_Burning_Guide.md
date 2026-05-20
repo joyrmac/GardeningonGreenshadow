@@ -94,18 +94,22 @@ Everything in this guide comes from plants you already have seeds for or are gro
 - 1-2 stems **Catnip**
 - Wrap with cotton twine
 
-### Recipe 6: "Woodland Resin" (cedar/juniper substitute)
-**Best for:** Deep cleansing, grounding, when you want that woodsy-piney scent
-- 4-5 small **Cryptomeria/Blue Spruce** branch tips (dried)
+### Recipe 6: "Woodland Resin" (cypress / cedar / juniper smudge)
+**Best for:** Deep cleansing, grounding, woodsy-piney scent, AND mourning/transition/ancestor work
+- 4-5 small **Bald Cypress** branch tips (dried) — see UPDATE below
 - 2-3 stems **Rosemary**
 - 1-2 stems **Thyme**
 - Wrap with cotton twine — burn outdoors, it'll smoke more
 
-> **🌲 UPDATE May 2026:** Three mature **Eastern Red Cedar** (*Juniperus virginiana*) trees confirmed growing wild on the property (matched by wood signature — reddish heartwood, fibrous stringy grain, shaggy peeling bark). **Use real cedar branches instead of the cryptomeria/spruce substitute** — this is the actual ancestral burning wood your Germanic + Norse heritage calls for, AND THE classic North American smudge wood.
+> **🌲 UPDATE May 2026:** Three mature **Bald Cypress** (*Taxodium distichum*) trees confirmed growing wild on the property — NC native, true cypress family (Cupressaceae), deciduous conifer with soft feathery needles + reddish stringy peeling bark. **Use real bald cypress branches** instead of the original cryptomeria/spruce substitute — it's the actual cypress family.
 >
-> **Harvest:** Take small dead/dropped branches first; live pruning sparingly so trees stay healthy. Dry 4–8 weeks for thin twigs, longer for thicker pieces. Break into 3–6" pieces before burning.
+> **Cypress vs. Cedar smudge — both belong in your practice:**
+> - **Bald Cypress** (yours, wild) → grief, transitions, ancestors, mourning, immortality, releasing. Strongest at Samhain, Mabon, memorial days, new moon, after loss.
+> - **Eastern Red Cedar** (your planned 'Brodie', fall 2026) → protection, purification, daily ritual, threshold. Strongest at Yule, after illness, home blessings.
 >
-> The planned 'Brodie' Cedar (fall 2026) remains valuable as a cultivated tree near the fire pit (and female cultivar = berries) but is no longer the only source. See `planning/Ancestral_Herb_Garden.md` Sacred Trees section.
+> **Harvest from your wild bald cypresses:** Take small dead/dropped branches first; live-prune sparingly so trees stay healthy. They also drop their needles each fall — gather fallen needles after the first frost. Dry 4–8 weeks for thin twigs, longer for thicker pieces. Break into 3–6" pieces before burning.
+>
+> See `planning/Ancestral_Herb_Garden.md` Sacred Trees section for both species' roles in your practice.
 
 ---
 

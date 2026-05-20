@@ -646,22 +646,35 @@ These are ancestral must-grows that aren't on the property yet:
 
 Two sacred trees are now locked in for fall 2026 planting on opposite sides of the property — Germanic/burning at the back, Celtic/threshold at the front.
 
-#### 🌲 EXISTING: Three Mature Wild Eastern Red Cedars on Property (Confirmed May 2026)
+#### 🌲 EXISTING: Three Mature Wild Bald Cypress on Property (Confirmed May 2026)
 
-**Game-changer.** Three mature *Juniperus virginiana* trees identified growing wild on the property (wood signature: reddish heartwood, fibrous stringy grain, shaggy peeling bark). **You already have the ancestral burning wood.** Implications:
+**Significant find.** Three mature *Taxodium distichum* (Bald Cypress) trees identified growing wild on the property. Verified by leaf signature (soft feathery needles in flat rows on branchlets) + bark/wood signature (reddish stringy peeling bark, fibrous wood grain). NC native, true cypress family (Cupressaceae), deciduous conifer.
 
-- Begin ancestral cedar-smudge practice immediately (no waiting for the new 'Brodie' to mature)
-- Recipe 6 "Woodland Resin" can use real cedar instead of the cryptomeria substitute (see `guides/Smudging_and_Scent_Burning_Guide.md`)
-- Wild cedars are likely a mix of male and female — observe for blue berries to identify females (berry-producers add ancestral fruit harvest + bird food)
-- Harvest sparingly: take dead/dropped branches first; live-prune lightly. Dry 4–8 weeks before burning.
+**Initially misidentified as Eastern Red Cedar** based on wood signature alone — but the feathery needles (vs. ERC's scale-like overlapping leaves) settle the ID as Bald Cypress. PictureThis had already ID'd one of them on May 16, 2026.
+
+**Implications for ancestral practice:**
+- **Cypress traditions** (grief, transitions, ancestors, mourning, immortality, letting go) apply directly — strongest at Samhain, Mabon, memorial days, new moon, after loss
+- **NC native** = connection to the land itself
+- **Same family as European true cypress** = your French Provençal heritage gets a real cypress connection
+- **Recipe 6 "Woodland Resin"** updated to use real bald cypress instead of cryptomeria substitute
+- **Begin cypress-smudge practice immediately** — no waiting on new plantings
+- **Deciduous bonus** — needles drop each fall; gather them as natural smudge supply
+
+**Harvest sustainably:** dead/dropped branches first, then sparing live pruning. Dry 4–8 weeks before burning.
 
 #### 🌲 PLANNED: Eastern Red Cedar 'Brodie' (*Juniperus virginiana* 'Brodie')
 
-Despite the wild cedars, the 'Brodie' planting is still valuable:
-- **Confirmed-female cultivar** → reliable berries
-- **Sited near the Fire Pit** → ritual-proximity harvest
-- **Companion plantings reserved** at its base
-- **A specific intention/ritual planting** rather than wild trees
+The 'Brodie' Cedar is **complementary**, not redundant, to the wild Bald Cypresses. Different plant, different ritual role:
+
+| Property | **Wild Bald Cypress** | **Planned 'Brodie' Cedar** |
+|---|---|---|
+| Species | *Taxodium distichum* (deciduous) | *Juniperus virginiana* (evergreen) |
+| Smudge tradition | Grief, transitions, mourning, ancestors | Protection, purification, daily cleansing |
+| Heritage fit | Native American + French Provençal cypress + general | Germanic + Norse direct |
+| Best for | Samhain, Mabon, memorial, after loss | Yule, daily ritual, home blessings, after illness |
+| On property | 3 mature trees (existing) | 1 planted fall 2026 |
+
+You now have **both cypress and cedar** covering the full ritual spectrum.
 
 - **Tradition:** Germanic / Northern — protection, purification, winter survival, ancestral burning
 - **Cultivar reasoning:** Female (= blue berries for birds and ancestral berry use), narrow upright form (15–20 ft tall × 6–8 ft wide), most balanced size for harvest without overwhelming the bed
