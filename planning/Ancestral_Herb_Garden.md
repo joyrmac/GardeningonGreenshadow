@@ -9,7 +9,18 @@ Your ancestors knew magic. They grew specific herbs, performed specific rituals,
 
 ## PART ONE: HERBS BY ANCESTRAL HERITAGE
 
-Your bloodline carries specific plant knowledge from four major traditions. These aren't random herbs—your ancestors grew these because they work, because they're protective, because they heal, because they're sacred.
+Your bloodline carries specific plant knowledge from these traditions. These aren't random herbs—your ancestors grew these because they work, because they're protective, because they heal, because they're sacred.
+
+### Your Heritage Breakdown (Updated May 2026)
+
+| Tradition | % | Emphasis |
+|---|---|---|
+| **French & German** | 69.8% | ⭐ **Primary** — Mediterranean Provençal herbs (Lavender, Rosemary, Thyme, Sage, Bay) + Germanic Northern protection herbs (Mugwort, Wormwood, Juniper, Angelica) carry the backbone |
+| **British & Irish (Celtic)** | 10.7% | Significant thread — Hawthorn, Yarrow, St. John's Wort, Vervain, Mugwort (cross-tradition) |
+| **Eastern European (Slavic)** | 4.8% | Small accent — Linden tree, Mugwort, Wormwood (overlap with Germanic) |
+| **Scandinavian (Norse)** | 3.1% | Small accent — strong overlap with Germanic. **Birch** (sacred to Freya), **Juniper**, **Rowan**, **Mugwort** |
+
+**Practical implication:** the French+German Mediterranean+Northern combination should dominate plant choices and feel. Celtic threshold/protection plants weave through. Scandinavian + Eastern European are accent traditions, mostly satisfied by overlap with Germanic.
 
 ### CELTIC / BRITISH / IRISH HERITAGE
 
@@ -112,6 +123,31 @@ These are the herbs of folk magic, of pragmatic protection, of survival and stre
 - Rowan (protection)
 - Linden (healing, love, protection)
 - Oak (strength, wisdom)
+
+---
+
+### SCANDINAVIAN / NORSE HERITAGE
+
+These are the herbs of the North, of long winters, of forest magic, of Yggdrasil and the World Tree.
+
+**Must-Grow (Core Herbs):**
+- **Mugwort** — sacred to Freya. Dream work, protection, ancestor connection (same as Celtic + Germanic)
+- **Juniper** — sacred to the Norse, used for purification and protection. Branches burned in homes
+- **Wormwood** — bitter protection herb, used in folk magic
+- **Yarrow** — divination, healing, protection
+
+**Also-Grow (Secondary Herbs):**
+- Sage — universal cleansing
+- Thyme — courage
+- St. John's Wort — light/sun magic, midsummer
+- Lavender — peace, protection (overlap with French)
+- Mountain ash berries — Rowan, sacred protection
+
+**Trees to Plant (If Space):**
+- **Birch** (*Betula nigra* — river birch is NC native) — ⭐ THE Norse sacred tree, sacred to Freya, new beginnings, purification
+- **Rowan / Mountain Ash** — Norse protection tree
+- **Juniper** — sacred evergreen
+- **Ash** — Yggdrasil's tree (though challenging due to emerald ash borer in NC)
 
 ---
 
@@ -504,13 +540,14 @@ Planting a tree is one of the most powerful garden magics:
 
 ## QUICK REFERENCE: WHAT TO GROW BY TRADITION
 
-| Tradition | Must-Grow | Also-Grow | Trees |
-|-----------|-----------|-----------|-------|
-| **Celtic** | Mugwort, Yarrow, St. John's Wort | Hawthorn, Rowan, Sage, Thyme, Vervain | Rowan, Hawthorn, Oak, Elder |
-| **Germanic** | Mugwort, Wormwood, Juniper, Angelica | Yarrow, St. John's Wort, Sage, Thyme | Fir, Pine, Birch, Elder, Rowan |
-| **Eastern European** | Mugwort, Wormwood, St. John's Wort, Yarrow | Sage, Thyme, Oregano, Comfrey | Birch, Elder, Rowan, Linden |
-| **French** | Lavender, Rosemary, Thyme | Sage, Oregano, Chamomile, Mint | Olive (if climate), Bay Laurel |
-| **Combined Core** | Mugwort, Sage, St. John's Wort, Yarrow, Thyme, Lavender, Rosemary | Wormwood, Juniper, Angelica, Oregano, Calendula | Rowan, Hawthorn, Elder, Birch |
+| Tradition | % | Must-Grow | Also-Grow | Trees |
+|-----------|---|-----------|-----------|-------|
+| **French (Provençal)** ⭐ | (69.8% combined) | Lavender, Rosemary, Thyme | Sage, Oregano, Chamomile, Mint | Bay Laurel |
+| **German** ⭐ | (69.8% combined) | Mugwort, Wormwood, Juniper, Angelica | Yarrow, St. John's Wort, Sage, Thyme | Fir, Pine, **Birch**, Elder, Rowan |
+| **Celtic (British/Irish)** | 10.7% | Mugwort, Yarrow, St. John's Wort | Hawthorn, Rowan, Sage, Thyme, Vervain | **Hawthorn**, Rowan, Oak, Elder |
+| **Eastern European (Slavic)** | 4.8% | Mugwort, Wormwood, St. John's Wort, Yarrow | Sage, Thyme, Oregano, Comfrey | **Birch**, Elder, Rowan, Linden |
+| **Scandinavian (Norse)** | 3.1% | Mugwort, Juniper, Wormwood, Yarrow | Sage, Thyme, St. John's Wort, Lavender | **Birch** ⭐, Juniper, Rowan |
+| **Greenshadow Combined Core** | — | Lavender, Rosemary, Thyme, Sage, Mugwort, Wormwood, Yarrow, St. John's Wort | Juniper, Angelica, Hawthorn, Calendula, Chamomile | **Cedar (Juniper), Hawthorn, Birch** |
 
 ---
 
