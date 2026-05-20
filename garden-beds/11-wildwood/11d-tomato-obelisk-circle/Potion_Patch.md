@@ -62,25 +62,53 @@
 
 ### CENTER RING (Ring 1) — Tall Focal Plants (3-5 ft)
 - **Valerian** (2) — Deep roots, calming medicine, perennial anchor
-- **Mullein** (3-5) — Respiratory, self-seeding, biennial
-- **Echinacea** (2-3) — Immune support icon, perennial
-- **Angelica** (2-3) — Architectural, warming, biennial
+- **Mullein** (3-5) — Respiratory, self-seeding, biennial. **Watch for wild plants on property — they self-seed in NC and can be transplanted for free**
+- **Echinacea** (2-3) — Immune support icon, perennial. **You have 3× Magnus Echinacea from AM order #197 ready to plant**
+- **Angelica** (2-3) — Architectural, warming, biennial. Germanic ancestral priority (your 69.8% French+German heritage)
+- **Common Evening Primrose** (2–3) — ⭐ NATIVE biennial *(Oenothera biennis)*, yellow blooms open at dusk (moon connection), edible roots/leaves, ancestral medicinal. **Free from property — wild plants ID'd via PictureThis**. Can substitute/supplement Mullein slot.
 
 ### MIDDLE RING (Ring 2) — Structural Plants (18-36")
 - **Astragalus** (1-2) — Adaptogenic immune, slow-build perennial, nitrogen fixer
-- **Yarrow** (4-6) — Beneficial wasp magnet, bleeds stopping, perennial
-- **St. John's Wort** (1-2) — Mood support, yellow flowers, perennial
+- **Yarrow** (4-6) — Beneficial wasp magnet, bleeds stopping, perennial. Cross-tradition ancestral herb.
+- **St. John's Wort** (1-2) — Mood support, yellow flowers, perennial. Midsummer harvest peak.
 - **Hyssop** (6-8) — Respiratory, spike flowers, moderate spreader
 - **Horehound** (1) — Cough support, unique texture, perennial
+- **Marshmallow** (1) ⭐ — *(Althaea officinalis)* Classic Celtic/English/Greek/Roman medicinal — soothing for sore throat, cough, digestive. Tall (4–6 ft), perennial in 7b. **You have 1 live plant ready to install (May 2026).**
+- **Wormwood** (1–2) ⭐ — *(Artemisia absinthium)* Germanic + Eastern European + Norse protection/banishing herb. **Top ancestral priority** (covers 3 of your 4 heritage traditions). Silver foliage. Buy at any herb nursery.
+- **Foxglove Beardtongue** (3–5) — ⭐ NATIVE penstemon *(Penstemon digitalis)*, white flower spikes, pollinator magnet. **Free from property — divide wild patch.**
+- **Common Foxglove** (1–2) ⭐ — *(Digitalis purpurea)* Classic medicinal/witchy plant — original source of digoxin (heart medicine). **⚠️ All parts toxic if eaten** — handle with awareness; never harvest as edible/tea. Tall purple spikes for back-middle ring placement. **Free from property — lift naturalized plants.**
+
+### MIDDLE-OUTER RING — French Provençal Heritage Accent
+- **Lavender** (1–2) — Already 4 established in Spiral Top Circle, but adding 1–2 to the Potion Patch south-facing edge integrates your French Provençal heritage (69.8% French+German). Divide/transplant from Spiral or buy small starts.
+- **Rosemary** (1) — Already 1 in Spiral Upper South Step. A second on the Potion Patch south edge for ancestral integration + harvest convenience.
 
 ### OUTER RING (Ring 3) — Abundant Annuals (6-18")
 - **Calendula** (8-10) — Continuous healing flowers, prolific
 - **Chamomile** (10-15) — Sleep + digestion, heavy self-seeder
 - **Borage** (4-6) — Blue star flowers, courage herb, moderate spreader
-- **Fenugreek** (10-12) — YOUR TEA PLANT, seed harvest
+- **Fenugreek** (10-12) — YOUR TEA PLANT, seed harvest (buy seed at Home Depot)
 - **French Marigold** (8-10) — Companion pest deterrent
-- **Anise** (8-10) — Digestive, feathery foliage
+- **Anise** (8-10) — *(Pimpinella anisum)* Digestive seed crop, feathery foliage
 - **Hollyhock, French Dwarf** (5-8) — Vertical accent, biennial
+
+### CONTAINED POT (north arc of Potion Patch) — Ancestral Burning Herbs
+- **Mugwort** ⭐ — *(Artemisia vulgaris)* ALL FOUR ancestral traditions (French, German, Celtic, Norse — your #1 cross-tradition herb). **MUST be contained** (aggressive runner). Plant in a buried 12–18" pot with the rim above the soil line. Position: north arc of the C-shape (traditional witch/moon position). Primary smudge ingredient.
+
+---
+
+## Heritage Integration Notes (Added May 2026)
+
+The Potion Patch now reflects your actual ancestry breakdown:
+
+| Heritage | % | Plants in Potion Patch |
+|---|---|---|
+| **French + German** | 69.8% | Lavender, Rosemary (Provençal); Mugwort, Wormwood, Angelica (Germanic Northern) |
+| **British/Irish Celtic** | 10.7% | Mugwort, Yarrow, St. John's Wort, Vervain (if added) |
+| **Eastern European** | 4.8% | Mugwort, Wormwood, St. John's Wort |
+| **Scandinavian (Norse)** | 3.1% | Mugwort, Yarrow, Wormwood |
+| **NC Native (cross-tradition)** | — | Common Evening Primrose, Penstemon digitalis, Common Foxglove (naturalized), Echinacea |
+
+**Key insight:** The plants that "show up" in multiple traditions (Mugwort everywhere, Wormwood 3-of-4, Yarrow 3-of-4) are the most efficient additions — they serve your whole heritage at once.
 
 ---
 

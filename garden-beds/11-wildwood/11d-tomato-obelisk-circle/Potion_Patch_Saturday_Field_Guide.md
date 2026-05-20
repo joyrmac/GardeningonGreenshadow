@@ -83,8 +83,9 @@ Set each plant pot on top of the soil where you think it goes. Walk around. Adju
 |---|---|---|---|---|
 | **Magnus Echinacea** ⭐ | 3 | 12–18" apart | American Meadows #197 | Plant on north side; iconic medicinal + pollinator. Use ALL THREE here (Potion Patch is the right home for these) |
 | **Valerian** | 2 | 24" apart | Nursery (if got) | Dead center, north position. Deep roots, calming medicine |
-| **Mullein** | 3–5 | scatter | Nursery / wild seedling | Year 1 = fuzzy rosette; year 2 = tall flower spike |
-| **Angelica** | 2–3 | 18" apart | Nursery (if got) | Architectural biennial |
+| **Mullein** | 3–5 | scatter | Nursery / wild seedling | Year 1 = fuzzy rosette; year 2 = tall flower spike. **Check property for wild plants first** |
+| **Angelica** | 2–3 | 18" apart | Nursery (if got) | Architectural biennial — Germanic ancestral |
+| **Common Evening Primrose** ⭐ | 2–3 | 18" apart | **Lift from wild on property** | NATIVE biennial, *Oenothera biennis*, yellow dusk-opening flowers (moon connection), ancestral medicinal |
 
 **If you only have Magnus Echinacea:** that alone fills the center ring beautifully for year 1. Other center plants can be added later.
 
@@ -93,14 +94,30 @@ Set each plant pot on top of the soil where you think it goes. Walk around. Adju
 | Plant | Qty | Spacing | Source | Notes |
 |---|---|---|---|---|
 | **Yarrow** | 4–6 | 12" apart | Nursery (if got) OR seed later | Beneficial wasp magnet; if no live plants, seed when soil dries |
+| **Marshmallow** ⭐ | 1 | 18–24" | ✅ Live plant in hand | *Althaea officinalis* — soothing throat/cough demulcent, tall (4–6 ft), middle-back placement, classic Celtic+English+Greek+Roman ancestral medicinal |
 | **Hyssop** (true) | 6–8 | 12" apart | Nursery (if got) | Camphor-smelling small subshrub, blue flower spikes |
-| **Mango Tango Hyssop** ⭐ | 3 | 12" apart | American Meadows #194 | Anise hyssop variety — substitute for true hyssop if you don't have the real thing. Coral-orange flowers, pollinator magnet |
-| **Anise Hyssop divisions** | as available | 12–18" apart | Existing established plant on property | Free divisions! Same family, similar function |
-| **St. John's Wort** | 1–2 | 18" apart | Nursery (if got) | Yellow flowers, midsummer harvest, light/protection herb |
+| **Anise Hyssop divisions** | as available | 12–18" apart | Existing established plant on property | Free divisions! Same family, similar function. (Mango Tango is already in Edgeworth from May 1) |
+| **Wormwood** ⭐ | 1–2 | 18" apart | Buy at herb nursery | *Artemisia absinthium* — Germanic+EE+Norse protection herb, silver foliage, top ancestral priority |
+| **Foxglove Beardtongue** ⭐ | 3–5 | 12" apart | **Divide from wild on property** | *Penstemon digitalis* — NATIVE white-spike penstemon, free divisions |
+| **Common Foxglove** ⭐ | 1–2 | 18" apart | **Lift from naturalized patches on property** | *Digitalis purpurea* — ⚠️ ALL PARTS TOXIC, never harvest as edible — classic medicinal/witchy plant, beautiful spikes |
+| **St. John's Wort** | 1–2 | 18" apart | Nursery (if got) | Yellow flowers, midsummer harvest, light/protection herb. **Check property — may grow wild** |
 | **Horehound** | 1 | spacious | Nursery (if got) | Hairy gray-green, cough remedy, ancient |
 | **Astragalus** | 1–2 | 18" apart | Mail-order specialty (probably don't have) | Slow-build adaptogen — year 3+ root harvest |
 
-**Quick rule for middle ring:** if you have Mango Tango Hyssop AND Anise Hyssop divisions, use 3 of the Mango Tango here as the hyssop substitute, and put any anise hyssop divisions in the gaps. Save 2 Yarrow seed packets for sowing later when soil dries.
+### Middle-Outer Ring (south edge) — French Provençal Heritage Accent
+
+| Plant | Qty | Spacing | Source | Notes |
+|---|---|---|---|---|
+| **Lavender** | 1–2 | 18" | Divide from Spiral OR buy | Provençal heritage accent (your 69.8% French+German). South edge for max sun + drainage |
+| **Rosemary** | 1 | — | Divide from Spiral OR buy | Same — Provençal integration. South edge with Lavender. |
+
+### Contained Pot (north arc) — Ancestral Mugwort ⭐
+
+| Plant | Qty | Source | Notes |
+|---|---|---|---|
+| **Mugwort** ⭐ | 1 in buried 12–18" pot | Buy at herb nursery | *Artemisia vulgaris* — all 4 of your ancestral traditions. MUST be contained. Buried pot with rim above soil line. Position: north arc of the C-shape (witch/moon traditional spot). |
+
+**Quick rule for middle ring:** Marshmallow + Anise Hyssop divisions go in TODAY (live plants). Wormwood + Mugwort + Lavender/Rosemary come from the nursery / divisions. Foxglove + Penstemon + Evening Primrose come from wild lift-and-divide on your own property. Save Yarrow seed for sowing later when soil dries.
 
 ### Outer Ring (6–18") — DEFER MOST OF THIS
 
