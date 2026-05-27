@@ -10,10 +10,11 @@
 
 - **Where:** The long, narrow strip running parallel to Greenshadow Ct, on the **high (road-side) shoulder** above the drainage swale. West edge of the property.
 - **Shape:** Linear ribbon — a "walk," not a bed. Plant a single staggered row (or tight double row if width allows).
-- **Exposure:** **Full sun** ✅
-- **Soil:** NC Piedmont clay, slightly acidic. Plant **up on the high side, out of the swale low point** — peonies rot in wet feet. Berm/amend with compost + grit for drainage where needed.
+- **Exposure:** **Morning shade, then brutal afternoon heat-blast** (west-facing, same oven microclimate as the front-yard beds). Plants need afternoon-heat tolerance; morning shade is a relief bonus.
+- **Irrigation:** Sprinkler runs **twice daily, every day** → the slope stays *consistently moist*. This drives the slope plant choices (moisture-lovers in, dry-lovers out) AND creates a hazard for the peonies — see the ⚠️ irrigation-zoning warning below.
+- **Soil:** NC Piedmont clay, slightly acidic. Plant peonies **up on the high side, out of the swale low point and out of the daily spray** — peonies rot in wet feet. Berm/amend with compost + grit for drainage where needed.
 - **Zone:** 7b
-- **The swale:** Curving drainage line along the strip's length — carries road runoff. Keep peonies and perennials up out of it; reserve the damper low edge for moisture-tolerant bulbs (camassia).
+- **The swale / slope:** Curving slope draining into a **paved ditch**, watered daily → consistently moist. Planted as a moisture-loving lower tier (see "Swale Slope" section) — NOT left as bare mulch, which would wash into the ditch.
 - **The tree (bottom/south end):** Throws shade — stop the peony drifts at its dripline or keep only the sunniest gaps planted there.
 - **Dimensions:** **TBD** — measure plantable length (tree → top run) and width (one row vs. two).
 
@@ -88,6 +89,47 @@ Each drift transitions into its neighbor, so the eye flows along the ribbon inst
 |---|---|---|---|---|
 | **Catmint** ⭐ | *Nepeta* 'Walker's Low' | 5–7 | Buy | *The* peony companion. Soft-blue ribbon, blooms with peonies and keeps going for months, hides peony "bare ankles." Drought-tough, deer-resistant. |
 | **Creeping thyme / low sedum** | *Thymus* / *Sedum* | as needed | Buy / divide | Tidy curb finish. |
+
+---
+
+## ⚠️ Irrigation Zoning — Protect the Peonies
+
+The slope is watered **twice daily**, which is great for the moisture-loving slope plants but **near-fatal for peonies**, which want moderate, well-drained conditions. Constant overhead water on peony crowns causes **crown rot** and **botrytis (gray mold / leaf blight)** — the two biggest peony killers.
+
+**Rule:** the peony backbone must sit **above and outside the daily spray**, on the dry high side. Peonies should be watered by *nature*, not the sprinkler.
+- Zone or aim the irrigation so it covers the **slope/swale only**, not the peony row.
+- If overspray can't be avoided, move the peony drifts further uphill / further from the heads, and water the peonies separately/deeply only during establishment + droughts.
+- Avoid wetting peony foliage in general (fungal risk) — drip/soaker beats overhead for that zone.
+
+---
+
+## Swale Slope (Lower Tier — moisture-loving, NOT bare mulch)
+
+> The slope draining into the paved ditch. **Don't mulch-only** — mulch washes into the ditch with every rain. Plant it: roots hold the slope, and it becomes a pretty rain-garden tier. Conditions: morning shade + afternoon heat-blast + **consistently moist** (daily irrigation).
+
+**Ruled out by the daily moisture:**
+- ❌ **Creeping juniper** — hates wet feet/wet foliage; root rot + twig blight under daily watering.
+- ❌ **Little bluestem** — wants well-drained/dry; rots/flops in constant moisture.
+
+**The slope palette (all love steady moisture + take afternoon sun):**
+
+| Plant | Latin | Role | Notes |
+|---|---|---|---|
+| **Sedges** | *Carex* (e.g. *C. stricta*) | Erosion control ⭐ | Moisture-loving, excellent slope-holder, morning shade suits them. The workhorse here. |
+| **Switchgrass** | *Panicum virgatum* | Erosion + structure | Deep roots, tolerates moist soil, winter plumes. |
+| **Blue Flag Iris** | *Iris versicolor* | Wet toe | Loves the wettest bottom of the slope. |
+| **Swamp Milkweed** | *Asclepias incarnata* | Color + monarchs | Thrives on moisture, full afternoon sun. |
+| **Cardinal Flower** ⭐ | *Lobelia cardinalis* | Wet toe, red spikes | *Now a star* — loves constant moisture + the morning shade. |
+| **Great Blue Lobelia** | *Lobelia siphilitica* | Wet toe, blue spikes | Pairs with cardinal flower. |
+| **Joe Pye Weed / Ironweed** | *Eutrochium / Vernonia* | Tall back-of-slope | Happy moist + sunny; Joe Pye already grown in Fernwood. |
+| **Black-eyed Susan** | *Rudbeckia* | Mid-slope color | Extends bloom, tough. |
+| **New England Aster** | *Symphyotrichum novae-angliae* | Fall color | Late-season finale. |
+| **Camassia** (bulbs) | *Camassia* | Spring, wet edge | Fall-planted; loves the damp toe. |
+| **Bee balm** (optional) | *Monarda* | Color + pollinators | ⚠️ Pick a **mildew-resistant** variety — daily overhead water invites powdery mildew. |
+
+**Slope formula:** **sedge + switchgrass** for erosion control, threaded with **cardinal flower + blue flag iris + swamp milkweed** at the wet toe and **black-eyed susan + aster** higher up. Keep a clean mowed or steel-edge strip between the road and the slope so it reads intentional, not weedy.
+
+> **Right-of-way check:** confirm the paved ditch/slope is genuinely yours to plant — drainage channels are sometimes a county maintenance easement.
 
 ---
 
