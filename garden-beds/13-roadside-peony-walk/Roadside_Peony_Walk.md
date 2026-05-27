@@ -167,12 +167,25 @@ All **deer/vole-resistant and naturalizing** — essential for an unprotected ro
 
 A clustered "destination" that interrupts the peony drifts and gives back to dog-walkers.
 
+### Chosen fixtures (Dog Waste Depot)
+
+| Item | SKU | Price | What's included |
+|---|---|---|---|
+| **Dog Park Station & Bench Bundle** | DEPOT-831 | $599.99 (free ship) | Powder-coated steel bench **+ full waste station**: bag dispenser + trash/liner receptacle + "clean up after your dog" sign + case of 25 can liners + 2 boxes of 200 waste bags |
+| **Dog Park Fire Hydrant** | FH-999 | $219.00 (free ship) | Decorative red hydrant |
+| | | **~$818.99 total** | |
+
+> The bundle covers the **bag dispenser AND a trash can** in one — so no separate dispenser post needed.
+
+### Placement & install notes
+
 - **Placement:** A **level, sunny stretch on the high side**, away from the shade tree and out of the swale. Set back a little from traffic — avoid any blind-curve spot. (Eyeball in person.)
-- **Bench:** On a **gravel or flagstone pad** (no muddy clay, no mowing under it). Weatherproof material — powder-coated metal or recycled poly. Face toward the peonies or the street, whichever view's better.
+- **Mounting:** ⚠️ These are commercial steel fixtures — built to **bolt to a concrete pad or set in in-ground footings**, NOT just sit on gravel. Check each product's mounting spec, then pour a small **concrete pad** (or set footers) for the bench; hydrant likely surface-mounts to a pad or in-ground sleeve.
+- **Bench:** Face toward the peonies or the street, whichever view's better.
 - **Dog fire hydrant:** At the **curb edge, a few feet from the bench.**
   - ⚠️ **Dog urine kills plants** — surround the hydrant with **gravel or tough turf**, NOT peonies/perennials. Keep the prized drifts well back.
-- **Poop-bag dispenser:** Mounted on a **post by the bench** (or the hydrant post). **Plan to refill it** — an empty dispenser looks neglected.
 - **Backing:** A flowering shrub or grass clump behind the bench makes the node feel tucked-in and intentional.
+- **⚠️ Ongoing commitment:** the trash can means *you* empty it on a routine — set a recurring schedule or it overflows and draws critters. Likewise keep the bag dispenser stocked (you have 400 bags to start).
 
 ---
 
@@ -183,14 +196,17 @@ A clustered "destination" that interrupts the peony drifts and gives back to dog
 - [ ] Order **bare-root peonies** (early — good varieties sell out by late summer)
 - [ ] Order fall bulbs (daffodils, muscari, crocus, alliums, camassia)
 - [ ] Lay out the full-spectrum gradient (white → cream → yellow → peach → coral → blush → pink → rose → red → burgundy) + rest-node location with flags/hose; label each drift by variety/bloom-time before digging
+- [ ] Plant the **swale slope** lower tier (sedge/switchgrass + iris/cardinal flower/milkweed)
+- [ ] **Zone/aim irrigation** so daily spray hits the slope, NOT the peony row
 - [ ] **Drainage prep:** amend high side with compost + grit; berm if needed
-- [ ] Build gravel/flagstone pad for bench
+- [ ] Order fixtures: Bench/Station bundle (DEPOT-831) + Fire Hydrant (FH-999)
+- [ ] Check fixture mounting specs → **pour concrete pad / set footers** for bench + hydrant
 - [ ] **Plant peonies eyes ~1" deep**, 3–4 ft apart (the #1 thing to get right)
 - [ ] Interplant bulbs, catmint front ribbon, structure/mid-layer perennials
 - [ ] Divide existing Autumn Joy sedum from porch/maple bed → free plants
-- [ ] Install bench, dog hydrant (on gravel), bag dispenser
+- [ ] Install bench + waste station + dog hydrant (mounted, hydrant on gravel)
 - [ ] Mulch (keep mulch pulled back off peony crowns)
-- [ ] Set a recurring reminder to **refill the bag dispenser**
+- [ ] Set a recurring routine to **empty the trash can + restock bags**
 
 ---
 
@@ -199,4 +215,4 @@ A clustered "destination" that interrupts the peony drifts and gives back to dog
 - Bare-root peonies: ~$15–40 each (Itohs higher)
 - Companions/perennials: many from seed or existing divisions ($0 sedum)
 - Bulbs: bulk daffodils/muscari are cheap; alliums/camassia pricier
-- Bench + dog hydrant + bag dispenser + gravel pad: one-time hardscape cost
+- **Hardscape (one-time):** Bench/Station bundle $599.99 + Fire Hydrant $219.00 = **~$818.99** (free shipping) + concrete pad/footers materials
