@@ -27,9 +27,17 @@ Layout reads: **peony drifts → rest node → more peony drifts.**
 
 ---
 
-## Color Strategy: Drifts (not a rainbow mix)
+## Color Strategy: Full-Spectrum Gradient Drifts
 
-Plant peonies in **blocks of 3–5 of one color**, then shift down the length — e.g. **white → blush → pink → white** — repeating. Gives variety *and* cohesion; far more deliberate than a spotty single-of-each mix when viewed from the road.
+**Goal: as many colors as possible, arranged beautifully.** The way to do maximum diversity *without* looking spotty/chaotic from the road is a **flowing color gradient** — plant in **drifts (blocks of 3–5 of one color)** that melt from one hue into the next down the length of the strip, like a watercolor wash:
+
+> **white → cream → yellow → peach/apricot → coral → blush → pink → rose → red → burgundy** → (loop back)
+
+Each drift transitions into its neighbor, so the eye flows along the ribbon instead of bouncing between random dots. Every color is present; the arrangement makes it read as designed.
+
+**Bonus diversity — stagger bloom times too.** Mix **early, mid, and late** season varieties so the peony display itself lasts **4–6 weeks** instead of 2. Note bloom timing when ordering and you get a longer, ever-changing show.
+
+**Bonus drama — color-changing varieties.** A few peonies *shift color as they open* (coral→peach→cream, or red→pink→yellow). Sprinkling these in means the gradient is literally never the same two days running.
 
 ---
 
@@ -39,12 +47,22 @@ Plant peonies in **blocks of 3–5 of one color**, then shift down the length �
 
 | Plant | Latin | Qty (per 30 ft) | Source | Notes |
 |---|---|---|---|---|
-| **Garden Peony** (color drifts) | *Paeonia lactiflora* + Itoh hybrids | ~10 (3 ft spacing) | Bare-root, fall mail-order | **Plant eyes only ~1" deep** in 7b — deeper = leaves but no blooms. 3–4 ft apart. Choose **early-to-mid season + Itoh (intersectional)** types for heat tolerance and self-supporting stems. May skip bloom year 1–2, then decades of flowers. |
+| **Garden Peony** (full-spectrum drifts) | *Paeonia lactiflora* + Itoh hybrids | ~10 (3 ft spacing) | Bare-root, fall mail-order from a specialty peony nursery | **Plant eyes only ~1" deep** in 7b — deeper = leaves but no blooms. 3–4 ft apart. Favor **Itoh (intersectional)** types where possible — they bring the rare yellows/oranges, take 7b heat best, and **support themselves** (no flopping). Mix early/mid/late bloomers. May skip bloom year 1–2, then decades of flowers. |
 
-*Variety shortlist (7b heat-tolerant, self-supporting where noted):*
-- **White:** 'Festiva Maxima', 'Bowl of Cream', Itoh 'Cora Louise' (self-supporting)
-- **Blush:** 'Sarah Bernhardt' (classic), 'Pink Hawaiian Coral'
-- **Pink/deeper:** 'Karl Rosenfield' (red), Itoh 'Bartzella' (yellow, if expanding palette)
+*Full-spectrum variety palette (arrange as a gradient; ⟳ = color-changing, ◆ = Itoh/self-supporting, E/M/L = bloom season):*
+
+| Color band | Varieties |
+|---|---|
+| **White** | 'Festiva Maxima' (M), 'Duchesse de Nemours' (E), 'Bowl of Cream' (M), ◆'Cora Louise' (white/lavender eye) |
+| **Cream / ivory** | 'Bowl of Cream' (M), ◆'Cora Louise' (M) |
+| **Yellow** | ◆'Bartzella' (M-L, lemon), ◆'Garden Treasure' (M-L), ◆'Sequestered Sunshine' |
+| **Peach / apricot** | ⟳◆'Julia Rose' (red→peach→yellow), 'Pastelegance' (E) |
+| **Coral** | ⟳'Coral Charm' (E, coral→peach→cream), ⟳'Coral Sunset' (E) |
+| **Blush** | 'Sarah Bernhardt' (L), 'Shirley Temple' (M, white-pink) |
+| **Pink** | 'Mons. Jules Elie' (M, rose-pink), 'Dr. Alexander Fleming' (M) |
+| **Rose / magenta** | 'Alexander Fleming' (M), ◆'First Arrival' (lavender-pink, E) |
+| **Red** | 'Karl Rosenfield' (M), 'Red Charm' (E), 'Felix Crousse' (L) |
+| **Burgundy / dark** | 'Buckeye Belle' (E, dark semi-double), 'Henry Bockstoce' (deep red) |
 
 ### 2. Structure punctuation
 
@@ -122,7 +140,7 @@ A clustered "destination" that interrupts the peony drifts and gives back to dog
 - [ ] Multiply per-30-ft quantities → final plant/bulb order
 - [ ] Order **bare-root peonies** (early — good varieties sell out by late summer)
 - [ ] Order fall bulbs (daffodils, muscari, crocus, alliums, camassia)
-- [ ] Mark out drift blocks (white → blush → pink) + rest-node location with flags/hose
+- [ ] Lay out the full-spectrum gradient (white → cream → yellow → peach → coral → blush → pink → rose → red → burgundy) + rest-node location with flags/hose; label each drift by variety/bloom-time before digging
 - [ ] **Drainage prep:** amend high side with compost + grit; berm if needed
 - [ ] Build gravel/flagstone pad for bench
 - [ ] **Plant peonies eyes ~1" deep**, 3–4 ft apart (the #1 thing to get right)
