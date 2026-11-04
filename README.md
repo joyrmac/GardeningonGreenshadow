@@ -27,6 +27,11 @@
 - 🪶 [NC Native Recommendations](reference/NC_Native_Recommendations.md) — Pollinator plants for this region
 - 📖 [Previous Owner Notes](reference/Previous_Owner_Notes.md) — Frost dates, what's already growing, what works
 
+**Moved in from the Personal repo (2026-11-04):**
+- 🐦 [Bird Food Inventory](inventory/Bird_Food_Inventory.md) + 🛒 [Tractor Supply List](inventory/shopping-lists/Tractor_Supply_Shopping_List.md) — feeder and bath station
+- 📹 [Yard Camera System](planning/Yard_Camera_System.md) — Reolink wildlife + light security plan
+- 🗓️ [Garden Calendar Aligned with Holidays](guides/Garden_Calendar_Aligned_with_Holidays.md) — planting and harvest mapped to the wheel of the year
+
 **Inventory & Planning Grids:**
 - 📊 [Master Seed and Plant List](inventory/Master_Seed_and_Plant_List.md) — All 228 seeds and plants with sources
 - ✅ [Inventory Audit March 2026](inventory/audits/Inventory_Audit_March_2026.md) — What's assigned, what's unassigned, next steps
